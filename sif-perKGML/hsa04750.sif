@@ -1,0 +1,280 @@
+BDKRB1, B1BKR, B1R, BDKRB2, BKB1R, BKR1, BRADYB1	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+BDKRB1	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+C00780	pc	HTR2A, 5-HT2A, HTR2	c-g	hsa04750	activation
+C00780	pc	HTR2B	c-g	hsa04750	activation
+C00780	pc	HTR2C	c-g	hsa04750	activation
+HTR2A, 5-HT2A, HTR2	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+HTR2B	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+HTR2C	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+C00388	pc	HRH1, H1-R, H1R, HH1R, hisH1	c-g	hsa04750	activation
+HRH1, H1-R, H1R, HH1R, hisH1	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+C00002	pc	P2RY2, HP2U, P2RU1, P2U, P2U1, P2UR, P2Y2, P2Y2R	c-g	hsa04750	activation
+P2RY2, HP2U, P2RU1, P2U, P2U1, P2UR, P2Y2, P2Y2R	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4E	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4F	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4D	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4A	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G6	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLA2G4C	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	JMJD7-PLA2G4B	g-g	hsa04750	activation
+PLA2G4B, HsT16992, cPLA2-beta	pc	C00219	g-c	hsa04750	activation
+PLA2G4B, HsT16992, cPLA2-beta	pc	C12083	g-c	hsa04750	activation
+PLA2G4E	pc	C00219	g-c	hsa04750	activation
+PLA2G4F	pc	C00219	g-c	hsa04750	activation
+PLA2G4D	pc	C00219	g-c	hsa04750	activation
+PLA2G4A	pc	C00219	g-c	hsa04750	activation
+PLA2G6	pc	C00219	g-c	hsa04750	activation
+PLA2G4C	pc	C00219	g-c	hsa04750	activation
+JMJD7-PLA2G4B	pc	C00219	g-c	hsa04750	activation
+PLA2G4E	pc	C12083	g-c	hsa04750	activation
+PLA2G4F	pc	C12083	g-c	hsa04750	activation
+PLA2G4D	pc	C12083	g-c	hsa04750	activation
+PLA2G4A	pc	C12083	g-c	hsa04750	activation
+PLA2G6	pc	C12083	g-c	hsa04750	activation
+PLA2G4C	pc	C12083	g-c	hsa04750	activation
+JMJD7-PLA2G4B	pc	C12083	g-c	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa04750	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04750	activation
+PLCB2	pc	C01245	g-c	hsa04750	activation
+PLCB3	pc	C01245	g-c	hsa04750	activation
+PLCB4	pc	C01245	g-c	hsa04750	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04750	activation
+C01245	pc	ITPR2	c-g	hsa04750	activation
+C01245	pc	ITPR3	c-g	hsa04750	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04750	activation
+PLCB2	pc	C00165	g-c	hsa04750	activation
+PLCB3	pc	C00165	g-c	hsa04750	activation
+PLCB4	pc	C00165	g-c	hsa04750	activation
+C00165	pc	PRKCE, PKCE, nPKC-epsilon	c-g	hsa04750	activation
+C00076	pc	PRKCE, PKCE, nPKC-epsilon	c-g	hsa04750	activation
+C01330	pc	PRKCE, PKCE, nPKC-epsilon	c-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	g-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	PPP1CB	g-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	PPP1CC	g-g	hsa04750	activation
+C05965	pc	TRPV1, VR1	c-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	TRPV1, VR1	g-g	hsa04750	activation
+C00076	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C01330	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	TRPA1, ANKTM1, FEPS, FEPS1	g-g	hsa04750	activation
+PRKACA, PKACA, PPNAD4	pp	TRPV1, VR1	g-g	hsa04750	activation
+PRKACB	pp	TRPV1, VR1	g-g	hsa04750	activation
+PRKACG	pp	TRPV1, VR1	g-g	hsa04750	activation
+CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	pp	TRPV1, VR1	g-g	hsa04750	activation
+CAMK2B	pp	TRPV1, VR1	g-g	hsa04750	activation
+CAMK2D	pp	TRPV1, VR1	g-g	hsa04750	activation
+CAMK2G	pp	TRPV1, VR1	g-g	hsa04750	activation
+PRKCE, PKCE, nPKC-epsilon	pp	TRPV1, VR1	g-g	hsa04750	activation
+PLA2G4B, HsT16992, cPLA2-beta	pc	C00219	g-c	hsa04750	activation
+PLA2G4B, HsT16992, cPLA2-beta	pc	C12083	g-c	hsa04750	activation
+PLA2G4E	pc	C00219	g-c	hsa04750	activation
+PLA2G4F	pc	C00219	g-c	hsa04750	activation
+PLA2G4D	pc	C00219	g-c	hsa04750	activation
+PLA2G4A	pc	C00219	g-c	hsa04750	activation
+PLA2G6	pc	C00219	g-c	hsa04750	activation
+PLA2G4C	pc	C00219	g-c	hsa04750	activation
+JMJD7-PLA2G4B	pc	C00219	g-c	hsa04750	activation
+PLA2G4E	pc	C12083	g-c	hsa04750	activation
+PLA2G4F	pc	C12083	g-c	hsa04750	activation
+PLA2G4D	pc	C12083	g-c	hsa04750	activation
+PLA2G4A	pc	C12083	g-c	hsa04750	activation
+PLA2G6	pc	C12083	g-c	hsa04750	activation
+PLA2G4C	pc	C12083	g-c	hsa04750	activation
+JMJD7-PLA2G4B	pc	C12083	g-c	hsa04750	activation
+PLA2G4B, HsT16992, cPLA2-beta	pc	C06254	g-c	hsa04750	activation
+PLA2G4E	pc	C06254	g-c	hsa04750	activation
+PLA2G4F	pc	C06254	g-c	hsa04750	activation
+PLA2G4D	pc	C06254	g-c	hsa04750	activation
+PLA2G4A	pc	C06254	g-c	hsa04750	activation
+PLA2G6	pc	C06254	g-c	hsa04750	activation
+PLA2G4C	pc	C06254	g-c	hsa04750	activation
+JMJD7-PLA2G4B	pc	C06254	g-c	hsa04750	activation
+C06254	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	activation
+C00584	pc	PTGER2, EP2	c-g	hsa04750	activation
+C00584	pc	PTGER4	c-g	hsa04750	activation
+PTGER2, EP2	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04750	activation
+PTGER4	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04750	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa04750	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa04750	activation
+ADCY2	pc	C00575	g-c	hsa04750	activation
+ADCY3	pc	C00575	g-c	hsa04750	activation
+ADCY5	pc	C00575	g-c	hsa04750	activation
+ADCY6	pc	C00575	g-c	hsa04750	activation
+ADCY7	pc	C00575	g-c	hsa04750	activation
+ADCY8	pc	C00575	g-c	hsa04750	activation
+ADCY9	pc	C00575	g-c	hsa04750	activation
+ADCY4	pc	C00575	g-c	hsa04750	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04750	activation
+C00575	pc	PRKACB	c-g	hsa04750	activation
+C00575	pc	PRKACG	c-g	hsa04750	activation
+F2RL1, GPR11, PAR2	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa04750	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa04750	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04750	activation
+PLCB2	pc	C00165	g-c	hsa04750	activation
+PLCB3	pc	C00165	g-c	hsa04750	activation
+PLCB4	pc	C00165	g-c	hsa04750	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04750	activation
+PLCB2	pc	C01245	g-c	hsa04750	activation
+PLCB3	pc	C01245	g-c	hsa04750	activation
+PLCB4	pc	C01245	g-c	hsa04750	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	c-g	hsa04750	activation
+C00165	pc	PRKACB	c-g	hsa04750	activation
+C00165	pc	PRKACG	c-g	hsa04750	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+PRKACB	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+PRKACG	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+CALML6, CAGLP	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALML6, CAGLP	pp	CAMK2B	g-g	hsa04750	activation
+CALML6, CAGLP	pp	CAMK2D	g-g	hsa04750	activation
+CALML6, CAGLP	pp	CAMK2G	g-g	hsa04750	activation
+CALML5	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALM1	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALM2	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALM3	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALML3	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALML4	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04750	activation
+CALML5	pp	CAMK2B	g-g	hsa04750	activation
+CALML5	pp	CAMK2D	g-g	hsa04750	activation
+CALML5	pp	CAMK2G	g-g	hsa04750	activation
+CALM1	pp	CAMK2B	g-g	hsa04750	activation
+CALM1	pp	CAMK2D	g-g	hsa04750	activation
+CALM1	pp	CAMK2G	g-g	hsa04750	activation
+CALM2	pp	CAMK2B	g-g	hsa04750	activation
+CALM2	pp	CAMK2D	g-g	hsa04750	activation
+CALM2	pp	CAMK2G	g-g	hsa04750	activation
+CALM3	pp	CAMK2B	g-g	hsa04750	activation
+CALM3	pp	CAMK2D	g-g	hsa04750	activation
+CALM3	pp	CAMK2G	g-g	hsa04750	activation
+CALML3	pp	CAMK2B	g-g	hsa04750	activation
+CALML3	pp	CAMK2D	g-g	hsa04750	activation
+CALML3	pp	CAMK2G	g-g	hsa04750	activation
+CALML4	pp	CAMK2B	g-g	hsa04750	activation
+CALML4	pp	CAMK2D	g-g	hsa04750	activation
+CALML4	pp	CAMK2G	g-g	hsa04750	activation
+IL1B, IL-1, IL1-BETA, IL1F2	pp	IL1R1, CD121A, D2S1473, IL-1R-alpha, IL1R, IL1RA, P80	g-g	hsa04750	activation
+IL1B, IL-1, IL1-BETA, IL1F2	pp	IL1RAP	g-g	hsa04750	activation
+IL1R1, CD121A, D2S1473, IL-1R-alpha, IL1R, IL1RA, P80	pp	MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	g-g	hsa04750	activation
+IL1R1, CD121A, D2S1473, IL-1R-alpha, IL1R, IL1RA, P80	pp	MAP2K6	g-g	hsa04750	activation
+IL1RAP	pp	MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	g-g	hsa04750	activation
+IL1RAP	pp	MAP2K6	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK8	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK11	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK9	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK10	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK13	g-g	hsa04750	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK12	g-g	hsa04750	activation
+MAP2K6	pp	MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	g-g	hsa04750	activation
+MAP2K6	pp	MAPK8	g-g	hsa04750	activation
+MAP2K6	pp	MAPK11	g-g	hsa04750	activation
+MAP2K6	pp	MAPK9	g-g	hsa04750	activation
+MAP2K6	pp	MAPK10	g-g	hsa04750	activation
+MAP2K6	pp	MAPK13	g-g	hsa04750	activation
+MAP2K6	pp	MAPK12	g-g	hsa04750	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK8	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK11	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK9	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK10	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK13	pp	TRPV1, VR1	g-g	hsa04750	activation
+MAPK12	pp	TRPV1, VR1	g-g	hsa04750	activation
+NGF, Beta-NGF, HSAN5, NGFB	pp	NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PLCG2	g-g	hsa04750	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C00165	g-c	hsa04750	activation
+PLCG2	pc	C00165	g-c	hsa04750	activation
+C00165	pc	PRKCE, PKCE, nPKC-epsilon	c-g	hsa04750	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C01245	g-c	hsa04750	activation
+PLCG2	pc	C01245	g-c	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3CA, CLAPO, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3CB	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3CD	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3R1	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3R2	g-g	hsa04750	activation
+NTRK1, MTC, TRK, TRK1, TRKA, Trk-A, p140-TrkA	pp	PIK3R3	g-g	hsa04750	activation
+PIK3CA, CLAPO, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PIK3CB	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PIK3CD	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PIK3R1	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PIK3R2	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PIK3R3	pp	PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	g-g	hsa04750	activation
+PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04750	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	TRPV1, VR1	g-g	hsa04750	activation
+TRPV1, VR1	pp	TRPV1, VR1	g-g	hsa04750	activation
+PRKACA, PKACA, PPNAD4	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+PRKACB	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+PRKACG	pp	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	g-g	hsa04750	activation
+C00219	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	inhibition
+C12083	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	inhibition
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+PPP1CB	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+PPP1CC	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+PRKACA, PKACA, PPNAD4	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+PRKACB	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+PRKACG	pp	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	g-g	hsa04750	inhibition
+C14768	pc	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	c-g	hsa04750	activation
+C14769	pc	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	c-g	hsa04750	activation
+C06866	pc	TRPV1, VR1	c-g	hsa04750	activation
+C05965	pc	TRPV1, VR1	c-g	hsa04750	activation
+C09179	pc	TRPV1, VR1	c-g	hsa04750	activation
+C12271	pc	TRPV1, VR1	c-g	hsa04750	activation
+C11695	pc	TRPV1, VR1	c-g	hsa04750	activation
+C00469	pc	TRPV1, VR1	c-g	hsa04750	activation
+IGF1, IGF, IGF-I, IGFI, MGF	pp	TRPV2, VRL, VRL-1, VRL1	g-g	hsa04750	activation
+C00808	pc	TRPV3, FNEPPK2, OLMS, VRL3	c-g	hsa04750	activation
+C00809	pc	TRPV3, FNEPPK2, OLMS, VRL3	c-g	hsa04750	activation
+C20698	pc	TRPV3, FNEPPK2, OLMS, VRL3	c-g	hsa04750	activation
+C09155	pc	TRPV4, BCYM3, CMT2C, HMSN2C, OTRPC4, SMAL, SPSMA, SSQTL1, TRP12, VRL2, VROAC	c-g	hsa04750	activation
+C00400	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	activation
+C20171	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	activation
+C09844	pc	TRPM8, LTRPC6, LTrpC-6, TRPP8, trp-p8	c-g	hsa04750	activation
+C00903	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C19317	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C07600	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C20171	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C00076	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C01330	pc	TRPA1, ANKTM1, FEPS, FEPS1	c-g	hsa04750	activation
+C00076	pc	TRPV1, VR1	c-g	hsa04750	activation
+C01330	pc	TRPV1, VR1	c-g	hsa04750	activation
+C00080	pc	TRPV1, VR1	c-g	hsa04750	activation
+C00080	pc	ASIC2, ACCN, ACCN1, ASIC2a, BNC1, BNaC1, MDEG, hBNaC1	c-g	hsa04750	activation
+C00080	pc	ASIC1	c-g	hsa04750	activation
+C00080	pc	ASIC5	c-g	hsa04750	activation
+C00080	pc	ASIC4	c-g	hsa04750	activation
+C00080	pc	ASIC3	c-g	hsa04750	activation
+C00076	pc	CALML6, CAGLP	c-g	hsa04750	activation
+C00076	pc	CALML5	c-g	hsa04750	activation
+C00076	pc	CALM1	c-g	hsa04750	activation
+C00076	pc	CALM2	c-g	hsa04750	activation
+C00076	pc	CALM3	c-g	hsa04750	activation
+C00076	pc	CALML3	c-g	hsa04750	activation
+C00076	pc	CALML4	c-g	hsa04750	activation
+C01330	pc	CALML6, CAGLP	c-g	hsa04750	activation
+C01330	pc	CALML5	c-g	hsa04750	activation
+C01330	pc	CALM1	c-g	hsa04750	activation
+C01330	pc	CALM2	c-g	hsa04750	activation
+C01330	pc	CALM3	c-g	hsa04750	activation
+C01330	pc	CALML3	c-g	hsa04750	activation
+C01330	pc	CALML4	c-g	hsa04750	activation
+KNG1, BDK, BK, HMWK, KNG	pp	BDKRB1, B1BKR, B1R, BDKRB2, BKB1R, BKR1, BRADYB1	g-g	hsa04750	activation
+KNG1, BDK, BK, HMWK, KNG	pp	BDKRB1	g-g	hsa04750	activation
+ALOX12, 12-LOX, 12S-LOX, LOG12				hsa04750	
+CYP2J2, CPJ2, CYPIIJ2				hsa04750	
+CYP4A11				hsa04750	
+CYP4A22				hsa04750	
+C01330				hsa04750	
+C00076				hsa04750	

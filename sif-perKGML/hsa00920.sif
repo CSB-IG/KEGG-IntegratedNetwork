@@ -1,0 +1,83 @@
+PAPSS2, ATPSK2, BCYM4, SK2	ec	SUOX	g-g	hsa00920	compound
+PAPSS1	ec	SUOX	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	PAPSS2, ATPSK2, BCYM4, SK2	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	PAPSS1	g-g	hsa00920	compound
+PAPSS1	ec	PAPSS2, ATPSK2, BCYM4, SK2	g-g	hsa00920	compound
+PAPSS1	ec	PAPSS1	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	BPNT1, HEL20, PIP	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	IMPAD1	g-g	hsa00920	compound
+PAPSS1	ec	BPNT1, HEL20, PIP	g-g	hsa00920	compound
+PAPSS1	ec	IMPAD1	g-g	hsa00920	compound
+MPST, MST, TST2, TUM1	ec	SUOX	g-g	hsa00920	compound
+TST	ec	SUOX	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	PAPSS2, ATPSK2, BCYM4, SK2	g-g	hsa00920	compound
+PAPSS2, ATPSK2, BCYM4, SK2	ec	PAPSS1	g-g	hsa00920	compound
+PAPSS1	ec	PAPSS2, ATPSK2, BCYM4, SK2	g-g	hsa00920	compound
+PAPSS1	ec	PAPSS1	g-g	hsa00920	compound
+SQOR, CGI-44, PRO1975, SQR, SQRDL	ec	ETHE1, HSCO, YF13H12	g-g	hsa00920	compound
+ETHE1, HSCO, YF13H12	ec	MPST, MST, TST2, TUM1	g-g	hsa00920	compound
+ETHE1, HSCO, YF13H12	ec	TST	g-g	hsa00920	compound
+ETHE1, HSCO, YF13H12	ec	SUOX	g-g	hsa00920	compound
+C00094	rt	SUOX	irreversible	hsa00920	se
+SUOX	rt	C00059	irreversible	hsa00920	ep
+C00059	rt	PAPSS2, ATPSK2, BCYM4, SK2	reversible	hsa00920	se
+C00059	rt	PAPSS1	reversible	hsa00920	se
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C00059	reversible	hsa00920	ep
+PAPSS1	rt	C00059	reversible	hsa00920	ep
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C00224	reversible	hsa00920	ep
+PAPSS1	rt	C00224	reversible	hsa00920	ep
+C00224	rt	PAPSS2, ATPSK2, BCYM4, SK2	reversible	hsa00920	se
+C00224	rt	PAPSS1	reversible	hsa00920	se
+C00224	rt	PAPSS2, ATPSK2, BCYM4, SK2	irreversible	hsa00920	se
+C00224	rt	PAPSS1	irreversible	hsa00920	se
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C00053	irreversible	hsa00920	ep
+PAPSS1	rt	C00053	irreversible	hsa00920	ep
+C00053	rt	BPNT1, HEL20, PIP	irreversible	hsa00920	se
+C00053	rt	IMPAD1	irreversible	hsa00920	se
+BPNT1, HEL20, PIP	rt	C00224	irreversible	hsa00920	ep
+IMPAD1	rt	C00224	irreversible	hsa00920	ep
+C00320	rt	MPST, MST, TST2, TUM1	irreversible	hsa00920	se
+C00320	rt	TST	irreversible	hsa00920	se
+MPST, MST, TST2, TUM1	rt	C00094	irreversible	hsa00920	ep
+TST	rt	C00094	irreversible	hsa00920	ep
+C00059	rt	PAPSS2, ATPSK2, BCYM4, SK2	irreversible	hsa00920	se
+C00059	rt	PAPSS1	irreversible	hsa00920	se
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C00224	irreversible	hsa00920	ep
+PAPSS1	rt	C00224	irreversible	hsa00920	ep
+C00224	rt	PAPSS2, ATPSK2, BCYM4, SK2	irreversible	hsa00920	se
+C00224	rt	PAPSS1	irreversible	hsa00920	se
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C00053	irreversible	hsa00920	ep
+PAPSS1	rt	C00053	irreversible	hsa00920	ep
+C00283	rt	SQOR, CGI-44, PRO1975, SQR, SQRDL	irreversible	hsa00920	se
+SQOR, CGI-44, PRO1975, SQR, SQRDL	rt	C17267	irreversible	hsa00920	ep
+C17267	rt	ETHE1, HSCO, YF13H12	irreversible	hsa00920	se
+ETHE1, HSCO, YF13H12	rt	C00094	irreversible	hsa00920	ep
+C00054				hsa00920	
+C11142				hsa00920	
+C11145				hsa00920	
+C11143				hsa00920	
+C00580				hsa00920	
+C00409				hsa00920	
+C04022				hsa00920	
+C03920				hsa00920	
+C19692				hsa00920	
+C01861				hsa00920	
+C02084				hsa00920	
+C00087				hsa00920	
+C00097				hsa00920	
+C00979				hsa00920	
+C00033				hsa00920	
+C00065				hsa00920	
+C08276				hsa00920	
+C00155				hsa00920	
+C01118				hsa00920	
+C00042				hsa00920	
+C00263				hsa00920	
+C00245				hsa00920	
+C15521				hsa00920	
+C00245				hsa00920	
+C15521				hsa00920	
+C19692				hsa00920	
+C20870				hsa00920	
+C20955				hsa00920	
+C00084				hsa00920	

@@ -1,0 +1,247 @@
+SP1	gr	CREBBP, CBP, KAT3A, RSTS, RSTS1	group	hsa04350	group
+SP1	gr	EP300	group	hsa04350	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F4, E2F-4	group	hsa04350	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F5	group	hsa04350	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	RBL1, CP107, PRB1, p107	group	hsa04350	group
+E2F4, E2F-4	gr	RBL1, CP107, PRB1, p107	group	hsa04350	group
+E2F5	gr	RBL1, CP107, PRB1, p107	group	hsa04350	group
+CUL1	gr	SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	group	hsa04350	group
+CUL1	gr	RBX1, BA554C121, RNF75, ROC1	group	hsa04350	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	RBX1, BA554C121, RNF75, ROC1	group	hsa04350	group
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	gr	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	group	hsa04350	group
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	g-g	hsa04350	activation
+TGFB2	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	g-g	hsa04350	activation
+TGFB3	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	g-g	hsa04350	activation
+GDF7, BMP12	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+GDF7, BMP12	pp	BMPR2	g-g	hsa04350	activation
+AMH	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP8A	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+GDF6	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP2	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP4	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP5	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP6	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP7	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+BMP8B	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+GDF5	pp	AMHR2, AMHR, MISR2, MISRII, MRII	g-g	hsa04350	activation
+AMH	pp	BMPR2	g-g	hsa04350	activation
+BMP8A	pp	BMPR2	g-g	hsa04350	activation
+GDF6	pp	BMPR2	g-g	hsa04350	activation
+BMP2	pp	BMPR2	g-g	hsa04350	activation
+BMP4	pp	BMPR2	g-g	hsa04350	activation
+BMP5	pp	BMPR2	g-g	hsa04350	activation
+BMP6	pp	BMPR2	g-g	hsa04350	activation
+BMP7	pp	BMPR2	g-g	hsa04350	activation
+BMP8B	pp	BMPR2	g-g	hsa04350	activation
+GDF5	pp	BMPR2	g-g	hsa04350	activation
+INHBA, EDF, FRP	pp	ACVR2A, ACTRII, ACVR2	g-g	hsa04350	activation
+INHBA, EDF, FRP	pp	ACVR2B	g-g	hsa04350	activation
+INHBB	pp	ACVR2A, ACTRII, ACVR2	g-g	hsa04350	activation
+INHBC	pp	ACVR2A, ACTRII, ACVR2	g-g	hsa04350	activation
+INHBE	pp	ACVR2A, ACTRII, ACVR2	g-g	hsa04350	activation
+INHBB	pp	ACVR2B	g-g	hsa04350	activation
+INHBC	pp	ACVR2B	g-g	hsa04350	activation
+INHBE	pp	ACVR2B	g-g	hsa04350	activation
+NODAL, HTX5	pp	ACVR2A, ACTRII, ACVR2	g-g	hsa04350	activation
+NODAL, HTX5	pp	ACVR2B	g-g	hsa04350	activation
+BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04350	phosphorylation
+BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	pp	SMAD5	g-g	hsa04350	phosphorylation
+BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	pp	SMAD9	g-g	hsa04350	phosphorylation
+BMPR1B	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04350	phosphorylation
+ACVR1	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04350	phosphorylation
+BMPR1B	pp	SMAD5	g-g	hsa04350	phosphorylation
+BMPR1B	pp	SMAD9	g-g	hsa04350	phosphorylation
+ACVR1	pp	SMAD5	g-g	hsa04350	phosphorylation
+ACVR1	pp	SMAD9	g-g	hsa04350	phosphorylation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	phosphorylation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD3	g-g	hsa04350	phosphorylation
+ACVR1, ACTRI, ACVR1A, ACVRLK2, ALK2, FOP, SKR1, TSRI	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	phosphorylation
+ACVR1, ACTRI, ACVR1A, ACVRLK2, ALK2, FOP, SKR1, TSRI	pp	SMAD3	g-g	hsa04350	phosphorylation
+ACVR1B	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	phosphorylation
+ACVR1B	pp	SMAD3	g-g	hsa04350	phosphorylation
+ACVR1C, ACVRLK7, ALK7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	phosphorylation
+ACVR1C, ACVRLK7, ALK7	pp	SMAD3	g-g	hsa04350	phosphorylation
+ACVR1B	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	phosphorylation
+ACVR1B	pp	SMAD3	g-g	hsa04350	phosphorylation
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD5	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD9	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD3	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD3	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SMAD3	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04350	activation
+SP1	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04350	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04350	expression
+EP300	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04350	expression
+TFDP1, DILC, DP1, DRTF1, Dp-1	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04350	repression
+E2F4, E2F-4	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04350	repression
+E2F5	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04350	repression
+RBL1, CP107, PRB1, p107	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04350	repression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pp	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04350	inhibition
+CUL1	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04350	inhibition
+CUL1	pp	SMAD3	gr-g	hsa04350	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04350	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	SMAD3	gr-g	hsa04350	inhibition
+RBX1, BA554C121, RNF75, ROC1	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04350	inhibition
+RBX1, BA554C121, RNF75, ROC1	pp	SMAD3	gr-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD3	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD3	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD5	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD9	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD5	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD9	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD3	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD3	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMAD3	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	inhibition
+SMAD7	pp	SMAD3	g-g	hsa04350	inhibition
+CHRD	pp	GDF7, BMP12	g-g	hsa04350	inhibition
+CHRD	pp	AMH	g-g	hsa04350	inhibition
+CHRD	pp	BMP8A	g-g	hsa04350	inhibition
+CHRD	pp	GDF6	g-g	hsa04350	inhibition
+CHRD	pp	BMP2	g-g	hsa04350	inhibition
+CHRD	pp	BMP4	g-g	hsa04350	inhibition
+CHRD	pp	BMP5	g-g	hsa04350	inhibition
+CHRD	pp	BMP6	g-g	hsa04350	inhibition
+CHRD	pp	BMP7	g-g	hsa04350	inhibition
+CHRD	pp	BMP8B	g-g	hsa04350	inhibition
+CHRD	pp	GDF5	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	GDF7, BMP12	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	AMH	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP8A	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	GDF6	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP2	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP4	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP5	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP6	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP7	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	BMP8B	g-g	hsa04350	inhibition
+NOG, SYM1, SYNS1, SYNS1A	pp	GDF5	g-g	hsa04350	inhibition
+THBS1, THBS, THBS-1, TSP, TSP-1, TSP1	pp	LTBP1	g-g	hsa04350	inhibition
+LTBP1	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+LTBP1	pp	TGFB2	g-g	hsa04350	inhibition
+LTBP1	pp	TGFB3	g-g	hsa04350	inhibition
+DCN, CSCD, DSPG2, PG40, PGII, PGS2, SLRR1B	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+DCN, CSCD, DSPG2, PG40, PGII, PGS2, SLRR1B	pp	TGFB2	g-g	hsa04350	inhibition
+DCN, CSCD, DSPG2, PG40, PGII, PGS2, SLRR1B	pp	TGFB3	g-g	hsa04350	inhibition
+INHBA, EDF, FRP	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+INHBA, EDF, FRP	pp	TGFB2	g-g	hsa04350	inhibition
+INHBA, EDF, FRP	pp	TGFB3	g-g	hsa04350	inhibition
+INHBB	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+INHBC	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+INHBE	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+INHBB	pp	TGFB2	g-g	hsa04350	inhibition
+INHBB	pp	TGFB3	g-g	hsa04350	inhibition
+INHBC	pp	TGFB2	g-g	hsa04350	inhibition
+INHBC	pp	TGFB3	g-g	hsa04350	inhibition
+INHBE	pp	TGFB2	g-g	hsa04350	inhibition
+INHBE	pp	TGFB3	g-g	hsa04350	inhibition
+LEFTY1, LEFTB, LEFTYB	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+LEFTY1, LEFTB, LEFTYB	pp	TGFB2	g-g	hsa04350	inhibition
+LEFTY1, LEFTB, LEFTYB	pp	TGFB3	g-g	hsa04350	inhibition
+LEFTY2	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+LEFTY2	pp	TGFB2	g-g	hsa04350	inhibition
+LEFTY2	pp	TGFB3	g-g	hsa04350	inhibition
+FST, FS	pp	INHBA, EDF, FRP	g-g	hsa04350	inhibition
+FST, FS	pp	INHBB	g-g	hsa04350	inhibition
+FST, FS	pp	INHBC	g-g	hsa04350	inhibition
+FST, FS	pp	INHBE	g-g	hsa04350	inhibition
+INHBA, EDF, FRP	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+INHBB	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+INHBC	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+INHBE	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+LEFTY1, LEFTB, LEFTYB	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+LEFTY2	pp	NODAL, HTX5	g-g	hsa04350	inhibition
+SMURF1	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	g-gr	hsa04350	inhibition
+SMURF2	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	g-gr	hsa04350	inhibition
+SMURF1	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-gr	hsa04350	inhibition
+SMURF2	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-gr	hsa04350	inhibition
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMURF1	g-g	hsa04350	binding/association
+SMAD6, AOVD2, HsT17432, MADH6, MADH7	pp	SMURF2	g-g	hsa04350	binding/association
+SMAD7	pp	SMURF1	g-g	hsa04350	binding/association
+SMAD7	pp	SMURF2	g-g	hsa04350	binding/association
+ZFYVE9, MADHIP, NSP, PPP1R173, SARA, SMADIP	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	dissociation
+ZFYVE9, MADHIP, NSP, PPP1R173, SARA, SMADIP	pp	SMAD3	g-g	hsa04350	dissociation
+ZFYVE16	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04350	dissociation
+ZFYVE16	pp	SMAD3	g-g	hsa04350	dissociation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK1, P160ROCK, ROCK-I	g-g	hsa04350	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa04350	dephosphorylation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	RPS6KB2	g-g	hsa04350	dephosphorylation
+PPP2CB	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa04350	dephosphorylation
+PPP2R1A	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa04350	dephosphorylation
+PPP2R1B	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa04350	dephosphorylation
+PPP2CB	pp	RPS6KB2	g-g	hsa04350	dephosphorylation
+PPP2R1A	pp	RPS6KB2	g-g	hsa04350	dephosphorylation
+PPP2R1B	pp	RPS6KB2	g-g	hsa04350	dephosphorylation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04350	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	pp	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	g-g	hsa04350	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	pp	PPP2CB	g-g	hsa04350	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	pp	PPP2R1A	g-g	hsa04350	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TBR-ii, TBRII, TGFR-2, TGFbeta-RII	pp	PPP2R1B	g-g	hsa04350	activation
+IFNG, IFG, IFI	pp	SMAD6, AOVD2, HsT17432, MADH6, MADH7	g-g	hsa04350	indirect effect
+IFNG, IFG, IFI	pp	SMAD7	g-g	hsa04350	indirect effect
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	SMAD6, AOVD2, HsT17432, MADH6, MADH7	g-g	hsa04350	indirect effect
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	SMAD7	g-g	hsa04350	indirect effect
+BAMBI, NMA	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04350	inhibition
+BAMBI, NMA	pp	BMPR1B	g-g	hsa04350	inhibition
+BAMBI, NMA	pp	ACVR1	g-g	hsa04350	inhibition
+BAMBI, NMA	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-g	hsa04350	inhibition
+BAMBI, NMA	pp	ACVR1, ACTRI, ACVR1A, ACVRLK2, ALK2, FOP, SKR1, TSRI	g-g	hsa04350	inhibition
+BAMBI, NMA	pp	ACVR1B	g-g	hsa04350	inhibition
+FMOD, FM, SLRR2E	pp	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa04350	inhibition
+FMOD, FM, SLRR2E	pp	TGFB2	g-g	hsa04350	inhibition
+FMOD, FM, SLRR2E	pp	TGFB3	g-g	hsa04350	inhibition
+PITX2, ARP1, ASGD4, Brx1, IDG2, IGDS, IGDS2, IHG2, IRID2, Otlx2, PTX2, RGS, RIEG, RIEG1, RS				hsa04350	
+ID1, ID, bHLHb24				hsa04350	
+ID2				hsa04350	
+ID3				hsa04350	
+ID4				hsa04350	
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK				hsa04350	
+MAPK3				hsa04350	
+MINOS1-NBL1, C1orf151-NBL1, DAN, DAND1, NBL1, MICOS10-NBL1				hsa04350	
+TGIF2				hsa04350	
+TGIF1				hsa04350	
+BMP2, BDA2, BMP2A, SSFSC				hsa04350	
+GDF7				hsa04350	
+AMH				hsa04350	
+BMP8A				hsa04350	
+GDF6				hsa04350	
+BMP4				hsa04350	
+BMP5				hsa04350	
+BMP6				hsa04350	
+BMP7				hsa04350	
+BMP8B				hsa04350	
+GDF5				hsa04350	
+HJV, HFE2, HFE2A, JH, RGMC				hsa04350	
+BMPR2, BMPR-II, BMPR3, BMR2, BRK-3, POVD1, PPH1, T-ALK				hsa04350	
+AMHR2				hsa04350	
+INHBB				hsa04350	
+INHBA				hsa04350	
+INHBC				hsa04350	
+INHBE				hsa04350	
+NEO1, IGDCC2, NGN, NTN1R2				hsa04350	
+BMP2, BDA2, BMP2A, SSFSC				hsa04350	
+GDF7				hsa04350	
+AMH				hsa04350	
+BMP8A				hsa04350	
+GDF6				hsa04350	
+BMP4				hsa04350	
+BMP5				hsa04350	
+BMP6				hsa04350	
+BMP7				hsa04350	
+BMP8B				hsa04350	
+GDF5				hsa04350	
+RGMB, DRAGON				hsa04350	
+RGMA				hsa04350	
+BMPR2, BMPR-II, BMPR3, BMR2, BRK-3, POVD1, PPH1, T-ALK				hsa04350	
+AMHR2				hsa04350	
+HAMP, HEPC, HFE2B, LEAP1, PLTR				hsa04350	

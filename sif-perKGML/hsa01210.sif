@@ -1,0 +1,191 @@
+C00036	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa01210	se
+C00036	rt	GOT2	reversible	hsa01210	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00036	reversible	hsa01210	ep
+GOT2	rt	C00036	reversible	hsa01210	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00049	reversible	hsa01210	ep
+GOT2	rt	C00049	reversible	hsa01210	ep
+C00049	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa01210	se
+C00049	rt	GOT2	reversible	hsa01210	se
+C00036	rt	CS	irreversible	hsa01210	se
+CS	rt	C00158	irreversible	hsa01210	ep
+C00026	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa01210	se
+C00026	rt	GOT2	reversible	hsa01210	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00026	reversible	hsa01210	ep
+GOT2	rt	C00026	reversible	hsa01210	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00025	reversible	hsa01210	ep
+GOT2	rt	C00025	reversible	hsa01210	ep
+C00025	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa01210	se
+C00025	rt	GOT2	reversible	hsa01210	se
+C00025	rt	NAGS, AGAS, ARGA	irreversible	hsa01210	se
+NAGS, AGAS, ARGA	rt	C00624	irreversible	hsa01210	ep
+C00322	rt	AADAT, KAT2, KATII, KYAT2	reversible	hsa01210	se
+AADAT, KAT2, KATII, KYAT2	rt	C00322	reversible	hsa01210	ep
+AADAT, KAT2, KATII, KYAT2	rt	C00956	reversible	hsa01210	ep
+C00956	rt	AADAT, KAT2, KATII, KYAT2	reversible	hsa01210	se
+C00158	rt	ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	irreversible	hsa01210	se
+C00158	rt	ACO2	irreversible	hsa01210	se
+ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	rt	C00417	irreversible	hsa01210	ep
+ACO2	rt	C00417	irreversible	hsa01210	ep
+C00417	rt	ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	irreversible	hsa01210	se
+C00417	rt	ACO2	irreversible	hsa01210	se
+ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	rt	C00311	irreversible	hsa01210	ep
+ACO2	rt	C00311	irreversible	hsa01210	ep
+C00311	rt	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	irreversible	hsa01210	se
+C00311	rt	IDH2	irreversible	hsa01210	se
+IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	rt	C05379	irreversible	hsa01210	ep
+IDH2	rt	C05379	irreversible	hsa01210	ep
+C05379	rt	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	irreversible	hsa01210	se
+C05379	rt	IDH2	irreversible	hsa01210	se
+IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	rt	C00026	irreversible	hsa01210	ep
+IDH2	rt	C00026	irreversible	hsa01210	ep
+C00158	rt	ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	irreversible	hsa01210	se
+C00158	rt	ACO2	irreversible	hsa01210	se
+ACO1, ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1	rt	C00311	irreversible	hsa01210	ep
+ACO2	rt	C00311	irreversible	hsa01210	ep
+C00311	rt	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	irreversible	hsa01210	se
+C00311	rt	IDH2	irreversible	hsa01210	se
+IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	rt	C00026	irreversible	hsa01210	ep
+IDH2	rt	C00026	irreversible	hsa01210	ep
+C00437	rt	ABHD14A-ACY1	irreversible	hsa01210	se
+C00437	rt	ACY1	irreversible	hsa01210	se
+ABHD14A-ACY1	rt	C00077	irreversible	hsa01210	ep
+ACY1	rt	C00077	irreversible	hsa01210	ep
+C00141	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00141	rt	BCAT2	reversible	hsa01210	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00141	reversible	hsa01210	ep
+BCAT2	rt	C00141	reversible	hsa01210	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00183	reversible	hsa01210	ep
+BCAT2	rt	C00183	reversible	hsa01210	ep
+C00183	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00183	rt	BCAT2	reversible	hsa01210	se
+C00233	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00233	rt	BCAT2	reversible	hsa01210	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00233	reversible	hsa01210	ep
+BCAT2	rt	C00233	reversible	hsa01210	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00123	reversible	hsa01210	ep
+BCAT2	rt	C00123	reversible	hsa01210	ep
+C00123	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00123	rt	BCAT2	reversible	hsa01210	se
+C00671	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00671	rt	BCAT2	reversible	hsa01210	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00671	reversible	hsa01210	ep
+BCAT2	rt	C00671	reversible	hsa01210	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00407	reversible	hsa01210	ep
+BCAT2	rt	C00407	reversible	hsa01210	ep
+C00407	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa01210	se
+C00407	rt	BCAT2	reversible	hsa01210	se
+C17254				hsa01210	
+C17232				hsa01210	
+C17252				hsa01210	
+C17228				hsa01210	
+C17250				hsa01210	
+C17224				hsa01210	
+C08401				hsa01210	
+C17220				hsa01210	
+C08409				hsa01210	
+C17216				hsa01210	
+C08412				hsa01210	
+C03283				hsa01210	
+C00047				hsa01210	
+C19886				hsa01210	
+C19889				hsa01210	
+C00022				hsa01210	
+C00109				hsa01210	
+C01180				hsa01210	
+C00073				hsa01210	
+C17213				hsa01210	
+C17217				hsa01210	
+C17221				hsa01210	
+C17225				hsa01210	
+C17229				hsa01210	
+C17233				hsa01210	
+C01251				hsa01210	
+C04002				hsa01210	
+C05662				hsa01210	
+C05533				hsa01210	
+C03082				hsa01210	
+C00441				hsa01210	
+C04133				hsa01210	
+C01250				hsa01210	
+C19887				hsa01210	
+C19888				hsa01210	
+C06010				hsa01210	
+C04181				hsa01210	
+C04272				hsa01210	
+C02612				hsa01210	
+C02226				hsa01210	
+C06032				hsa01210	
+C06006				hsa01210	
+C14463				hsa01210	
+C06007				hsa01210	
+C17210				hsa01210	
+C17212				hsa01210	
+C17214				hsa01210	
+C17215				hsa01210	
+C17218				hsa01210	
+C17219				hsa01210	
+C17230				hsa01210	
+C17231				hsa01210	
+C17222				hsa01210	
+C17223				hsa01210	
+C17226				hsa01210	
+C17227				hsa01210	
+C08418				hsa01210	
+C03219				hsa01210	
+C17256				hsa01210	
+C17255				hsa01210	
+C08407				hsa01210	
+C19491				hsa01210	
+C00079				hsa01210	
+C02153				hsa01210	
+C19714				hsa01210	
+C17237				hsa01210	
+C03719				hsa01210	
+C01069				hsa01210	
+C17235				hsa01210	
+C08417				hsa01210	
+C17236				hsa01210	
+C00078				hsa01210	
+C05837				hsa01210	
+C02937				hsa01210	
+C16518				hsa01210	
+C16516				hsa01210	
+C16517				hsa01210	
+C00082				hsa01210	
+C08426				hsa01210	
+C04350				hsa01210	
+C17238				hsa01210	
+C17239				hsa01210	
+C17240				hsa01210	
+C17253				hsa01210	
+C17251				hsa01210	
+C17249				hsa01210	
+C17246				hsa01210	
+C17245				hsa01210	
+C17248				hsa01210	
+C17241				hsa01210	
+C17242				hsa01210	
+C17243				hsa01210	
+C17244				hsa01210	
+C00166				hsa01210	
+C20327				hsa01210	
+C02504				hsa01210	
+C02631				hsa01210	
+C04411				hsa01210	
+C04236				hsa01210	
+C16583				hsa01210	
+C20581				hsa01210	
+C16597				hsa01210	
+C16588				hsa01210	
+C16598				hsa01210	
+C20582				hsa01210	
+C16600				hsa01210	
+C16589				hsa01210	
+C17211				hsa01210	
+C01179				hsa01210	
+C20653				hsa01210	
+C20654				hsa01210	
+C20948				hsa01210	
+C20951				hsa01210	
+C20949				hsa01210	
+C20950				hsa01210	

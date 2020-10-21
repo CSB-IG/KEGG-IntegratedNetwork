@@ -1,0 +1,75 @@
+CPS1, CPSASE1, PHN	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00910	compound
+CPS1, CPSASE1, PHN	ec	GLUD2	g-g	hsa00910	compound
+CPS1, CPSASE1, PHN	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00910	compound
+GLUD1, GDH, GDH1, GLUD	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00910	compound
+GLUD2	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00910	compound
+C00011	rt	CA5B, CA-VB	irreversible	hsa00910	se
+C00011	rt	CA14	irreversible	hsa00910	se
+C00011	rt	CA13	irreversible	hsa00910	se
+C00011	rt	CA1	irreversible	hsa00910	se
+C00011	rt	CA2	irreversible	hsa00910	se
+C00011	rt	CA3	irreversible	hsa00910	se
+C00011	rt	CA4	irreversible	hsa00910	se
+C00011	rt	CA5A	irreversible	hsa00910	se
+C00011	rt	CA6	irreversible	hsa00910	se
+C00011	rt	CA7	irreversible	hsa00910	se
+C00011	rt	CA8	irreversible	hsa00910	se
+C00011	rt	CA9	irreversible	hsa00910	se
+C00011	rt	CA12	irreversible	hsa00910	se
+CA5B, CA-VB	rt	C00288	irreversible	hsa00910	ep
+CA14	rt	C00288	irreversible	hsa00910	ep
+CA13	rt	C00288	irreversible	hsa00910	ep
+CA1	rt	C00288	irreversible	hsa00910	ep
+CA2	rt	C00288	irreversible	hsa00910	ep
+CA3	rt	C00288	irreversible	hsa00910	ep
+CA4	rt	C00288	irreversible	hsa00910	ep
+CA5A	rt	C00288	irreversible	hsa00910	ep
+CA6	rt	C00288	irreversible	hsa00910	ep
+CA7	rt	C00288	irreversible	hsa00910	ep
+CA8	rt	C00288	irreversible	hsa00910	ep
+CA9	rt	C00288	irreversible	hsa00910	ep
+CA12	rt	C00288	irreversible	hsa00910	ep
+C00014	rt	CPS1, CPSASE1, PHN	irreversible	hsa00910	se
+CPS1, CPSASE1, PHN	rt	C00169	irreversible	hsa00910	ep
+C00014	rt	GLUL, GLNS, GS, PIG43, PIG59	irreversible	hsa00910	se
+GLUL, GLNS, GS, PIG43, PIG59	rt	C00064	irreversible	hsa00910	ep
+C00025	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00910	se
+C00025	rt	GLUD2	reversible	hsa00910	se
+GLUD1, GDH, GDH1, GLUD	rt	C00025	reversible	hsa00910	ep
+GLUD2	rt	C00025	reversible	hsa00910	ep
+GLUD1, GDH, GDH1, GLUD	rt	C00014	reversible	hsa00910	ep
+GLUD2	rt	C00014	reversible	hsa00910	ep
+C00014	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00910	se
+C00014	rt	GLUD2	reversible	hsa00910	se
+C00058				hsa00910	
+C00488				hsa00910	
+C00192				hsa00910	
+C06058				hsa00910	
+C00887				hsa00910	
+C00533				hsa00910	
+C00088				hsa00910	
+C00244				hsa00910	
+C00726				hsa00910	
+C01417				hsa00910	
+C01563				hsa00910	
+C00244				hsa00910	
+C00088				hsa00910	
+C00244				hsa00910	
+C00088				hsa00910	
+C00244				hsa00910	
+C00088				hsa00910	
+C00244				hsa00910	
+C00088				hsa00910	
+C00697				hsa00910	
+C00887				hsa00910	
+C00533				hsa00910	
+C00697				hsa00910	
+C00088				hsa00910	
+C00244				hsa00910	
+C00192				hsa00910	
+C00697				hsa00910	
+C00088				hsa00910	
+C05361				hsa00910	
+C00533				hsa00910	
+C00697				hsa00910	
+C05361				hsa00910	

@@ -1,0 +1,384 @@
+IGF1R, CD221, IGFIR, IGFR, JTK13	gr	INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	group	hsa04140	group
+TSC2, LAM, PPP1R160, TSC4	gr	TSC1, LAM, TSC	group	hsa04140	group
+RPTOR, KOG1, Mip1	gr	DEPTOR, DEP6, DEPDC6	group	hsa04140	group
+RPTOR, KOG1, Mip1	gr	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	group	hsa04140	group
+RPTOR, KOG1, Mip1	gr	AKT1S1, Lobe, PRAS40	group	hsa04140	group
+RPTOR, KOG1, Mip1	gr	MLST8, GBL, GbetaL, LST8, POP3, WAT1	group	hsa04140	group
+DEPTOR, DEP6, DEPDC6	gr	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	group	hsa04140	group
+DEPTOR, DEP6, DEPDC6	gr	AKT1S1, Lobe, PRAS40	group	hsa04140	group
+DEPTOR, DEP6, DEPDC6	gr	MLST8, GBL, GbetaL, LST8, POP3, WAT1	group	hsa04140	group
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr	AKT1S1, Lobe, PRAS40	group	hsa04140	group
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr	MLST8, GBL, GbetaL, LST8, POP3, WAT1	group	hsa04140	group
+AKT1S1, Lobe, PRAS40	gr	MLST8, GBL, GbetaL, LST8, POP3, WAT1	group	hsa04140	group
+RRAGB, RAGB, bA465E191	gr	RRAGD, RAGD, bA11D821	group	hsa04140	group
+RRAGB, RAGB, bA465E191	gr	RRAGC	group	hsa04140	group
+RRAGA	gr	RRAGD, RAGD, bA11D821	group	hsa04140	group
+RRAGA	gr	RRAGC	group	hsa04140	group
+BCL2, Bcl-2, PPP1R50	gr	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	group	hsa04140	group
+SNAP29, CEDNIK, SNAP-29	gr	STX17	group	hsa04140	group
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	gr	ATG12, APG12, APG12L, FBR93, HAPG12	group	hsa04140	group
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	gr	ATG12, APG12, APG12L, FBR93, HAPG12	group	hsa04140	group
+ATG16L2	gr	ATG12, APG12, APG12L, FBR93, HAPG12	group	hsa04140	group
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	gr	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	group	hsa04140	group
+ATG16L2	gr	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	group	hsa04140	group
+ATG12, APG12, APG12L, FBR93, HAPG12	gr	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	group	hsa04140	group
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS1, HIRS-1	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS4	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS2	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	IRS1, HIRS-1	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	IRS4	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	IRS2	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	RRAS2, TC21	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	MRAS	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	HRAS	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	KRAS	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	NRAS	gr-g	hsa04140	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	RRAS	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	RRAS2, TC21	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	MRAS	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	HRAS	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	KRAS	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	NRAS	gr-g	hsa04140	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	RRAS	gr-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3CB	g-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3CD	g-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3R1	g-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3R2	g-g	hsa04140	activation
+IRS1, HIRS-1	pp	PIK3R3	g-g	hsa04140	activation
+IRS4	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04140	activation
+IRS2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04140	activation
+IRS4	pp	PIK3CB	g-g	hsa04140	activation
+IRS4	pp	PIK3CD	g-g	hsa04140	activation
+IRS4	pp	PIK3R1	g-g	hsa04140	activation
+IRS4	pp	PIK3R2	g-g	hsa04140	activation
+IRS4	pp	PIK3R3	g-g	hsa04140	activation
+IRS2	pp	PIK3CB	g-g	hsa04140	activation
+IRS2	pp	PIK3CD	g-g	hsa04140	activation
+IRS2	pp	PIK3R1	g-g	hsa04140	activation
+IRS2	pp	PIK3R2	g-g	hsa04140	activation
+IRS2	pp	PIK3R3	g-g	hsa04140	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pc	C05981	g-c	hsa04140	activation
+PIK3CB	pc	C05981	g-c	hsa04140	activation
+PIK3CD	pc	C05981	g-c	hsa04140	activation
+PIK3R1	pc	C05981	g-c	hsa04140	activation
+PIK3R2	pc	C05981	g-c	hsa04140	activation
+PIK3R3	pc	C05981	g-c	hsa04140	activation
+C05981	pc	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	c-g	hsa04140	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04140	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT1	g-g	hsa04140	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT2	g-g	hsa04140	activation
+RRAS2, TC21	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+MRAS	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+HRAS	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+KRAS	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+NRAS	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+RRAS	pp	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	g-g	hsa04140	activation
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, TEP1	pc	C05981	g-c	hsa04140	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	inhibition
+AKT1	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	inhibition
+AKT2	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	TSC1, LAM, TSC	g-gr	hsa04140	inhibition
+AKT1	pp	TSC1, LAM, TSC	g-gr	hsa04140	inhibition
+AKT2	pp	TSC1, LAM, TSC	g-gr	hsa04140	inhibition
+RRAS2, TC21	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+MRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+HRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+KRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+NRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+RRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04140	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04140	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K2	g-g	hsa04140	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04140	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04140	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04140	activation
+MAP2K2	pp	MAPK3	g-g	hsa04140	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	activation
+MAPK3	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	TSC1, LAM, TSC	g-gr	hsa04140	activation
+MAPK3	pp	TSC1, LAM, TSC	g-gr	hsa04140	activation
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pp	DDIT4, Dig2, REDD-1, REDD1	g-g	hsa04140	activation
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pp	BNIP3, NIP3	g-g	hsa04140	activation
+DDIT4, Dig2, REDD-1, REDD1	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	activation
+DDIT4, Dig2, REDD-1, REDD1	pp	TSC1, LAM, TSC	g-gr	hsa04140	activation
+TSC2, LAM, PPP1R160, TSC4	pp	RHEB, RHEB2	gr-g	hsa04140	inhibition
+TSC1, LAM, TSC	pp	RHEB, RHEB2	gr-g	hsa04140	inhibition
+BNIP3, NIP3	pp	RHEB, RHEB2	g-g	hsa04140	inhibition
+RHEB, RHEB2	pp	RPTOR, KOG1, Mip1	g-gr	hsa04140	activation
+RHEB, RHEB2	pp	DEPTOR, DEP6, DEPDC6	g-gr	hsa04140	activation
+RHEB, RHEB2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-gr	hsa04140	activation
+RHEB, RHEB2	pp	AKT1S1, Lobe, PRAS40	g-gr	hsa04140	activation
+RHEB, RHEB2	pp	MLST8, GBL, GbetaL, LST8, POP3, WAT1	g-gr	hsa04140	activation
+RRAGB, RAGB, bA465E191	pp	RPTOR, KOG1, Mip1	gr-gr	hsa04140	activation
+RRAGA	pp	RPTOR, KOG1, Mip1	gr-gr	hsa04140	activation
+RRAGB, RAGB, bA465E191	pp	DEPTOR, DEP6, DEPDC6	gr-gr	hsa04140	activation
+RRAGA	pp	DEPTOR, DEP6, DEPDC6	gr-gr	hsa04140	activation
+RRAGB, RAGB, bA465E191	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr-gr	hsa04140	activation
+RRAGA	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr-gr	hsa04140	activation
+RRAGB, RAGB, bA465E191	pp	AKT1S1, Lobe, PRAS40	gr-gr	hsa04140	activation
+RRAGA	pp	AKT1S1, Lobe, PRAS40	gr-gr	hsa04140	activation
+RRAGB, RAGB, bA465E191	pp	MLST8, GBL, GbetaL, LST8, POP3, WAT1	gr-gr	hsa04140	activation
+RRAGA	pp	MLST8, GBL, GbetaL, LST8, POP3, WAT1	gr-gr	hsa04140	activation
+RRAGD, RAGD, bA11D821	pp	RPTOR, KOG1, Mip1	gr-gr	hsa04140	activation
+RRAGC	pp	RPTOR, KOG1, Mip1	gr-gr	hsa04140	activation
+RRAGD, RAGD, bA11D821	pp	DEPTOR, DEP6, DEPDC6	gr-gr	hsa04140	activation
+RRAGC	pp	DEPTOR, DEP6, DEPDC6	gr-gr	hsa04140	activation
+RRAGD, RAGD, bA11D821	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr-gr	hsa04140	activation
+RRAGC	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	gr-gr	hsa04140	activation
+RRAGD, RAGD, bA11D821	pp	AKT1S1, Lobe, PRAS40	gr-gr	hsa04140	activation
+RRAGC	pp	AKT1S1, Lobe, PRAS40	gr-gr	hsa04140	activation
+RRAGD, RAGD, bA11D821	pp	MLST8, GBL, GbetaL, LST8, POP3, WAT1	gr-gr	hsa04140	activation
+RRAGC	pp	MLST8, GBL, GbetaL, LST8, POP3, WAT1	gr-gr	hsa04140	activation
+RPTOR, KOG1, Mip1	pp	IGBP1, ALPHA-4, IBP1	gr-g	hsa04140	activation
+DEPTOR, DEP6, DEPDC6	pp	IGBP1, ALPHA-4, IBP1	gr-g	hsa04140	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	IGBP1, ALPHA-4, IBP1	gr-g	hsa04140	activation
+AKT1S1, Lobe, PRAS40	pp	IGBP1, ALPHA-4, IBP1	gr-g	hsa04140	activation
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	IGBP1, ALPHA-4, IBP1	gr-g	hsa04140	activation
+IGBP1, ALPHA-4, IBP1	pp	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	g-g	hsa04140	activation
+IGBP1, ALPHA-4, IBP1	pp	PPP2CB	g-g	hsa04140	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	inhibition
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	ULK2	g-g	hsa04140	inhibition
+PPP2CB	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	inhibition
+PPP2CB	pp	ULK2	g-g	hsa04140	inhibition
+RPTOR, KOG1, Mip1	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	gr-g	hsa04140	activation
+RPTOR, KOG1, Mip1	pp	RPS6KB2	gr-g	hsa04140	activation
+DEPTOR, DEP6, DEPDC6	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	gr-g	hsa04140	activation
+DEPTOR, DEP6, DEPDC6	pp	RPS6KB2	gr-g	hsa04140	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	gr-g	hsa04140	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB2	gr-g	hsa04140	activation
+AKT1S1, Lobe, PRAS40	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	gr-g	hsa04140	activation
+AKT1S1, Lobe, PRAS40	pp	RPS6KB2	gr-g	hsa04140	activation
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	gr-g	hsa04140	activation
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	RPS6KB2	gr-g	hsa04140	activation
+RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	pp	IRS1, HIRS-1	g-g	hsa04140	inhibition
+RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	pp	IRS4	g-g	hsa04140	inhibition
+RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	pp	IRS2	g-g	hsa04140	inhibition
+RPS6KB2	pp	IRS1, HIRS-1	g-g	hsa04140	inhibition
+RPS6KB2	pp	IRS4	g-g	hsa04140	inhibition
+RPS6KB2	pp	IRS2	g-g	hsa04140	inhibition
+RPTOR, KOG1, Mip1	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	gr-g	hsa04140	inhibition
+RPTOR, KOG1, Mip1	pp	ULK2	gr-g	hsa04140	inhibition
+DEPTOR, DEP6, DEPDC6	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	gr-g	hsa04140	inhibition
+DEPTOR, DEP6, DEPDC6	pp	ULK2	gr-g	hsa04140	inhibition
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	gr-g	hsa04140	inhibition
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	ULK2	gr-g	hsa04140	inhibition
+AKT1S1, Lobe, PRAS40	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	gr-g	hsa04140	inhibition
+AKT1S1, Lobe, PRAS40	pp	ULK2	gr-g	hsa04140	inhibition
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	gr-g	hsa04140	inhibition
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	ULK2	gr-g	hsa04140	inhibition
+RPTOR, KOG1, Mip1	pp	ATG13, KIAA0652, PARATARG8	gr-g	hsa04140	inhibition
+DEPTOR, DEP6, DEPDC6	pp	ATG13, KIAA0652, PARATARG8	gr-g	hsa04140	inhibition
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	ATG13, KIAA0652, PARATARG8	gr-g	hsa04140	inhibition
+AKT1S1, Lobe, PRAS40	pp	ATG13, KIAA0652, PARATARG8	gr-g	hsa04140	inhibition
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	ATG13, KIAA0652, PARATARG8	gr-g	hsa04140	inhibition
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	ATG2A	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	ATG2B	g-g	hsa04140	activation
+ULK2	pp	ATG2A	g-g	hsa04140	activation
+ULK2	pp	ATG2B	g-g	hsa04140	activation
+SUPT20H, C13, C13orf19, FAM48A, FP757, P38IP, SPT20	pp	ATG9B, APG9L2, NOS3AS, SONE	g-g	hsa04140	activation
+SUPT20H, C13, C13orf19, FAM48A, FP757, P38IP, SPT20	pp	ATG9A	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	RB1CC1, ATG17, CC1, FIP200, PPP1R131	g-g	hsa04140	activation
+ULK2	pp	RB1CC1, ATG17, CC1, FIP200, PPP1R131	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	ATG13, KIAA0652, PARATARG8	g-g	hsa04140	activation
+ULK2	pp	ATG13, KIAA0652, PARATARG8	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	ATG14, ATG14L, BARKOR, KIAA0831	g-g	hsa04140	activation
+ULK2	pp	ATG14, ATG14L, BARKOR, KIAA0831	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	ATG101, C12orf44	g-g	hsa04140	binding/association
+ULK2	pp	ATG101, C12orf44	g-g	hsa04140	binding/association
+ATG13, KIAA0652, PARATARG8	pp	ATG9B, APG9L2, NOS3AS, SONE	g-g	hsa04140	activation
+ATG13, KIAA0652, PARATARG8	pp	ATG9A	g-g	hsa04140	activation
+ATG13, KIAA0652, PARATARG8	pp	RB1CC1, ATG17, CC1, FIP200, PPP1R131	g-g	hsa04140	binding/association
+ATG13, KIAA0652, PARATARG8	pp	ATG101, C12orf44	g-g	hsa04140	binding/association
+ATG13, KIAA0652, PARATARG8	pp	ATG14, ATG14L, BARKOR, KIAA0831	g-g	hsa04140	activation
+ATG13, KIAA0652, PARATARG8	pp	VMP1, EPG3, TANGO5, TMEM49	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	BECN1	g-g	hsa04140	activation
+ULK2	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+ULK2	pp	BECN1	g-g	hsa04140	activation
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	AMBRA1, DCAF3, WDR94	g-g	hsa04140	activation
+ULK2	pp	AMBRA1, DCAF3, WDR94	g-g	hsa04140	activation
+ATG2A	pp	WIPI2, ATG18B, Atg21, CGI-50, WIPI-2	g-g	hsa04140	binding/association
+ATG2A	pp	WIPI1	g-g	hsa04140	binding/association
+ATG2B	pp	WIPI2, ATG18B, Atg21, CGI-50, WIPI-2	g-g	hsa04140	binding/association
+ATG2B	pp	WIPI1	g-g	hsa04140	binding/association
+BNIP3, NIP3	pp	BCL2, Bcl-2, PPP1R50	g-gr	hsa04140	inhibition
+BNIP3, NIP3	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-gr	hsa04140	inhibition
+STK11, LKB1, PJS, hLKB1	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAA2	g-g	hsa04140	activation
+PRKAA1, AMPK, AMPKa1	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	activation
+PRKAA2	pp	TSC2, LAM, PPP1R160, TSC4	g-gr	hsa04140	activation
+PRKAA1, AMPK, AMPKa1	pp	TSC1, LAM, TSC	g-gr	hsa04140	activation
+PRKAA2	pp	TSC1, LAM, TSC	g-gr	hsa04140	activation
+PRKAA1, AMPK, AMPKa1	pp	RPTOR, KOG1, Mip1	g-g	hsa04140	inhibition
+PRKAA2	pp	RPTOR, KOG1, Mip1	g-g	hsa04140	inhibition
+PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	pp	MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	g-g	hsa04140	activation
+PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	pp	MAPK9	g-g	hsa04140	activation
+PRKCD, ALPS3, CVID9, MAY1, PKCD, nPKC-delta	pp	MAPK10	g-g	hsa04140	activation
+CAMKK2, CAMKK, CAMKKB	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	activation
+CAMKK2, CAMKK, CAMKKB	pp	PRKAA2	g-g	hsa04140	activation
+MAP3K7, CSCF, FMD2, MEKK7, TAK1, TGF1a	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	activation
+MAP3K7, CSCF, FMD2, MEKK7, TAK1, TGF1a	pp	PRKAA2	g-g	hsa04140	activation
+ERN1, IRE1, IRE1P, IRE1a, hIRE1p	pp	MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	g-g	hsa04140	activation
+ERN1, IRE1, IRE1P, IRE1a, hIRE1p	pp	MAPK9	g-g	hsa04140	activation
+ERN1, IRE1, IRE1P, IRE1a, hIRE1p	pp	MAPK10	g-g	hsa04140	activation
+PRAP1, PRO1195, UPA	pp	STK11, LKB1, PJS, hLKB1	g-g	hsa04140	activation
+PRKACA, PKACA, PPNAD4	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	PRKAA2	g-g	hsa04140	inhibition
+PRKACB	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	inhibition
+PRKACG	pp	PRKAA1, AMPK, AMPKa1	g-g	hsa04140	inhibition
+PRKACB	pp	PRKAA2	g-g	hsa04140	inhibition
+PRKACG	pp	PRKAA2	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	AKT1S1, Lobe, PRAS40	g-g	hsa04140	activation
+PRKACB	pp	AKT1S1, Lobe, PRAS40	g-g	hsa04140	activation
+PRKACG	pp	AKT1S1, Lobe, PRAS40	g-g	hsa04140	activation
+PRKACA, PKACA, PPNAD4	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	ULK2	g-g	hsa04140	inhibition
+PRKACB	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	inhibition
+PRKACG	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	inhibition
+PRKACB	pp	ULK2	g-g	hsa04140	inhibition
+PRKACG	pp	ULK2	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	ATG13, KIAA0652, PARATARG8	g-g	hsa04140	inhibition
+PRKACB	pp	ATG13, KIAA0652, PARATARG8	g-g	hsa04140	inhibition
+PRKACG	pp	ATG13, KIAA0652, PARATARG8	g-g	hsa04140	inhibition
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	BCL2, Bcl-2, PPP1R50	g-gr	hsa04140	inhibition
+MAPK9	pp	BCL2, Bcl-2, PPP1R50	g-gr	hsa04140	inhibition
+MAPK10	pp	BCL2, Bcl-2, PPP1R50	g-gr	hsa04140	inhibition
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-gr	hsa04140	inhibition
+MAPK9	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-gr	hsa04140	inhibition
+MAPK10	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-gr	hsa04140	inhibition
+BAD, BBC2, BCL2L8	pp	BCL2, Bcl-2, PPP1R50	g-gr	hsa04140	inhibition
+BAD, BBC2, BCL2L8	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-gr	hsa04140	inhibition
+BCL2, Bcl-2, PPP1R50	pp	BECN2, BECN1L1, BECN1P1	gr-g	hsa04140	inhibition
+BCL2, Bcl-2, PPP1R50	pp	BECN1	gr-g	hsa04140	inhibition
+BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	pp	BECN2, BECN1L1, BECN1P1	gr-g	hsa04140	inhibition
+BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	pp	BECN1	gr-g	hsa04140	inhibition
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	inhibition
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	pp	BECN1	g-g	hsa04140	inhibition
+AMBRA1, DCAF3, WDR94	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+AMBRA1, DCAF3, WDR94	pp	BECN1	g-g	hsa04140	activation
+AMBRA1, DCAF3, WDR94	pp	TRAF6, MGC:3310, RNF85	g-g	hsa04140	activation
+TRAF6, MGC:3310, RNF85	pp	ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	g-g	hsa04140	activation
+TRAF6, MGC:3310, RNF85	pp	ULK2	g-g	hsa04140	activation
+VMP1, EPG3, TANGO5, TMEM49	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+VMP1, EPG3, TANGO5, TMEM49	pp	BECN1	g-g	hsa04140	activation
+TP53INP2, C20orf110, DOR, PIG-U, PINH, dJ1181N31	pp	VMP1, EPG3, TANGO5, TMEM49	g-g	hsa04140	activation
+STX17	pp	ATG14, ATG14L, BARKOR, KIAA0831	g-g	hsa04140	activation
+UVRAG, DHTX, VPS38, p63	pp	ATG14, ATG14L, BARKOR, KIAA0831	g-g	hsa04140	inhibition
+UVRAG, DHTX, VPS38, p63	pp	RUBCN, KIAA0226, RUBICON, SCAR15	g-g	hsa04140	activation
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	UVRAG, DHTX, VPS38, p63	g-g	hsa04140	activation
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	ATG9B, APG9L2, NOS3AS, SONE	g-g	hsa04140	activation
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	ATG9A	g-g	hsa04140	activation
+RUBCN, KIAA0226, RUBICON, SCAR15	pp	PIK3C3, VPS34, hVps34	g-g	hsa04140	inhibition
+ATG14, ATG14L, BARKOR, KIAA0831	pp	NRBF2, COPR, COPR1, COPR2, NRBF-2	g-g	hsa04140	activation
+ATG14, ATG14L, BARKOR, KIAA0831	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	binding/association
+ATG14, ATG14L, BARKOR, KIAA0831	pp	BECN1	g-g	hsa04140	binding/association
+UVRAG, DHTX, VPS38, p63	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+UVRAG, DHTX, VPS38, p63	pp	BECN1	g-g	hsa04140	activation
+BECN2, BECN1L1, BECN1P1	pp	NRBF2, COPR, COPR1, COPR2, NRBF-2	g-g	hsa04140	activation
+BECN1	pp	NRBF2, COPR, COPR1, COPR2, NRBF-2	g-g	hsa04140	activation
+BECN2, BECN1L1, BECN1P1	pp	PIK3C3, VPS34, hVps34	g-g	hsa04140	activation
+BECN1	pp	PIK3C3, VPS34, hVps34	g-g	hsa04140	activation
+NRBF2, COPR, COPR1, COPR2, NRBF-2	pp	PIK3C3, VPS34, hVps34	g-g	hsa04140	activation
+PIK3R4, VPS15, p150	pp	PIK3C3, VPS34, hVps34	g-g	hsa04140	activation
+PIK3C3, VPS34, hVps34	pc	C01194	g-c	hsa04140	activation
+C04549	pc	WIPI2, ATG18B, Atg21, CGI-50, WIPI-2	c-g	hsa04140	activation
+C04549	pc	WIPI1	c-g	hsa04140	activation
+C04549	pc	ZFYVE1, DFCP1, PPP1R172, SR3, TAFF1, ZNFN2A1	c-g	hsa04140	activation
+MTMR3, FYVE-DSP1, ZFYVE10	pc	C04549	g-c	hsa04140	inhibition
+MTMR4	pc	C04549	g-c	hsa04140	inhibition
+MTMR14, C3orf29	pc	C04549	g-c	hsa04140	inhibition
+DAPK1, DAPK	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+DAPK1, DAPK	pp	BECN1	g-g	hsa04140	activation
+DAPK3	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+DAPK2	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+DAPK3	pp	BECN1	g-g	hsa04140	activation
+DAPK2	pp	BECN1	g-g	hsa04140	activation
+EIF2AK3, PEK, PERK, WRS	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa04140	activation
+EIF2AK4, GCN2, PVOD2	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa04140	activation
+HMGB1, HMG-1, HMG1, HMG3, SBP-1	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04140	activation
+HMGB1, HMG-1, HMG1, HMG3, SBP-1	pp	BECN1	g-g	hsa04140	activation
+SNAP29, CEDNIK, SNAP-29	pp	VAMP8, EDB, VAMP-8	gr-g	hsa04140	binding/association
+STX17	pp	VAMP8, EDB, VAMP-8	gr-g	hsa04140	binding/association
+ATG14, ATG14L, BARKOR, KIAA0831	pp	SNAP29, CEDNIK, SNAP-29	g-gr	hsa04140	activation
+ATG14, ATG14L, BARKOR, KIAA0831	pp	STX17	g-gr	hsa04140	activation
+TP53INP2, C20orf110, DOR, PIG-U, PINH, dJ1181N31	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+TP53INP2, C20orf110, DOR, PIG-U, PINH, dJ1181N31	pp	GABARAPL2	g-g	hsa04140	activation
+TP53INP2, C20orf110, DOR, PIG-U, PINH, dJ1181N31	pp	GABARAPL1	g-g	hsa04140	activation
+PRKACA, PKACA, PPNAD4	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	GABARAPL2	g-g	hsa04140	inhibition
+PRKACA, PKACA, PPNAD4	pp	GABARAPL1	g-g	hsa04140	inhibition
+PRKACB	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	inhibition
+PRKACG	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	inhibition
+PRKACB	pp	GABARAPL2	g-g	hsa04140	inhibition
+PRKACB	pp	GABARAPL1	g-g	hsa04140	inhibition
+PRKACG	pp	GABARAPL2	g-g	hsa04140	inhibition
+PRKACG	pp	GABARAPL1	g-g	hsa04140	inhibition
+PRKCQ, PRKCT, nPKC-theta	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+PRKCQ, PRKCT, nPKC-theta	pp	GABARAPL2	g-g	hsa04140	activation
+PRKCQ, PRKCT, nPKC-theta	pp	GABARAPL1	g-g	hsa04140	activation
+ATG12, APG12, APG12L, FBR93, HAPG12	pp	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	g-g	hsa04140	binding/association
+ATG7, APG7-LIKE, APG7L, GSA7	pp	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04140	activation
+ATG10, APG10, APG10L, pp12616	pp	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04140	activation
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	g-gr	hsa04140	binding/association
+ATG16L2	pp	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	g-gr	hsa04140	binding/association
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	ATG12, APG12, APG12L, FBR93, HAPG12	g-gr	hsa04140	binding/association
+ATG16L2	pp	ATG12, APG12, APG12L, FBR93, HAPG12	g-gr	hsa04140	binding/association
+WIPI2, ATG18B, Atg21, CGI-50, WIPI-2	pp	ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	g-g	hsa04140	activation
+WIPI2, ATG18B, Atg21, CGI-50, WIPI-2	pp	ATG16L2	g-g	hsa04140	activation
+WIPI1	pp	ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	g-g	hsa04140	activation
+WIPI1	pp	ATG16L2	g-g	hsa04140	activation
+RB1CC1, ATG17, CC1, FIP200, PPP1R131	pp	ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	g-g	hsa04140	activation
+RB1CC1, ATG17, CC1, FIP200, PPP1R131	pp	ATG16L2	g-g	hsa04140	activation
+RAB33B, SMC2	pp	ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	g-g	hsa04140	activation
+RAB33B, SMC2	pp	ATG16L2	g-g	hsa04140	activation
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	ATG3, APG3, APG3-LIKE, APG3L, PC3-96	gr-g	hsa04140	activation
+ATG16L2	pp	ATG3, APG3, APG3-LIKE, APG3L, PC3-96	gr-g	hsa04140	activation
+ATG12, APG12, APG12L, FBR93, HAPG12	pp	ATG3, APG3, APG3-LIKE, APG3L, PC3-96	gr-g	hsa04140	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	ATG3, APG3, APG3-LIKE, APG3L, PC3-96	gr-g	hsa04140	activation
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	GABARAP, ATG8A, GABARAP-a, MM46	gr-g	hsa04140	activation
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	GABARAPL2	gr-g	hsa04140	activation
+ATG16L1, APG16L, ATG16A, ATG16L, IBD10, WDR30	pp	GABARAPL1	gr-g	hsa04140	activation
+ATG16L2	pp	GABARAP, ATG8A, GABARAP-a, MM46	gr-g	hsa04140	activation
+ATG16L2	pp	GABARAPL2	gr-g	hsa04140	activation
+ATG16L2	pp	GABARAPL1	gr-g	hsa04140	activation
+ATG12, APG12, APG12L, FBR93, HAPG12	pp	GABARAP, ATG8A, GABARAP-a, MM46	gr-g	hsa04140	activation
+ATG12, APG12, APG12L, FBR93, HAPG12	pp	GABARAPL2	gr-g	hsa04140	activation
+ATG12, APG12, APG12L, FBR93, HAPG12	pp	GABARAPL1	gr-g	hsa04140	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	GABARAP, ATG8A, GABARAP-a, MM46	gr-g	hsa04140	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	GABARAPL2	gr-g	hsa04140	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	GABARAPL1	gr-g	hsa04140	activation
+ATG7, APG7-LIKE, APG7L, GSA7	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG7, APG7-LIKE, APG7L, GSA7	pp	GABARAPL2	g-g	hsa04140	activation
+ATG7, APG7-LIKE, APG7L, GSA7	pp	GABARAPL1	g-g	hsa04140	activation
+ATG3, APG3, APG3-LIKE, APG3L, PC3-96	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG3, APG3, APG3-LIKE, APG3L, PC3-96	pp	GABARAPL2	g-g	hsa04140	activation
+ATG3, APG3, APG3-LIKE, APG3L, PC3-96	pp	GABARAPL1	g-g	hsa04140	activation
+CFLAR, CASH, CASP8AP1, CLARP, Casper, FLAME, FLAME-1, FLAME1, FLIP, I-FLICE, MRIT, c-FLIP, c-FLIPL, c-FLIPR, c-FLIPS	pp	ATG3, APG3, APG3-LIKE, APG3L, PC3-96	g-g	hsa04140	inhibition
+ATG4A, APG4A, AUTL2	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG4A, APG4A, AUTL2	pp	GABARAPL2	g-g	hsa04140	activation
+ATG4A, APG4A, AUTL2	pp	GABARAPL1	g-g	hsa04140	activation
+ATG4B	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG4C	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG4D	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04140	activation
+ATG4B	pp	GABARAPL2	g-g	hsa04140	activation
+ATG4B	pp	GABARAPL1	g-g	hsa04140	activation
+ATG4C	pp	GABARAPL2	g-g	hsa04140	activation
+ATG4C	pp	GABARAPL1	g-g	hsa04140	activation
+ATG4D	pp	GABARAPL2	g-g	hsa04140	activation
+ATG4D	pp	GABARAPL1	g-g	hsa04140	activation
+C00350	pc	GABARAP, ATG8A, GABARAP-a, MM46	c-g	hsa04140	binding/association
+C00350	pc	GABARAPL2	c-g	hsa04140	binding/association
+C00350	pc	GABARAPL1	c-g	hsa04140	binding/association
+RPTOR, KOG1, Mip1	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04140	binding/association
+AKT1S1, Lobe, PRAS40	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04140	inhibition
+DEPTOR, DEP6, DEPDC6	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04140	inhibition
+AKT1S1, Lobe, PRAS40	pp	RPTOR, KOG1, Mip1	g-g	hsa04140	inhibition
+MLST8, GBL, GbetaL, LST8, POP3, WAT1	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04140	binding/association
+EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	pp	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04140	activation
+LAMP1, CD107a, LAMPA, LGP120				hsa04140	
+LAMP2				hsa04140	
+RAB7B, RAB7				hsa04140	
+RAB7A				hsa04140	
+CTSD, CLN10, CPSD, HEL-S-130P				hsa04140	
+CTSL, CATL, CTSL1, MEP				hsa04140	
+CTSB, APPS, CPSB				hsa04140	

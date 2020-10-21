@@ -1,0 +1,91 @@
+C00031	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	irreversible	hsa00524	se
+C00031	rt	HK2	irreversible	hsa00524	se
+C00031	rt	HK3	irreversible	hsa00524	se
+C00031	rt	HKDC1	irreversible	hsa00524	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00092	irreversible	hsa00524	ep
+HK2	rt	C00092	irreversible	hsa00524	ep
+HK3	rt	C00092	irreversible	hsa00524	ep
+HKDC1	rt	C00092	irreversible	hsa00524	ep
+C00031	rt	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	irreversible	hsa00524	se
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	rt	C00092	irreversible	hsa00524	ep
+C17209				hsa00524	
+C17580				hsa00524	
+C17581				hsa00524	
+C02627				hsa00524	
+C17582				hsa00524	
+C01743				hsa00524	
+C17583				hsa00524	
+C01441				hsa00524	
+C18004				hsa00524	
+C01759				hsa00524	
+C17587				hsa00524	
+C00043				hsa00524	
+C17588				hsa00524	
+C17589				hsa00524	
+C15652				hsa00524	
+C01737				hsa00524	
+C18005				hsa00524	
+C17586				hsa00524	
+C17585				hsa00524	
+C00229				hsa00524	
+C00025				hsa00524	
+C18006				hsa00524	
+C18007				hsa00524	
+C18008				hsa00524	
+C18009				hsa00524	
+C20353				hsa00524	
+C20350				hsa00524	
+C20351				hsa00524	
+C00825				hsa00524	
+C20509				hsa00524	
+C01822				hsa00524	
+C01823				hsa00524	
+C21176				hsa00524	
+C17584				hsa00524	
+C20699				hsa00524	
+C21252				hsa00524	
+C12210				hsa00524	
+C00029				hsa00524	
+C12211				hsa00524	
+C20614				hsa00524	
+C21251				hsa00524	
+C21253				hsa00524	
+C00043				hsa00524	
+C21259				hsa00524	
+C00397				hsa00524	
+C18001				hsa00524	
+C17701				hsa00524	
+C21265				hsa00524	
+C21266				hsa00524	
+C01917				hsa00524	
+C17702				hsa00524	
+C17703				hsa00524	
+C21267				hsa00524	
+C21268				hsa00524	
+C21269				hsa00524	
+C17704				hsa00524	
+C00908				hsa00524	
+C17706				hsa00524	
+C21270				hsa00524	
+C02033				hsa00524	
+C07656				hsa00524	
+C17705				hsa00524	
+C21257				hsa00524	
+C21255				hsa00524	
+C21256				hsa00524	
+C21258				hsa00524	
+C18002				hsa00524	
+C21261				hsa00524	
+C21262				hsa00524	
+C21260				hsa00524	
+C21263				hsa00524	
+C17712				hsa00524	
+C18003				hsa00524	
+C21254				hsa00524	
+C01555				hsa00524	
+C17997				hsa00524	
+C18000				hsa00524	
+C17707				hsa00524	
+C00832				hsa00524	
+C21264				hsa00524	
+C12211				hsa00524	

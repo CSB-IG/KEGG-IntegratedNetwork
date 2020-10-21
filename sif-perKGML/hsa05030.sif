@@ -1,0 +1,165 @@
+JUN, AP-1, AP1, c-Jun	gr	FOSB, AP-1, G0S3, GOS3, GOSB	group	hsa05030	group
+C00025	pc	GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	c-g	hsa05030	activation
+C00025	pc	GRM3	c-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI1, Gi	g-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI2	g-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI3	g-g	hsa05030	activation
+GRM3	pp	GNAI1, Gi	g-g	hsa05030	activation
+GRM3	pp	GNAI2	g-g	hsa05030	activation
+GRM3	pp	GNAI3	g-g	hsa05030	activation
+C03758	pc	DRD1, DADR, DRD1A	c-g	hsa05030	activation
+DRD1, DADR, DRD1A	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa05030	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5, AC5, FDFM	g-g	hsa05030	activation
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa05030	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05030	activation
+C00575	pc	PRKACB	c-g	hsa05030	activation
+C00575	pc	PRKACG	c-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB1	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	ATF2	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	ATF6B	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L4	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	ATF4	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L2	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L3	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L1	g-g	hsa05030	activation
+PRKACA, PKACA, PPNAD4	pp	CREB5	g-g	hsa05030	activation
+PRKACB	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa05030	activation
+PRKACG	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa05030	activation
+PRKACB	pp	CREB1	g-g	hsa05030	activation
+PRKACB	pp	ATF2	g-g	hsa05030	activation
+PRKACB	pp	ATF6B	g-g	hsa05030	activation
+PRKACB	pp	CREB3L4	g-g	hsa05030	activation
+PRKACB	pp	ATF4	g-g	hsa05030	activation
+PRKACB	pp	CREB3L2	g-g	hsa05030	activation
+PRKACB	pp	CREB3L3	g-g	hsa05030	activation
+PRKACB	pp	CREB3L1	g-g	hsa05030	activation
+PRKACB	pp	CREB5	g-g	hsa05030	activation
+PRKACG	pp	CREB1	g-g	hsa05030	activation
+PRKACG	pp	ATF2	g-g	hsa05030	activation
+PRKACG	pp	ATF6B	g-g	hsa05030	activation
+PRKACG	pp	CREB3L4	g-g	hsa05030	activation
+PRKACG	pp	ATF4	g-g	hsa05030	activation
+PRKACG	pp	CREB3L2	g-g	hsa05030	activation
+PRKACG	pp	CREB3L3	g-g	hsa05030	activation
+PRKACG	pp	CREB3L1	g-g	hsa05030	activation
+PRKACG	pp	CREB5	g-g	hsa05030	activation
+C03758	pc	DRD2, D2DR, D2R	c-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI1, Gi	g-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI2	g-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI3	g-g	hsa05030	activation
+C03758	pc	DRD1, DADR, DRD1A	c-g	hsa05030	activation
+DRD1, DADR, DRD1A	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa05030	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5, AC5, FDFM	g-g	hsa05030	activation
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa05030	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05030	activation
+C00575	pc	PRKACB	c-g	hsa05030	activation
+C00575	pc	PRKACG	c-g	hsa05030	activation
+C00025	pc	GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	c-g	hsa05030	activation
+C00025	pc	GRM3	c-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI1, Gi	g-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI2	g-g	hsa05030	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pp	GNAI3	g-g	hsa05030	activation
+GRM3	pp	GNAI1, Gi	g-g	hsa05030	activation
+GRM3	pp	GNAI2	g-g	hsa05030	activation
+GRM3	pp	GNAI3	g-g	hsa05030	activation
+C03758	pc	DRD1, DADR, DRD1A	c-g	hsa05030	activation
+DRD1, DADR, DRD1A	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa05030	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5, AC5, FDFM	g-g	hsa05030	activation
+C03758	pc	DRD2, D2DR, D2R	c-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI1, Gi	g-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI2	g-g	hsa05030	activation
+DRD2, D2DR, D2R	pp	GNAI3	g-g	hsa05030	activation
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa05030	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05030	activation
+C00575	pc	PRKACB	c-g	hsa05030	activation
+C00575	pc	PRKACG	c-g	hsa05030	activation
+GPSM1, AGS3	pp	GNAI1, Gi	g-g	hsa05030	inhibition
+GPSM1, AGS3	pp	GNAI2	g-g	hsa05030	inhibition
+GPSM1, AGS3	pp	GNAI3	g-g	hsa05030	inhibition
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa05030	inhibition
+RGS9, PERRS, RGS9L	pp	GNAI1, Gi	g-g	hsa05030	inhibition
+RGS9, PERRS, RGS9L	pp	GNAI2	g-g	hsa05030	inhibition
+RGS9, PERRS, RGS9L	pp	GNAI3	g-g	hsa05030	inhibition
+PPP1R1B, DARPP-32, DARPP32	pp	PRKACA, PKACA, PPNAD4	g-g	hsa05030	inhibition
+PPP1R1B, DARPP-32, DARPP32	pp	PRKACB	g-g	hsa05030	inhibition
+PPP1R1B, DARPP-32, DARPP32	pp	PRKACG	g-g	hsa05030	inhibition
+CDK5R1, CDK5P35, CDK5R, NCK5A, p23, p25, p35, p35nck5a	pp	CDK5, LIS7, PSSALRE	g-g	hsa05030	binding/association
+CREB3, LUMAN, LZIP, sLZIP	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB1	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+ATF2	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+ATF6B	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB3L4	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+ATF4	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB3L2	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB3L3	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB3L1	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB5	pd	PDYN, ADCA, PENKB, SCA23	g-g	hsa05030	expression
+CREB3, LUMAN, LZIP, sLZIP	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB1	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+ATF2	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+ATF6B	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB3L4	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+ATF4	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB3L2	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB3L3	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB3L1	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+CREB5	pd	BDNF, ANON2, BULN2	g-g	hsa05030	expression
+JUN, AP-1, AP1, c-Jun	pd	GRIA2, GLUR2, GLURB, GluA2, GluR-K2, HBGR2	gr-g	hsa05030	expression
+FOSB, AP-1, G0S3, GOS3, GOSB	pd	GRIA2, GLUR2, GLURB, GluA2, GluR-K2, HBGR2	gr-g	hsa05030	expression
+JUN, AP-1, AP1, c-Jun	pd	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	gr-g	hsa05030	expression
+JUN, AP-1, AP1, c-Jun	pd	RELA	gr-g	hsa05030	expression
+FOSB, AP-1, G0S3, GOS3, GOSB	pd	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	gr-g	hsa05030	expression
+FOSB, AP-1, G0S3, GOS3, GOSB	pd	RELA	gr-g	hsa05030	expression
+JUN, AP-1, AP1, c-Jun	pd	CDK5, LIS7, PSSALRE	gr-g	hsa05030	expression
+FOSB, AP-1, G0S3, GOS3, GOSB	pd	CDK5, LIS7, PSSALRE	gr-g	hsa05030	expression
+CDK5, LIS7, PSSALRE	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	activation
+CDK5, LIS7, PSSALRE	pp	PPP1R1B, DARPP-32, DARPP32	g-g	hsa05030	activation
+GRIN3A, GluN3A, NMDAR-L, NR3A	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN3B	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN1	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN2A	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN2B	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN2C	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+GRIN2D	pp	DLG4, PSD95, SAP-90, SAP90	g-g	hsa05030	binding/association
+SLC18A1, CGAT, VAT1, VMAT1				hsa05030	
+SLC18A2				hsa05030	
+SLC18A1, CGAT, VAT1, VMAT1				hsa05030	
+SLC18A2				hsa05030	
+MAOA, MAO-A				hsa05030	
+MAOB				hsa05030	
+C00082				hsa05030	
+C00355				hsa05030	
+C01161				hsa05030	
+C00027				hsa05030	
+C00082				hsa05030	
+C00355				hsa05030	
+C01161				hsa05030	
+C00027				hsa05030	
+TH, DYT14, DYT5b, TYH				hsa05030	
+DDC, AADC				hsa05030	
+TH, DYT14, DYT5b, TYH				hsa05030	
+DDC, AADC				hsa05030	
+MAOA, MAO-A				hsa05030	
+MAOB				hsa05030	
+C00082				hsa05030	
+C00355				hsa05030	
+C01161				hsa05030	
+C00027				hsa05030	
+TH, DYT14, DYT5b, TYH				hsa05030	
+DDC, AADC				hsa05030	
+SLC18A1, CGAT, VAT1, VMAT1				hsa05030	
+SLC18A2				hsa05030	
+MAOA, MAO-A				hsa05030	
+MAOB				hsa05030	

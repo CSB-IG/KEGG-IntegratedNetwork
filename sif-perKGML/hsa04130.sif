@@ -1,0 +1,79 @@
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX1B, GEFSP9, STX1B1, STX1B2	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX2	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX1A	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX3	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX4	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX1B, GEFSP9, STX1B1, STX1B2	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX2	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX1A	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX3	group	hsa04130	group
+SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	gr	STX4	group	hsa04130	group
+STX16, SYN16	gr	STX6	group	hsa04130	group
+STX16, SYN16	gr	STX10	group	hsa04130	group
+STX16, SYN16	gr	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	group	hsa04130	group
+STX16, SYN16	gr	VTI1A	group	hsa04130	group
+STX6	gr	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	group	hsa04130	group
+STX6	gr	VTI1A	group	hsa04130	group
+STX10	gr	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	group	hsa04130	group
+STX10	gr	VTI1A	group	hsa04130	group
+VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	gr	STX8, CARB	group	hsa04130	group
+VTI1A	gr	STX8, CARB	group	hsa04130	group
+VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	gr	STX7	group	hsa04130	group
+VTI1A	gr	STX7	group	hsa04130	group
+STX8, CARB	gr	STX7	group	hsa04130	group
+GOSR2, Bos1, EPM6, GS27	gr	STX5, SED5, STX5A	group	hsa04130	group
+GOSR2, Bos1, EPM6, GS27	gr	SEC22B, ERS-24, SEC22L1	group	hsa04130	group
+STX5, SED5, STX5A	gr	SEC22B, ERS-24, SEC22L1	group	hsa04130	group
+BNIP1, NIP1, SEC20, TRG-8	gr	USE1, D12, MDS032, P31, SLT1	group	hsa04130	group
+BNIP1, NIP1, SEC20, TRG-8	gr	STX18, Ufe1	group	hsa04130	group
+USE1, D12, MDS032, P31, SLT1	gr	STX18, Ufe1	group	hsa04130	group
+VAMP1, SPAX1, SYB1, VAMP-1	pp	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	g-gr	hsa04130	activation
+VAMP2	pp	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	g-gr	hsa04130	activation
+VAMP3	pp	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	g-gr	hsa04130	activation
+VAMP1, SPAX1, SYB1, VAMP-1	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-gr	hsa04130	activation
+VAMP1, SPAX1, SYB1, VAMP-1	pp	STX2	g-gr	hsa04130	activation
+VAMP1, SPAX1, SYB1, VAMP-1	pp	STX1A	g-gr	hsa04130	activation
+VAMP1, SPAX1, SYB1, VAMP-1	pp	STX3	g-gr	hsa04130	activation
+VAMP1, SPAX1, SYB1, VAMP-1	pp	STX4	g-gr	hsa04130	activation
+VAMP2	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-gr	hsa04130	activation
+VAMP3	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-gr	hsa04130	activation
+VAMP2	pp	STX2	g-gr	hsa04130	activation
+VAMP2	pp	STX1A	g-gr	hsa04130	activation
+VAMP2	pp	STX3	g-gr	hsa04130	activation
+VAMP2	pp	STX4	g-gr	hsa04130	activation
+VAMP3	pp	STX2	g-gr	hsa04130	activation
+VAMP3	pp	STX1A	g-gr	hsa04130	activation
+VAMP3	pp	STX3	g-gr	hsa04130	activation
+VAMP3	pp	STX4	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	SNAP23, HsT17016, SNAP-23, SNAP23A, SNAP23B	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX2	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX1A	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX3	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX4	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX16, SYN16	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX6	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	STX10	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	g-gr	hsa04130	activation
+VAMP4, VAMP-4, VAMP24	pp	VTI1A	g-gr	hsa04130	activation
+YKT6	pp	VTI1B, VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1	g-gr	hsa04130	activation
+YKT6	pp	VTI1A	g-gr	hsa04130	activation
+YKT6	pp	STX8, CARB	g-gr	hsa04130	activation
+YKT6	pp	STX7	g-gr	hsa04130	activation
+BET1, HBET1	pp	GOSR2, Bos1, EPM6, GS27	g-gr	hsa04130	activation
+BET1L	pp	GOSR2, Bos1, EPM6, GS27	g-gr	hsa04130	activation
+BET1, HBET1	pp	STX5, SED5, STX5A	g-gr	hsa04130	activation
+BET1L	pp	STX5, SED5, STX5A	g-gr	hsa04130	activation
+BET1, HBET1	pp	SEC22B, ERS-24, SEC22L1	g-gr	hsa04130	activation
+BET1L	pp	SEC22B, ERS-24, SEC22L1	g-gr	hsa04130	activation
+SEC22B, ERS-24, SEC22L1	pp	BNIP1, NIP1, SEC20, TRG-8	g-gr	hsa04130	activation
+SEC22B, ERS-24, SEC22L1	pp	USE1, D12, MDS032, P31, SLT1	g-gr	hsa04130	activation
+SEC22B, ERS-24, SEC22L1	pp	STX18, Ufe1	g-gr	hsa04130	activation
+STX17				hsa04130	
+GOSR1, GOLIM2, GOS-28, GOS28, GOS28/P28, GS28, P28				hsa04130	
+SNAP29, CEDNIK, SNAP-29				hsa04130	
+STX19				hsa04130	
+STX11				hsa04130	
+VAMP5				hsa04130	
+VAMP8, EDB, VAMP-8				hsa04130	
+VAMP7, SYBL1, TI-VAMP, TIVAMP, VAMP-7				hsa04130	

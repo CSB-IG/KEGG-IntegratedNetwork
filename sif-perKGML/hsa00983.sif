@@ -1,0 +1,513 @@
+TPMT, TPMTD	ec	HPRT1, HGPRT, HPRT	g-g	hsa00983	compound
+TPMT, TPMTD	ec	XDH, XAN1, XO, XOR	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	XDH, XAN1, XO, XOR	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	TPMT, TPMTD	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	TPMT, TPMTD	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	IMPDH2	g-g	hsa00983	compound
+HPRT1, HGPRT, HPRT	ec	TPMT, TPMTD	g-g	hsa00983	compound
+ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	ec	IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	g-g	hsa00983	compound
+ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	ec	IMPDH2	g-g	hsa00983	compound
+ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	ec	TPMT, TPMTD	g-g	hsa00983	compound
+IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	ec	TPMT, TPMTD	g-g	hsa00983	compound
+IMPDH2	ec	TPMT, TPMTD	g-g	hsa00983	compound
+IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	ec	GMPS, GATD7	g-g	hsa00983	compound
+IMPDH2	ec	GMPS, GATD7	g-g	hsa00983	compound
+GMPS, GATD7	ec	TPMT, TPMTD	g-g	hsa00983	compound
+GMPS, GATD7	ec	HPRT1, HGPRT, HPRT	g-g	hsa00983	compound
+TPMT, TPMTD	ec	HPRT1, HGPRT, HPRT	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	CDA, CDD	g-g	hsa00983	compound
+CES1	ec	CDA, CDD	g-g	hsa00983	compound
+CDA, CDD	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00983	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UMPS, OPRT	g-g	hsa00983	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00983	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UPP1	g-g	hsa00983	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+DPYD, DHP, DHPDHASE, DPD	ec	UMPS, OPRT	g-g	hsa00983	compound
+DPYD, DHP, DHPDHASE, DPD	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00983	compound
+DPYD, DHP, DHPDHASE, DPD	ec	UPP1	g-g	hsa00983	compound
+DPYD, DHP, DHPDHASE, DPD	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+UMPS, OPRT	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00983	compound
+UMPS, OPRT	ec	UPP1	g-g	hsa00983	compound
+UMPS, OPRT	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+UPP1	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00983	compound
+DPYD, DHP, DHPDHASE, DPD	ec	DPYS, DHP, DHPase	g-g	hsa00983	compound
+DPYS, DHP, DHPase	ec	UPB1, BUP1	g-g	hsa00983	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	UCKL1, UCK1L, URKL1	g-g	hsa00983	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	UCK2	g-g	hsa00983	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	UCK1	g-g	hsa00983	compound
+UPP1	ec	UCKL1, UCK1L, URKL1	g-g	hsa00983	compound
+UPP1	ec	UCK2	g-g	hsa00983	compound
+UPP1	ec	UCK1	g-g	hsa00983	compound
+UCKL1, UCK1L, URKL1	ec	UMPS, OPRT	g-g	hsa00983	compound
+UCK2	ec	UMPS, OPRT	g-g	hsa00983	compound
+UCK1	ec	UMPS, OPRT	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	TK1, TK2	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	TK1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B11	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B28	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A10	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A8	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A7	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A6	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A5	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A9	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A4	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A3	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A2	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B4	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B7	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B10	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B15	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B17	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A3	g-g	hsa00983	compound
+CES1	ec	UGT2B11	g-g	hsa00983	compound
+CES1	ec	UGT2A1	g-g	hsa00983	compound
+CES1	ec	UGT2B28	g-g	hsa00983	compound
+CES1	ec	UGT1A10	g-g	hsa00983	compound
+CES1	ec	UGT1A8	g-g	hsa00983	compound
+CES1	ec	UGT1A7	g-g	hsa00983	compound
+CES1	ec	UGT1A6	g-g	hsa00983	compound
+CES1	ec	UGT1A5	g-g	hsa00983	compound
+CES1	ec	UGT1A9	g-g	hsa00983	compound
+CES1	ec	UGT1A4	g-g	hsa00983	compound
+CES1	ec	UGT1A1	g-g	hsa00983	compound
+CES1	ec	UGT1A3	g-g	hsa00983	compound
+CES1	ec	UGT2A2	g-g	hsa00983	compound
+CES1	ec	UGT2B4	g-g	hsa00983	compound
+CES1	ec	UGT2B7	g-g	hsa00983	compound
+CES1	ec	UGT2B10	g-g	hsa00983	compound
+CES1	ec	UGT2B15	g-g	hsa00983	compound
+CES1	ec	UGT2B17	g-g	hsa00983	compound
+CES1	ec	UGT2A3	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+CES1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B11	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B28	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A10	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A8	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A7	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A6	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A5	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A9	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A4	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT1A3	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A2	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B4	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B7	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B10	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B15	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2B17	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	UGT2A3	g-g	hsa00983	compound
+CES1	ec	UGT2B11	g-g	hsa00983	compound
+CES1	ec	UGT2A1	g-g	hsa00983	compound
+CES1	ec	UGT2B28	g-g	hsa00983	compound
+CES1	ec	UGT1A10	g-g	hsa00983	compound
+CES1	ec	UGT1A8	g-g	hsa00983	compound
+CES1	ec	UGT1A7	g-g	hsa00983	compound
+CES1	ec	UGT1A6	g-g	hsa00983	compound
+CES1	ec	UGT1A5	g-g	hsa00983	compound
+CES1	ec	UGT1A9	g-g	hsa00983	compound
+CES1	ec	UGT1A4	g-g	hsa00983	compound
+CES1	ec	UGT1A1	g-g	hsa00983	compound
+CES1	ec	UGT1A3	g-g	hsa00983	compound
+CES1	ec	UGT2A2	g-g	hsa00983	compound
+CES1	ec	UGT2B4	g-g	hsa00983	compound
+CES1	ec	UGT2B7	g-g	hsa00983	compound
+CES1	ec	UGT2B10	g-g	hsa00983	compound
+CES1	ec	UGT2B15	g-g	hsa00983	compound
+CES1	ec	UGT2B17	g-g	hsa00983	compound
+CES1	ec	UGT2A3	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+CES1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B11	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2A1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B28	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A10	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A8	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A7	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A6	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A5	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A9	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A4	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A1	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT1A3	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2A2	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B4	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B7	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B10	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B15	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2B17	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+UGT2A3	ec	GUSB, BG, MPS7	g-g	hsa00983	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CES1	g-g	hsa00983	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CES1	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	UMPS, OPRT	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00983	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	UPP1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	UCKL1, UCK1L, URKL1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	UCK2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	UCK1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	UMPS, OPRT	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME7	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME3	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME4	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME1-NME2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM2	g-g	hsa00983	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM1	g-g	hsa00983	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2	g-g	hsa00983	compound
+NME7	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME4	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME1-NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+NME7	ec	RRM1	g-g	hsa00983	compound
+NME7	ec	RRM2	g-g	hsa00983	compound
+NME1	ec	RRM1	g-g	hsa00983	compound
+NME1	ec	RRM2	g-g	hsa00983	compound
+NME2	ec	RRM1	g-g	hsa00983	compound
+NME2	ec	RRM2	g-g	hsa00983	compound
+NME3	ec	RRM1	g-g	hsa00983	compound
+NME3	ec	RRM2	g-g	hsa00983	compound
+NME4	ec	RRM1	g-g	hsa00983	compound
+NME4	ec	RRM2	g-g	hsa00983	compound
+NME1-NME2	ec	RRM1	g-g	hsa00983	compound
+NME1-NME2	ec	RRM2	g-g	hsa00983	compound
+TK1, TK2	ec	CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	g-g	hsa00983	compound
+TK1	ec	CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	g-g	hsa00983	compound
+TK1, TK2	ec	DUT, dUTPase	g-g	hsa00983	compound
+TK1	ec	DUT, dUTPase	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	DUT, dUTPase	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	RRM2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME7	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME1	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME2	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME3	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME4	g-g	hsa00983	compound
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	ec	NME1-NME2	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME7	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME1	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME2	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME3	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME4	g-g	hsa00983	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	NME1-NME2	g-g	hsa00983	compound
+RRM1	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00983	compound
+RRM2	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00983	compound
+RRM1	ec	NME7	g-g	hsa00983	compound
+RRM1	ec	NME1	g-g	hsa00983	compound
+RRM1	ec	NME2	g-g	hsa00983	compound
+RRM1	ec	NME3	g-g	hsa00983	compound
+RRM1	ec	NME4	g-g	hsa00983	compound
+RRM1	ec	NME1-NME2	g-g	hsa00983	compound
+RRM2	ec	NME7	g-g	hsa00983	compound
+RRM2	ec	NME1	g-g	hsa00983	compound
+RRM2	ec	NME2	g-g	hsa00983	compound
+RRM2	ec	NME3	g-g	hsa00983	compound
+RRM2	ec	NME4	g-g	hsa00983	compound
+RRM2	ec	NME1-NME2	g-g	hsa00983	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME7	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME1	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME2	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME3	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME4	ec	DUT, dUTPase	g-g	hsa00983	compound
+NME1-NME2	ec	DUT, dUTPase	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	MPO	g-g	hsa00983	compound
+CES1	ec	MPO	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	NAT2, AAC2, NAT-2, PNAT	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	NAT1	g-g	hsa00983	compound
+CES1	ec	NAT2, AAC2, NAT-2, PNAT	g-g	hsa00983	compound
+CES1	ec	NAT1	g-g	hsa00983	compound
+MPO	ec	NAT2, AAC2, NAT-2, PNAT	g-g	hsa00983	compound
+MPO	ec	NAT1	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	NAT2, AAC2, NAT-2, PNAT	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	NAT1	g-g	hsa00983	compound
+CES1	ec	NAT2, AAC2, NAT-2, PNAT	g-g	hsa00983	compound
+CES1	ec	NAT1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1	g-g	hsa00983	compound
+NAT1	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT1	ec	CES1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1	g-g	hsa00983	compound
+NAT1	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT1	ec	CES1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+NAT1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CES1	g-g	hsa00983	compound
+NAT1	ec	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	g-g	hsa00983	compound
+NAT1	ec	CES1	g-g	hsa00983	compound
+NAT2, AAC2, NAT-2, PNAT	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+NAT1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+CES1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00983	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00983	compound
+C02380	rt	TPMT, TPMTD	irreversible	hsa00983	se
+TPMT, TPMTD	rt	C16614	irreversible	hsa00983	ep
+C04646	rt	TPMT, TPMTD	irreversible	hsa00983	se
+TPMT, TPMTD	rt	C16615	irreversible	hsa00983	ep
+C16619	rt	TPMT, TPMTD	irreversible	hsa00983	se
+TPMT, TPMTD	rt	C16620	irreversible	hsa00983	ep
+C16614	rt	HPRT1, HGPRT, HPRT	irreversible	hsa00983	se
+HPRT1, HGPRT, HPRT	rt	C16615	irreversible	hsa00983	ep
+C02380	rt	HPRT1, HGPRT, HPRT	irreversible	hsa00983	se
+HPRT1, HGPRT, HPRT	rt	C04646	irreversible	hsa00983	ep
+C07648	rt	HPRT1, HGPRT, HPRT	irreversible	hsa00983	se
+HPRT1, HGPRT, HPRT	rt	C16619	irreversible	hsa00983	ep
+C16618	rt	GMPS, GATD7	irreversible	hsa00983	se
+GMPS, GATD7	rt	C16619	irreversible	hsa00983	ep
+C16617	rt	ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	irreversible	hsa00983	se
+ITPA, C20orf37, HLC14-06-P, ITPase, My049, NTPase, dJ794I63	rt	C04646	irreversible	hsa00983	ep
+C02380	rt	XDH, XAN1, XO, XOR	irreversible	hsa00983	se
+XDH, XAN1, XO, XOR	rt	C16613	irreversible	hsa00983	ep
+C07054	rt	NAT2, AAC2, NAT-2, PNAT	irreversible	hsa00983	se
+C07054	rt	NAT1	irreversible	hsa00983	se
+NAT2, AAC2, NAT-2, PNAT	rt	C07585	irreversible	hsa00983	ep
+NAT1	rt	C07585	irreversible	hsa00983	ep
+C07447	rt	NAT2, AAC2, NAT-2, PNAT	irreversible	hsa00983	se
+C07447	rt	NAT1	irreversible	hsa00983	se
+NAT2, AAC2, NAT-2, PNAT	rt	C16622	irreversible	hsa00983	ep
+NAT1	rt	C16622	irreversible	hsa00983	ep
+C07649	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00983	se
+C07649	rt	UPP1	reversible	hsa00983	se
+UPP2, UDRPASE2, UP2, UPASE2	rt	C07649	reversible	hsa00983	ep
+UPP1	rt	C07649	reversible	hsa00983	ep
+UPP2, UDRPASE2, UP2, UPASE2	rt	C16633	reversible	hsa00983	ep
+UPP1	rt	C16633	reversible	hsa00983	ep
+C16633	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00983	se
+C16633	rt	UPP1	reversible	hsa00983	se
+C07649	rt	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	reversible	hsa00983	se
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C07649	reversible	hsa00983	ep
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C11736	reversible	hsa00983	ep
+C11736	rt	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	reversible	hsa00983	se
+C07649	rt	DPYD, DHP, DHPDHASE, DPD	irreversible	hsa00983	se
+DPYD, DHP, DHPDHASE, DPD	rt	C16630	irreversible	hsa00983	ep
+C16630	rt	DPYS, DHP, DHPase	irreversible	hsa00983	se
+DPYS, DHP, DHPase	rt	C16631	irreversible	hsa00983	ep
+C16631	rt	UPB1, BUP1	irreversible	hsa00983	se
+UPB1, BUP1	rt	C16632	irreversible	hsa00983	ep
+C07649	rt	UMPS, OPRT	irreversible	hsa00983	se
+UMPS, OPRT	rt	C16634	irreversible	hsa00983	ep
+C16633	rt	UCKL1, UCK1L, URKL1	irreversible	hsa00983	se
+C16633	rt	UCK2	irreversible	hsa00983	se
+C16633	rt	UCK1	irreversible	hsa00983	se
+UCKL1, UCK1L, URKL1	rt	C16634	irreversible	hsa00983	ep
+UCK2	rt	C16634	irreversible	hsa00983	ep
+UCK1	rt	C16634	irreversible	hsa00983	ep
+C11736	rt	TK1, TK2	irreversible	hsa00983	se
+C11736	rt	TK1	irreversible	hsa00983	se
+TK1, TK2	rt	C04242	irreversible	hsa00983	ep
+TK1	rt	C04242	irreversible	hsa00983	ep
+C04646	rt	IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	irreversible	hsa00983	se
+C04646	rt	IMPDH2	irreversible	hsa00983	se
+IMPDH1, IMPD, IMPD1, IMPDH-I, LCA11, RP10, sWSS2608	rt	C16618	irreversible	hsa00983	ep
+IMPDH2	rt	C16618	irreversible	hsa00983	ep
+C12673	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00983	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C07649	irreversible	hsa00983	ep
+C12739	rt	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	irreversible	hsa00983	se
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C07649	irreversible	hsa00983	ep
+C16635	rt	CDA, CDD	irreversible	hsa00983	se
+CDA, CDD	rt	C12739	irreversible	hsa00983	ep
+C12650	rt	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	irreversible	hsa00983	se
+C12650	rt	CES1	irreversible	hsa00983	se
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C16635	irreversible	hsa00983	ep
+CES1	rt	C16635	irreversible	hsa00983	ep
+C16641	rt	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	irreversible	hsa00983	se
+C16641	rt	CES1	irreversible	hsa00983	se
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C11173	irreversible	hsa00983	ep
+CES1	rt	C11173	irreversible	hsa00983	ep
+C11173	rt	UGT2B11	irreversible	hsa00983	se
+C11173	rt	UGT2A1	irreversible	hsa00983	se
+C11173	rt	UGT2B28	irreversible	hsa00983	se
+C11173	rt	UGT1A10	irreversible	hsa00983	se
+C11173	rt	UGT1A8	irreversible	hsa00983	se
+C11173	rt	UGT1A7	irreversible	hsa00983	se
+C11173	rt	UGT1A6	irreversible	hsa00983	se
+C11173	rt	UGT1A5	irreversible	hsa00983	se
+C11173	rt	UGT1A9	irreversible	hsa00983	se
+C11173	rt	UGT1A4	irreversible	hsa00983	se
+C11173	rt	UGT1A1	irreversible	hsa00983	se
+C11173	rt	UGT1A3	irreversible	hsa00983	se
+C11173	rt	UGT2A2	irreversible	hsa00983	se
+C11173	rt	UGT2B4	irreversible	hsa00983	se
+C11173	rt	UGT2B7	irreversible	hsa00983	se
+C11173	rt	UGT2B10	irreversible	hsa00983	se
+C11173	rt	UGT2B15	irreversible	hsa00983	se
+C11173	rt	UGT2B17	irreversible	hsa00983	se
+C11173	rt	UGT2A3	irreversible	hsa00983	se
+UGT2B11	rt	C11376	irreversible	hsa00983	ep
+UGT2A1	rt	C11376	irreversible	hsa00983	ep
+UGT2B28	rt	C11376	irreversible	hsa00983	ep
+UGT1A10	rt	C11376	irreversible	hsa00983	ep
+UGT1A8	rt	C11376	irreversible	hsa00983	ep
+UGT1A7	rt	C11376	irreversible	hsa00983	ep
+UGT1A6	rt	C11376	irreversible	hsa00983	ep
+UGT1A5	rt	C11376	irreversible	hsa00983	ep
+UGT1A9	rt	C11376	irreversible	hsa00983	ep
+UGT1A4	rt	C11376	irreversible	hsa00983	ep
+UGT1A1	rt	C11376	irreversible	hsa00983	ep
+UGT1A3	rt	C11376	irreversible	hsa00983	ep
+UGT2A2	rt	C11376	irreversible	hsa00983	ep
+UGT2B4	rt	C11376	irreversible	hsa00983	ep
+UGT2B7	rt	C11376	irreversible	hsa00983	ep
+UGT2B10	rt	C11376	irreversible	hsa00983	ep
+UGT2B15	rt	C11376	irreversible	hsa00983	ep
+UGT2B17	rt	C11376	irreversible	hsa00983	ep
+UGT2A3	rt	C11376	irreversible	hsa00983	ep
+C11376	rt	GUSB, BG, MPS7	irreversible	hsa00983	se
+GUSB, BG, MPS7	rt	C11173	irreversible	hsa00983	ep
+C16543	rt	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	irreversible	hsa00983	se
+C16543	rt	CES1	irreversible	hsa00983	se
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C11173	irreversible	hsa00983	ep
+CES1	rt	C11173	irreversible	hsa00983	ep
+C21748	rt	RRM2B, MTDPS8A, MTDPS8B, P53R2	irreversible	hsa00983	se
+C21748	rt	RRM1	irreversible	hsa00983	se
+C21748	rt	RRM2	irreversible	hsa00983	se
+RRM2B, MTDPS8A, MTDPS8B, P53R2	rt	C21750	irreversible	hsa00983	ep
+RRM1	rt	C21750	irreversible	hsa00983	ep
+RRM2	rt	C21750	irreversible	hsa00983	ep
+C21748	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	irreversible	hsa00983	se
+C21748	rt	NME7	irreversible	hsa00983	se
+C21748	rt	NME1	irreversible	hsa00983	se
+C21748	rt	NME2	irreversible	hsa00983	se
+C21748	rt	NME3	irreversible	hsa00983	se
+C21748	rt	NME4	irreversible	hsa00983	se
+C21748	rt	NME1-NME2	irreversible	hsa00983	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C21749	irreversible	hsa00983	ep
+NME7	rt	C21749	irreversible	hsa00983	ep
+NME1	rt	C21749	irreversible	hsa00983	ep
+NME2	rt	C21749	irreversible	hsa00983	ep
+NME3	rt	C21749	irreversible	hsa00983	ep
+NME4	rt	C21749	irreversible	hsa00983	ep
+NME1-NME2	rt	C21749	irreversible	hsa00983	ep
+C16634	rt	CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	irreversible	hsa00983	se
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	rt	C21748	irreversible	hsa00983	ep
+C04242	rt	CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	irreversible	hsa00983	se
+CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK	rt	C21750	irreversible	hsa00983	ep
+C21750	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	irreversible	hsa00983	se
+C21750	rt	NME7	irreversible	hsa00983	se
+C21750	rt	NME1	irreversible	hsa00983	se
+C21750	rt	NME2	irreversible	hsa00983	se
+C21750	rt	NME3	irreversible	hsa00983	se
+C21750	rt	NME4	irreversible	hsa00983	se
+C21750	rt	NME1-NME2	irreversible	hsa00983	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C21751	irreversible	hsa00983	ep
+NME7	rt	C21751	irreversible	hsa00983	ep
+NME1	rt	C21751	irreversible	hsa00983	ep
+NME2	rt	C21751	irreversible	hsa00983	ep
+NME3	rt	C21751	irreversible	hsa00983	ep
+NME4	rt	C21751	irreversible	hsa00983	ep
+NME1-NME2	rt	C21751	irreversible	hsa00983	ep
+C21751	rt	DUT, dUTPase	irreversible	hsa00983	se
+DUT, dUTPase	rt	C04242	irreversible	hsa00983	ep
+C07054	rt	MPO	irreversible	hsa00983	se
+MPO	rt	C21754	irreversible	hsa00983	ep
+C05361	rt	NAT2, AAC2, NAT-2, PNAT	irreversible	hsa00983	se
+C05361	rt	NAT1	irreversible	hsa00983	se
+NAT2, AAC2, NAT-2, PNAT	rt	C07447	irreversible	hsa00983	ep
+NAT1	rt	C07447	irreversible	hsa00983	ep
+C07447	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00983	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C21758	irreversible	hsa00983	ep
+C07054	rt	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	irreversible	hsa00983	se
+C07054	rt	CES1	irreversible	hsa00983	se
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C07446	irreversible	hsa00983	ep
+CES1	rt	C07446	irreversible	hsa00983	ep
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C05361	irreversible	hsa00983	ep
+CES1	rt	C05361	irreversible	hsa00983	ep
+C07585	rt	CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	irreversible	hsa00983	se
+C07585	rt	CES1	irreversible	hsa00983	se
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C07446	irreversible	hsa00983	ep
+CES1	rt	C07446	irreversible	hsa00983	ep
+CES1, ACAT, CE-1, CEH, CES2, HMSE, HMSE1, PCE-1, REH, SES1, TGH, hCE-1	rt	C07447	irreversible	hsa00983	ep
+CES1	rt	C07447	irreversible	hsa00983	ep
+C21758	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00983	se
+C21758	rt	GSTA5	irreversible	hsa00983	se
+C21758	rt	GSTA1	irreversible	hsa00983	se
+C21758	rt	GSTA2	irreversible	hsa00983	se
+C21758	rt	GSTA3	irreversible	hsa00983	se
+C21758	rt	GSTA4	irreversible	hsa00983	se
+C21758	rt	GSTM1	irreversible	hsa00983	se
+C21758	rt	GSTM2	irreversible	hsa00983	se
+C21758	rt	GSTM3	irreversible	hsa00983	se
+C21758	rt	GSTM4	irreversible	hsa00983	se
+C21758	rt	GSTM5	irreversible	hsa00983	se
+C21758	rt	GSTP1	irreversible	hsa00983	se
+C21758	rt	GSTT1	irreversible	hsa00983	se
+C21758	rt	GSTT2	irreversible	hsa00983	se
+C21758	rt	MGST1	irreversible	hsa00983	se
+C21758	rt	MGST2	irreversible	hsa00983	se
+C21758	rt	MGST3	irreversible	hsa00983	se
+C21758	rt	GSTT2B	irreversible	hsa00983	se
+C21758	rt	GSTO1	irreversible	hsa00983	se
+GSTO2, GSTO_2-2, bA127L201	rt	C02320	irreversible	hsa00983	ep
+GSTA5	rt	C02320	irreversible	hsa00983	ep
+GSTA1	rt	C02320	irreversible	hsa00983	ep
+GSTA2	rt	C02320	irreversible	hsa00983	ep
+GSTA3	rt	C02320	irreversible	hsa00983	ep
+GSTA4	rt	C02320	irreversible	hsa00983	ep
+GSTM1	rt	C02320	irreversible	hsa00983	ep
+GSTM2	rt	C02320	irreversible	hsa00983	ep
+GSTM3	rt	C02320	irreversible	hsa00983	ep
+GSTM4	rt	C02320	irreversible	hsa00983	ep
+GSTM5	rt	C02320	irreversible	hsa00983	ep
+GSTP1	rt	C02320	irreversible	hsa00983	ep
+GSTT1	rt	C02320	irreversible	hsa00983	ep
+GSTT2	rt	C02320	irreversible	hsa00983	ep
+MGST1	rt	C02320	irreversible	hsa00983	ep
+MGST2	rt	C02320	irreversible	hsa00983	ep
+MGST3	rt	C02320	irreversible	hsa00983	ep
+GSTT2B	rt	C02320	irreversible	hsa00983	ep
+GSTO1	rt	C02320	irreversible	hsa00983	ep
+C06837				hsa00983	
+C16621				hsa00983	
+C16616				hsa00983	
+C16624				hsa00983	
+C16625				hsa00983	
+C16623				hsa00983	
+C16542				hsa00983	
+C13252				hsa00983	
+C00003				hsa00983	
+C21759				hsa00983	
+C06108				hsa00983	
+C00006				hsa00983	
+C21760				hsa00983	

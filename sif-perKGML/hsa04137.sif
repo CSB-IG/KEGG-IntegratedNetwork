@@ -1,0 +1,107 @@
+TFEB, ALPHATFEB, BHLHE35, TCFEB	gr	MITF, CMM8, COMMAD, MI, WS2, WS2A, bHLHe32	group	hsa04137	group
+TFEB, ALPHATFEB, BHLHE35, TCFEB	gr	TFE3, RCCP2, RCCX1, TFEA, bHLHe33	group	hsa04137	group
+MITF, CMM8, COMMAD, MI, WS2, WS2A, bHLHe32	gr	TFE3, RCCP2, RCCX1, TFEA, bHLHe33	group	hsa04137	group
+BCL2L13, BCL-RAMBO, Bcl2-L-13, MIL1	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+BCL2L13, BCL-RAMBO, Bcl2-L-13, MIL1	pp	GABARAPL2	g-g	hsa04137	binding/association
+BCL2L13, BCL-RAMBO, Bcl2-L-13, MIL1	pp	GABARAPL1	g-g	hsa04137	binding/association
+EIF2AK3, PEK, PERK, WRS	pp	ATF4, CREB-2, CREB2, TAXREB67, TXREB	g-g	hsa04137	activation
+ATF4, CREB-2, CREB2, TAXREB67, TXREB	pd	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	expression
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04137	activation
+MAPK9	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04137	activation
+MAPK10	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04137	activation
+JUN, AP-1, AP1, c-Jun	pd	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	repression
+TOMM7, TOM7	pp	PINK1, BRPK, PARK6	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	MFN2, CMT2A, CMT2A2, CMT2A2A, CMT2A2B, CPRP1, HMSN6A, HSG, MARF	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	MFN1	g-g	hsa04137	activation
+MFN2, CMT2A, CMT2A2, CMT2A2A, CMT2A2B, CPRP1, HMSN6A, HSG, MARF	pp	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	activation
+MFN1	pp	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	UBB, HEL-S-50	g-g	hsa04137	activation
+UBB, HEL-S-50	pp	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	activation
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	MFN1, hfzo1, hfzo2	g-g	hsa04137	inhibition
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	MFN2	g-g	hsa04137	inhibition
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	RHOT1, ARHT1, MIRO-1, MIRO1	g-g	hsa04137	inhibition
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	RHOT2	g-g	hsa04137	inhibition
+USP8, HumORF8, SPG59, UBPY	pp	PRKN, AR-JP, LPRS2, PARK2, PDJ	g-g	hsa04137	activation
+TAX1BP1, CALCOCO3, T6BP, TXBP151	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+TAX1BP1, CALCOCO3, T6BP, TXBP151	pp	GABARAPL2	g-g	hsa04137	binding/association
+TAX1BP1, CALCOCO3, T6BP, TXBP151	pp	GABARAPL1	g-g	hsa04137	binding/association
+SQSTM1, A170, DMRV, FTDALS3, NADGP, OSIL, PDB3, ZIP3, p60, p62, p62B	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+SQSTM1, A170, DMRV, FTDALS3, NADGP, OSIL, PDB3, ZIP3, p60, p62, p62B	pp	GABARAPL2	g-g	hsa04137	binding/association
+SQSTM1, A170, DMRV, FTDALS3, NADGP, OSIL, PDB3, ZIP3, p60, p62, p62B	pp	GABARAPL1	g-g	hsa04137	binding/association
+CALCOCO2, NDP52	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+CALCOCO2, NDP52	pp	GABARAPL2	g-g	hsa04137	binding/association
+CALCOCO2, NDP52	pp	GABARAPL1	g-g	hsa04137	binding/association
+OPTN, ALS12, FIP2, GLC1E, HIP7, HYPL, NRP, TFIIIA-INTP	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+OPTN, ALS12, FIP2, GLC1E, HIP7, HYPL, NRP, TFIIIA-INTP	pp	GABARAPL2	g-g	hsa04137	binding/association
+OPTN, ALS12, FIP2, GLC1E, HIP7, HYPL, NRP, TFIIIA-INTP	pp	GABARAPL1	g-g	hsa04137	binding/association
+NBR1, 1A1-3B, IAI3B, M17S2, MIG19	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+NBR1, 1A1-3B, IAI3B, M17S2, MIG19	pp	GABARAPL2	g-g	hsa04137	binding/association
+NBR1, 1A1-3B, IAI3B, M17S2, MIG19	pp	GABARAPL1	g-g	hsa04137	binding/association
+TBK1, FTDALS4, NAK, T2K	pp	SQSTM1, A170, DMRV, FTDALS3, NADGP, OSIL, PDB3, ZIP3, p60, p62, p62B	g-g	hsa04137	activation
+TBK1, FTDALS4, NAK, T2K	pp	CALCOCO2, NDP52	g-g	hsa04137	activation
+TBK1, FTDALS4, NAK, T2K	pp	OPTN, ALS12, FIP2, GLC1E, HIP7, HYPL, NRP, TFIIIA-INTP	g-g	hsa04137	activation
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	AMBRA1, DCAF3, WDR94	g-g	hsa04137	activation
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	g-g	hsa04137	activation
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	ATG9B, APG9L2, NOS3AS, SONE	g-g	hsa04137	activation
+PRKN, AR-JP, LPRS2, PARK2, PDJ	pp	ATG9A	g-g	hsa04137	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	TFEB, ALPHATFEB, BHLHE35, TCFEB	g-gr	hsa04137	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	MITF, CMM8, COMMAD, MI, WS2, WS2A, bHLHe32	g-gr	hsa04137	activation
+ATG5, APG5, APG5-LIKE, APG5L, ASP, hAPG5	pp	TFE3, RCCP2, RCCX1, TFEA, bHLHe33	g-gr	hsa04137	activation
+ATG9B, APG9L2, NOS3AS, SONE	pp	TFEB, ALPHATFEB, BHLHE35, TCFEB	g-gr	hsa04137	activation
+ATG9A	pp	TFEB, ALPHATFEB, BHLHE35, TCFEB	g-gr	hsa04137	activation
+ATG9B, APG9L2, NOS3AS, SONE	pp	MITF, CMM8, COMMAD, MI, WS2, WS2A, bHLHe32	g-gr	hsa04137	activation
+ATG9A	pp	MITF, CMM8, COMMAD, MI, WS2, WS2A, bHLHe32	g-gr	hsa04137	activation
+ATG9B, APG9L2, NOS3AS, SONE	pp	TFE3, RCCP2, RCCX1, TFEA, bHLHe33	g-gr	hsa04137	activation
+ATG9A	pp	TFE3, RCCP2, RCCX1, TFEA, bHLHe33	g-gr	hsa04137	activation
+PINK1, BRPK, PARK6	pp	RHOT1, ARHT1, MIRO-1, MIRO1	g-g	hsa04137	inhibition
+PINK1, BRPK, PARK6	pp	RHOT2	g-g	hsa04137	inhibition
+PINK1, BRPK, PARK6	pp	BECN2, BECN1L1, BECN1P1	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	BECN1	g-g	hsa04137	activation
+PINK1, BRPK, PARK6	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa04137	activation
+BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	pp	PGAM5, BXLBV68	g-g	hsa04137	inhibition
+BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	pp	BNIP3, NIP3	g-g	hsa04137	activation
+CSNK2A1, CK2A1, CKII, CSNK2A3, Cka1, Cka2, OCNDS	pp	FUNDC1	g-g	hsa04137	inhibition
+CSNK2A1	pp	FUNDC1	g-g	hsa04137	inhibition
+CSNK2A2	pp	FUNDC1	g-g	hsa04137	inhibition
+CSNK2B	pp	FUNDC1	g-g	hsa04137	inhibition
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	FUNDC1	g-g	hsa04137	inhibition
+ULK1, ATG1, ATG1A, UNC51, Unc511, hATG1	pp	FUNDC1	g-g	hsa04137	activation
+PGAM5, BXLBV68	pp	FUNDC1	g-g	hsa04137	activation
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	BNIP3, NIP3	g-g	hsa04137	expression
+RRAS2, TC21	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+MRAS	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+HRAS	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+KRAS	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+NRAS	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+RRAS	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04137	activation
+E2F1, E2F-1, RBAP1, RBBP3, RBP3	pd	BNIP3, NIP3	g-g	hsa04137	expression
+RELA, NFKB3, p65	pd	BNIP3, NIP3	g-g	hsa04137	repression
+TP53, BCC7, LFS1, P53, TRP53	pd	BNIP3L, BNIP3a, NIX	g-g	hsa04137	expression
+FOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A	pp	CITED2, ASD8, MRG-1, MRG1, P35SRJ, VSD2	g-g	hsa04137	activation
+CITED2, ASD8, MRG-1, MRG1, P35SRJ, VSD2	pd	BNIP3L, BNIP3a, NIX	g-g	hsa04137	repression
+SP1	pd	BNIP3L, BNIP3a, NIX	g-g	hsa04137	expression
+FUNDC1	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+FUNDC1	pp	GABARAPL2	g-g	hsa04137	binding/association
+FUNDC1	pp	GABARAPL1	g-g	hsa04137	binding/association
+BNIP3, NIP3	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+BNIP3, NIP3	pp	GABARAPL2	g-g	hsa04137	binding/association
+BNIP3, NIP3	pp	GABARAPL1	g-g	hsa04137	binding/association
+BNIP3L, BNIP3a, NIX	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	binding/association
+BNIP3L, BNIP3a, NIX	pp	GABARAPL2	g-g	hsa04137	binding/association
+BNIP3L, BNIP3a, NIX	pp	GABARAPL1	g-g	hsa04137	binding/association
+TBC1D15, RAB7-GAP	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	activation
+TBC1D15, RAB7-GAP	pp	GABARAPL2	g-g	hsa04137	activation
+TBC1D15, RAB7-GAP	pp	GABARAPL1	g-g	hsa04137	activation
+TBC1D17	pp	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04137	activation
+TBC1D17	pp	GABARAPL2	g-g	hsa04137	activation
+TBC1D17	pp	GABARAPL1	g-g	hsa04137	activation
+TBC1D15, RAB7-GAP	pp	RAB7B, RAB7	g-g	hsa04137	activation
+TBC1D15, RAB7-GAP	pp	RAB7A	g-g	hsa04137	activation
+TBC1D17	pp	RAB7B, RAB7	g-g	hsa04137	activation
+TBC1D17	pp	RAB7A	g-g	hsa04137	activation
+FIS1, CGI-135, TTC11	pp	TBC1D15, RAB7-GAP	g-g	hsa04137	activation
+FIS1, CGI-135, TTC11	pp	TBC1D17	g-g	hsa04137	activation
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	BNIP3L, BNIP3a, NIX	g-g	hsa04137	expression
+USP30				hsa04137	
+USP15, UNPH-2, UNPH4				hsa04137	

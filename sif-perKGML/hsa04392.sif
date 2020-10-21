@@ -1,0 +1,112 @@
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	NF2, ACN, BANF, SCH	group	hsa04392	group
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	FRMD6, C14orf31, EX1, Willin, c14_5320	group	hsa04392	group
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	FRMD1	group	hsa04392	group
+NF2, ACN, BANF, SCH	gr	FRMD6, C14orf31, EX1, Willin, c14_5320	group	hsa04392	group
+NF2, ACN, BANF, SCH	gr	FRMD1	group	hsa04392	group
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	NF2, ACN, BANF, SCH	group	hsa04392	group
+SAV1, SAV, WW45, WWP4	gr	STK3, KRS1, MST2	group	hsa04392	group
+SAV1, SAV, WW45, WWP4	gr	STK3, KRS1, MST2	group	hsa04392	group
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+DCHS1	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+DCHS1	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	FRMD6, C14orf31, EX1, Willin, c14_5320	g-gr	hsa04392	activation
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	FRMD1	g-gr	hsa04392	activation
+DCHS1	pp	FRMD6, C14orf31, EX1, Willin, c14_5320	g-gr	hsa04392	activation
+DCHS1	pp	FRMD1	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	FRMD6, C14orf31, EX1, Willin, c14_5320	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	FRMD1	g-gr	hsa04392	activation
+102800317	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+CSNK1E	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+102800317	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+CSNK1E	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+102800317	pp	FRMD6, C14orf31, EX1, Willin, c14_5320	g-gr	hsa04392	activation
+102800317	pp	FRMD1	g-gr	hsa04392	activation
+CSNK1E	pp	FRMD6, C14orf31, EX1, Willin, c14_5320	g-gr	hsa04392	activation
+CSNK1E	pp	FRMD1	g-gr	hsa04392	activation
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+DCHS1	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+DCHS2, CDH27, CDHJ, CDHR7, PCDH23, PCDHJ	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+DCHS1	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+FAT4, CDHF14, CDHR11, FAT-J, FATJ, HKLLS2, NBLA00548, VMLDS2	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+102800317	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+CSNK1E	pp	WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	g-gr	hsa04392	activation
+102800317	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+CSNK1E	pp	NF2, ACN, BANF, SCH	g-gr	hsa04392	activation
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	pp	SAV1, SAV, WW45, WWP4	g-gr	hsa04392	activation
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	pp	STK3, KRS1, MST2	g-gr	hsa04392	activation
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	pp	SAV1, SAV, WW45, WWP4	g-gr	hsa04392	activation
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	pp	STK3, KRS1, MST2	g-gr	hsa04392	activation
+RASSF1, 123F2, NORE2A, RASSF1A, RDA32, REH3P21	pp	STK3, KRS1, MST2	g-g	hsa04392	activation
+RASSF6	pp	STK3, KRS1, MST2	g-g	hsa04392	inhibition
+RASSF4, AD037	pp	STK3, KRS1, MST2	g-g	hsa04392	inhibition
+RASSF2	pp	STK3, KRS1, MST2	g-g	hsa04392	inhibition
+STK3, KRS1, MST2	pp	LATS2, KPM	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	LATS1	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	MOB1A, C2orf6, MATS1, MOB1, MOBK1B, MOBKL1B, Mob4B	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	MOB1B	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	LATS2, KPM	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	LATS1	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	MOB1A, C2orf6, MATS1, MOB1, MOBK1B, MOBKL1B, Mob4B	g-g	hsa04392	activation
+STK3, KRS1, MST2	pp	MOB1B	g-g	hsa04392	activation
+LATS2, KPM	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS2, KPM	pp	WWTR1	g-g	hsa04392	inhibition
+LATS1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS1	pp	WWTR1	g-g	hsa04392	inhibition
+LATS2, KPM	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS2, KPM	pp	WWTR1	g-g	hsa04392	inhibition
+LATS1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS1	pp	WWTR1	g-g	hsa04392	inhibition
+WTIP	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+AJUBA	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+LIMD1	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+WTIP	pp	LATS2, KPM	g-g	hsa04392	inhibition
+WTIP	pp	LATS1	g-g	hsa04392	inhibition
+AJUBA	pp	LATS2, KPM	g-g	hsa04392	inhibition
+LIMD1	pp	LATS2, KPM	g-g	hsa04392	inhibition
+AJUBA	pp	LATS1	g-g	hsa04392	inhibition
+LIMD1	pp	LATS1	g-g	hsa04392	inhibition
+WTIP	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+AJUBA	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+LIMD1	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04392	inhibition
+WTIP	pp	LATS2, KPM	g-g	hsa04392	inhibition
+WTIP	pp	LATS1	g-g	hsa04392	inhibition
+AJUBA	pp	LATS2, KPM	g-g	hsa04392	inhibition
+LIMD1	pp	LATS2, KPM	g-g	hsa04392	inhibition
+AJUBA	pp	LATS1	g-g	hsa04392	inhibition
+LIMD1	pp	LATS1	g-g	hsa04392	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD4	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD3	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD2	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD4	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD3	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD2	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD4	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD3	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD2	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD4	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD3	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD2	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD4	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD3	g-g	hsa04392	binding/association
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TEAD2	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD4	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD3	g-g	hsa04392	binding/association
+WWTR1	pp	TEAD2	g-g	hsa04392	binding/association
+LATS2, KPM	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS2, KPM	pp	WWTR1	g-g	hsa04392	inhibition
+LATS1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04392	inhibition
+LATS1	pp	WWTR1	g-g	hsa04392	inhibition
+PAK1, PAKalpha	pp	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	g-g	hsa04392	activation
+PAK1, PAKalpha	pp	TEAD4	g-g	hsa04392	activation
+PAK1, PAKalpha	pp	TEAD3	g-g	hsa04392	activation
+PAK1, PAKalpha	pp	TEAD2	g-g	hsa04392	activation

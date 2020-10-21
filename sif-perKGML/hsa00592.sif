@@ -1,0 +1,181 @@
+PLA2G4B, HsT16992, cPLA2-beta	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G16	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G4E	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLB1	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G4F	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G2D	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G4D	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G2E	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G2C	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G3	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G1B	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G2A	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G4A	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G5	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G2F	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G12A	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G6	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G10	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G12B	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+PLA2G4C	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+JMJD7-PLA2G4B	ec	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G16, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4B	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4E	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLB1	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4F	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G2D	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4D	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G2E	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G2C	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G3	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G1B	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G2A	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4A	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G5	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G2F	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G12A	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G6	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G10	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G12B	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	PLA2G4C	g-g	hsa00592	compound
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	ec	JMJD7-PLA2G4B	g-g	hsa00592	compound
+ACOX1, ACOX, PALMCOX, SCOX	ec	ACAA1, ACAA, PTHIO, THIO	g-g	hsa00592	compound
+ACOX3	ec	ACAA1, ACAA, PTHIO, THIO	g-g	hsa00592	compound
+ACOX1, ACOX, PALMCOX, SCOX	ec	ACAA1, ACAA, PTHIO, THIO	g-g	hsa00592	compound
+ACOX3	ec	ACAA1, ACAA, PTHIO, THIO	g-g	hsa00592	compound
+C16335	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00592	se
+C16335	rt	ACOX3	irreversible	hsa00592	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C16336	irreversible	hsa00592	ep
+ACOX3	rt	C16336	irreversible	hsa00592	ep
+C16331	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00592	se
+C16331	rt	ACOX3	irreversible	hsa00592	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C16332	irreversible	hsa00592	ep
+ACOX3	rt	C16332	irreversible	hsa00592	ep
+C16338	rt	ACAA1, ACAA, PTHIO, THIO	irreversible	hsa00592	se
+ACAA1, ACAA, PTHIO, THIO	rt	C16339	irreversible	hsa00592	ep
+C16334	rt	ACAA1, ACAA, PTHIO, THIO	irreversible	hsa00592	se
+ACAA1, ACAA, PTHIO, THIO	rt	C16335	irreversible	hsa00592	ep
+C16330	rt	ACAA1, ACAA, PTHIO, THIO	irreversible	hsa00592	se
+ACAA1, ACAA, PTHIO, THIO	rt	C16331	irreversible	hsa00592	ep
+C16327	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00592	se
+C16327	rt	ACOX3	irreversible	hsa00592	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C16328	irreversible	hsa00592	ep
+ACOX3	rt	C16328	irreversible	hsa00592	ep
+C00157	rt	PLA2G4B, HsT16992, cPLA2-beta	irreversible	hsa00592	se
+C00157	rt	PLA2G16	irreversible	hsa00592	se
+C00157	rt	PLA2G4E	irreversible	hsa00592	se
+C00157	rt	PLB1	irreversible	hsa00592	se
+C00157	rt	PLA2G4F	irreversible	hsa00592	se
+C00157	rt	PLA2G2D	irreversible	hsa00592	se
+C00157	rt	PLA2G4D	irreversible	hsa00592	se
+C00157	rt	PLA2G2E	irreversible	hsa00592	se
+C00157	rt	PLA2G2C	irreversible	hsa00592	se
+C00157	rt	PLA2G3	irreversible	hsa00592	se
+C00157	rt	PLA2G1B	irreversible	hsa00592	se
+C00157	rt	PLA2G2A	irreversible	hsa00592	se
+C00157	rt	PLA2G4A	irreversible	hsa00592	se
+C00157	rt	PLA2G5	irreversible	hsa00592	se
+C00157	rt	PLA2G2F	irreversible	hsa00592	se
+C00157	rt	PLA2G12A	irreversible	hsa00592	se
+C00157	rt	PLA2G6	irreversible	hsa00592	se
+C00157	rt	PLA2G10	irreversible	hsa00592	se
+C00157	rt	PLA2G12B	irreversible	hsa00592	se
+C00157	rt	PLA2G4C	irreversible	hsa00592	se
+C00157	rt	JMJD7-PLA2G4B	irreversible	hsa00592	se
+PLA2G4B, HsT16992, cPLA2-beta	rt	C06427	irreversible	hsa00592	ep
+PLA2G16	rt	C06427	irreversible	hsa00592	ep
+PLA2G4E	rt	C06427	irreversible	hsa00592	ep
+PLB1	rt	C06427	irreversible	hsa00592	ep
+PLA2G4F	rt	C06427	irreversible	hsa00592	ep
+PLA2G2D	rt	C06427	irreversible	hsa00592	ep
+PLA2G4D	rt	C06427	irreversible	hsa00592	ep
+PLA2G2E	rt	C06427	irreversible	hsa00592	ep
+PLA2G2C	rt	C06427	irreversible	hsa00592	ep
+PLA2G3	rt	C06427	irreversible	hsa00592	ep
+PLA2G1B	rt	C06427	irreversible	hsa00592	ep
+PLA2G2A	rt	C06427	irreversible	hsa00592	ep
+PLA2G4A	rt	C06427	irreversible	hsa00592	ep
+PLA2G5	rt	C06427	irreversible	hsa00592	ep
+PLA2G2F	rt	C06427	irreversible	hsa00592	ep
+PLA2G12A	rt	C06427	irreversible	hsa00592	ep
+PLA2G6	rt	C06427	irreversible	hsa00592	ep
+PLA2G10	rt	C06427	irreversible	hsa00592	ep
+PLA2G12B	rt	C06427	irreversible	hsa00592	ep
+PLA2G4C	rt	C06427	irreversible	hsa00592	ep
+JMJD7-PLA2G4B	rt	C06427	irreversible	hsa00592	ep
+C06427	rt	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	irreversible	hsa00592	se
+FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	rt	C16300	irreversible	hsa00592	ep
+C00157	rt	PLA2G16, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3	irreversible	hsa00592	se
+C00157	rt	PLA2G4B	irreversible	hsa00592	se
+C00157	rt	PLA2G4E	irreversible	hsa00592	se
+C00157	rt	PLB1	irreversible	hsa00592	se
+C00157	rt	PLA2G4F	irreversible	hsa00592	se
+C00157	rt	PLA2G2D	irreversible	hsa00592	se
+C00157	rt	PLA2G4D	irreversible	hsa00592	se
+C00157	rt	PLA2G2E	irreversible	hsa00592	se
+C00157	rt	PLA2G2C	irreversible	hsa00592	se
+C00157	rt	PLA2G3	irreversible	hsa00592	se
+C00157	rt	PLA2G1B	irreversible	hsa00592	se
+C00157	rt	PLA2G2A	irreversible	hsa00592	se
+C00157	rt	PLA2G4A	irreversible	hsa00592	se
+C00157	rt	PLA2G5	irreversible	hsa00592	se
+C00157	rt	PLA2G2F	irreversible	hsa00592	se
+C00157	rt	PLA2G12A	irreversible	hsa00592	se
+C00157	rt	PLA2G6	irreversible	hsa00592	se
+C00157	rt	PLA2G10	irreversible	hsa00592	se
+C00157	rt	PLA2G12B	irreversible	hsa00592	se
+C00157	rt	PLA2G4C	irreversible	hsa00592	se
+C00157	rt	JMJD7-PLA2G4B	irreversible	hsa00592	se
+PLA2G16, AdPLA, H-REV107, H-REV107-1, HRASLS3, HREV107, HREV107-1, HREV107-3, HRSL3	rt	C06427	irreversible	hsa00592	ep
+PLA2G4B	rt	C06427	irreversible	hsa00592	ep
+PLA2G4E	rt	C06427	irreversible	hsa00592	ep
+PLB1	rt	C06427	irreversible	hsa00592	ep
+PLA2G4F	rt	C06427	irreversible	hsa00592	ep
+PLA2G2D	rt	C06427	irreversible	hsa00592	ep
+PLA2G4D	rt	C06427	irreversible	hsa00592	ep
+PLA2G2E	rt	C06427	irreversible	hsa00592	ep
+PLA2G2C	rt	C06427	irreversible	hsa00592	ep
+PLA2G3	rt	C06427	irreversible	hsa00592	ep
+PLA2G1B	rt	C06427	irreversible	hsa00592	ep
+PLA2G2A	rt	C06427	irreversible	hsa00592	ep
+PLA2G4A	rt	C06427	irreversible	hsa00592	ep
+PLA2G5	rt	C06427	irreversible	hsa00592	ep
+PLA2G2F	rt	C06427	irreversible	hsa00592	ep
+PLA2G12A	rt	C06427	irreversible	hsa00592	ep
+PLA2G6	rt	C06427	irreversible	hsa00592	ep
+PLA2G10	rt	C06427	irreversible	hsa00592	ep
+PLA2G12B	rt	C06427	irreversible	hsa00592	ep
+PLA2G4C	rt	C06427	irreversible	hsa00592	ep
+JMJD7-PLA2G4B	rt	C06427	irreversible	hsa00592	ep
+C11512				hsa00592	
+C16318				hsa00592	
+C08491				hsa00592	
+C16317				hsa00592	
+C16325				hsa00592	
+C16309				hsa00592	
+C16326				hsa00592	
+C04672				hsa00592	
+C01226				hsa00592	
+C16319				hsa00592	
+C04780				hsa00592	
+C16311				hsa00592	
+C16316				hsa00592	
+C16322				hsa00592	
+C16345				hsa00592	
+C16344				hsa00592	
+C16323				hsa00592	
+C16324				hsa00592	
+C16321				hsa00592	
+C16342				hsa00592	
+C16341				hsa00592	
+C16308				hsa00592	
+C16320				hsa00592	
+C16343				hsa00592	
+C16346				hsa00592	
+C16310				hsa00592	
+C04785				hsa00592	
+C08492				hsa00592	
+C19757				hsa00592	
+C21923				hsa00592	
+C21924				hsa00592	

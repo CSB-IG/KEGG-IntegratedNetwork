@@ -1,0 +1,2623 @@
+PLCD3, PLC-delta-3	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCB1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCE1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCB2	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCB3	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCB4	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCD1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCG1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCG2	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCD4	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCZ1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3C2B	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3C2G	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R1	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R2	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3C2B	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3C2G	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCE1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCB2	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCB3	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCB4	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCD1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCG1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCG2	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCD4	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCZ1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PLCB1	ec	PIK3C2B	g-g	hsa04070	compound
+PLCB1	ec	PIK3C2G	g-g	hsa04070	compound
+PLCB1	ec	PIK3R1	g-g	hsa04070	compound
+PLCB1	ec	PIK3R2	g-g	hsa04070	compound
+PLCB1	ec	PIK3R3	g-g	hsa04070	compound
+PLCE1	ec	PIK3C2B	g-g	hsa04070	compound
+PLCE1	ec	PIK3C2G	g-g	hsa04070	compound
+PLCE1	ec	PIK3R1	g-g	hsa04070	compound
+PLCE1	ec	PIK3R2	g-g	hsa04070	compound
+PLCE1	ec	PIK3R3	g-g	hsa04070	compound
+PLCB2	ec	PIK3C2B	g-g	hsa04070	compound
+PLCB2	ec	PIK3C2G	g-g	hsa04070	compound
+PLCB2	ec	PIK3R1	g-g	hsa04070	compound
+PLCB2	ec	PIK3R2	g-g	hsa04070	compound
+PLCB2	ec	PIK3R3	g-g	hsa04070	compound
+PLCB3	ec	PIK3C2B	g-g	hsa04070	compound
+PLCB3	ec	PIK3C2G	g-g	hsa04070	compound
+PLCB3	ec	PIK3R1	g-g	hsa04070	compound
+PLCB3	ec	PIK3R2	g-g	hsa04070	compound
+PLCB3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB4	ec	PIK3C2B	g-g	hsa04070	compound
+PLCB4	ec	PIK3C2G	g-g	hsa04070	compound
+PLCB4	ec	PIK3R1	g-g	hsa04070	compound
+PLCB4	ec	PIK3R2	g-g	hsa04070	compound
+PLCB4	ec	PIK3R3	g-g	hsa04070	compound
+PLCD1	ec	PIK3C2B	g-g	hsa04070	compound
+PLCD1	ec	PIK3C2G	g-g	hsa04070	compound
+PLCD1	ec	PIK3R1	g-g	hsa04070	compound
+PLCD1	ec	PIK3R2	g-g	hsa04070	compound
+PLCD1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG1	ec	PIK3C2B	g-g	hsa04070	compound
+PLCG1	ec	PIK3C2G	g-g	hsa04070	compound
+PLCG1	ec	PIK3R1	g-g	hsa04070	compound
+PLCG1	ec	PIK3R2	g-g	hsa04070	compound
+PLCG1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG2	ec	PIK3C2B	g-g	hsa04070	compound
+PLCG2	ec	PIK3C2G	g-g	hsa04070	compound
+PLCG2	ec	PIK3R1	g-g	hsa04070	compound
+PLCG2	ec	PIK3R2	g-g	hsa04070	compound
+PLCG2	ec	PIK3R3	g-g	hsa04070	compound
+PLCD4	ec	PIK3C2B	g-g	hsa04070	compound
+PLCD4	ec	PIK3C2G	g-g	hsa04070	compound
+PLCD4	ec	PIK3R1	g-g	hsa04070	compound
+PLCD4	ec	PIK3R2	g-g	hsa04070	compound
+PLCD4	ec	PIK3R3	g-g	hsa04070	compound
+PLCZ1	ec	PIK3C2B	g-g	hsa04070	compound
+PLCZ1	ec	PIK3C2G	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R1	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R2	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCB1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCE1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCB2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCB3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCB4	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCD1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCG1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCG2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCD4	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PLCZ1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCE1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB4	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCG1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCG2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD4	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCZ1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCB1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCE1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCB2	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCB3	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCB4	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCD1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCG1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCG2	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCD4	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PLCZ1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2B	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2G	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2B	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C2G	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R3	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3C2B	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3C2G	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3C2B	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3C2G	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIK3R3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3C2B	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3C2G	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R2	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIP4K2C	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIP4K2B	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIP4K2C	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIP4K2B	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3CB	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3CD	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3R1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3R2	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3R3	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIK3CB	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3CB	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3CD	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3CD	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3R1	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3R1	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3R2	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3R2	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3R3	ec	PIP4K2C	g-g	hsa04070	compound
+PIK3R3	ec	PIP4K2B	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP4K2C	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP4K2B	g-g	hsa04070	compound
+PLCB1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCE1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCB2	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCB3	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCB4	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCD1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCG1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCG2	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCD4	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCZ1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PLCB1	ec	PIP4K2C	g-g	hsa04070	compound
+PLCB1	ec	PIP4K2B	g-g	hsa04070	compound
+PLCE1	ec	PIP4K2C	g-g	hsa04070	compound
+PLCE1	ec	PIP4K2B	g-g	hsa04070	compound
+PLCB2	ec	PIP4K2C	g-g	hsa04070	compound
+PLCB2	ec	PIP4K2B	g-g	hsa04070	compound
+PLCB3	ec	PIP4K2C	g-g	hsa04070	compound
+PLCB3	ec	PIP4K2B	g-g	hsa04070	compound
+PLCB4	ec	PIP4K2C	g-g	hsa04070	compound
+PLCB4	ec	PIP4K2B	g-g	hsa04070	compound
+PLCD1	ec	PIP4K2C	g-g	hsa04070	compound
+PLCD1	ec	PIP4K2B	g-g	hsa04070	compound
+PLCG1	ec	PIP4K2C	g-g	hsa04070	compound
+PLCG1	ec	PIP4K2B	g-g	hsa04070	compound
+PLCG2	ec	PIP4K2C	g-g	hsa04070	compound
+PLCG2	ec	PIP4K2B	g-g	hsa04070	compound
+PLCD4	ec	PIP4K2C	g-g	hsa04070	compound
+PLCD4	ec	PIP4K2B	g-g	hsa04070	compound
+PLCZ1	ec	PIP4K2C	g-g	hsa04070	compound
+PLCZ1	ec	PIP4K2B	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CB	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CD	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R3	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CB	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CD	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3R3	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCB1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCE1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCB2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCB3	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCB4	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCD1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCG1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCG2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCD4	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCZ1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3CB	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3CD	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCE1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCB2	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCB3	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCB4	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCD1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCG1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCG2	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCD4	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCZ1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+PLCB1	ec	PIK3CB	g-g	hsa04070	compound
+PLCB1	ec	PIK3CD	g-g	hsa04070	compound
+PLCB1	ec	PIK3R1	g-g	hsa04070	compound
+PLCB1	ec	PIK3R2	g-g	hsa04070	compound
+PLCB1	ec	PIK3R3	g-g	hsa04070	compound
+PLCE1	ec	PIK3CB	g-g	hsa04070	compound
+PLCE1	ec	PIK3CD	g-g	hsa04070	compound
+PLCE1	ec	PIK3R1	g-g	hsa04070	compound
+PLCE1	ec	PIK3R2	g-g	hsa04070	compound
+PLCE1	ec	PIK3R3	g-g	hsa04070	compound
+PLCB2	ec	PIK3CB	g-g	hsa04070	compound
+PLCB2	ec	PIK3CD	g-g	hsa04070	compound
+PLCB2	ec	PIK3R1	g-g	hsa04070	compound
+PLCB2	ec	PIK3R2	g-g	hsa04070	compound
+PLCB2	ec	PIK3R3	g-g	hsa04070	compound
+PLCB3	ec	PIK3CB	g-g	hsa04070	compound
+PLCB3	ec	PIK3CD	g-g	hsa04070	compound
+PLCB3	ec	PIK3R1	g-g	hsa04070	compound
+PLCB3	ec	PIK3R2	g-g	hsa04070	compound
+PLCB3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB4	ec	PIK3CB	g-g	hsa04070	compound
+PLCB4	ec	PIK3CD	g-g	hsa04070	compound
+PLCB4	ec	PIK3R1	g-g	hsa04070	compound
+PLCB4	ec	PIK3R2	g-g	hsa04070	compound
+PLCB4	ec	PIK3R3	g-g	hsa04070	compound
+PLCD1	ec	PIK3CB	g-g	hsa04070	compound
+PLCD1	ec	PIK3CD	g-g	hsa04070	compound
+PLCD1	ec	PIK3R1	g-g	hsa04070	compound
+PLCD1	ec	PIK3R2	g-g	hsa04070	compound
+PLCD1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG1	ec	PIK3CB	g-g	hsa04070	compound
+PLCG1	ec	PIK3CD	g-g	hsa04070	compound
+PLCG1	ec	PIK3R1	g-g	hsa04070	compound
+PLCG1	ec	PIK3R2	g-g	hsa04070	compound
+PLCG1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG2	ec	PIK3CB	g-g	hsa04070	compound
+PLCG2	ec	PIK3CD	g-g	hsa04070	compound
+PLCG2	ec	PIK3R1	g-g	hsa04070	compound
+PLCG2	ec	PIK3R2	g-g	hsa04070	compound
+PLCG2	ec	PIK3R3	g-g	hsa04070	compound
+PLCD4	ec	PIK3CB	g-g	hsa04070	compound
+PLCD4	ec	PIK3CD	g-g	hsa04070	compound
+PLCD4	ec	PIK3R1	g-g	hsa04070	compound
+PLCD4	ec	PIK3R2	g-g	hsa04070	compound
+PLCD4	ec	PIK3R3	g-g	hsa04070	compound
+PLCZ1	ec	PIK3CB	g-g	hsa04070	compound
+PLCZ1	ec	PIK3CD	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R1	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R2	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R3	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PI4KB	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PI4K2B	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PI4K2A	g-g	hsa04070	compound
+PIP5K1A	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PIP5K1B	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PIP5K1A	ec	PI4KB	g-g	hsa04070	compound
+PIP5K1A	ec	PI4K2B	g-g	hsa04070	compound
+PIP5K1A	ec	PI4K2A	g-g	hsa04070	compound
+PIP5K1B	ec	PI4KB	g-g	hsa04070	compound
+PIP5K1B	ec	PI4K2B	g-g	hsa04070	compound
+PIP5K1B	ec	PI4K2A	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	OCRL	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	INPP5E	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	SYNJ1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	SYNJ2	g-g	hsa04070	compound
+PI4KB	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PI4K2B	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PI4K2A	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PI4KB	ec	OCRL	g-g	hsa04070	compound
+PI4KB	ec	INPP5E	g-g	hsa04070	compound
+PI4KB	ec	SYNJ1	g-g	hsa04070	compound
+PI4KB	ec	SYNJ2	g-g	hsa04070	compound
+PI4K2B	ec	OCRL	g-g	hsa04070	compound
+PI4K2B	ec	INPP5E	g-g	hsa04070	compound
+PI4K2B	ec	SYNJ1	g-g	hsa04070	compound
+PI4K2B	ec	SYNJ2	g-g	hsa04070	compound
+PI4K2A	ec	OCRL	g-g	hsa04070	compound
+PI4K2A	ec	INPP5E	g-g	hsa04070	compound
+PI4K2A	ec	SYNJ1	g-g	hsa04070	compound
+PI4K2A	ec	SYNJ2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2B	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2G	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R3	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2B	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2G	g-g	hsa04070	compound
+PI4KB	ec	PIK3R1	g-g	hsa04070	compound
+PI4KB	ec	PIK3R2	g-g	hsa04070	compound
+PI4KB	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2B	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2G	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2B	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2G	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R3	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCB1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCE1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCB2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCB3	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCB4	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCD1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCG1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCG2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCD4	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PLCZ1	g-g	hsa04070	compound
+PI4KB	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PI4K2B	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PI4K2A	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PI4KB	ec	PLCB1	g-g	hsa04070	compound
+PI4KB	ec	PLCE1	g-g	hsa04070	compound
+PI4KB	ec	PLCB2	g-g	hsa04070	compound
+PI4KB	ec	PLCB3	g-g	hsa04070	compound
+PI4KB	ec	PLCB4	g-g	hsa04070	compound
+PI4KB	ec	PLCD1	g-g	hsa04070	compound
+PI4KB	ec	PLCG1	g-g	hsa04070	compound
+PI4KB	ec	PLCG2	g-g	hsa04070	compound
+PI4KB	ec	PLCD4	g-g	hsa04070	compound
+PI4KB	ec	PLCZ1	g-g	hsa04070	compound
+PI4K2B	ec	PLCB1	g-g	hsa04070	compound
+PI4K2B	ec	PLCE1	g-g	hsa04070	compound
+PI4K2B	ec	PLCB2	g-g	hsa04070	compound
+PI4K2B	ec	PLCB3	g-g	hsa04070	compound
+PI4K2B	ec	PLCB4	g-g	hsa04070	compound
+PI4K2B	ec	PLCD1	g-g	hsa04070	compound
+PI4K2B	ec	PLCG1	g-g	hsa04070	compound
+PI4K2B	ec	PLCG2	g-g	hsa04070	compound
+PI4K2B	ec	PLCD4	g-g	hsa04070	compound
+PI4K2B	ec	PLCZ1	g-g	hsa04070	compound
+PI4K2A	ec	PLCB1	g-g	hsa04070	compound
+PI4K2A	ec	PLCE1	g-g	hsa04070	compound
+PI4K2A	ec	PLCB2	g-g	hsa04070	compound
+PI4K2A	ec	PLCB3	g-g	hsa04070	compound
+PI4K2A	ec	PLCB4	g-g	hsa04070	compound
+PI4K2A	ec	PLCD1	g-g	hsa04070	compound
+PI4K2A	ec	PLCG1	g-g	hsa04070	compound
+PI4K2A	ec	PLCG2	g-g	hsa04070	compound
+PI4K2A	ec	PLCD4	g-g	hsa04070	compound
+PI4K2A	ec	PLCZ1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	OCRL	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1A	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1B	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1A	ec	OCRL	g-g	hsa04070	compound
+PIP5K1A	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1A	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1A	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1B	ec	OCRL	g-g	hsa04070	compound
+PIP5K1B	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1B	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1B	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	OCRL	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1A	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1B	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIP5K1A	ec	OCRL	g-g	hsa04070	compound
+PIP5K1A	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1A	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1A	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1B	ec	OCRL	g-g	hsa04070	compound
+PIP5K1B	ec	INPP5E	g-g	hsa04070	compound
+PIP5K1B	ec	SYNJ1	g-g	hsa04070	compound
+PIP5K1B	ec	SYNJ2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3C2B	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3C2G	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3R1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3R2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIK3R3	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3C2B	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3C2G	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3R1	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3R2	g-g	hsa04070	compound
+PIP5K1A	ec	PIK3R3	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3C2B	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3C2G	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3R1	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3R2	g-g	hsa04070	compound
+PIP5K1B	ec	PIK3R3	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCB1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCE1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCB2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCB3	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCB4	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCD1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCG1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCG2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCD4	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PLCZ1	g-g	hsa04070	compound
+PIP5K1A	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIP5K1B	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIP5K1A	ec	PLCB1	g-g	hsa04070	compound
+PIP5K1A	ec	PLCE1	g-g	hsa04070	compound
+PIP5K1A	ec	PLCB2	g-g	hsa04070	compound
+PIP5K1A	ec	PLCB3	g-g	hsa04070	compound
+PIP5K1A	ec	PLCB4	g-g	hsa04070	compound
+PIP5K1A	ec	PLCD1	g-g	hsa04070	compound
+PIP5K1A	ec	PLCG1	g-g	hsa04070	compound
+PIP5K1A	ec	PLCG2	g-g	hsa04070	compound
+PIP5K1A	ec	PLCD4	g-g	hsa04070	compound
+PIP5K1A	ec	PLCZ1	g-g	hsa04070	compound
+PIP5K1B	ec	PLCB1	g-g	hsa04070	compound
+PIP5K1B	ec	PLCE1	g-g	hsa04070	compound
+PIP5K1B	ec	PLCB2	g-g	hsa04070	compound
+PIP5K1B	ec	PLCB3	g-g	hsa04070	compound
+PIP5K1B	ec	PLCB4	g-g	hsa04070	compound
+PIP5K1B	ec	PLCD1	g-g	hsa04070	compound
+PIP5K1B	ec	PLCG1	g-g	hsa04070	compound
+PIP5K1B	ec	PLCG2	g-g	hsa04070	compound
+PIP5K1B	ec	PLCD4	g-g	hsa04070	compound
+PIP5K1B	ec	PLCZ1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	OCRL	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPP5E	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	SYNJ1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	SYNJ2	g-g	hsa04070	compound
+PIK3C2B	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3C2G	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R2	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R3	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3C2B	ec	OCRL	g-g	hsa04070	compound
+PIK3C2B	ec	INPP5E	g-g	hsa04070	compound
+PIK3C2B	ec	SYNJ1	g-g	hsa04070	compound
+PIK3C2B	ec	SYNJ2	g-g	hsa04070	compound
+PIK3C2G	ec	OCRL	g-g	hsa04070	compound
+PIK3C2G	ec	INPP5E	g-g	hsa04070	compound
+PIK3C2G	ec	SYNJ1	g-g	hsa04070	compound
+PIK3C2G	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R1	ec	OCRL	g-g	hsa04070	compound
+PIK3R1	ec	INPP5E	g-g	hsa04070	compound
+PIK3R1	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R1	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R2	ec	OCRL	g-g	hsa04070	compound
+PIK3R2	ec	INPP5E	g-g	hsa04070	compound
+PIK3R2	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R2	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R3	ec	OCRL	g-g	hsa04070	compound
+PIK3R3	ec	INPP5E	g-g	hsa04070	compound
+PIK3R3	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R3	ec	SYNJ2	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCB1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCE1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCB2	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCB3	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCB4	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCD1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCG1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCG2	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCD4	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PLCZ1	g-g	hsa04070	compound
+OCRL	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5E	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+SYNJ1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+SYNJ2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+OCRL	ec	PLCB1	g-g	hsa04070	compound
+OCRL	ec	PLCE1	g-g	hsa04070	compound
+OCRL	ec	PLCB2	g-g	hsa04070	compound
+OCRL	ec	PLCB3	g-g	hsa04070	compound
+OCRL	ec	PLCB4	g-g	hsa04070	compound
+OCRL	ec	PLCD1	g-g	hsa04070	compound
+OCRL	ec	PLCG1	g-g	hsa04070	compound
+OCRL	ec	PLCG2	g-g	hsa04070	compound
+OCRL	ec	PLCD4	g-g	hsa04070	compound
+OCRL	ec	PLCZ1	g-g	hsa04070	compound
+INPP5E	ec	PLCB1	g-g	hsa04070	compound
+INPP5E	ec	PLCE1	g-g	hsa04070	compound
+INPP5E	ec	PLCB2	g-g	hsa04070	compound
+INPP5E	ec	PLCB3	g-g	hsa04070	compound
+INPP5E	ec	PLCB4	g-g	hsa04070	compound
+INPP5E	ec	PLCD1	g-g	hsa04070	compound
+INPP5E	ec	PLCG1	g-g	hsa04070	compound
+INPP5E	ec	PLCG2	g-g	hsa04070	compound
+INPP5E	ec	PLCD4	g-g	hsa04070	compound
+INPP5E	ec	PLCZ1	g-g	hsa04070	compound
+SYNJ1	ec	PLCB1	g-g	hsa04070	compound
+SYNJ1	ec	PLCE1	g-g	hsa04070	compound
+SYNJ1	ec	PLCB2	g-g	hsa04070	compound
+SYNJ1	ec	PLCB3	g-g	hsa04070	compound
+SYNJ1	ec	PLCB4	g-g	hsa04070	compound
+SYNJ1	ec	PLCD1	g-g	hsa04070	compound
+SYNJ1	ec	PLCG1	g-g	hsa04070	compound
+SYNJ1	ec	PLCG2	g-g	hsa04070	compound
+SYNJ1	ec	PLCD4	g-g	hsa04070	compound
+SYNJ1	ec	PLCZ1	g-g	hsa04070	compound
+SYNJ2	ec	PLCB1	g-g	hsa04070	compound
+SYNJ2	ec	PLCE1	g-g	hsa04070	compound
+SYNJ2	ec	PLCB2	g-g	hsa04070	compound
+SYNJ2	ec	PLCB3	g-g	hsa04070	compound
+SYNJ2	ec	PLCB4	g-g	hsa04070	compound
+SYNJ2	ec	PLCD1	g-g	hsa04070	compound
+SYNJ2	ec	PLCG1	g-g	hsa04070	compound
+SYNJ2	ec	PLCG2	g-g	hsa04070	compound
+SYNJ2	ec	PLCD4	g-g	hsa04070	compound
+SYNJ2	ec	PLCZ1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCB1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCE1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCB2	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCB3	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCB4	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCD1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCG1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCG2	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCD4	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PLCZ1	g-g	hsa04070	compound
+PIK3C2B	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3C2G	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3R1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3R2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3R3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PIK3C2B	ec	PLCB1	g-g	hsa04070	compound
+PIK3C2B	ec	PLCE1	g-g	hsa04070	compound
+PIK3C2B	ec	PLCB2	g-g	hsa04070	compound
+PIK3C2B	ec	PLCB3	g-g	hsa04070	compound
+PIK3C2B	ec	PLCB4	g-g	hsa04070	compound
+PIK3C2B	ec	PLCD1	g-g	hsa04070	compound
+PIK3C2B	ec	PLCG1	g-g	hsa04070	compound
+PIK3C2B	ec	PLCG2	g-g	hsa04070	compound
+PIK3C2B	ec	PLCD4	g-g	hsa04070	compound
+PIK3C2B	ec	PLCZ1	g-g	hsa04070	compound
+PIK3C2G	ec	PLCB1	g-g	hsa04070	compound
+PIK3C2G	ec	PLCE1	g-g	hsa04070	compound
+PIK3C2G	ec	PLCB2	g-g	hsa04070	compound
+PIK3C2G	ec	PLCB3	g-g	hsa04070	compound
+PIK3C2G	ec	PLCB4	g-g	hsa04070	compound
+PIK3C2G	ec	PLCD1	g-g	hsa04070	compound
+PIK3C2G	ec	PLCG1	g-g	hsa04070	compound
+PIK3C2G	ec	PLCG2	g-g	hsa04070	compound
+PIK3C2G	ec	PLCD4	g-g	hsa04070	compound
+PIK3C2G	ec	PLCZ1	g-g	hsa04070	compound
+PIK3R1	ec	PLCB1	g-g	hsa04070	compound
+PIK3R1	ec	PLCE1	g-g	hsa04070	compound
+PIK3R1	ec	PLCB2	g-g	hsa04070	compound
+PIK3R1	ec	PLCB3	g-g	hsa04070	compound
+PIK3R1	ec	PLCB4	g-g	hsa04070	compound
+PIK3R1	ec	PLCD1	g-g	hsa04070	compound
+PIK3R1	ec	PLCG1	g-g	hsa04070	compound
+PIK3R1	ec	PLCG2	g-g	hsa04070	compound
+PIK3R1	ec	PLCD4	g-g	hsa04070	compound
+PIK3R1	ec	PLCZ1	g-g	hsa04070	compound
+PIK3R2	ec	PLCB1	g-g	hsa04070	compound
+PIK3R2	ec	PLCE1	g-g	hsa04070	compound
+PIK3R2	ec	PLCB2	g-g	hsa04070	compound
+PIK3R2	ec	PLCB3	g-g	hsa04070	compound
+PIK3R2	ec	PLCB4	g-g	hsa04070	compound
+PIK3R2	ec	PLCD1	g-g	hsa04070	compound
+PIK3R2	ec	PLCG1	g-g	hsa04070	compound
+PIK3R2	ec	PLCG2	g-g	hsa04070	compound
+PIK3R2	ec	PLCD4	g-g	hsa04070	compound
+PIK3R2	ec	PLCZ1	g-g	hsa04070	compound
+PIK3R3	ec	PLCB1	g-g	hsa04070	compound
+PIK3R3	ec	PLCE1	g-g	hsa04070	compound
+PIK3R3	ec	PLCB2	g-g	hsa04070	compound
+PIK3R3	ec	PLCB3	g-g	hsa04070	compound
+PIK3R3	ec	PLCB4	g-g	hsa04070	compound
+PIK3R3	ec	PLCD1	g-g	hsa04070	compound
+PIK3R3	ec	PLCG1	g-g	hsa04070	compound
+PIK3R3	ec	PLCG2	g-g	hsa04070	compound
+PIK3R3	ec	PLCD4	g-g	hsa04070	compound
+PIK3R3	ec	PLCZ1	g-g	hsa04070	compound
+INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+INPPL1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	INPPL1	g-g	hsa04070	compound
+PIK3CB	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3CD	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R1	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R2	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R3	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3CB	ec	INPPL1	g-g	hsa04070	compound
+PIK3CD	ec	INPPL1	g-g	hsa04070	compound
+PIK3R1	ec	INPPL1	g-g	hsa04070	compound
+PIK3R2	ec	INPPL1	g-g	hsa04070	compound
+PIK3R3	ec	INPPL1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3C2B	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3C2G	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3R1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3R2	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3R3	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPP4B	g-g	hsa04070	compound
+PIK3C2B	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3C2G	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3R1	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3R2	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3R3	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PIK3C2B	ec	INPP4B	g-g	hsa04070	compound
+PIK3C2G	ec	INPP4B	g-g	hsa04070	compound
+PIK3R1	ec	INPP4B	g-g	hsa04070	compound
+PIK3R2	ec	INPP4B	g-g	hsa04070	compound
+PIK3R3	ec	INPP4B	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	INPP4B	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+INPP4B	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+INPP4B	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3C2B	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3C2G	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R2	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R3	g-g	hsa04070	compound
+INPP4B	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP4B	ec	PIK3C2B	g-g	hsa04070	compound
+INPP4B	ec	PIK3C2G	g-g	hsa04070	compound
+INPP4B	ec	PIK3R1	g-g	hsa04070	compound
+INPP4B	ec	PIK3R2	g-g	hsa04070	compound
+INPP4B	ec	PIK3R3	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	ec	INPPL1	g-g	hsa04070	compound
+PIK3C2B	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3C2G	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R1	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R2	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3R3	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+PIK3C2B	ec	INPPL1	g-g	hsa04070	compound
+PIK3C2G	ec	INPPL1	g-g	hsa04070	compound
+PIK3R1	ec	INPPL1	g-g	hsa04070	compound
+PIK3R2	ec	INPPL1	g-g	hsa04070	compound
+PIK3R3	ec	INPPL1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	INPPL1	g-g	hsa04070	compound
+INPP4B	ec	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	g-g	hsa04070	compound
+INPP4B	ec	INPPL1	g-g	hsa04070	compound
+IPMK	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	ec	IPMK	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKB	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKC	g-g	hsa04070	compound
+INPP5A	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5K	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5A	ec	ITPKB	g-g	hsa04070	compound
+INPP5A	ec	ITPKC	g-g	hsa04070	compound
+INPP5K	ec	ITPKB	g-g	hsa04070	compound
+INPP5K	ec	ITPKC	g-g	hsa04070	compound
+INPP1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+INPP1	ec	INPP5A	g-g	hsa04070	compound
+INPP1	ec	INPP5K	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	IMPA2	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	IMPAD1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	INPP1	g-g	hsa04070	compound
+INPP4B	ec	INPP1	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	INPP4B	g-g	hsa04070	compound
+IMPA2	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+IMPAD1	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+IMPA2	ec	INPP4B	g-g	hsa04070	compound
+IMPAD1	ec	INPP4B	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA2	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPAD1	g-g	hsa04070	compound
+IMPA2	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPAD1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA2	ec	IMPA2	g-g	hsa04070	compound
+IMPA2	ec	IMPAD1	g-g	hsa04070	compound
+IMPAD1	ec	IMPA2	g-g	hsa04070	compound
+IMPAD1	ec	IMPAD1	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA2	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPAD1	g-g	hsa04070	compound
+IMPA2	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPAD1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA2	ec	IMPA2	g-g	hsa04070	compound
+IMPA2	ec	IMPAD1	g-g	hsa04070	compound
+IMPAD1	ec	IMPA2	g-g	hsa04070	compound
+IMPAD1	ec	IMPAD1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA2	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPAD1	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPA2	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	IMPAD1	g-g	hsa04070	compound
+IMPA2	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPAD1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+IMPA2	ec	IMPA2	g-g	hsa04070	compound
+IMPA2	ec	IMPAD1	g-g	hsa04070	compound
+IMPAD1	ec	IMPA2	g-g	hsa04070	compound
+IMPAD1	ec	IMPAD1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA2	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPAD1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPA2	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	IMPAD1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	ITPKB	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	ITPKC	g-g	hsa04070	compound
+PLCB1	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCE1	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCB2	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCB3	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCB4	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCD1	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCG1	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCG2	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCD4	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCZ1	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+PLCB1	ec	ITPKB	g-g	hsa04070	compound
+PLCB1	ec	ITPKC	g-g	hsa04070	compound
+PLCE1	ec	ITPKB	g-g	hsa04070	compound
+PLCE1	ec	ITPKC	g-g	hsa04070	compound
+PLCB2	ec	ITPKB	g-g	hsa04070	compound
+PLCB2	ec	ITPKC	g-g	hsa04070	compound
+PLCB3	ec	ITPKB	g-g	hsa04070	compound
+PLCB3	ec	ITPKC	g-g	hsa04070	compound
+PLCB4	ec	ITPKB	g-g	hsa04070	compound
+PLCB4	ec	ITPKC	g-g	hsa04070	compound
+PLCD1	ec	ITPKB	g-g	hsa04070	compound
+PLCD1	ec	ITPKC	g-g	hsa04070	compound
+PLCG1	ec	ITPKB	g-g	hsa04070	compound
+PLCG1	ec	ITPKC	g-g	hsa04070	compound
+PLCG2	ec	ITPKB	g-g	hsa04070	compound
+PLCG2	ec	ITPKC	g-g	hsa04070	compound
+PLCD4	ec	ITPKB	g-g	hsa04070	compound
+PLCD4	ec	ITPKC	g-g	hsa04070	compound
+PLCZ1	ec	ITPKB	g-g	hsa04070	compound
+PLCZ1	ec	ITPKC	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKB	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPKC	g-g	hsa04070	compound
+INPP5A	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5K	ec	ITPKA, IP3-3KA, IP3KA	g-g	hsa04070	compound
+INPP5A	ec	ITPKB	g-g	hsa04070	compound
+INPP5A	ec	ITPKC	g-g	hsa04070	compound
+INPP5K	ec	ITPKB	g-g	hsa04070	compound
+INPP5K	ec	ITPKC	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	INPP5A	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	INPP5K	g-g	hsa04070	compound
+PLCB1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCE1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCB2	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCB3	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCB4	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCD1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCG1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCG2	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCD4	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCZ1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+PLCB1	ec	INPP5A	g-g	hsa04070	compound
+PLCB1	ec	INPP5K	g-g	hsa04070	compound
+PLCE1	ec	INPP5A	g-g	hsa04070	compound
+PLCE1	ec	INPP5K	g-g	hsa04070	compound
+PLCB2	ec	INPP5A	g-g	hsa04070	compound
+PLCB2	ec	INPP5K	g-g	hsa04070	compound
+PLCB3	ec	INPP5A	g-g	hsa04070	compound
+PLCB3	ec	INPP5K	g-g	hsa04070	compound
+PLCB4	ec	INPP5A	g-g	hsa04070	compound
+PLCB4	ec	INPP5K	g-g	hsa04070	compound
+PLCD1	ec	INPP5A	g-g	hsa04070	compound
+PLCD1	ec	INPP5K	g-g	hsa04070	compound
+PLCG1	ec	INPP5A	g-g	hsa04070	compound
+PLCG1	ec	INPP5K	g-g	hsa04070	compound
+PLCG2	ec	INPP5A	g-g	hsa04070	compound
+PLCG2	ec	INPP5K	g-g	hsa04070	compound
+PLCD4	ec	INPP5A	g-g	hsa04070	compound
+PLCD4	ec	INPP5K	g-g	hsa04070	compound
+PLCZ1	ec	INPP5A	g-g	hsa04070	compound
+PLCZ1	ec	INPP5K	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCB1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCE1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCB2	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCB3	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCB4	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCD1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCG1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCG2	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCD4	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	PLCZ1	g-g	hsa04070	compound
+INPP5A	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5K	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5A	ec	PLCB1	g-g	hsa04070	compound
+INPP5A	ec	PLCE1	g-g	hsa04070	compound
+INPP5A	ec	PLCB2	g-g	hsa04070	compound
+INPP5A	ec	PLCB3	g-g	hsa04070	compound
+INPP5A	ec	PLCB4	g-g	hsa04070	compound
+INPP5A	ec	PLCD1	g-g	hsa04070	compound
+INPP5A	ec	PLCG1	g-g	hsa04070	compound
+INPP5A	ec	PLCG2	g-g	hsa04070	compound
+INPP5A	ec	PLCD4	g-g	hsa04070	compound
+INPP5A	ec	PLCZ1	g-g	hsa04070	compound
+INPP5K	ec	PLCB1	g-g	hsa04070	compound
+INPP5K	ec	PLCE1	g-g	hsa04070	compound
+INPP5K	ec	PLCB2	g-g	hsa04070	compound
+INPP5K	ec	PLCB3	g-g	hsa04070	compound
+INPP5K	ec	PLCB4	g-g	hsa04070	compound
+INPP5K	ec	PLCD1	g-g	hsa04070	compound
+INPP5K	ec	PLCG1	g-g	hsa04070	compound
+INPP5K	ec	PLCG2	g-g	hsa04070	compound
+INPP5K	ec	PLCD4	g-g	hsa04070	compound
+INPP5K	ec	PLCZ1	g-g	hsa04070	compound
+INPP1	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+INPP1	ec	INPP5A	g-g	hsa04070	compound
+INPP1	ec	INPP5K	g-g	hsa04070	compound
+INPP1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP1	ec	PLCB1	g-g	hsa04070	compound
+INPP1	ec	PLCE1	g-g	hsa04070	compound
+INPP1	ec	PLCB2	g-g	hsa04070	compound
+INPP1	ec	PLCB3	g-g	hsa04070	compound
+INPP1	ec	PLCB4	g-g	hsa04070	compound
+INPP1	ec	PLCD1	g-g	hsa04070	compound
+INPP1	ec	PLCG1	g-g	hsa04070	compound
+INPP1	ec	PLCG2	g-g	hsa04070	compound
+INPP1	ec	PLCD4	g-g	hsa04070	compound
+INPP1	ec	PLCZ1	g-g	hsa04070	compound
+IMPA1, IMP, IMPA, MRT59	ec	INPP1	g-g	hsa04070	compound
+IMPA2	ec	INPP1	g-g	hsa04070	compound
+IMPAD1	ec	INPP1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCE1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCE1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCZ1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB1	ec	PLCB1	g-g	hsa04070	compound
+PLCB1	ec	PLCE1	g-g	hsa04070	compound
+PLCB1	ec	PLCB2	g-g	hsa04070	compound
+PLCB1	ec	PLCB3	g-g	hsa04070	compound
+PLCB1	ec	PLCB4	g-g	hsa04070	compound
+PLCB1	ec	PLCD1	g-g	hsa04070	compound
+PLCB1	ec	PLCG1	g-g	hsa04070	compound
+PLCB1	ec	PLCG2	g-g	hsa04070	compound
+PLCB1	ec	PLCD4	g-g	hsa04070	compound
+PLCB1	ec	PLCZ1	g-g	hsa04070	compound
+PLCE1	ec	PLCB1	g-g	hsa04070	compound
+PLCE1	ec	PLCE1	g-g	hsa04070	compound
+PLCE1	ec	PLCB2	g-g	hsa04070	compound
+PLCE1	ec	PLCB3	g-g	hsa04070	compound
+PLCE1	ec	PLCB4	g-g	hsa04070	compound
+PLCE1	ec	PLCD1	g-g	hsa04070	compound
+PLCE1	ec	PLCG1	g-g	hsa04070	compound
+PLCE1	ec	PLCG2	g-g	hsa04070	compound
+PLCE1	ec	PLCD4	g-g	hsa04070	compound
+PLCE1	ec	PLCZ1	g-g	hsa04070	compound
+PLCB2	ec	PLCB1	g-g	hsa04070	compound
+PLCB2	ec	PLCE1	g-g	hsa04070	compound
+PLCB2	ec	PLCB2	g-g	hsa04070	compound
+PLCB2	ec	PLCB3	g-g	hsa04070	compound
+PLCB2	ec	PLCB4	g-g	hsa04070	compound
+PLCB2	ec	PLCD1	g-g	hsa04070	compound
+PLCB2	ec	PLCG1	g-g	hsa04070	compound
+PLCB2	ec	PLCG2	g-g	hsa04070	compound
+PLCB2	ec	PLCD4	g-g	hsa04070	compound
+PLCB2	ec	PLCZ1	g-g	hsa04070	compound
+PLCB3	ec	PLCB1	g-g	hsa04070	compound
+PLCB3	ec	PLCE1	g-g	hsa04070	compound
+PLCB3	ec	PLCB2	g-g	hsa04070	compound
+PLCB3	ec	PLCB3	g-g	hsa04070	compound
+PLCB3	ec	PLCB4	g-g	hsa04070	compound
+PLCB3	ec	PLCD1	g-g	hsa04070	compound
+PLCB3	ec	PLCG1	g-g	hsa04070	compound
+PLCB3	ec	PLCG2	g-g	hsa04070	compound
+PLCB3	ec	PLCD4	g-g	hsa04070	compound
+PLCB3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB4	ec	PLCB1	g-g	hsa04070	compound
+PLCB4	ec	PLCE1	g-g	hsa04070	compound
+PLCB4	ec	PLCB2	g-g	hsa04070	compound
+PLCB4	ec	PLCB3	g-g	hsa04070	compound
+PLCB4	ec	PLCB4	g-g	hsa04070	compound
+PLCB4	ec	PLCD1	g-g	hsa04070	compound
+PLCB4	ec	PLCG1	g-g	hsa04070	compound
+PLCB4	ec	PLCG2	g-g	hsa04070	compound
+PLCB4	ec	PLCD4	g-g	hsa04070	compound
+PLCB4	ec	PLCZ1	g-g	hsa04070	compound
+PLCD1	ec	PLCB1	g-g	hsa04070	compound
+PLCD1	ec	PLCE1	g-g	hsa04070	compound
+PLCD1	ec	PLCB2	g-g	hsa04070	compound
+PLCD1	ec	PLCB3	g-g	hsa04070	compound
+PLCD1	ec	PLCB4	g-g	hsa04070	compound
+PLCD1	ec	PLCD1	g-g	hsa04070	compound
+PLCD1	ec	PLCG1	g-g	hsa04070	compound
+PLCD1	ec	PLCG2	g-g	hsa04070	compound
+PLCD1	ec	PLCD4	g-g	hsa04070	compound
+PLCD1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG1	ec	PLCB1	g-g	hsa04070	compound
+PLCG1	ec	PLCE1	g-g	hsa04070	compound
+PLCG1	ec	PLCB2	g-g	hsa04070	compound
+PLCG1	ec	PLCB3	g-g	hsa04070	compound
+PLCG1	ec	PLCB4	g-g	hsa04070	compound
+PLCG1	ec	PLCD1	g-g	hsa04070	compound
+PLCG1	ec	PLCG1	g-g	hsa04070	compound
+PLCG1	ec	PLCG2	g-g	hsa04070	compound
+PLCG1	ec	PLCD4	g-g	hsa04070	compound
+PLCG1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG2	ec	PLCB1	g-g	hsa04070	compound
+PLCG2	ec	PLCE1	g-g	hsa04070	compound
+PLCG2	ec	PLCB2	g-g	hsa04070	compound
+PLCG2	ec	PLCB3	g-g	hsa04070	compound
+PLCG2	ec	PLCB4	g-g	hsa04070	compound
+PLCG2	ec	PLCD1	g-g	hsa04070	compound
+PLCG2	ec	PLCG1	g-g	hsa04070	compound
+PLCG2	ec	PLCG2	g-g	hsa04070	compound
+PLCG2	ec	PLCD4	g-g	hsa04070	compound
+PLCG2	ec	PLCZ1	g-g	hsa04070	compound
+PLCD4	ec	PLCB1	g-g	hsa04070	compound
+PLCD4	ec	PLCE1	g-g	hsa04070	compound
+PLCD4	ec	PLCB2	g-g	hsa04070	compound
+PLCD4	ec	PLCB3	g-g	hsa04070	compound
+PLCD4	ec	PLCB4	g-g	hsa04070	compound
+PLCD4	ec	PLCD1	g-g	hsa04070	compound
+PLCD4	ec	PLCG1	g-g	hsa04070	compound
+PLCD4	ec	PLCG2	g-g	hsa04070	compound
+PLCD4	ec	PLCD4	g-g	hsa04070	compound
+PLCD4	ec	PLCZ1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB1	g-g	hsa04070	compound
+PLCZ1	ec	PLCE1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB2	g-g	hsa04070	compound
+PLCZ1	ec	PLCB3	g-g	hsa04070	compound
+PLCZ1	ec	PLCB4	g-g	hsa04070	compound
+PLCZ1	ec	PLCD1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG2	g-g	hsa04070	compound
+PLCZ1	ec	PLCD4	g-g	hsa04070	compound
+PLCZ1	ec	PLCZ1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCE1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCE1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCZ1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB1	ec	PLCB1	g-g	hsa04070	compound
+PLCB1	ec	PLCE1	g-g	hsa04070	compound
+PLCB1	ec	PLCB2	g-g	hsa04070	compound
+PLCB1	ec	PLCB3	g-g	hsa04070	compound
+PLCB1	ec	PLCB4	g-g	hsa04070	compound
+PLCB1	ec	PLCD1	g-g	hsa04070	compound
+PLCB1	ec	PLCG1	g-g	hsa04070	compound
+PLCB1	ec	PLCG2	g-g	hsa04070	compound
+PLCB1	ec	PLCD4	g-g	hsa04070	compound
+PLCB1	ec	PLCZ1	g-g	hsa04070	compound
+PLCE1	ec	PLCB1	g-g	hsa04070	compound
+PLCE1	ec	PLCE1	g-g	hsa04070	compound
+PLCE1	ec	PLCB2	g-g	hsa04070	compound
+PLCE1	ec	PLCB3	g-g	hsa04070	compound
+PLCE1	ec	PLCB4	g-g	hsa04070	compound
+PLCE1	ec	PLCD1	g-g	hsa04070	compound
+PLCE1	ec	PLCG1	g-g	hsa04070	compound
+PLCE1	ec	PLCG2	g-g	hsa04070	compound
+PLCE1	ec	PLCD4	g-g	hsa04070	compound
+PLCE1	ec	PLCZ1	g-g	hsa04070	compound
+PLCB2	ec	PLCB1	g-g	hsa04070	compound
+PLCB2	ec	PLCE1	g-g	hsa04070	compound
+PLCB2	ec	PLCB2	g-g	hsa04070	compound
+PLCB2	ec	PLCB3	g-g	hsa04070	compound
+PLCB2	ec	PLCB4	g-g	hsa04070	compound
+PLCB2	ec	PLCD1	g-g	hsa04070	compound
+PLCB2	ec	PLCG1	g-g	hsa04070	compound
+PLCB2	ec	PLCG2	g-g	hsa04070	compound
+PLCB2	ec	PLCD4	g-g	hsa04070	compound
+PLCB2	ec	PLCZ1	g-g	hsa04070	compound
+PLCB3	ec	PLCB1	g-g	hsa04070	compound
+PLCB3	ec	PLCE1	g-g	hsa04070	compound
+PLCB3	ec	PLCB2	g-g	hsa04070	compound
+PLCB3	ec	PLCB3	g-g	hsa04070	compound
+PLCB3	ec	PLCB4	g-g	hsa04070	compound
+PLCB3	ec	PLCD1	g-g	hsa04070	compound
+PLCB3	ec	PLCG1	g-g	hsa04070	compound
+PLCB3	ec	PLCG2	g-g	hsa04070	compound
+PLCB3	ec	PLCD4	g-g	hsa04070	compound
+PLCB3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB4	ec	PLCB1	g-g	hsa04070	compound
+PLCB4	ec	PLCE1	g-g	hsa04070	compound
+PLCB4	ec	PLCB2	g-g	hsa04070	compound
+PLCB4	ec	PLCB3	g-g	hsa04070	compound
+PLCB4	ec	PLCB4	g-g	hsa04070	compound
+PLCB4	ec	PLCD1	g-g	hsa04070	compound
+PLCB4	ec	PLCG1	g-g	hsa04070	compound
+PLCB4	ec	PLCG2	g-g	hsa04070	compound
+PLCB4	ec	PLCD4	g-g	hsa04070	compound
+PLCB4	ec	PLCZ1	g-g	hsa04070	compound
+PLCD1	ec	PLCB1	g-g	hsa04070	compound
+PLCD1	ec	PLCE1	g-g	hsa04070	compound
+PLCD1	ec	PLCB2	g-g	hsa04070	compound
+PLCD1	ec	PLCB3	g-g	hsa04070	compound
+PLCD1	ec	PLCB4	g-g	hsa04070	compound
+PLCD1	ec	PLCD1	g-g	hsa04070	compound
+PLCD1	ec	PLCG1	g-g	hsa04070	compound
+PLCD1	ec	PLCG2	g-g	hsa04070	compound
+PLCD1	ec	PLCD4	g-g	hsa04070	compound
+PLCD1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG1	ec	PLCB1	g-g	hsa04070	compound
+PLCG1	ec	PLCE1	g-g	hsa04070	compound
+PLCG1	ec	PLCB2	g-g	hsa04070	compound
+PLCG1	ec	PLCB3	g-g	hsa04070	compound
+PLCG1	ec	PLCB4	g-g	hsa04070	compound
+PLCG1	ec	PLCD1	g-g	hsa04070	compound
+PLCG1	ec	PLCG1	g-g	hsa04070	compound
+PLCG1	ec	PLCG2	g-g	hsa04070	compound
+PLCG1	ec	PLCD4	g-g	hsa04070	compound
+PLCG1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG2	ec	PLCB1	g-g	hsa04070	compound
+PLCG2	ec	PLCE1	g-g	hsa04070	compound
+PLCG2	ec	PLCB2	g-g	hsa04070	compound
+PLCG2	ec	PLCB3	g-g	hsa04070	compound
+PLCG2	ec	PLCB4	g-g	hsa04070	compound
+PLCG2	ec	PLCD1	g-g	hsa04070	compound
+PLCG2	ec	PLCG1	g-g	hsa04070	compound
+PLCG2	ec	PLCG2	g-g	hsa04070	compound
+PLCG2	ec	PLCD4	g-g	hsa04070	compound
+PLCG2	ec	PLCZ1	g-g	hsa04070	compound
+PLCD4	ec	PLCB1	g-g	hsa04070	compound
+PLCD4	ec	PLCE1	g-g	hsa04070	compound
+PLCD4	ec	PLCB2	g-g	hsa04070	compound
+PLCD4	ec	PLCB3	g-g	hsa04070	compound
+PLCD4	ec	PLCB4	g-g	hsa04070	compound
+PLCD4	ec	PLCD1	g-g	hsa04070	compound
+PLCD4	ec	PLCG1	g-g	hsa04070	compound
+PLCD4	ec	PLCG2	g-g	hsa04070	compound
+PLCD4	ec	PLCD4	g-g	hsa04070	compound
+PLCD4	ec	PLCZ1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB1	g-g	hsa04070	compound
+PLCZ1	ec	PLCE1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB2	g-g	hsa04070	compound
+PLCZ1	ec	PLCB3	g-g	hsa04070	compound
+PLCZ1	ec	PLCB4	g-g	hsa04070	compound
+PLCZ1	ec	PLCD1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG2	g-g	hsa04070	compound
+PLCZ1	ec	PLCD4	g-g	hsa04070	compound
+PLCZ1	ec	PLCZ1	g-g	hsa04070	compound
+DGKK	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKK	ec	PLCB1	g-g	hsa04070	compound
+DGKK	ec	PLCE1	g-g	hsa04070	compound
+DGKK	ec	PLCB2	g-g	hsa04070	compound
+DGKK	ec	PLCB3	g-g	hsa04070	compound
+DGKK	ec	PLCB4	g-g	hsa04070	compound
+DGKK	ec	PLCD1	g-g	hsa04070	compound
+DGKK	ec	PLCG1	g-g	hsa04070	compound
+DGKK	ec	PLCG2	g-g	hsa04070	compound
+DGKK	ec	PLCD4	g-g	hsa04070	compound
+DGKK	ec	PLCZ1	g-g	hsa04070	compound
+DGKA	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKB	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKG	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKH	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKQ	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKZ	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKE	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKD	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKI	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+DGKA	ec	PLCB1	g-g	hsa04070	compound
+DGKA	ec	PLCE1	g-g	hsa04070	compound
+DGKA	ec	PLCB2	g-g	hsa04070	compound
+DGKA	ec	PLCB3	g-g	hsa04070	compound
+DGKA	ec	PLCB4	g-g	hsa04070	compound
+DGKA	ec	PLCD1	g-g	hsa04070	compound
+DGKA	ec	PLCG1	g-g	hsa04070	compound
+DGKA	ec	PLCG2	g-g	hsa04070	compound
+DGKA	ec	PLCD4	g-g	hsa04070	compound
+DGKA	ec	PLCZ1	g-g	hsa04070	compound
+DGKB	ec	PLCB1	g-g	hsa04070	compound
+DGKB	ec	PLCE1	g-g	hsa04070	compound
+DGKB	ec	PLCB2	g-g	hsa04070	compound
+DGKB	ec	PLCB3	g-g	hsa04070	compound
+DGKB	ec	PLCB4	g-g	hsa04070	compound
+DGKB	ec	PLCD1	g-g	hsa04070	compound
+DGKB	ec	PLCG1	g-g	hsa04070	compound
+DGKB	ec	PLCG2	g-g	hsa04070	compound
+DGKB	ec	PLCD4	g-g	hsa04070	compound
+DGKB	ec	PLCZ1	g-g	hsa04070	compound
+DGKG	ec	PLCB1	g-g	hsa04070	compound
+DGKG	ec	PLCE1	g-g	hsa04070	compound
+DGKG	ec	PLCB2	g-g	hsa04070	compound
+DGKG	ec	PLCB3	g-g	hsa04070	compound
+DGKG	ec	PLCB4	g-g	hsa04070	compound
+DGKG	ec	PLCD1	g-g	hsa04070	compound
+DGKG	ec	PLCG1	g-g	hsa04070	compound
+DGKG	ec	PLCG2	g-g	hsa04070	compound
+DGKG	ec	PLCD4	g-g	hsa04070	compound
+DGKG	ec	PLCZ1	g-g	hsa04070	compound
+DGKH	ec	PLCB1	g-g	hsa04070	compound
+DGKH	ec	PLCE1	g-g	hsa04070	compound
+DGKH	ec	PLCB2	g-g	hsa04070	compound
+DGKH	ec	PLCB3	g-g	hsa04070	compound
+DGKH	ec	PLCB4	g-g	hsa04070	compound
+DGKH	ec	PLCD1	g-g	hsa04070	compound
+DGKH	ec	PLCG1	g-g	hsa04070	compound
+DGKH	ec	PLCG2	g-g	hsa04070	compound
+DGKH	ec	PLCD4	g-g	hsa04070	compound
+DGKH	ec	PLCZ1	g-g	hsa04070	compound
+DGKQ	ec	PLCB1	g-g	hsa04070	compound
+DGKQ	ec	PLCE1	g-g	hsa04070	compound
+DGKQ	ec	PLCB2	g-g	hsa04070	compound
+DGKQ	ec	PLCB3	g-g	hsa04070	compound
+DGKQ	ec	PLCB4	g-g	hsa04070	compound
+DGKQ	ec	PLCD1	g-g	hsa04070	compound
+DGKQ	ec	PLCG1	g-g	hsa04070	compound
+DGKQ	ec	PLCG2	g-g	hsa04070	compound
+DGKQ	ec	PLCD4	g-g	hsa04070	compound
+DGKQ	ec	PLCZ1	g-g	hsa04070	compound
+DGKZ	ec	PLCB1	g-g	hsa04070	compound
+DGKZ	ec	PLCE1	g-g	hsa04070	compound
+DGKZ	ec	PLCB2	g-g	hsa04070	compound
+DGKZ	ec	PLCB3	g-g	hsa04070	compound
+DGKZ	ec	PLCB4	g-g	hsa04070	compound
+DGKZ	ec	PLCD1	g-g	hsa04070	compound
+DGKZ	ec	PLCG1	g-g	hsa04070	compound
+DGKZ	ec	PLCG2	g-g	hsa04070	compound
+DGKZ	ec	PLCD4	g-g	hsa04070	compound
+DGKZ	ec	PLCZ1	g-g	hsa04070	compound
+DGKE	ec	PLCB1	g-g	hsa04070	compound
+DGKE	ec	PLCE1	g-g	hsa04070	compound
+DGKE	ec	PLCB2	g-g	hsa04070	compound
+DGKE	ec	PLCB3	g-g	hsa04070	compound
+DGKE	ec	PLCB4	g-g	hsa04070	compound
+DGKE	ec	PLCD1	g-g	hsa04070	compound
+DGKE	ec	PLCG1	g-g	hsa04070	compound
+DGKE	ec	PLCG2	g-g	hsa04070	compound
+DGKE	ec	PLCD4	g-g	hsa04070	compound
+DGKE	ec	PLCZ1	g-g	hsa04070	compound
+DGKD	ec	PLCB1	g-g	hsa04070	compound
+DGKD	ec	PLCE1	g-g	hsa04070	compound
+DGKD	ec	PLCB2	g-g	hsa04070	compound
+DGKD	ec	PLCB3	g-g	hsa04070	compound
+DGKD	ec	PLCB4	g-g	hsa04070	compound
+DGKD	ec	PLCD1	g-g	hsa04070	compound
+DGKD	ec	PLCG1	g-g	hsa04070	compound
+DGKD	ec	PLCG2	g-g	hsa04070	compound
+DGKD	ec	PLCD4	g-g	hsa04070	compound
+DGKD	ec	PLCZ1	g-g	hsa04070	compound
+DGKI	ec	PLCB1	g-g	hsa04070	compound
+DGKI	ec	PLCE1	g-g	hsa04070	compound
+DGKI	ec	PLCB2	g-g	hsa04070	compound
+DGKI	ec	PLCB3	g-g	hsa04070	compound
+DGKI	ec	PLCB4	g-g	hsa04070	compound
+DGKI	ec	PLCD1	g-g	hsa04070	compound
+DGKI	ec	PLCG1	g-g	hsa04070	compound
+DGKI	ec	PLCG2	g-g	hsa04070	compound
+DGKI	ec	PLCD4	g-g	hsa04070	compound
+DGKI	ec	PLCZ1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCE1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCB4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCG2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCD4	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCE1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB3	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCG2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCD4	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCZ1	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+PLCB1	ec	PLCB1	g-g	hsa04070	compound
+PLCB1	ec	PLCE1	g-g	hsa04070	compound
+PLCB1	ec	PLCB2	g-g	hsa04070	compound
+PLCB1	ec	PLCB3	g-g	hsa04070	compound
+PLCB1	ec	PLCB4	g-g	hsa04070	compound
+PLCB1	ec	PLCD1	g-g	hsa04070	compound
+PLCB1	ec	PLCG1	g-g	hsa04070	compound
+PLCB1	ec	PLCG2	g-g	hsa04070	compound
+PLCB1	ec	PLCD4	g-g	hsa04070	compound
+PLCB1	ec	PLCZ1	g-g	hsa04070	compound
+PLCE1	ec	PLCB1	g-g	hsa04070	compound
+PLCE1	ec	PLCE1	g-g	hsa04070	compound
+PLCE1	ec	PLCB2	g-g	hsa04070	compound
+PLCE1	ec	PLCB3	g-g	hsa04070	compound
+PLCE1	ec	PLCB4	g-g	hsa04070	compound
+PLCE1	ec	PLCD1	g-g	hsa04070	compound
+PLCE1	ec	PLCG1	g-g	hsa04070	compound
+PLCE1	ec	PLCG2	g-g	hsa04070	compound
+PLCE1	ec	PLCD4	g-g	hsa04070	compound
+PLCE1	ec	PLCZ1	g-g	hsa04070	compound
+PLCB2	ec	PLCB1	g-g	hsa04070	compound
+PLCB2	ec	PLCE1	g-g	hsa04070	compound
+PLCB2	ec	PLCB2	g-g	hsa04070	compound
+PLCB2	ec	PLCB3	g-g	hsa04070	compound
+PLCB2	ec	PLCB4	g-g	hsa04070	compound
+PLCB2	ec	PLCD1	g-g	hsa04070	compound
+PLCB2	ec	PLCG1	g-g	hsa04070	compound
+PLCB2	ec	PLCG2	g-g	hsa04070	compound
+PLCB2	ec	PLCD4	g-g	hsa04070	compound
+PLCB2	ec	PLCZ1	g-g	hsa04070	compound
+PLCB3	ec	PLCB1	g-g	hsa04070	compound
+PLCB3	ec	PLCE1	g-g	hsa04070	compound
+PLCB3	ec	PLCB2	g-g	hsa04070	compound
+PLCB3	ec	PLCB3	g-g	hsa04070	compound
+PLCB3	ec	PLCB4	g-g	hsa04070	compound
+PLCB3	ec	PLCD1	g-g	hsa04070	compound
+PLCB3	ec	PLCG1	g-g	hsa04070	compound
+PLCB3	ec	PLCG2	g-g	hsa04070	compound
+PLCB3	ec	PLCD4	g-g	hsa04070	compound
+PLCB3	ec	PLCZ1	g-g	hsa04070	compound
+PLCB4	ec	PLCB1	g-g	hsa04070	compound
+PLCB4	ec	PLCE1	g-g	hsa04070	compound
+PLCB4	ec	PLCB2	g-g	hsa04070	compound
+PLCB4	ec	PLCB3	g-g	hsa04070	compound
+PLCB4	ec	PLCB4	g-g	hsa04070	compound
+PLCB4	ec	PLCD1	g-g	hsa04070	compound
+PLCB4	ec	PLCG1	g-g	hsa04070	compound
+PLCB4	ec	PLCG2	g-g	hsa04070	compound
+PLCB4	ec	PLCD4	g-g	hsa04070	compound
+PLCB4	ec	PLCZ1	g-g	hsa04070	compound
+PLCD1	ec	PLCB1	g-g	hsa04070	compound
+PLCD1	ec	PLCE1	g-g	hsa04070	compound
+PLCD1	ec	PLCB2	g-g	hsa04070	compound
+PLCD1	ec	PLCB3	g-g	hsa04070	compound
+PLCD1	ec	PLCB4	g-g	hsa04070	compound
+PLCD1	ec	PLCD1	g-g	hsa04070	compound
+PLCD1	ec	PLCG1	g-g	hsa04070	compound
+PLCD1	ec	PLCG2	g-g	hsa04070	compound
+PLCD1	ec	PLCD4	g-g	hsa04070	compound
+PLCD1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG1	ec	PLCB1	g-g	hsa04070	compound
+PLCG1	ec	PLCE1	g-g	hsa04070	compound
+PLCG1	ec	PLCB2	g-g	hsa04070	compound
+PLCG1	ec	PLCB3	g-g	hsa04070	compound
+PLCG1	ec	PLCB4	g-g	hsa04070	compound
+PLCG1	ec	PLCD1	g-g	hsa04070	compound
+PLCG1	ec	PLCG1	g-g	hsa04070	compound
+PLCG1	ec	PLCG2	g-g	hsa04070	compound
+PLCG1	ec	PLCD4	g-g	hsa04070	compound
+PLCG1	ec	PLCZ1	g-g	hsa04070	compound
+PLCG2	ec	PLCB1	g-g	hsa04070	compound
+PLCG2	ec	PLCE1	g-g	hsa04070	compound
+PLCG2	ec	PLCB2	g-g	hsa04070	compound
+PLCG2	ec	PLCB3	g-g	hsa04070	compound
+PLCG2	ec	PLCB4	g-g	hsa04070	compound
+PLCG2	ec	PLCD1	g-g	hsa04070	compound
+PLCG2	ec	PLCG1	g-g	hsa04070	compound
+PLCG2	ec	PLCG2	g-g	hsa04070	compound
+PLCG2	ec	PLCD4	g-g	hsa04070	compound
+PLCG2	ec	PLCZ1	g-g	hsa04070	compound
+PLCD4	ec	PLCB1	g-g	hsa04070	compound
+PLCD4	ec	PLCE1	g-g	hsa04070	compound
+PLCD4	ec	PLCB2	g-g	hsa04070	compound
+PLCD4	ec	PLCB3	g-g	hsa04070	compound
+PLCD4	ec	PLCB4	g-g	hsa04070	compound
+PLCD4	ec	PLCD1	g-g	hsa04070	compound
+PLCD4	ec	PLCG1	g-g	hsa04070	compound
+PLCD4	ec	PLCG2	g-g	hsa04070	compound
+PLCD4	ec	PLCD4	g-g	hsa04070	compound
+PLCD4	ec	PLCZ1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB1	g-g	hsa04070	compound
+PLCZ1	ec	PLCE1	g-g	hsa04070	compound
+PLCZ1	ec	PLCB2	g-g	hsa04070	compound
+PLCZ1	ec	PLCB3	g-g	hsa04070	compound
+PLCZ1	ec	PLCB4	g-g	hsa04070	compound
+PLCZ1	ec	PLCD1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG1	g-g	hsa04070	compound
+PLCZ1	ec	PLCG2	g-g	hsa04070	compound
+PLCZ1	ec	PLCD4	g-g	hsa04070	compound
+PLCZ1	ec	PLCZ1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKK	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKA	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKB	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKG	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKH	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKQ	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKZ	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKE	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKD	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKI	g-g	hsa04070	compound
+PLCB1	ec	DGKK	g-g	hsa04070	compound
+PLCE1	ec	DGKK	g-g	hsa04070	compound
+PLCB2	ec	DGKK	g-g	hsa04070	compound
+PLCB3	ec	DGKK	g-g	hsa04070	compound
+PLCB4	ec	DGKK	g-g	hsa04070	compound
+PLCD1	ec	DGKK	g-g	hsa04070	compound
+PLCG1	ec	DGKK	g-g	hsa04070	compound
+PLCG2	ec	DGKK	g-g	hsa04070	compound
+PLCD4	ec	DGKK	g-g	hsa04070	compound
+PLCZ1	ec	DGKK	g-g	hsa04070	compound
+PLCB1	ec	DGKA	g-g	hsa04070	compound
+PLCB1	ec	DGKB	g-g	hsa04070	compound
+PLCB1	ec	DGKG	g-g	hsa04070	compound
+PLCB1	ec	DGKH	g-g	hsa04070	compound
+PLCB1	ec	DGKQ	g-g	hsa04070	compound
+PLCB1	ec	DGKZ	g-g	hsa04070	compound
+PLCB1	ec	DGKE	g-g	hsa04070	compound
+PLCB1	ec	DGKD	g-g	hsa04070	compound
+PLCB1	ec	DGKI	g-g	hsa04070	compound
+PLCE1	ec	DGKA	g-g	hsa04070	compound
+PLCE1	ec	DGKB	g-g	hsa04070	compound
+PLCE1	ec	DGKG	g-g	hsa04070	compound
+PLCE1	ec	DGKH	g-g	hsa04070	compound
+PLCE1	ec	DGKQ	g-g	hsa04070	compound
+PLCE1	ec	DGKZ	g-g	hsa04070	compound
+PLCE1	ec	DGKE	g-g	hsa04070	compound
+PLCE1	ec	DGKD	g-g	hsa04070	compound
+PLCE1	ec	DGKI	g-g	hsa04070	compound
+PLCB2	ec	DGKA	g-g	hsa04070	compound
+PLCB2	ec	DGKB	g-g	hsa04070	compound
+PLCB2	ec	DGKG	g-g	hsa04070	compound
+PLCB2	ec	DGKH	g-g	hsa04070	compound
+PLCB2	ec	DGKQ	g-g	hsa04070	compound
+PLCB2	ec	DGKZ	g-g	hsa04070	compound
+PLCB2	ec	DGKE	g-g	hsa04070	compound
+PLCB2	ec	DGKD	g-g	hsa04070	compound
+PLCB2	ec	DGKI	g-g	hsa04070	compound
+PLCB3	ec	DGKA	g-g	hsa04070	compound
+PLCB3	ec	DGKB	g-g	hsa04070	compound
+PLCB3	ec	DGKG	g-g	hsa04070	compound
+PLCB3	ec	DGKH	g-g	hsa04070	compound
+PLCB3	ec	DGKQ	g-g	hsa04070	compound
+PLCB3	ec	DGKZ	g-g	hsa04070	compound
+PLCB3	ec	DGKE	g-g	hsa04070	compound
+PLCB3	ec	DGKD	g-g	hsa04070	compound
+PLCB3	ec	DGKI	g-g	hsa04070	compound
+PLCB4	ec	DGKA	g-g	hsa04070	compound
+PLCB4	ec	DGKB	g-g	hsa04070	compound
+PLCB4	ec	DGKG	g-g	hsa04070	compound
+PLCB4	ec	DGKH	g-g	hsa04070	compound
+PLCB4	ec	DGKQ	g-g	hsa04070	compound
+PLCB4	ec	DGKZ	g-g	hsa04070	compound
+PLCB4	ec	DGKE	g-g	hsa04070	compound
+PLCB4	ec	DGKD	g-g	hsa04070	compound
+PLCB4	ec	DGKI	g-g	hsa04070	compound
+PLCD1	ec	DGKA	g-g	hsa04070	compound
+PLCD1	ec	DGKB	g-g	hsa04070	compound
+PLCD1	ec	DGKG	g-g	hsa04070	compound
+PLCD1	ec	DGKH	g-g	hsa04070	compound
+PLCD1	ec	DGKQ	g-g	hsa04070	compound
+PLCD1	ec	DGKZ	g-g	hsa04070	compound
+PLCD1	ec	DGKE	g-g	hsa04070	compound
+PLCD1	ec	DGKD	g-g	hsa04070	compound
+PLCD1	ec	DGKI	g-g	hsa04070	compound
+PLCG1	ec	DGKA	g-g	hsa04070	compound
+PLCG1	ec	DGKB	g-g	hsa04070	compound
+PLCG1	ec	DGKG	g-g	hsa04070	compound
+PLCG1	ec	DGKH	g-g	hsa04070	compound
+PLCG1	ec	DGKQ	g-g	hsa04070	compound
+PLCG1	ec	DGKZ	g-g	hsa04070	compound
+PLCG1	ec	DGKE	g-g	hsa04070	compound
+PLCG1	ec	DGKD	g-g	hsa04070	compound
+PLCG1	ec	DGKI	g-g	hsa04070	compound
+PLCG2	ec	DGKA	g-g	hsa04070	compound
+PLCG2	ec	DGKB	g-g	hsa04070	compound
+PLCG2	ec	DGKG	g-g	hsa04070	compound
+PLCG2	ec	DGKH	g-g	hsa04070	compound
+PLCG2	ec	DGKQ	g-g	hsa04070	compound
+PLCG2	ec	DGKZ	g-g	hsa04070	compound
+PLCG2	ec	DGKE	g-g	hsa04070	compound
+PLCG2	ec	DGKD	g-g	hsa04070	compound
+PLCG2	ec	DGKI	g-g	hsa04070	compound
+PLCD4	ec	DGKA	g-g	hsa04070	compound
+PLCD4	ec	DGKB	g-g	hsa04070	compound
+PLCD4	ec	DGKG	g-g	hsa04070	compound
+PLCD4	ec	DGKH	g-g	hsa04070	compound
+PLCD4	ec	DGKQ	g-g	hsa04070	compound
+PLCD4	ec	DGKZ	g-g	hsa04070	compound
+PLCD4	ec	DGKE	g-g	hsa04070	compound
+PLCD4	ec	DGKD	g-g	hsa04070	compound
+PLCD4	ec	DGKI	g-g	hsa04070	compound
+PLCZ1	ec	DGKA	g-g	hsa04070	compound
+PLCZ1	ec	DGKB	g-g	hsa04070	compound
+PLCZ1	ec	DGKG	g-g	hsa04070	compound
+PLCZ1	ec	DGKH	g-g	hsa04070	compound
+PLCZ1	ec	DGKQ	g-g	hsa04070	compound
+PLCZ1	ec	DGKZ	g-g	hsa04070	compound
+PLCZ1	ec	DGKE	g-g	hsa04070	compound
+PLCZ1	ec	DGKD	g-g	hsa04070	compound
+PLCZ1	ec	DGKI	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKK	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKA	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKB	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKG	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKH	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKQ	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKZ	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKE	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKD	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	DGKI	g-g	hsa04070	compound
+PLCB1	ec	DGKK	g-g	hsa04070	compound
+PLCE1	ec	DGKK	g-g	hsa04070	compound
+PLCB2	ec	DGKK	g-g	hsa04070	compound
+PLCB3	ec	DGKK	g-g	hsa04070	compound
+PLCB4	ec	DGKK	g-g	hsa04070	compound
+PLCD1	ec	DGKK	g-g	hsa04070	compound
+PLCG1	ec	DGKK	g-g	hsa04070	compound
+PLCG2	ec	DGKK	g-g	hsa04070	compound
+PLCD4	ec	DGKK	g-g	hsa04070	compound
+PLCZ1	ec	DGKK	g-g	hsa04070	compound
+PLCB1	ec	DGKA	g-g	hsa04070	compound
+PLCB1	ec	DGKB	g-g	hsa04070	compound
+PLCB1	ec	DGKG	g-g	hsa04070	compound
+PLCB1	ec	DGKH	g-g	hsa04070	compound
+PLCB1	ec	DGKQ	g-g	hsa04070	compound
+PLCB1	ec	DGKZ	g-g	hsa04070	compound
+PLCB1	ec	DGKE	g-g	hsa04070	compound
+PLCB1	ec	DGKD	g-g	hsa04070	compound
+PLCB1	ec	DGKI	g-g	hsa04070	compound
+PLCE1	ec	DGKA	g-g	hsa04070	compound
+PLCE1	ec	DGKB	g-g	hsa04070	compound
+PLCE1	ec	DGKG	g-g	hsa04070	compound
+PLCE1	ec	DGKH	g-g	hsa04070	compound
+PLCE1	ec	DGKQ	g-g	hsa04070	compound
+PLCE1	ec	DGKZ	g-g	hsa04070	compound
+PLCE1	ec	DGKE	g-g	hsa04070	compound
+PLCE1	ec	DGKD	g-g	hsa04070	compound
+PLCE1	ec	DGKI	g-g	hsa04070	compound
+PLCB2	ec	DGKA	g-g	hsa04070	compound
+PLCB2	ec	DGKB	g-g	hsa04070	compound
+PLCB2	ec	DGKG	g-g	hsa04070	compound
+PLCB2	ec	DGKH	g-g	hsa04070	compound
+PLCB2	ec	DGKQ	g-g	hsa04070	compound
+PLCB2	ec	DGKZ	g-g	hsa04070	compound
+PLCB2	ec	DGKE	g-g	hsa04070	compound
+PLCB2	ec	DGKD	g-g	hsa04070	compound
+PLCB2	ec	DGKI	g-g	hsa04070	compound
+PLCB3	ec	DGKA	g-g	hsa04070	compound
+PLCB3	ec	DGKB	g-g	hsa04070	compound
+PLCB3	ec	DGKG	g-g	hsa04070	compound
+PLCB3	ec	DGKH	g-g	hsa04070	compound
+PLCB3	ec	DGKQ	g-g	hsa04070	compound
+PLCB3	ec	DGKZ	g-g	hsa04070	compound
+PLCB3	ec	DGKE	g-g	hsa04070	compound
+PLCB3	ec	DGKD	g-g	hsa04070	compound
+PLCB3	ec	DGKI	g-g	hsa04070	compound
+PLCB4	ec	DGKA	g-g	hsa04070	compound
+PLCB4	ec	DGKB	g-g	hsa04070	compound
+PLCB4	ec	DGKG	g-g	hsa04070	compound
+PLCB4	ec	DGKH	g-g	hsa04070	compound
+PLCB4	ec	DGKQ	g-g	hsa04070	compound
+PLCB4	ec	DGKZ	g-g	hsa04070	compound
+PLCB4	ec	DGKE	g-g	hsa04070	compound
+PLCB4	ec	DGKD	g-g	hsa04070	compound
+PLCB4	ec	DGKI	g-g	hsa04070	compound
+PLCD1	ec	DGKA	g-g	hsa04070	compound
+PLCD1	ec	DGKB	g-g	hsa04070	compound
+PLCD1	ec	DGKG	g-g	hsa04070	compound
+PLCD1	ec	DGKH	g-g	hsa04070	compound
+PLCD1	ec	DGKQ	g-g	hsa04070	compound
+PLCD1	ec	DGKZ	g-g	hsa04070	compound
+PLCD1	ec	DGKE	g-g	hsa04070	compound
+PLCD1	ec	DGKD	g-g	hsa04070	compound
+PLCD1	ec	DGKI	g-g	hsa04070	compound
+PLCG1	ec	DGKA	g-g	hsa04070	compound
+PLCG1	ec	DGKB	g-g	hsa04070	compound
+PLCG1	ec	DGKG	g-g	hsa04070	compound
+PLCG1	ec	DGKH	g-g	hsa04070	compound
+PLCG1	ec	DGKQ	g-g	hsa04070	compound
+PLCG1	ec	DGKZ	g-g	hsa04070	compound
+PLCG1	ec	DGKE	g-g	hsa04070	compound
+PLCG1	ec	DGKD	g-g	hsa04070	compound
+PLCG1	ec	DGKI	g-g	hsa04070	compound
+PLCG2	ec	DGKA	g-g	hsa04070	compound
+PLCG2	ec	DGKB	g-g	hsa04070	compound
+PLCG2	ec	DGKG	g-g	hsa04070	compound
+PLCG2	ec	DGKH	g-g	hsa04070	compound
+PLCG2	ec	DGKQ	g-g	hsa04070	compound
+PLCG2	ec	DGKZ	g-g	hsa04070	compound
+PLCG2	ec	DGKE	g-g	hsa04070	compound
+PLCG2	ec	DGKD	g-g	hsa04070	compound
+PLCG2	ec	DGKI	g-g	hsa04070	compound
+PLCD4	ec	DGKA	g-g	hsa04070	compound
+PLCD4	ec	DGKB	g-g	hsa04070	compound
+PLCD4	ec	DGKG	g-g	hsa04070	compound
+PLCD4	ec	DGKH	g-g	hsa04070	compound
+PLCD4	ec	DGKQ	g-g	hsa04070	compound
+PLCD4	ec	DGKZ	g-g	hsa04070	compound
+PLCD4	ec	DGKE	g-g	hsa04070	compound
+PLCD4	ec	DGKD	g-g	hsa04070	compound
+PLCD4	ec	DGKI	g-g	hsa04070	compound
+PLCZ1	ec	DGKA	g-g	hsa04070	compound
+PLCZ1	ec	DGKB	g-g	hsa04070	compound
+PLCZ1	ec	DGKG	g-g	hsa04070	compound
+PLCZ1	ec	DGKH	g-g	hsa04070	compound
+PLCZ1	ec	DGKQ	g-g	hsa04070	compound
+PLCZ1	ec	DGKZ	g-g	hsa04070	compound
+PLCZ1	ec	DGKE	g-g	hsa04070	compound
+PLCZ1	ec	DGKD	g-g	hsa04070	compound
+PLCZ1	ec	DGKI	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKK	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKA	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKB	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKG	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKH	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKQ	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKZ	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKE	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKD	g-g	hsa04070	compound
+CDS1, CDS	ec	DGKI	g-g	hsa04070	compound
+CDS2	ec	DGKK	g-g	hsa04070	compound
+CDS2	ec	DGKA	g-g	hsa04070	compound
+CDS2	ec	DGKB	g-g	hsa04070	compound
+CDS2	ec	DGKG	g-g	hsa04070	compound
+CDS2	ec	DGKH	g-g	hsa04070	compound
+CDS2	ec	DGKQ	g-g	hsa04070	compound
+CDS2	ec	DGKZ	g-g	hsa04070	compound
+CDS2	ec	DGKE	g-g	hsa04070	compound
+CDS2	ec	DGKD	g-g	hsa04070	compound
+CDS2	ec	DGKI	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	CDS1, CDS	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	CDS2	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIP4K2C	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIP4K2B	g-g	hsa04070	compound
+PIP5K1A	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIP5K1B	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+PIP5K1A	ec	PIP4K2C	g-g	hsa04070	compound
+PIP5K1A	ec	PIP4K2B	g-g	hsa04070	compound
+PIP5K1B	ec	PIP4K2C	g-g	hsa04070	compound
+PIP5K1B	ec	PIP4K2B	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIP4K2C	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIP4K2B	g-g	hsa04070	compound
+OCRL	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+INPP5E	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+SYNJ1	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+SYNJ2	ec	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	g-g	hsa04070	compound
+OCRL	ec	PIP4K2C	g-g	hsa04070	compound
+OCRL	ec	PIP4K2B	g-g	hsa04070	compound
+INPP5E	ec	PIP4K2C	g-g	hsa04070	compound
+INPP5E	ec	PIP4K2B	g-g	hsa04070	compound
+SYNJ1	ec	PIP4K2C	g-g	hsa04070	compound
+SYNJ1	ec	PIP4K2B	g-g	hsa04070	compound
+SYNJ2	ec	PIP4K2C	g-g	hsa04070	compound
+SYNJ2	ec	PIP4K2B	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIP5K1A	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIP5K1B	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP5K1B	g-g	hsa04070	compound
+PIK3CB	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3CD	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3R1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3R2	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3R3	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PIK3CB	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3CB	ec	PIP5K1B	g-g	hsa04070	compound
+PIK3CD	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3CD	ec	PIP5K1B	g-g	hsa04070	compound
+PIK3R1	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3R1	ec	PIP5K1B	g-g	hsa04070	compound
+PIK3R2	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3R2	ec	PIP5K1B	g-g	hsa04070	compound
+PIK3R3	ec	PIP5K1A	g-g	hsa04070	compound
+PIK3R3	ec	PIP5K1B	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP5K1A	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIP5K1B	g-g	hsa04070	compound
+PLCB1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCE1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCB2	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCB3	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCB4	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCD1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCG1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCG2	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCD4	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCZ1	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+PLCB1	ec	PIP5K1A	g-g	hsa04070	compound
+PLCB1	ec	PIP5K1B	g-g	hsa04070	compound
+PLCE1	ec	PIP5K1A	g-g	hsa04070	compound
+PLCE1	ec	PIP5K1B	g-g	hsa04070	compound
+PLCB2	ec	PIP5K1A	g-g	hsa04070	compound
+PLCB2	ec	PIP5K1B	g-g	hsa04070	compound
+PLCB3	ec	PIP5K1A	g-g	hsa04070	compound
+PLCB3	ec	PIP5K1B	g-g	hsa04070	compound
+PLCB4	ec	PIP5K1A	g-g	hsa04070	compound
+PLCB4	ec	PIP5K1B	g-g	hsa04070	compound
+PLCD1	ec	PIP5K1A	g-g	hsa04070	compound
+PLCD1	ec	PIP5K1B	g-g	hsa04070	compound
+PLCG1	ec	PIP5K1A	g-g	hsa04070	compound
+PLCG1	ec	PIP5K1B	g-g	hsa04070	compound
+PLCG2	ec	PIP5K1A	g-g	hsa04070	compound
+PLCG2	ec	PIP5K1B	g-g	hsa04070	compound
+PLCD4	ec	PIP5K1A	g-g	hsa04070	compound
+PLCD4	ec	PIP5K1B	g-g	hsa04070	compound
+PLCZ1	ec	PIP5K1A	g-g	hsa04070	compound
+PLCZ1	ec	PIP5K1B	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+OCRL	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+INPP5E	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+SYNJ1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+SYNJ2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	OCRL	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	INPP5E	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	SYNJ1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	SYNJ2	g-g	hsa04070	compound
+PIK3CB	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3CD	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R2	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3R3	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PIK3CB	ec	OCRL	g-g	hsa04070	compound
+PIK3CB	ec	INPP5E	g-g	hsa04070	compound
+PIK3CB	ec	SYNJ1	g-g	hsa04070	compound
+PIK3CB	ec	SYNJ2	g-g	hsa04070	compound
+PIK3CD	ec	OCRL	g-g	hsa04070	compound
+PIK3CD	ec	INPP5E	g-g	hsa04070	compound
+PIK3CD	ec	SYNJ1	g-g	hsa04070	compound
+PIK3CD	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R1	ec	OCRL	g-g	hsa04070	compound
+PIK3R1	ec	INPP5E	g-g	hsa04070	compound
+PIK3R1	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R1	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R2	ec	OCRL	g-g	hsa04070	compound
+PIK3R2	ec	INPP5E	g-g	hsa04070	compound
+PIK3R2	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R2	ec	SYNJ2	g-g	hsa04070	compound
+PIK3R3	ec	OCRL	g-g	hsa04070	compound
+PIK3R3	ec	INPP5E	g-g	hsa04070	compound
+PIK3R3	ec	SYNJ1	g-g	hsa04070	compound
+PIK3R3	ec	SYNJ2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	OCRL	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	INPP5E	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	SYNJ1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	SYNJ2	g-g	hsa04070	compound
+PLCB1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCE1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCB2	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCB3	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCB4	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCD1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCG1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCG2	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCD4	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCZ1	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+PLCB1	ec	OCRL	g-g	hsa04070	compound
+PLCB1	ec	INPP5E	g-g	hsa04070	compound
+PLCB1	ec	SYNJ1	g-g	hsa04070	compound
+PLCB1	ec	SYNJ2	g-g	hsa04070	compound
+PLCE1	ec	OCRL	g-g	hsa04070	compound
+PLCE1	ec	INPP5E	g-g	hsa04070	compound
+PLCE1	ec	SYNJ1	g-g	hsa04070	compound
+PLCE1	ec	SYNJ2	g-g	hsa04070	compound
+PLCB2	ec	OCRL	g-g	hsa04070	compound
+PLCB2	ec	INPP5E	g-g	hsa04070	compound
+PLCB2	ec	SYNJ1	g-g	hsa04070	compound
+PLCB2	ec	SYNJ2	g-g	hsa04070	compound
+PLCB3	ec	OCRL	g-g	hsa04070	compound
+PLCB3	ec	INPP5E	g-g	hsa04070	compound
+PLCB3	ec	SYNJ1	g-g	hsa04070	compound
+PLCB3	ec	SYNJ2	g-g	hsa04070	compound
+PLCB4	ec	OCRL	g-g	hsa04070	compound
+PLCB4	ec	INPP5E	g-g	hsa04070	compound
+PLCB4	ec	SYNJ1	g-g	hsa04070	compound
+PLCB4	ec	SYNJ2	g-g	hsa04070	compound
+PLCD1	ec	OCRL	g-g	hsa04070	compound
+PLCD1	ec	INPP5E	g-g	hsa04070	compound
+PLCD1	ec	SYNJ1	g-g	hsa04070	compound
+PLCD1	ec	SYNJ2	g-g	hsa04070	compound
+PLCG1	ec	OCRL	g-g	hsa04070	compound
+PLCG1	ec	INPP5E	g-g	hsa04070	compound
+PLCG1	ec	SYNJ1	g-g	hsa04070	compound
+PLCG1	ec	SYNJ2	g-g	hsa04070	compound
+PLCG2	ec	OCRL	g-g	hsa04070	compound
+PLCG2	ec	INPP5E	g-g	hsa04070	compound
+PLCG2	ec	SYNJ1	g-g	hsa04070	compound
+PLCG2	ec	SYNJ2	g-g	hsa04070	compound
+PLCD4	ec	OCRL	g-g	hsa04070	compound
+PLCD4	ec	INPP5E	g-g	hsa04070	compound
+PLCD4	ec	SYNJ1	g-g	hsa04070	compound
+PLCD4	ec	SYNJ2	g-g	hsa04070	compound
+PLCZ1	ec	OCRL	g-g	hsa04070	compound
+PLCZ1	ec	INPP5E	g-g	hsa04070	compound
+PLCZ1	ec	SYNJ1	g-g	hsa04070	compound
+PLCZ1	ec	SYNJ2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PI4KB	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PI4K2B	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PI4K2A	g-g	hsa04070	compound
+PLCB1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCE1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCB2	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCB3	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCB4	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCD1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCG1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCG2	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCD4	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCZ1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PLCB1	ec	PI4KB	g-g	hsa04070	compound
+PLCB1	ec	PI4K2B	g-g	hsa04070	compound
+PLCB1	ec	PI4K2A	g-g	hsa04070	compound
+PLCE1	ec	PI4KB	g-g	hsa04070	compound
+PLCE1	ec	PI4K2B	g-g	hsa04070	compound
+PLCE1	ec	PI4K2A	g-g	hsa04070	compound
+PLCB2	ec	PI4KB	g-g	hsa04070	compound
+PLCB2	ec	PI4K2B	g-g	hsa04070	compound
+PLCB2	ec	PI4K2A	g-g	hsa04070	compound
+PLCB3	ec	PI4KB	g-g	hsa04070	compound
+PLCB3	ec	PI4K2B	g-g	hsa04070	compound
+PLCB3	ec	PI4K2A	g-g	hsa04070	compound
+PLCB4	ec	PI4KB	g-g	hsa04070	compound
+PLCB4	ec	PI4K2B	g-g	hsa04070	compound
+PLCB4	ec	PI4K2A	g-g	hsa04070	compound
+PLCD1	ec	PI4KB	g-g	hsa04070	compound
+PLCD1	ec	PI4K2B	g-g	hsa04070	compound
+PLCD1	ec	PI4K2A	g-g	hsa04070	compound
+PLCG1	ec	PI4KB	g-g	hsa04070	compound
+PLCG1	ec	PI4K2B	g-g	hsa04070	compound
+PLCG1	ec	PI4K2A	g-g	hsa04070	compound
+PLCG2	ec	PI4KB	g-g	hsa04070	compound
+PLCG2	ec	PI4K2B	g-g	hsa04070	compound
+PLCG2	ec	PI4K2A	g-g	hsa04070	compound
+PLCD4	ec	PI4KB	g-g	hsa04070	compound
+PLCD4	ec	PI4K2B	g-g	hsa04070	compound
+PLCD4	ec	PI4K2A	g-g	hsa04070	compound
+PLCZ1	ec	PI4KB	g-g	hsa04070	compound
+PLCZ1	ec	PI4K2B	g-g	hsa04070	compound
+PLCZ1	ec	PI4K2A	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PI4KB	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PI4K2B	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PI4K2A	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2B	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C2G	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R3	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2B	g-g	hsa04070	compound
+PI4KB	ec	PIK3C2G	g-g	hsa04070	compound
+PI4KB	ec	PIK3R1	g-g	hsa04070	compound
+PI4KB	ec	PIK3R2	g-g	hsa04070	compound
+PI4KB	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2B	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C2G	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2B	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C2G	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PI4KB	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PI4K2B	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PI4K2A	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PI4KB	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PI4K2B	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PI4K2A	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PI4KB	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PI4K2B	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PI4K2A	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCE1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB3	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCB4	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCG1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCG2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD4	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCZ1	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	IMPA2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	IMPAD1	g-g	hsa04070	compound
+PLCB1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCE1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCB2	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCB3	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCB4	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCD1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCG1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCG2	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCD4	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCZ1	ec	IMPA1, IMP, IMPA, MRT59	g-g	hsa04070	compound
+PLCB1	ec	IMPA2	g-g	hsa04070	compound
+PLCB1	ec	IMPAD1	g-g	hsa04070	compound
+PLCE1	ec	IMPA2	g-g	hsa04070	compound
+PLCE1	ec	IMPAD1	g-g	hsa04070	compound
+PLCB2	ec	IMPA2	g-g	hsa04070	compound
+PLCB2	ec	IMPAD1	g-g	hsa04070	compound
+PLCB3	ec	IMPA2	g-g	hsa04070	compound
+PLCB3	ec	IMPAD1	g-g	hsa04070	compound
+PLCB4	ec	IMPA2	g-g	hsa04070	compound
+PLCB4	ec	IMPAD1	g-g	hsa04070	compound
+PLCD1	ec	IMPA2	g-g	hsa04070	compound
+PLCD1	ec	IMPAD1	g-g	hsa04070	compound
+PLCG1	ec	IMPA2	g-g	hsa04070	compound
+PLCG1	ec	IMPAD1	g-g	hsa04070	compound
+PLCG2	ec	IMPA2	g-g	hsa04070	compound
+PLCG2	ec	IMPAD1	g-g	hsa04070	compound
+PLCD4	ec	IMPA2	g-g	hsa04070	compound
+PLCD4	ec	IMPAD1	g-g	hsa04070	compound
+PLCZ1	ec	IMPA2	g-g	hsa04070	compound
+PLCZ1	ec	IMPAD1	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	PIP4P1	g-g	hsa04070	compound
+PIP4K2C	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2B	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2C	ec	PIP4P1	g-g	hsa04070	compound
+PIP4K2B	ec	PIP4P1	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	ec	PIP4P1	g-g	hsa04070	compound
+PIK3CB	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3CD	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3R1	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3R2	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3R3	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIK3CB	ec	PIP4P1	g-g	hsa04070	compound
+PIK3CD	ec	PIP4P1	g-g	hsa04070	compound
+PIK3R1	ec	PIP4P1	g-g	hsa04070	compound
+PIK3R2	ec	PIP4P1	g-g	hsa04070	compound
+PIK3R3	ec	PIP4P1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIP4P1	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	ec	PIP4P1	g-g	hsa04070	compound
+PIP5K1A	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP5K1B	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP5K1A	ec	PIP4P1	g-g	hsa04070	compound
+PIP5K1B	ec	PIP4P1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIP4P1	g-g	hsa04070	compound
+OCRL	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+INPP5E	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+SYNJ1	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+SYNJ2	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+OCRL	ec	PIP4P1	g-g	hsa04070	compound
+INPP5E	ec	PIP4P1	g-g	hsa04070	compound
+SYNJ1	ec	PIP4P1	g-g	hsa04070	compound
+SYNJ2	ec	PIP4P1	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIP4P1	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	PIP4P1	g-g	hsa04070	compound
+PIP4K2C	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2B	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+PIP4K2C	ec	PIP4P1	g-g	hsa04070	compound
+PIP4K2B	ec	PIP4P1	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIP4P2, TMEM55A	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIP4P1	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIP4K2C	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIP4K2B	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R1	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R2	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R3	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R2	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	PIK3R3	g-g	hsa04070	compound
+INPP4B	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+INPP4B	ec	PIK3R1	g-g	hsa04070	compound
+INPP4B	ec	PIK3R2	g-g	hsa04070	compound
+INPP4B	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R3	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R1	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R2	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R3	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R1	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R2	g-g	hsa04070	compound
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	ec	PIK3R3	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R1	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R2	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	PIK3R3	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R1	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R2	g-g	hsa04070	compound
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	ec	PIK3R3	g-g	hsa04070	compound
+PI4KB	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PI4K2B	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PI4K2A	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PI4KB	ec	PIK3R1	g-g	hsa04070	compound
+PI4KB	ec	PIK3R2	g-g	hsa04070	compound
+PI4KB	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2B	ec	PIK3R3	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R1	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R2	g-g	hsa04070	compound
+PI4K2A	ec	PIK3R3	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R1	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R2	g-g	hsa04070	compound
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	ec	PIK3R3	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R1	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R2	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCE1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCB2	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCB3	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCB4	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCD1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCG1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCG2	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCD4	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCZ1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+PLCB1	ec	PIK3R1	g-g	hsa04070	compound
+PLCB1	ec	PIK3R2	g-g	hsa04070	compound
+PLCB1	ec	PIK3R3	g-g	hsa04070	compound
+PLCE1	ec	PIK3R1	g-g	hsa04070	compound
+PLCE1	ec	PIK3R2	g-g	hsa04070	compound
+PLCE1	ec	PIK3R3	g-g	hsa04070	compound
+PLCB2	ec	PIK3R1	g-g	hsa04070	compound
+PLCB2	ec	PIK3R2	g-g	hsa04070	compound
+PLCB2	ec	PIK3R3	g-g	hsa04070	compound
+PLCB3	ec	PIK3R1	g-g	hsa04070	compound
+PLCB3	ec	PIK3R2	g-g	hsa04070	compound
+PLCB3	ec	PIK3R3	g-g	hsa04070	compound
+PLCB4	ec	PIK3R1	g-g	hsa04070	compound
+PLCB4	ec	PIK3R2	g-g	hsa04070	compound
+PLCB4	ec	PIK3R3	g-g	hsa04070	compound
+PLCD1	ec	PIK3R1	g-g	hsa04070	compound
+PLCD1	ec	PIK3R2	g-g	hsa04070	compound
+PLCD1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG1	ec	PIK3R1	g-g	hsa04070	compound
+PLCG1	ec	PIK3R2	g-g	hsa04070	compound
+PLCG1	ec	PIK3R3	g-g	hsa04070	compound
+PLCG2	ec	PIK3R1	g-g	hsa04070	compound
+PLCG2	ec	PIK3R2	g-g	hsa04070	compound
+PLCG2	ec	PIK3R3	g-g	hsa04070	compound
+PLCD4	ec	PIK3R1	g-g	hsa04070	compound
+PLCD4	ec	PIK3R2	g-g	hsa04070	compound
+PLCD4	ec	PIK3R3	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R1	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R2	g-g	hsa04070	compound
+PLCZ1	ec	PIK3R3	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R1	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R2	g-g	hsa04070	compound
+CDIPT, PIS, PIS1	ec	PIK3R3	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	IPMK	g-g	hsa04070	compound
+INPP5A	ec	IPMK	g-g	hsa04070	compound
+INPP5K	ec	IPMK	g-g	hsa04070	compound
+ITPKA, IP3-3KA, IP3KA	ec	IPMK	g-g	hsa04070	compound
+ITPKB	ec	IPMK	g-g	hsa04070	compound
+ITPKC	ec	IPMK	g-g	hsa04070	compound
+PLCD3, PLC-delta-3	ec	IPMK	g-g	hsa04070	compound
+PLCB1	ec	IPMK	g-g	hsa04070	compound
+PLCE1	ec	IPMK	g-g	hsa04070	compound
+PLCB2	ec	IPMK	g-g	hsa04070	compound
+PLCB3	ec	IPMK	g-g	hsa04070	compound
+PLCB4	ec	IPMK	g-g	hsa04070	compound
+PLCD1	ec	IPMK	g-g	hsa04070	compound
+PLCG1	ec	IPMK	g-g	hsa04070	compound
+PLCG2	ec	IPMK	g-g	hsa04070	compound
+PLCD4	ec	IPMK	g-g	hsa04070	compound
+PLCZ1	ec	IPMK	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP5A	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP5K	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP4B	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP1	ec	ITPK1, ITRPK1	g-g	hsa04070	compound
+INPP4A, INPP4, TVAS1	ec	INPP1	g-g	hsa04070	compound
+INPP4B	ec	INPP1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+INPP5J, INPP5, PIB5PA, PIPP	ec	INPP4B	g-g	hsa04070	compound
+INPP5A	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+INPP5K	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+INPP5A	ec	INPP4B	g-g	hsa04070	compound
+INPP5K	ec	INPP4B	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+MTM1, CNM, MTMX, XLMTM	ec	INPP4B	g-g	hsa04070	compound
+IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	ec	IPMK	g-g	hsa04070	compound
+IPMK	ec	IPMK	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+PPIP5K1	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+IP6K3, IHPK3, INSP6K3	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+IP6K2	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+IP6K1	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K3, IHPK3, INSP6K3	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K2	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K1	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K3, IHPK3, INSP6K3	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K2	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K1	g-g	hsa04070	compound
+IP6K3, IHPK3, INSP6K3	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K3, IHPK3, INSP6K3	ec	PPIP5K1	g-g	hsa04070	compound
+IP6K2	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K1	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K2	ec	PPIP5K1	g-g	hsa04070	compound
+IP6K1	ec	PPIP5K1	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K3, IHPK3, INSP6K3	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K2	g-g	hsa04070	compound
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	ec	IP6K1	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K3, IHPK3, INSP6K3	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K2	g-g	hsa04070	compound
+PPIP5K1	ec	IP6K1	g-g	hsa04070	compound
+IP6K3, IHPK3, INSP6K3	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K3, IHPK3, INSP6K3	ec	PPIP5K1	g-g	hsa04070	compound
+IP6K2	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K1	ec	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	g-g	hsa04070	compound
+IP6K2	ec	PPIP5K1	g-g	hsa04070	compound
+IP6K1	ec	PPIP5K1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+OCRL	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+INPP5E	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+SYNJ1	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+SYNJ2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3CB	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3CD	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R2	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R3	g-g	hsa04070	compound
+OCRL	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+INPP5E	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+SYNJ1	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+SYNJ2	ec	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04070	compound
+OCRL	ec	PIK3CB	g-g	hsa04070	compound
+OCRL	ec	PIK3CD	g-g	hsa04070	compound
+OCRL	ec	PIK3R1	g-g	hsa04070	compound
+OCRL	ec	PIK3R2	g-g	hsa04070	compound
+OCRL	ec	PIK3R3	g-g	hsa04070	compound
+INPP5E	ec	PIK3CB	g-g	hsa04070	compound
+INPP5E	ec	PIK3CD	g-g	hsa04070	compound
+INPP5E	ec	PIK3R1	g-g	hsa04070	compound
+INPP5E	ec	PIK3R2	g-g	hsa04070	compound
+INPP5E	ec	PIK3R3	g-g	hsa04070	compound
+SYNJ1	ec	PIK3CB	g-g	hsa04070	compound
+SYNJ1	ec	PIK3CD	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R1	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R2	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R3	g-g	hsa04070	compound
+SYNJ2	ec	PIK3CB	g-g	hsa04070	compound
+SYNJ2	ec	PIK3CD	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R1	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R2	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R3	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	INPP4B	g-g	hsa04070	compound
+OCRL	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+INPP5E	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+SYNJ1	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+SYNJ2	ec	INPP4A, INPP4, TVAS1	g-g	hsa04070	compound
+OCRL	ec	INPP4B	g-g	hsa04070	compound
+INPP5E	ec	INPP4B	g-g	hsa04070	compound
+SYNJ1	ec	INPP4B	g-g	hsa04070	compound
+SYNJ2	ec	INPP4B	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3C2B	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3C2G	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R1	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R2	g-g	hsa04070	compound
+INPP5B, 5PTase	ec	PIK3R3	g-g	hsa04070	compound
+OCRL	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP5E	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+SYNJ1	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+SYNJ2	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+OCRL	ec	PIK3C2B	g-g	hsa04070	compound
+OCRL	ec	PIK3C2G	g-g	hsa04070	compound
+OCRL	ec	PIK3R1	g-g	hsa04070	compound
+OCRL	ec	PIK3R2	g-g	hsa04070	compound
+OCRL	ec	PIK3R3	g-g	hsa04070	compound
+INPP5E	ec	PIK3C2B	g-g	hsa04070	compound
+INPP5E	ec	PIK3C2G	g-g	hsa04070	compound
+INPP5E	ec	PIK3R1	g-g	hsa04070	compound
+INPP5E	ec	PIK3R2	g-g	hsa04070	compound
+INPP5E	ec	PIK3R3	g-g	hsa04070	compound
+SYNJ1	ec	PIK3C2B	g-g	hsa04070	compound
+SYNJ1	ec	PIK3C2G	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R1	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R2	g-g	hsa04070	compound
+SYNJ1	ec	PIK3R3	g-g	hsa04070	compound
+SYNJ2	ec	PIK3C2B	g-g	hsa04070	compound
+SYNJ2	ec	PIK3C2G	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R1	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R2	g-g	hsa04070	compound
+SYNJ2	ec	PIK3R3	g-g	hsa04070	compound
+ITPKA, IP3-3KA, IP3KA	ec	IPMK	g-g	hsa04070	compound
+ITPKB	ec	IPMK	g-g	hsa04070	compound
+ITPKC	ec	IPMK	g-g	hsa04070	compound
+IPMK	ec	INPP5J, INPP5, PIB5PA, PIPP	g-g	hsa04070	compound
+IPMK	ec	INPP5A	g-g	hsa04070	compound
+IPMK	ec	INPP5K	g-g	hsa04070	compound
+IPMK	ec	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	g-g	hsa04070	compound
+IPMK	ec	IPMK	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+SACM1L	ec	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCE1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB4	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCG1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCG2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD4	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCZ1	g-g	hsa04070	compound
+SACM1L	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+SACM1L	ec	PLCB1	g-g	hsa04070	compound
+SACM1L	ec	PLCE1	g-g	hsa04070	compound
+SACM1L	ec	PLCB2	g-g	hsa04070	compound
+SACM1L	ec	PLCB3	g-g	hsa04070	compound
+SACM1L	ec	PLCB4	g-g	hsa04070	compound
+SACM1L	ec	PLCD1	g-g	hsa04070	compound
+SACM1L	ec	PLCG1	g-g	hsa04070	compound
+SACM1L	ec	PLCG2	g-g	hsa04070	compound
+SACM1L	ec	PLCD4	g-g	hsa04070	compound
+SACM1L	ec	PLCZ1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R3	g-g	hsa04070	compound
+SACM1L	ec	PIK3C3, VPS34, hVps34	g-g	hsa04070	compound
+SACM1L	ec	PIK3R1	g-g	hsa04070	compound
+SACM1L	ec	PIK3R2	g-g	hsa04070	compound
+SACM1L	ec	PIK3R3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2B	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2G	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R3	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2B	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2G	g-g	hsa04070	compound
+SACM1L	ec	PIK3R1	g-g	hsa04070	compound
+SACM1L	ec	PIK3R2	g-g	hsa04070	compound
+SACM1L	ec	PIK3R3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+SACM1L	ec	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+SACM1L	ec	MTM1, CNM, MTMX, XLMTM	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+SACM1L	ec	CDIPT, PIS, PIS1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2B	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3C2G	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIK3R3	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2B	g-g	hsa04070	compound
+SACM1L	ec	PIK3C2G	g-g	hsa04070	compound
+SACM1L	ec	PIK3R1	g-g	hsa04070	compound
+SACM1L	ec	PIK3R2	g-g	hsa04070	compound
+SACM1L	ec	PIK3R3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCE1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB3	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCB4	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCG1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCG2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCD4	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PLCZ1	g-g	hsa04070	compound
+SACM1L	ec	PLCD3, PLC-delta-3	g-g	hsa04070	compound
+SACM1L	ec	PLCB1	g-g	hsa04070	compound
+SACM1L	ec	PLCE1	g-g	hsa04070	compound
+SACM1L	ec	PLCB2	g-g	hsa04070	compound
+SACM1L	ec	PLCB3	g-g	hsa04070	compound
+SACM1L	ec	PLCB4	g-g	hsa04070	compound
+SACM1L	ec	PLCD1	g-g	hsa04070	compound
+SACM1L	ec	PLCG1	g-g	hsa04070	compound
+SACM1L	ec	PLCG2	g-g	hsa04070	compound
+SACM1L	ec	PLCD4	g-g	hsa04070	compound
+SACM1L	ec	PLCZ1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	OCRL	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	INPP5E	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	SYNJ1	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	SYNJ2	g-g	hsa04070	compound
+SACM1L	ec	INPP5B, 5PTase	g-g	hsa04070	compound
+SACM1L	ec	OCRL	g-g	hsa04070	compound
+SACM1L	ec	INPP5E	g-g	hsa04070	compound
+SACM1L	ec	SYNJ1	g-g	hsa04070	compound
+SACM1L	ec	SYNJ2	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIP5K1A	g-g	hsa04070	compound
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	ec	PIP5K1B	g-g	hsa04070	compound
+SACM1L	ec	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	g-g	hsa04070	compound
+SACM1L	ec	PIP5K1A	g-g	hsa04070	compound
+SACM1L	ec	PIP5K1B	g-g	hsa04070	compound
+IPMK	ec	IPMK	g-g	hsa04070	compound
+C04549	rt	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	irreversible	hsa04070	se
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	rt	C01194	irreversible	hsa04070	ep
+C01284	rt	IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	irreversible	hsa04070	se
+IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B131	rt	C01204	irreversible	hsa04070	ep
+C01194	rt	PLCD3, PLC-delta-3	irreversible	hsa04070	se
+C01194	rt	PLCB1	irreversible	hsa04070	se
+C01194	rt	PLCE1	irreversible	hsa04070	se
+C01194	rt	PLCB2	irreversible	hsa04070	se
+C01194	rt	PLCB3	irreversible	hsa04070	se
+C01194	rt	PLCB4	irreversible	hsa04070	se
+C01194	rt	PLCD1	irreversible	hsa04070	se
+C01194	rt	PLCG1	irreversible	hsa04070	se
+C01194	rt	PLCG2	irreversible	hsa04070	se
+C01194	rt	PLCD4	irreversible	hsa04070	se
+C01194	rt	PLCZ1	irreversible	hsa04070	se
+PLCD3, PLC-delta-3	rt	C00641	irreversible	hsa04070	ep
+PLCB1	rt	C00641	irreversible	hsa04070	ep
+PLCE1	rt	C00641	irreversible	hsa04070	ep
+PLCB2	rt	C00641	irreversible	hsa04070	ep
+PLCB3	rt	C00641	irreversible	hsa04070	ep
+PLCB4	rt	C00641	irreversible	hsa04070	ep
+PLCD1	rt	C00641	irreversible	hsa04070	ep
+PLCG1	rt	C00641	irreversible	hsa04070	ep
+PLCG2	rt	C00641	irreversible	hsa04070	ep
+PLCD4	rt	C00641	irreversible	hsa04070	ep
+PLCZ1	rt	C00641	irreversible	hsa04070	ep
+PLCD3, PLC-delta-3	rt	C01177	irreversible	hsa04070	ep
+PLCB1	rt	C01177	irreversible	hsa04070	ep
+PLCE1	rt	C01177	irreversible	hsa04070	ep
+PLCB2	rt	C01177	irreversible	hsa04070	ep
+PLCB3	rt	C01177	irreversible	hsa04070	ep
+PLCB4	rt	C01177	irreversible	hsa04070	ep
+PLCD1	rt	C01177	irreversible	hsa04070	ep
+PLCG1	rt	C01177	irreversible	hsa04070	ep
+PLCG2	rt	C01177	irreversible	hsa04070	ep
+PLCD4	rt	C01177	irreversible	hsa04070	ep
+PLCZ1	rt	C01177	irreversible	hsa04070	ep
+C04637	rt	PLCD3, PLC-delta-3	irreversible	hsa04070	se
+C04637	rt	PLCB1	irreversible	hsa04070	se
+C04637	rt	PLCE1	irreversible	hsa04070	se
+C04637	rt	PLCB2	irreversible	hsa04070	se
+C04637	rt	PLCB3	irreversible	hsa04070	se
+C04637	rt	PLCB4	irreversible	hsa04070	se
+C04637	rt	PLCD1	irreversible	hsa04070	se
+C04637	rt	PLCG1	irreversible	hsa04070	se
+C04637	rt	PLCG2	irreversible	hsa04070	se
+C04637	rt	PLCD4	irreversible	hsa04070	se
+C04637	rt	PLCZ1	irreversible	hsa04070	se
+PLCD3, PLC-delta-3	rt	C01245	irreversible	hsa04070	ep
+PLCB1	rt	C01245	irreversible	hsa04070	ep
+PLCE1	rt	C01245	irreversible	hsa04070	ep
+PLCB2	rt	C01245	irreversible	hsa04070	ep
+PLCB3	rt	C01245	irreversible	hsa04070	ep
+PLCB4	rt	C01245	irreversible	hsa04070	ep
+PLCD1	rt	C01245	irreversible	hsa04070	ep
+PLCG1	rt	C01245	irreversible	hsa04070	ep
+PLCG2	rt	C01245	irreversible	hsa04070	ep
+PLCD4	rt	C01245	irreversible	hsa04070	ep
+PLCZ1	rt	C01245	irreversible	hsa04070	ep
+PLCD3, PLC-delta-3	rt	C00641	irreversible	hsa04070	ep
+PLCB1	rt	C00641	irreversible	hsa04070	ep
+PLCE1	rt	C00641	irreversible	hsa04070	ep
+PLCB2	rt	C00641	irreversible	hsa04070	ep
+PLCB3	rt	C00641	irreversible	hsa04070	ep
+PLCB4	rt	C00641	irreversible	hsa04070	ep
+PLCD1	rt	C00641	irreversible	hsa04070	ep
+PLCG1	rt	C00641	irreversible	hsa04070	ep
+PLCG2	rt	C00641	irreversible	hsa04070	ep
+PLCD4	rt	C00641	irreversible	hsa04070	ep
+PLCZ1	rt	C00641	irreversible	hsa04070	ep
+C00137	rt	CDIPT, PIS, PIS1	irreversible	hsa04070	se
+C00269	rt	CDIPT, PIS, PIS1	irreversible	hsa04070	se
+CDIPT, PIS, PIS1	rt	C01194	irreversible	hsa04070	ep
+C04637	rt	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	irreversible	hsa04070	se
+C04637	rt	PIK3CB	irreversible	hsa04070	se
+C04637	rt	PIK3CD	irreversible	hsa04070	se
+C04637	rt	PIK3R1	irreversible	hsa04070	se
+C04637	rt	PIK3R2	irreversible	hsa04070	se
+C04637	rt	PIK3R3	irreversible	hsa04070	se
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	rt	C05981	irreversible	hsa04070	ep
+PIK3CB	rt	C05981	irreversible	hsa04070	ep
+PIK3CD	rt	C05981	irreversible	hsa04070	ep
+PIK3R1	rt	C05981	irreversible	hsa04070	ep
+PIK3R2	rt	C05981	irreversible	hsa04070	ep
+PIK3R3	rt	C05981	irreversible	hsa04070	ep
+C01277	rt	PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	irreversible	hsa04070	se
+C01277	rt	PIP5K1A	irreversible	hsa04070	se
+C01277	rt	PIP5K1B	irreversible	hsa04070	se
+PIP5K1C, LCCS3, PIP5K-GAMMA, PIP5K1-gamma, PIP5Kgamma	rt	C04637	irreversible	hsa04070	ep
+PIP5K1A	rt	C04637	irreversible	hsa04070	ep
+PIP5K1B	rt	C04637	irreversible	hsa04070	ep
+C01194	rt	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	irreversible	hsa04070	se
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	rt	C11557	irreversible	hsa04070	ep
+C01194	rt	PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	irreversible	hsa04070	se
+C01194	rt	PI4KB	irreversible	hsa04070	se
+C01194	rt	PI4K2B	irreversible	hsa04070	se
+C01194	rt	PI4K2A	irreversible	hsa04070	se
+PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230	rt	C01277	irreversible	hsa04070	ep
+PI4KB	rt	C01277	irreversible	hsa04070	ep
+PI4K2B	rt	C01277	irreversible	hsa04070	ep
+PI4K2A	rt	C01277	irreversible	hsa04070	ep
+C01194	rt	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	irreversible	hsa04070	se
+C01194	rt	PIK3C2B	irreversible	hsa04070	se
+C01194	rt	PIK3C2G	irreversible	hsa04070	se
+C01194	rt	PIK3R1	irreversible	hsa04070	se
+C01194	rt	PIK3R2	irreversible	hsa04070	se
+C01194	rt	PIK3R3	irreversible	hsa04070	se
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	rt	C04549	irreversible	hsa04070	ep
+PIK3C2B	rt	C04549	irreversible	hsa04070	ep
+PIK3C2G	rt	C04549	irreversible	hsa04070	ep
+PIK3R1	rt	C04549	irreversible	hsa04070	ep
+PIK3R2	rt	C04549	irreversible	hsa04070	ep
+PIK3R3	rt	C04549	irreversible	hsa04070	ep
+C00416	rt	CDS1, CDS	irreversible	hsa04070	se
+C00416	rt	CDS2	irreversible	hsa04070	se
+CDS1, CDS	rt	C00269	irreversible	hsa04070	ep
+CDS2	rt	C00269	irreversible	hsa04070	ep
+C00641	rt	DGKK	irreversible	hsa04070	se
+C00641	rt	DGKA	irreversible	hsa04070	se
+C00641	rt	DGKB	irreversible	hsa04070	se
+C00641	rt	DGKG	irreversible	hsa04070	se
+C00641	rt	DGKH	irreversible	hsa04070	se
+C00641	rt	DGKQ	irreversible	hsa04070	se
+C00641	rt	DGKZ	irreversible	hsa04070	se
+C00641	rt	DGKE	irreversible	hsa04070	se
+C00641	rt	DGKD	irreversible	hsa04070	se
+C00641	rt	DGKI	irreversible	hsa04070	se
+DGKK	rt	C00416	irreversible	hsa04070	ep
+DGKA	rt	C00416	irreversible	hsa04070	ep
+DGKB	rt	C00416	irreversible	hsa04070	ep
+DGKG	rt	C00416	irreversible	hsa04070	ep
+DGKH	rt	C00416	irreversible	hsa04070	ep
+DGKQ	rt	C00416	irreversible	hsa04070	ep
+DGKZ	rt	C00416	irreversible	hsa04070	ep
+DGKE	rt	C00416	irreversible	hsa04070	ep
+DGKD	rt	C00416	irreversible	hsa04070	ep
+DGKI	rt	C00416	irreversible	hsa04070	ep
+C11554	rt	INPP4A, INPP4, TVAS1	irreversible	hsa04070	se
+C11554	rt	INPP4B	irreversible	hsa04070	se
+INPP4A, INPP4, TVAS1	rt	C04549	irreversible	hsa04070	ep
+INPP4B	rt	C04549	irreversible	hsa04070	ep
+C01277	rt	PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	irreversible	hsa04070	se
+C01277	rt	PIK3C2B	irreversible	hsa04070	se
+C01277	rt	PIK3C2G	irreversible	hsa04070	se
+C01277	rt	PIK3R1	irreversible	hsa04070	se
+C01277	rt	PIK3R2	irreversible	hsa04070	se
+C01277	rt	PIK3R3	irreversible	hsa04070	se
+PIK3C2A, CPK, PI3-K-C2(ALPHA), PI3-K-C2A, PI3K-C2-alpha, PI3K-C2alpha	rt	C11554	irreversible	hsa04070	ep
+PIK3C2B	rt	C11554	irreversible	hsa04070	ep
+PIK3C2G	rt	C11554	irreversible	hsa04070	ep
+PIK3R1	rt	C11554	irreversible	hsa04070	ep
+PIK3R2	rt	C11554	irreversible	hsa04070	ep
+PIK3R3	rt	C11554	irreversible	hsa04070	ep
+C04549	rt	PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	irreversible	hsa04070	se
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29	rt	C11556	irreversible	hsa04070	ep
+C04637	rt	INPP5B, 5PTase	irreversible	hsa04070	se
+C04637	rt	OCRL	irreversible	hsa04070	se
+C04637	rt	INPP5E	irreversible	hsa04070	se
+C04637	rt	SYNJ1	irreversible	hsa04070	se
+C04637	rt	SYNJ2	irreversible	hsa04070	se
+INPP5B, 5PTase	rt	C01277	irreversible	hsa04070	ep
+OCRL	rt	C01277	irreversible	hsa04070	ep
+INPP5E	rt	C01277	irreversible	hsa04070	ep
+SYNJ1	rt	C01277	irreversible	hsa04070	ep
+SYNJ2	rt	C01277	irreversible	hsa04070	ep
+C11557	rt	PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	irreversible	hsa04070	se
+C11557	rt	PIP4K2C	irreversible	hsa04070	se
+C11557	rt	PIP4K2B	irreversible	hsa04070	se
+PIP4K2A, PI5P4KA, PIP5K2A, PIP5KII-alpha, PIP5KIIA, PIPK	rt	C04637	irreversible	hsa04070	ep
+PIP4K2C	rt	C04637	irreversible	hsa04070	ep
+PIP4K2B	rt	C04637	irreversible	hsa04070	ep
+C04477	rt	IPMK	irreversible	hsa04070	se
+IPMK	rt	C01284	irreversible	hsa04070	ep
+C04062	rt	MTM1, CNM, MTMX, XLMTM	irreversible	hsa04070	se
+MTM1, CNM, MTMX, XLMTM	rt	C01177	irreversible	hsa04070	ep
+C03546	rt	IMPA1, IMP, IMPA, MRT59	irreversible	hsa04070	se
+C03546	rt	IMPA2	irreversible	hsa04070	se
+C03546	rt	IMPAD1	irreversible	hsa04070	se
+IMPA1, IMP, IMPA, MRT59	rt	C00137	irreversible	hsa04070	ep
+IMPA2	rt	C00137	irreversible	hsa04070	ep
+IMPAD1	rt	C00137	irreversible	hsa04070	ep
+C01177	rt	IMPA1, IMP, IMPA, MRT59	irreversible	hsa04070	se
+C01177	rt	IMPA2	irreversible	hsa04070	se
+C01177	rt	IMPAD1	irreversible	hsa04070	se
+IMPA1, IMP, IMPA, MRT59	rt	C00137	irreversible	hsa04070	ep
+IMPA2	rt	C00137	irreversible	hsa04070	ep
+IMPAD1	rt	C00137	irreversible	hsa04070	ep
+C04006	rt	IMPA1, IMP, IMPA, MRT59	irreversible	hsa04070	se
+C04006	rt	IMPA2	irreversible	hsa04070	se
+C04006	rt	IMPAD1	irreversible	hsa04070	se
+IMPA1, IMP, IMPA, MRT59	rt	C00137	irreversible	hsa04070	ep
+IMPA2	rt	C00137	irreversible	hsa04070	ep
+IMPAD1	rt	C00137	irreversible	hsa04070	ep
+C04063	rt	INPP4A, INPP4, TVAS1	irreversible	hsa04070	se
+C04063	rt	INPP4B	irreversible	hsa04070	se
+INPP4A, INPP4, TVAS1	rt	C04006	irreversible	hsa04070	ep
+INPP4B	rt	C04006	irreversible	hsa04070	ep
+C01220	rt	INPP1	irreversible	hsa04070	se
+INPP1	rt	C03546	irreversible	hsa04070	ep
+C01245	rt	INPP5J, INPP5, PIB5PA, PIPP	irreversible	hsa04070	se
+C01245	rt	INPP5A	irreversible	hsa04070	se
+C01245	rt	INPP5K	irreversible	hsa04070	se
+INPP5J, INPP5, PIB5PA, PIPP	rt	C01220	irreversible	hsa04070	ep
+INPP5A	rt	C01220	irreversible	hsa04070	ep
+INPP5K	rt	C01220	irreversible	hsa04070	ep
+C01243	rt	INPP1	irreversible	hsa04070	se
+INPP1	rt	C04063	irreversible	hsa04070	ep
+C01272	rt	INPP5J, INPP5, PIB5PA, PIPP	irreversible	hsa04070	se
+C01272	rt	INPP5A	irreversible	hsa04070	se
+C01272	rt	INPP5K	irreversible	hsa04070	se
+INPP5J, INPP5, PIB5PA, PIPP	rt	C01243	irreversible	hsa04070	ep
+INPP5A	rt	C01243	irreversible	hsa04070	ep
+INPP5K	rt	C01243	irreversible	hsa04070	ep
+C01243	rt	ITPK1, ITRPK1	irreversible	hsa04070	se
+ITPK1, ITRPK1	rt	C04477	irreversible	hsa04070	ep
+C01245	rt	ITPKA, IP3-3KA, IP3KA	irreversible	hsa04070	se
+C01245	rt	ITPKB	irreversible	hsa04070	se
+C01245	rt	ITPKC	irreversible	hsa04070	se
+ITPKA, IP3-3KA, IP3KA	rt	C01272	irreversible	hsa04070	ep
+ITPKB	rt	C01272	irreversible	hsa04070	ep
+ITPKC	rt	C01272	irreversible	hsa04070	ep
+C01277	rt	PLCD3, PLC-delta-3	irreversible	hsa04070	se
+C01277	rt	PLCB1	irreversible	hsa04070	se
+C01277	rt	PLCE1	irreversible	hsa04070	se
+C01277	rt	PLCB2	irreversible	hsa04070	se
+C01277	rt	PLCB3	irreversible	hsa04070	se
+C01277	rt	PLCB4	irreversible	hsa04070	se
+C01277	rt	PLCD1	irreversible	hsa04070	se
+C01277	rt	PLCG1	irreversible	hsa04070	se
+C01277	rt	PLCG2	irreversible	hsa04070	se
+C01277	rt	PLCD4	irreversible	hsa04070	se
+C01277	rt	PLCZ1	irreversible	hsa04070	se
+PLCD3, PLC-delta-3	rt	C00641	irreversible	hsa04070	ep
+PLCB1	rt	C00641	irreversible	hsa04070	ep
+PLCE1	rt	C00641	irreversible	hsa04070	ep
+PLCB2	rt	C00641	irreversible	hsa04070	ep
+PLCB3	rt	C00641	irreversible	hsa04070	ep
+PLCB4	rt	C00641	irreversible	hsa04070	ep
+PLCD1	rt	C00641	irreversible	hsa04070	ep
+PLCG1	rt	C00641	irreversible	hsa04070	ep
+PLCG2	rt	C00641	irreversible	hsa04070	ep
+PLCD4	rt	C00641	irreversible	hsa04070	ep
+PLCZ1	rt	C00641	irreversible	hsa04070	ep
+PLCD3, PLC-delta-3	rt	C01220	irreversible	hsa04070	ep
+PLCB1	rt	C01220	irreversible	hsa04070	ep
+PLCE1	rt	C01220	irreversible	hsa04070	ep
+PLCB2	rt	C01220	irreversible	hsa04070	ep
+PLCB3	rt	C01220	irreversible	hsa04070	ep
+PLCB4	rt	C01220	irreversible	hsa04070	ep
+PLCD1	rt	C01220	irreversible	hsa04070	ep
+PLCG1	rt	C01220	irreversible	hsa04070	ep
+PLCG2	rt	C01220	irreversible	hsa04070	ep
+PLCD4	rt	C01220	irreversible	hsa04070	ep
+PLCZ1	rt	C01220	irreversible	hsa04070	ep
+C05981	rt	INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	irreversible	hsa04070	se
+C05981	rt	INPPL1	irreversible	hsa04070	se
+INPP5D, SHIP, SHIP-1, SHIP1, SIP-145, hp51CN, p150Ship	rt	C11554	irreversible	hsa04070	ep
+INPPL1	rt	C11554	irreversible	hsa04070	ep
+C04549	rt	MTM1, CNM, MTMX, XLMTM	irreversible	hsa04070	se
+MTM1, CNM, MTMX, XLMTM	rt	C01194	irreversible	hsa04070	ep
+C05981	rt	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	irreversible	hsa04070	se
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	rt	C04637	irreversible	hsa04070	ep
+C04637	rt	PIP4P2, TMEM55A	irreversible	hsa04070	se
+C04637	rt	PIP4P1	irreversible	hsa04070	se
+PIP4P2, TMEM55A	rt	C11557	irreversible	hsa04070	ep
+PIP4P1	rt	C11557	irreversible	hsa04070	ep
+C01243	rt	INPP4A, INPP4, TVAS1	irreversible	hsa04070	se
+C01243	rt	INPP4B	irreversible	hsa04070	se
+INPP4A, INPP4, TVAS1	rt	C04062	irreversible	hsa04070	ep
+INPP4B	rt	C04062	irreversible	hsa04070	ep
+C11556	rt	MTM1, CNM, MTMX, XLMTM	irreversible	hsa04070	se
+MTM1, CNM, MTMX, XLMTM	rt	C11557	irreversible	hsa04070	ep
+C01245	rt	IPMK	irreversible	hsa04070	se
+IPMK	rt	C11555	irreversible	hsa04070	ep
+C11555	rt	IPMK	irreversible	hsa04070	se
+IPMK	rt	C01284	irreversible	hsa04070	ep
+C01204	rt	IP6K3, IHPK3, INSP6K3	irreversible	hsa04070	se
+C01204	rt	IP6K2	irreversible	hsa04070	se
+C01204	rt	IP6K1	irreversible	hsa04070	se
+IP6K3, IHPK3, INSP6K3	rt	C11526	irreversible	hsa04070	ep
+IP6K2	rt	C11526	irreversible	hsa04070	ep
+IP6K1	rt	C11526	irreversible	hsa04070	ep
+C11174	rt	IP6K3, IHPK3, INSP6K3	irreversible	hsa04070	se
+C11174	rt	IP6K2	irreversible	hsa04070	se
+C11174	rt	IP6K1	irreversible	hsa04070	se
+IP6K3, IHPK3, INSP6K3	rt	C20690	irreversible	hsa04070	ep
+IP6K2	rt	C20690	irreversible	hsa04070	ep
+IP6K1	rt	C20690	irreversible	hsa04070	ep
+C01204	rt	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	irreversible	hsa04070	se
+C01204	rt	PPIP5K1	irreversible	hsa04070	se
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	rt	C11174	irreversible	hsa04070	ep
+PPIP5K1	rt	C11174	irreversible	hsa04070	ep
+C11526	rt	PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	irreversible	hsa04070	se
+C11526	rt	PPIP5K1	irreversible	hsa04070	se
+PPIP5K2, CFAP160, HISPPD1, IP7K2, VIP2	rt	C20690	irreversible	hsa04070	ep
+PPIP5K1	rt	C20690	irreversible	hsa04070	ep
+C01194	rt	PIK3C3, VPS34, hVps34	irreversible	hsa04070	se
+C01194	rt	PIK3R1	irreversible	hsa04070	se
+C01194	rt	PIK3R2	irreversible	hsa04070	se
+C01194	rt	PIK3R3	irreversible	hsa04070	se
+PIK3C3, VPS34, hVps34	rt	C04549	irreversible	hsa04070	ep
+PIK3R1	rt	C04549	irreversible	hsa04070	ep
+PIK3R2	rt	C04549	irreversible	hsa04070	ep
+PIK3R3	rt	C04549	irreversible	hsa04070	ep
+C05981	rt	INPP5B, 5PTase	irreversible	hsa04070	se
+C05981	rt	OCRL	irreversible	hsa04070	se
+C05981	rt	INPP5E	irreversible	hsa04070	se
+C05981	rt	SYNJ1	irreversible	hsa04070	se
+C05981	rt	SYNJ2	irreversible	hsa04070	se
+INPP5B, 5PTase	rt	C11554	irreversible	hsa04070	ep
+OCRL	rt	C11554	irreversible	hsa04070	ep
+INPP5E	rt	C11554	irreversible	hsa04070	ep
+SYNJ1	rt	C11554	irreversible	hsa04070	ep
+SYNJ2	rt	C11554	irreversible	hsa04070	ep
+C01272	rt	IPMK	irreversible	hsa04070	se
+IPMK	rt	C01284	irreversible	hsa04070	ep
+C01277	rt	INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	irreversible	hsa04070	se
+C01277	rt	SACM1L	irreversible	hsa04070	se
+INPP5F, MSTP007, MSTPO47, SAC2, hSAC2	rt	C01194	irreversible	hsa04070	ep
+SACM1L	rt	C01194	irreversible	hsa04070	ep
+C00076				hsa04070	
+CALML6, CAGLP				hsa04070	
+CALML5				hsa04070	
+CALM1				hsa04070	
+CALM2				hsa04070	
+CALM3				hsa04070	
+CALML3				hsa04070	
+CALML4				hsa04070	
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29				hsa04070	
+ITPR2				hsa04070	
+ITPR3				hsa04070	
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA				hsa04070	
+PRKCB				hsa04070	
+PRKCG				hsa04070	

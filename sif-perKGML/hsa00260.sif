@@ -1,0 +1,332 @@
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GRHPR, GLXR, GLYD, PH2	g-g	hsa00260	compound
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	ec	PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	g-g	hsa00260	compound
+PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	CBSL, CBS	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	CBSL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SHMT2	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDS, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDSL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDS, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDSL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	CBSL, CBS	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	CBSL	g-g	hsa00260	compound
+CBSL, CBS	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+CBSL, CBS	ec	SHMT2	g-g	hsa00260	compound
+CBSL	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+CBSL	ec	SHMT2	g-g	hsa00260	compound
+CBSL, CBS	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL, CBS	ec	SDSL	g-g	hsa00260	compound
+CBSL	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL	ec	SDSL	g-g	hsa00260	compound
+CBSL, CBS	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL, CBS	ec	SDSL	g-g	hsa00260	compound
+CBSL	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL	ec	SDSL	g-g	hsa00260	compound
+CBSL, CBS	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+CBSL	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDS, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDSL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDS, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SDSL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SDS, SDH	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SDSL	g-g	hsa00260	compound
+SHMT2	ec	SDS, SDH	g-g	hsa00260	compound
+SHMT2	ec	SDSL	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SDS, SDH	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SDSL	g-g	hsa00260	compound
+SHMT2	ec	SDS, SDH	g-g	hsa00260	compound
+SHMT2	ec	SDSL	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SHMT2	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SDS, SDH	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SDSL	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SDS, SDH	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SDSL	g-g	hsa00260	compound
+CHDH	ec	ALDH7A1, ATQ1, EPD, PDE	g-g	hsa00260	compound
+ALDH7A1, ATQ1, EPD, PDE	ec	BHMT, BHMT1, HEL-S-61p	g-g	hsa00260	compound
+BHMT, BHMT1, HEL-S-61p	ec	DMGDH, DMGDHD, ME2GLYDH	g-g	hsa00260	compound
+DMGDH, DMGDHD, ME2GLYDH	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+DMGDH, DMGDHD, ME2GLYDH	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+DMGDH, DMGDHD, ME2GLYDH	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00260	compound
+SHMT2	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00260	compound
+AMT, GCE, GCST, GCVT, NKH	ec	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	g-g	hsa00260	compound
+GLDC, GCE, GCSP, HYGN1	ec	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00260	compound
+CBSL, CBS	ec	CTH	g-g	hsa00260	compound
+CBSL	ec	CTH	g-g	hsa00260	compound
+PSPH, PSP, PSPHD	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+CBSL, CBS	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+CBSL	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SHMT2	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SDS, SDH	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SDSL	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SDS, SDH	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SDSL	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00260	compound
+SHMT2	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+SHMT2	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+SHMT2	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+SHMT2	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	GCAT, KBL	g-g	hsa00260	compound
+SHMT2	ec	GCAT, KBL	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	ALAS2	g-g	hsa00260	compound
+SHMT2	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+SHMT2	ec	ALAS2	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+SHMT2	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+SHMT2	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GCAT, KBL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	ALAS2	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	GCAT, KBL	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	ALAS2	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+GATM, AGAT, AT, CCDS3	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+PIPOX, LPIPOX	ec	GCAT, KBL	g-g	hsa00260	compound
+PIPOX, LPIPOX	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+PIPOX, LPIPOX	ec	ALAS2	g-g	hsa00260	compound
+PIPOX, LPIPOX	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+PIPOX, LPIPOX	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	ec	GCAT, KBL	g-g	hsa00260	compound
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	ec	ALAS2	g-g	hsa00260	compound
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+GNMT, HEL-S-182mP	ec	GCAT, KBL	g-g	hsa00260	compound
+GNMT, HEL-S-182mP	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+GNMT, HEL-S-182mP	ec	ALAS2	g-g	hsa00260	compound
+GNMT, HEL-S-182mP	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+GNMT, HEL-S-182mP	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+GCAT, KBL	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+GCAT, KBL	ec	ALAS2	g-g	hsa00260	compound
+GCAT, KBL	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+GCAT, KBL	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+ALAS2	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+ALAS2	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+GLDC, GCE, GCSP, HYGN1	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00260	compound
+GLDC, GCE, GCSP, HYGN1	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00260	compound
+SDS, SDH	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+SDSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+SDS, SDH	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+SDSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+SHMT1, CSHMT, SHMT	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+SHMT2	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL, CBS	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+CBSL, CBS	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL, CBS	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+CBSL, CBS	ec	SHMT2	g-g	hsa00260	compound
+CBSL	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+CBSL	ec	SHMT2	g-g	hsa00260	compound
+CBSL, CBS	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL, CBS	ec	SDSL	g-g	hsa00260	compound
+CBSL	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL	ec	SDSL	g-g	hsa00260	compound
+CBSL, CBS	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL, CBS	ec	SDSL	g-g	hsa00260	compound
+CBSL	ec	SDS, SDH	g-g	hsa00260	compound
+CBSL	ec	SDSL	g-g	hsa00260	compound
+CBSL, CBS	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+CBSL	ec	SRR, ILV1, ISO1	g-g	hsa00260	compound
+CBSL, CBS	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+CBSL	ec	PSPH, PSP, PSPHD	g-g	hsa00260	compound
+CBSL, CBS	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL, CBS	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+CBSL	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SHMT1, CSHMT, SHMT	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SHMT2	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	PIPOX, LPIPOX	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GNMT, HEL-S-182mP	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GCAT, KBL	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	ALAS2	g-g	hsa00260	compound
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	ec	GLDC, GCE, GCSP, HYGN1	g-g	hsa00260	compound
+GRHPR, GLXR, GLYD, PH2	ec	GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	g-g	hsa00260	compound
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	ec	PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K241	g-g	hsa00260	compound
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	ec	PGAM4	g-g	hsa00260	compound
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	ec	PGAM2	g-g	hsa00260	compound
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	ec	BPGM	g-g	hsa00260	compound
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	ec	PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K241	g-g	hsa00260	compound
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	ec	PGAM4	g-g	hsa00260	compound
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	ec	PGAM2	g-g	hsa00260	compound
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	ec	BPGM	g-g	hsa00260	compound
+C00065	rt	SRR, ILV1, ISO1	reversible	hsa00260	se
+SRR, ILV1, ISO1	rt	C00065	reversible	hsa00260	ep
+SRR, ILV1, ISO1	rt	C00740	reversible	hsa00260	ep
+C00740	rt	SRR, ILV1, ISO1	reversible	hsa00260	se
+C00114	rt	CHDH	irreversible	hsa00260	se
+CHDH	rt	C00576	irreversible	hsa00260	ep
+C00576	rt	ALDH7A1, ATQ1, EPD, PDE	irreversible	hsa00260	se
+ALDH7A1, ATQ1, EPD, PDE	rt	C00719	irreversible	hsa00260	ep
+C00719	rt	BHMT, BHMT1, HEL-S-61p	irreversible	hsa00260	se
+BHMT, BHMT1, HEL-S-61p	rt	C01026	irreversible	hsa00260	ep
+C00065	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00065	reversible	hsa00260	ep
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00037	reversible	hsa00260	ep
+C00037	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+C00065	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00065	reversible	hsa00260	ep
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00168	reversible	hsa00260	ep
+C00168	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+C00581	rt	GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	irreversible	hsa00260	se
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	rt	C00300	irreversible	hsa00260	ep
+C00197	rt	PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	reversible	hsa00260	se
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	rt	C00197	reversible	hsa00260	ep
+PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	rt	C03232	reversible	hsa00260	ep
+C03232	rt	PHGDH, 3-PGDH, 3PGDH, HEL-S-113, NLS, NLS1, PDG, PGAD, PGD, PGDH, PHGDHD, SERA	reversible	hsa00260	se
+C01026	rt	DMGDH, DMGDHD, ME2GLYDH	irreversible	hsa00260	se
+DMGDH, DMGDHD, ME2GLYDH	rt	C00213	irreversible	hsa00260	ep
+C00065	rt	CBSL, CBS	irreversible	hsa00260	se
+C00065	rt	CBSL	irreversible	hsa00260	se
+CBSL, CBS	rt	C02291	irreversible	hsa00260	ep
+CBSL	rt	C02291	irreversible	hsa00260	ep
+C02291	rt	CTH	reversible	hsa00260	se
+CTH	rt	C02291	reversible	hsa00260	ep
+CTH	rt	C00097	reversible	hsa00260	ep
+C00097	rt	CTH	reversible	hsa00260	se
+C00037	rt	GATM, AGAT, AT, CCDS3	irreversible	hsa00260	se
+GATM, AGAT, AT, CCDS3	rt	C00581	irreversible	hsa00260	ep
+C01005	rt	PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	reversible	hsa00260	se
+PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	rt	C01005	reversible	hsa00260	ep
+PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	rt	C03232	reversible	hsa00260	ep
+C03232	rt	PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	reversible	hsa00260	se
+C00213	rt	PIPOX, LPIPOX	irreversible	hsa00260	se
+PIPOX, LPIPOX	rt	C00037	irreversible	hsa00260	ep
+C00213	rt	SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	irreversible	hsa00260	se
+SARDH, BPR-2, DMGDHL1, SAR, SARD, SDH	rt	C00037	irreversible	hsa00260	ep
+C01005	rt	PSPH, PSP, PSPHD	irreversible	hsa00260	se
+PSPH, PSP, PSPHD	rt	C00065	irreversible	hsa00260	ep
+C00037	rt	SHMT1, CSHMT, SHMT	reversible	hsa00260	se
+C00037	rt	SHMT2	reversible	hsa00260	se
+SHMT1, CSHMT, SHMT	rt	C00037	reversible	hsa00260	ep
+SHMT2	rt	C00037	reversible	hsa00260	ep
+C00143	rt	SHMT1, CSHMT, SHMT	reversible	hsa00260	se
+C00143	rt	SHMT2	reversible	hsa00260	se
+SHMT1, CSHMT, SHMT	rt	C00143	reversible	hsa00260	ep
+SHMT2	rt	C00143	reversible	hsa00260	ep
+SHMT1, CSHMT, SHMT	rt	C00065	reversible	hsa00260	ep
+SHMT2	rt	C00065	reversible	hsa00260	ep
+C00065	rt	SHMT1, CSHMT, SHMT	reversible	hsa00260	se
+C00065	rt	SHMT2	reversible	hsa00260	se
+C00188	rt	SDS, SDH	irreversible	hsa00260	se
+C00188	rt	SDSL	irreversible	hsa00260	se
+SDS, SDH	rt	C00109	irreversible	hsa00260	ep
+SDSL	rt	C00109	irreversible	hsa00260	ep
+C00037	rt	DAO, DAAO, DAMOX, OXDA	irreversible	hsa00260	se
+DAO, DAAO, DAMOX, OXDA	rt	C00048	irreversible	hsa00260	ep
+C00037	rt	GCAT, KBL	reversible	hsa00260	se
+GCAT, KBL	rt	C00037	reversible	hsa00260	ep
+GCAT, KBL	rt	C03508	reversible	hsa00260	ep
+C03508	rt	GCAT, KBL	reversible	hsa00260	se
+C00065	rt	SDS, SDH	irreversible	hsa00260	se
+C00065	rt	SDSL	irreversible	hsa00260	se
+SDS, SDH	rt	C00022	irreversible	hsa00260	ep
+SDSL	rt	C00022	irreversible	hsa00260	ep
+C02051	rt	GLDC, GCE, GCSP, HYGN1	irreversible	hsa00260	se
+C00037	rt	GLDC, GCE, GCSP, HYGN1	irreversible	hsa00260	se
+GLDC, GCE, GCSP, HYGN1	rt	C01242	irreversible	hsa00260	ep
+GLDC, GCE, GCSP, HYGN1	rt	C00011	irreversible	hsa00260	ep
+C00037	rt	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	irreversible	hsa00260	se
+C00037	rt	ALAS2	irreversible	hsa00260	se
+ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	rt	C00430	irreversible	hsa00260	ep
+ALAS2	rt	C00430	irreversible	hsa00260	ep
+C01888	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00260	se
+C01888	rt	MAOB	irreversible	hsa00260	se
+MAOA, BRNRS, MAO-A	rt	C00546	irreversible	hsa00260	ep
+MAOB	rt	C00546	irreversible	hsa00260	ep
+C00258	rt	GRHPR, GLXR, GLYD, PH2	reversible	hsa00260	se
+GRHPR, GLXR, GLYD, PH2	rt	C00258	reversible	hsa00260	ep
+GRHPR, GLXR, GLYD, PH2	rt	C00168	reversible	hsa00260	ep
+C00168	rt	GRHPR, GLXR, GLYD, PH2	reversible	hsa00260	se
+C01888	rt	AOC2, DAO2, RAO, SSAO	irreversible	hsa00260	se
+C01888	rt	AOC3	irreversible	hsa00260	se
+AOC2, DAO2, RAO, SSAO	rt	C00546	irreversible	hsa00260	ep
+AOC3	rt	C00546	irreversible	hsa00260	ep
+C01242	rt	AMT, GCE, GCST, GCVT, NKH	irreversible	hsa00260	se
+C00101	rt	AMT, GCE, GCST, GCVT, NKH	irreversible	hsa00260	se
+AMT, GCE, GCST, GCVT, NKH	rt	C02972	irreversible	hsa00260	ep
+AMT, GCE, GCST, GCVT, NKH	rt	C00014	irreversible	hsa00260	ep
+AMT, GCE, GCST, GCVT, NKH	rt	C00143	irreversible	hsa00260	ep
+C02972	rt	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	irreversible	hsa00260	se
+DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	rt	C02051	irreversible	hsa00260	ep
+C00037	rt	GNMT, HEL-S-182mP	reversible	hsa00260	se
+GNMT, HEL-S-182mP	rt	C00037	reversible	hsa00260	ep
+GNMT, HEL-S-182mP	rt	C00213	reversible	hsa00260	ep
+C00213	rt	GNMT, HEL-S-182mP	reversible	hsa00260	se
+C00065	rt	SDS, SDH	irreversible	hsa00260	se
+C00065	rt	SDSL	irreversible	hsa00260	se
+SDS, SDH	rt	C00022	irreversible	hsa00260	ep
+SDSL	rt	C00022	irreversible	hsa00260	ep
+C00065	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00065	reversible	hsa00260	ep
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00168	reversible	hsa00260	ep
+C00168	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+C00065	rt	CBSL, CBS	irreversible	hsa00260	se
+C00065	rt	CBSL	irreversible	hsa00260	se
+CBSL, CBS	rt	C00097	irreversible	hsa00260	ep
+CBSL	rt	C00097	irreversible	hsa00260	ep
+C00037	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00037	reversible	hsa00260	ep
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00048	reversible	hsa00260	ep
+C00048	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	reversible	hsa00260	se
+C00258	rt	GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	irreversible	hsa00260	se
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	rt	C00631	irreversible	hsa00260	ep
+C00631	rt	PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K241	irreversible	hsa00260	se
+C00631	rt	PGAM4	irreversible	hsa00260	se
+C00631	rt	PGAM2	irreversible	hsa00260	se
+C00631	rt	BPGM	irreversible	hsa00260	se
+PGAM4, PGAM-B, PGAM1, PGAM3, dJ1000K241	rt	C00197	irreversible	hsa00260	ep
+PGAM4	rt	C00197	irreversible	hsa00260	ep
+PGAM2	rt	C00197	irreversible	hsa00260	ep
+BPGM	rt	C00197	irreversible	hsa00260	ep
+C16432				hsa00260	
+C06231				hsa00260	
+C06442				hsa00260	
+C03283				hsa00260	
+C02855				hsa00260	
+C05519				hsa00260	
+C00049				hsa00260	
+C03082				hsa00260	
+C01102				hsa00260	
+C00263				hsa00260	
+C00441				hsa00260	
+C01726				hsa00260	
+C03194				hsa00260	
+C02737				hsa00260	
+C00078				hsa00260	
+C00986				hsa00260	
+C19929				hsa00260	
+GCSH, GCE, NKH				hsa00260	

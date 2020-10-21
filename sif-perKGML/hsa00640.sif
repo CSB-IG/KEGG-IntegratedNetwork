@@ -1,0 +1,243 @@
+ACSS3	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+ACSS3	ec	ACSS1	g-g	hsa00640	compound
+ACSS3	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+ACSS3	ec	ACSS1	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLG2, G-SCS, GBETA, GTPSCS	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLG1	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLA2	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLG2, G-SCS, GBETA, GTPSCS	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLG1	g-g	hsa00640	compound
+MMUT, MCM, MUT	ec	SUCLA2	g-g	hsa00640	compound
+MCEE, GLOD2	ec	MMUT, MCM, MUT	g-g	hsa00640	compound
+MCEE, GLOD2	ec	PCCA	g-g	hsa00640	compound
+MCEE, GLOD2	ec	PCCB	g-g	hsa00640	compound
+MCEE, GLOD2	ec	ECHDC1, HEL-S-76, MMCD, dJ351K202	g-g	hsa00640	compound
+ACSS3	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+ECHDC1, HEL-S-76, MMCD, dJ351K202	ec	ACSS3	g-g	hsa00640	compound
+PCCA	ec	ACSS3	g-g	hsa00640	compound
+PCCB	ec	ACSS3	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACSS3	g-g	hsa00640	compound
+ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+ACSS1	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+ECHDC1, HEL-S-76, MMCD, dJ351K202	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+ECHDC1, HEL-S-76, MMCD, dJ351K202	ec	ACSS1	g-g	hsa00640	compound
+PCCA	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+PCCA	ec	ACSS1	g-g	hsa00640	compound
+PCCB	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+PCCB	ec	ACSS1	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACSS1	g-g	hsa00640	compound
+ECHDC1, HEL-S-76, MMCD, dJ351K202	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+PCCA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+PCCB	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ECHDC1, HEL-S-76, MMCD, dJ351K202	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	PCCA	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	PCCB	g-g	hsa00640	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00640	compound
+ACADM, ACAD1, MCAD, MCADH	ec	EHHADH	g-g	hsa00640	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHA	g-g	hsa00640	compound
+HIBCH, HIBYLCOAH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00640	compound
+HIBCH, HIBYLCOAH	ec	EHHADH	g-g	hsa00640	compound
+HIBCH, HIBYLCOAH	ec	HADHA	g-g	hsa00640	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH6A1, MMSADHA, MMSDH	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	MLYCD, MCD	g-g	hsa00640	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	MLYCD, MCD	g-g	hsa00640	compound
+ACAT2	ec	MLYCD, MCD	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACACA, ACAC, ACACAD, ACC, ACC1, ACCA	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACACB	g-g	hsa00640	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACACA, ACAC, ACACAD, ACC, ACC1, ACCA	g-g	hsa00640	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACACB	g-g	hsa00640	compound
+ACAT2	ec	ACACA, ACAC, ACACAD, ACC, ACC1, ACCA	g-g	hsa00640	compound
+ACAT2	ec	ACACB	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ACAT2	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	g-g	hsa00640	compound
+BCKDHB	ec	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	g-g	hsa00640	compound
+BCKDHB	ec	DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	g-g	hsa00640	compound
+DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	ec	DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	PCCA	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	PCCB	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	ECHDC1, HEL-S-76, MMCD, dJ351K202	g-g	hsa00640	compound
+ALDH6A1, MMSADHA, MMSDH	ec	DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	ACSS1	g-g	hsa00640	compound
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	ec	ACSS3	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	LDHAL6A, LDH6A	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	LDHA	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	LDHB	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	LDHC	g-g	hsa00640	compound
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	ec	LDHAL6B	g-g	hsa00640	compound
+BCKDHB	ec	LDHAL6A, LDH6A	g-g	hsa00640	compound
+BCKDHB	ec	LDHA	g-g	hsa00640	compound
+BCKDHB	ec	LDHB	g-g	hsa00640	compound
+BCKDHB	ec	LDHC	g-g	hsa00640	compound
+BCKDHB	ec	LDHAL6B	g-g	hsa00640	compound
+C06002	rt	ALDH6A1, MMSADHA, MMSDH	irreversible	hsa00640	se
+ALDH6A1, MMSADHA, MMSDH	rt	C00100	irreversible	hsa00640	ep
+C00683	rt	MCEE, GLOD2	reversible	hsa00640	se
+MCEE, GLOD2	rt	C00683	reversible	hsa00640	ep
+MCEE, GLOD2	rt	C01213	reversible	hsa00640	ep
+C01213	rt	MCEE, GLOD2	reversible	hsa00640	se
+C00100	rt	PCCA	irreversible	hsa00640	se
+C00100	rt	PCCB	irreversible	hsa00640	se
+PCCA	rt	C00683	irreversible	hsa00640	ep
+PCCB	rt	C00683	irreversible	hsa00640	ep
+C00683	rt	ECHDC1, HEL-S-76, MMCD, dJ351K202	irreversible	hsa00640	se
+ECHDC1, HEL-S-76, MMCD, dJ351K202	rt	C00100	irreversible	hsa00640	ep
+C00100	rt	ACSS3	reversible	hsa00640	se
+ACSS3	rt	C00100	reversible	hsa00640	ep
+ACSS3	rt	C05983	reversible	hsa00640	ep
+C05983	rt	ACSS3	reversible	hsa00640	se
+C05983	rt	ACSS3	reversible	hsa00640	se
+ACSS3	rt	C05983	reversible	hsa00640	ep
+ACSS3	rt	C00163	reversible	hsa00640	ep
+C00163	rt	ACSS3	reversible	hsa00640	se
+C00100	rt	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	reversible	hsa00640	se
+C00100	rt	ACSS1	reversible	hsa00640	se
+ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	rt	C00100	reversible	hsa00640	ep
+ACSS1	rt	C00100	reversible	hsa00640	ep
+ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	rt	C05983	reversible	hsa00640	ep
+ACSS1	rt	C05983	reversible	hsa00640	ep
+C05983	rt	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	reversible	hsa00640	se
+C05983	rt	ACSS1	reversible	hsa00640	se
+C05983	rt	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	reversible	hsa00640	se
+C05983	rt	ACSS1	reversible	hsa00640	se
+ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	rt	C05983	reversible	hsa00640	ep
+ACSS1	rt	C05983	reversible	hsa00640	ep
+ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	rt	C00163	reversible	hsa00640	ep
+ACSS1	rt	C00163	reversible	hsa00640	ep
+C00163	rt	ACSS2, ACAS2, ACECS, ACS, ACSA, dJ1161H231	reversible	hsa00640	se
+C00163	rt	ACSS1	reversible	hsa00640	se
+C01213	rt	MMUT, MCM, MUT	reversible	hsa00640	se
+MMUT, MCM, MUT	rt	C01213	reversible	hsa00640	ep
+MMUT, MCM, MUT	rt	C00091	reversible	hsa00640	ep
+C00091	rt	MMUT, MCM, MUT	reversible	hsa00640	se
+C00042	rt	SUCLG2, G-SCS, GBETA, GTPSCS	reversible	hsa00640	se
+C00042	rt	SUCLG1	reversible	hsa00640	se
+C00042	rt	SUCLA2	reversible	hsa00640	se
+SUCLG2, G-SCS, GBETA, GTPSCS	rt	C00042	reversible	hsa00640	ep
+SUCLG1	rt	C00042	reversible	hsa00640	ep
+SUCLA2	rt	C00042	reversible	hsa00640	ep
+SUCLG2, G-SCS, GBETA, GTPSCS	rt	C00091	reversible	hsa00640	ep
+SUCLG1	rt	C00091	reversible	hsa00640	ep
+SUCLA2	rt	C00091	reversible	hsa00640	ep
+C00091	rt	SUCLG2, G-SCS, GBETA, GTPSCS	reversible	hsa00640	se
+C00091	rt	SUCLG1	reversible	hsa00640	se
+C00091	rt	SUCLA2	reversible	hsa00640	se
+C00042	rt	SUCLG2, G-SCS, GBETA, GTPSCS	reversible	hsa00640	se
+C00042	rt	SUCLG1	reversible	hsa00640	se
+C00042	rt	SUCLA2	reversible	hsa00640	se
+SUCLG2, G-SCS, GBETA, GTPSCS	rt	C00042	reversible	hsa00640	ep
+SUCLG1	rt	C00042	reversible	hsa00640	ep
+SUCLA2	rt	C00042	reversible	hsa00640	ep
+SUCLG2, G-SCS, GBETA, GTPSCS	rt	C00091	reversible	hsa00640	ep
+SUCLG1	rt	C00091	reversible	hsa00640	ep
+SUCLA2	rt	C00091	reversible	hsa00640	ep
+C00091	rt	SUCLG2, G-SCS, GBETA, GTPSCS	reversible	hsa00640	se
+C00091	rt	SUCLG1	reversible	hsa00640	se
+C00091	rt	SUCLA2	reversible	hsa00640	se
+C00100	rt	ACADM, ACAD1, MCAD, MCADH	reversible	hsa00640	se
+ACADM, ACAD1, MCAD, MCADH	rt	C00100	reversible	hsa00640	ep
+ACADM, ACAD1, MCAD, MCADH	rt	C00894	reversible	hsa00640	ep
+C00894	rt	ACADM, ACAD1, MCAD, MCADH	reversible	hsa00640	se
+C05668	rt	HIBCH, HIBYLCOAH	irreversible	hsa00640	se
+HIBCH, HIBYLCOAH	rt	C01013	irreversible	hsa00640	ep
+C00099	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00640	se
+ABAT, GABA-AT, GABAT, NPD009	rt	C00099	reversible	hsa00640	ep
+ABAT, GABA-AT, GABAT, NPD009	rt	C00222	reversible	hsa00640	ep
+C00222	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00640	se
+C00222	rt	ALDH6A1, MMSADHA, MMSDH	irreversible	hsa00640	se
+ALDH6A1, MMSADHA, MMSDH	rt	C00024	irreversible	hsa00640	ep
+C00024	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00640	se
+C00024	rt	ACAT2	reversible	hsa00640	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	reversible	hsa00640	ep
+ACAT2	rt	C00024	reversible	hsa00640	ep
+ACAT1, ACAT, MAT, T2, THIL	rt	C00332	reversible	hsa00640	ep
+ACAT2	rt	C00332	reversible	hsa00640	ep
+C00332	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00640	se
+C00332	rt	ACAT2	reversible	hsa00640	se
+C00024	rt	ACACA, ACAC, ACACAD, ACC, ACC1, ACCA	irreversible	hsa00640	se
+C00024	rt	ACACB	irreversible	hsa00640	se
+ACACA, ACAC, ACACAD, ACC, ACC1, ACCA	rt	C00083	irreversible	hsa00640	ep
+ACACB	rt	C00083	irreversible	hsa00640	ep
+C00083	rt	MLYCD, MCD	irreversible	hsa00640	se
+MLYCD, MCD	rt	C00024	irreversible	hsa00640	ep
+C05984	rt	LDHAL6A, LDH6A	reversible	hsa00640	se
+C05984	rt	LDHA	reversible	hsa00640	se
+C05984	rt	LDHB	reversible	hsa00640	se
+C05984	rt	LDHC	reversible	hsa00640	se
+C05984	rt	LDHAL6B	reversible	hsa00640	se
+LDHAL6A, LDH6A	rt	C05984	reversible	hsa00640	ep
+LDHA	rt	C05984	reversible	hsa00640	ep
+LDHB	rt	C05984	reversible	hsa00640	ep
+LDHC	rt	C05984	reversible	hsa00640	ep
+LDHAL6B	rt	C05984	reversible	hsa00640	ep
+LDHAL6A, LDH6A	rt	C00109	reversible	hsa00640	ep
+LDHA	rt	C00109	reversible	hsa00640	ep
+LDHB	rt	C00109	reversible	hsa00640	ep
+LDHC	rt	C00109	reversible	hsa00640	ep
+LDHAL6B	rt	C00109	reversible	hsa00640	ep
+C00109	rt	LDHAL6A, LDH6A	reversible	hsa00640	se
+C00109	rt	LDHA	reversible	hsa00640	se
+C00109	rt	LDHB	reversible	hsa00640	se
+C00109	rt	LDHC	reversible	hsa00640	se
+C00109	rt	LDHAL6B	reversible	hsa00640	se
+C00894	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00640	se
+C00894	rt	EHHADH	reversible	hsa00640	se
+C00894	rt	HADHA	reversible	hsa00640	se
+ECHS1, ECHS1D, SCEH	rt	C00894	reversible	hsa00640	ep
+EHHADH	rt	C00894	reversible	hsa00640	ep
+HADHA	rt	C00894	reversible	hsa00640	ep
+ECHS1, ECHS1D, SCEH	rt	C05668	reversible	hsa00640	ep
+EHHADH	rt	C05668	reversible	hsa00640	ep
+HADHA	rt	C05668	reversible	hsa00640	ep
+C05668	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00640	se
+C05668	rt	EHHADH	reversible	hsa00640	se
+C05668	rt	HADHA	reversible	hsa00640	se
+C21018	rt	DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	irreversible	hsa00640	se
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	rt	C00100	irreversible	hsa00640	ep
+DBT, BCATE2, BCKAD-E2, BCKADE2, BCOADC-E2, E2, E2B	rt	C15973	irreversible	hsa00640	ep
+C00109	rt	BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	irreversible	hsa00640	se
+C00109	rt	BCKDHB	irreversible	hsa00640	se
+C00068	rt	BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	irreversible	hsa00640	se
+C00068	rt	BCKDHB	irreversible	hsa00640	se
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	rt	C21017	irreversible	hsa00640	ep
+BCKDHB	rt	C21017	irreversible	hsa00640	ep
+C15972	rt	BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	irreversible	hsa00640	se
+C15972	rt	BCKDHB	irreversible	hsa00640	se
+C21017	rt	BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	irreversible	hsa00640	se
+C21017	rt	BCKDHB	irreversible	hsa00640	se
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	rt	C21018	irreversible	hsa00640	ep
+BCKDHB	rt	C21018	irreversible	hsa00640	ep
+BCKDHA, BCKDE1A, MSU, MSUD1, OVD1A	rt	C00068	irreversible	hsa00640	ep
+BCKDHB	rt	C00068	irreversible	hsa00640	ep
+C15973	rt	DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	irreversible	hsa00640	se
+DLD, DLDD, DLDH, E3, GCSL, LAD, PHE3	rt	C15972	irreversible	hsa00640	ep
+C00804				hsa00640	
+C02876				hsa00640	
+C00186				hsa00640	
+C00827				hsa00640	
+C02170				hsa00640	
+C02335				hsa00640	
+C05989				hsa00640	
+C04225				hsa00640	
+C02225				hsa00640	
+C04593				hsa00640	
+C00132				hsa00640	
+C01845				hsa00640	
+C00207				hsa00640	
+C00164				hsa00640	
+C20783				hsa00640	
+C17530				hsa00640	
+C00033				hsa00640	
+C05979				hsa00640	
+C00479				hsa00640	
+C00111				hsa00640	
+C00583				hsa00640	
+C00424				hsa00640	
+C05235				hsa00640	
+C00546				hsa00640	
+C21250				hsa00640	

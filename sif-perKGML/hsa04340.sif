@@ -1,0 +1,172 @@
+PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	inhibition
+PTCH2	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	inhibition
+GPR161, RE2	pc	C00575	g-c	hsa04340	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04340	activation
+C00575	pc	PRKACB	c-g	hsa04340	activation
+C00575	pc	PRKACG	c-g	hsa04340	activation
+GLI1, GLI	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI2	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI3	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI1, GLI	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+GLI2	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+GLI3	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+PRKACA, PKACA, PPNAD4	pp	102800317	g-g	hsa04340	binding/association
+PRKACB	pp	102800317	g-g	hsa04340	binding/association
+PRKACG	pp	102800317	g-g	hsa04340	binding/association
+PRKACA, PKACA, PPNAD4	pp	GSK3B	g-g	hsa04340	binding/association
+PRKACB	pp	GSK3B	g-g	hsa04340	binding/association
+PRKACG	pp	GSK3B	g-g	hsa04340	binding/association
+PRKACA, PKACA, PPNAD4	pp	GLI1, GLI	g-g	hsa04340	activation
+PRKACA, PKACA, PPNAD4	pp	GLI2	g-g	hsa04340	activation
+PRKACA, PKACA, PPNAD4	pp	GLI3	g-g	hsa04340	activation
+PRKACB	pp	GLI1, GLI	g-g	hsa04340	activation
+PRKACG	pp	GLI1, GLI	g-g	hsa04340	activation
+PRKACB	pp	GLI2	g-g	hsa04340	activation
+PRKACB	pp	GLI3	g-g	hsa04340	activation
+PRKACG	pp	GLI2	g-g	hsa04340	activation
+PRKACG	pp	GLI3	g-g	hsa04340	activation
+CUL1	pp	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	g-g	hsa04340	binding/association
+CUL1	pp	BTRC	g-g	hsa04340	binding/association
+CUL1	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+CUL1	pp	GLI2	g-g	hsa04340	ubiquitination
+CUL1	pp	GLI3	g-g	hsa04340	ubiquitination
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	GLI2	g-g	hsa04340	ubiquitination
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	GLI3	g-g	hsa04340	ubiquitination
+BTRC	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+BTRC	pp	GLI2	g-g	hsa04340	ubiquitination
+BTRC	pp	GLI3	g-g	hsa04340	ubiquitination
+GLI1, GLI	pp	GLI1, GLI	g-g	hsa04340	inhibition
+GLI1, GLI	pp	GLI2	g-g	hsa04340	inhibition
+GLI1, GLI	pp	GLI3	g-g	hsa04340	inhibition
+GLI2	pp	GLI1, GLI	g-g	hsa04340	inhibition
+GLI3	pp	GLI1, GLI	g-g	hsa04340	inhibition
+GLI2	pp	GLI2	g-g	hsa04340	inhibition
+GLI2	pp	GLI3	g-g	hsa04340	inhibition
+GLI3	pp	GLI2	g-g	hsa04340	inhibition
+GLI3	pp	GLI3	g-g	hsa04340	inhibition
+GLI1, GLI	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	inhibition
+GLI1, GLI	pp	PTCH2	g-g	hsa04340	inhibition
+GLI2	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	inhibition
+GLI3	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	inhibition
+GLI2	pp	PTCH2	g-g	hsa04340	inhibition
+GLI3	pp	PTCH2	g-g	hsa04340	inhibition
+GLI1, GLI	pp	HHIP, HIP	g-g	hsa04340	inhibition
+GLI2	pp	HHIP, HIP	g-g	hsa04340	inhibition
+GLI3	pp	HHIP, HIP	g-g	hsa04340	inhibition
+GLI1, GLI	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	inhibition
+GLI1, GLI	pp	CCND2	g-g	hsa04340	inhibition
+GLI2	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	inhibition
+GLI3	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	inhibition
+GLI2	pp	CCND2	g-g	hsa04340	inhibition
+GLI3	pp	CCND2	g-g	hsa04340	inhibition
+GLI1, GLI	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	inhibition
+GLI2	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	inhibition
+GLI3	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	inhibition
+HHIP, HIP	pp	IHH, BDA1, HHG2	g-g	hsa04340	inhibition
+HHIP, HIP	pp	DHH	g-g	hsa04340	inhibition
+HHIP, HIP	pp	SHH	g-g	hsa04340	inhibition
+SMO, FZD11, Gx, SMOH	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04340	inhibition
+SMO, FZD11, Gx, SMOH	pp	PRKACB	g-g	hsa04340	inhibition
+SMO, FZD11, Gx, SMOH	pp	PRKACG	g-g	hsa04340	inhibition
+IHH, BDA1, HHG2	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+IHH, BDA1, HHG2	pp	PTCH2	g-g	hsa04340	activation
+DHH	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+SHH	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+DHH	pp	PTCH2	g-g	hsa04340	activation
+SHH	pp	PTCH2	g-g	hsa04340	activation
+IHH, BDA1, HHG2	pp	GAS1	g-g	hsa04340	activation
+IHH, BDA1, HHG2	pp	LRP2	g-g	hsa04340	activation
+IHH, BDA1, HHG2	pp	CDON	g-g	hsa04340	activation
+IHH, BDA1, HHG2	pp	BOC	g-g	hsa04340	activation
+DHH	pp	GAS1	g-g	hsa04340	activation
+SHH	pp	GAS1	g-g	hsa04340	activation
+DHH	pp	LRP2	g-g	hsa04340	activation
+DHH	pp	CDON	g-g	hsa04340	activation
+DHH	pp	BOC	g-g	hsa04340	activation
+SHH	pp	LRP2	g-g	hsa04340	activation
+SHH	pp	CDON	g-g	hsa04340	activation
+SHH	pp	BOC	g-g	hsa04340	activation
+KIF3A, FLA10, KLP-20	pp	GLI1, GLI	g-g	hsa04340	activation
+KIF3A, FLA10, KLP-20	pp	GLI2	g-g	hsa04340	activation
+KIF3A, FLA10, KLP-20	pp	GLI3	g-g	hsa04340	activation
+ARRB1, ARB1, ARR1	pp	GLI1, GLI	g-g	hsa04340	activation
+ARRB1, ARB1, ARR1	pp	GLI2	g-g	hsa04340	activation
+ARRB1, ARB1, ARR1	pp	GLI3	g-g	hsa04340	activation
+ARRB2	pp	GLI1, GLI	g-g	hsa04340	activation
+ARRB2	pp	GLI2	g-g	hsa04340	activation
+ARRB2	pp	GLI3	g-g	hsa04340	activation
+GLI1, GLI	pp	GLI1, GLI	g-g	hsa04340	activation
+GLI1, GLI	pp	GLI2	g-g	hsa04340	activation
+GLI1, GLI	pp	GLI3	g-g	hsa04340	activation
+GLI2	pp	GLI1, GLI	g-g	hsa04340	activation
+GLI3	pp	GLI1, GLI	g-g	hsa04340	activation
+GLI2	pp	GLI2	g-g	hsa04340	activation
+GLI2	pp	GLI3	g-g	hsa04340	activation
+GLI3	pp	GLI2	g-g	hsa04340	activation
+GLI3	pp	GLI3	g-g	hsa04340	activation
+GLI1, GLI	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+GLI1, GLI	pp	PTCH2	g-g	hsa04340	activation
+GLI2	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+GLI3	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	activation
+GLI2	pp	PTCH2	g-g	hsa04340	activation
+GLI3	pp	PTCH2	g-g	hsa04340	activation
+GLI1, GLI	pp	HHIP, HIP	g-g	hsa04340	activation
+GLI2	pp	HHIP, HIP	g-g	hsa04340	activation
+GLI3	pp	HHIP, HIP	g-g	hsa04340	activation
+GLI1, GLI	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	activation
+GLI1, GLI	pp	CCND2	g-g	hsa04340	activation
+GLI2	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	activation
+GLI3	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04340	activation
+GLI2	pp	CCND2	g-g	hsa04340	activation
+GLI3	pp	CCND2	g-g	hsa04340	activation
+GLI1, GLI	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	activation
+GLI2	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	activation
+GLI3	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa04340	activation
+SMURF1	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	ubiquitination
+SMURF1	pp	PTCH2	g-g	hsa04340	ubiquitination
+SMURF2	pp	PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	g-g	hsa04340	ubiquitination
+SMURF2	pp	PTCH2	g-g	hsa04340	ubiquitination
+CUL3, CUL-3, PHA2E	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	ubiquitination
+SPOPL, BTBD33	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	ubiquitination
+SPOP	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	ubiquitination
+CUL3, CUL-3, PHA2E	pp	SPOPL, BTBD33	g-g	hsa04340	binding/association
+CUL3, CUL-3, PHA2E	pp	SPOP	g-g	hsa04340	binding/association
+ARRB1, ARB1, ARR1	pp	GPR161, RE2	g-g	hsa04340	binding/association
+ARRB2	pp	GPR161, RE2	g-g	hsa04340	binding/association
+EVC2, LBN, WAD	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	binding/association
+EVC	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	binding/association
+SMO, FZD11, Gx, SMOH	pp	ARRB1, ARB1, ARR1	g-g	hsa04340	binding/association
+SMO, FZD11, Gx, SMOH	pp	ARRB2	g-g	hsa04340	binding/association
+KIF3A, FLA10, KLP-20	pp	ARRB1, ARB1, ARR1	g-g	hsa04340	binding/association
+KIF3A, FLA10, KLP-20	pp	ARRB2	g-g	hsa04340	binding/association
+GLI1, GLI	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI2	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI3	pp	SUFU, PRO1280, SUFUH, SUFUXL	g-g	hsa04340	binding/association
+GLI1, GLI	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+GLI2	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+GLI3	pp	KIF7, ACLS, AGBK, HLS2, JBTS12, UNQ340	g-g	hsa04340	binding/association
+PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	pp	GAS1	g-g	hsa04340	binding/association
+PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	pp	LRP2	g-g	hsa04340	binding/association
+PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	pp	CDON	g-g	hsa04340	binding/association
+PTCH1, BCNS, HPE7, NBCCS, PTC, PTC1, PTCH, PTCH11	pp	BOC	g-g	hsa04340	binding/association
+PTCH2	pp	GAS1	g-g	hsa04340	binding/association
+PTCH2	pp	LRP2	g-g	hsa04340	binding/association
+PTCH2	pp	CDON	g-g	hsa04340	binding/association
+PTCH2	pp	BOC	g-g	hsa04340	binding/association
+GRK2, ADRBK1, BARK1, BETA-ARK1	pp	102800317	g-g	hsa04340	binding/association
+GRK3	pp	102800317	g-g	hsa04340	binding/association
+102800317	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	activation
+GRK2, ADRBK1, BARK1, BETA-ARK1	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	activation
+GRK3	pp	SMO, FZD11, Gx, SMOH	g-g	hsa04340	activation
+SPOPL, BTBD33	pp	CUL3, CUL-3, PHA2E	g-g	hsa04340	ubiquitination
+SPOP	pp	CUL3, CUL-3, PHA2E	g-g	hsa04340	ubiquitination
+SPOPL, BTBD33	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+SPOPL, BTBD33	pp	GLI2	g-g	hsa04340	ubiquitination
+SPOPL, BTBD33	pp	GLI3	g-g	hsa04340	ubiquitination
+SPOP	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+SPOP	pp	GLI2	g-g	hsa04340	ubiquitination
+SPOP	pp	GLI3	g-g	hsa04340	ubiquitination
+CUL3, CUL-3, PHA2E	pp	GLI1, GLI	g-g	hsa04340	ubiquitination
+CUL3, CUL-3, PHA2E	pp	GLI2	g-g	hsa04340	ubiquitination
+CUL3, CUL-3, PHA2E	pp	GLI3	g-g	hsa04340	ubiquitination

@@ -1,0 +1,184 @@
+NCSTN, ATAG1874	gr	PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	group	hsa04330	group
+NCSTN, ATAG1874	gr	APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	group	hsa04330	group
+NCSTN, ATAG1874	gr	APH1B	group	hsa04330	group
+NCSTN, ATAG1874	gr	PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	group	hsa04330	group
+NCSTN, ATAG1874	gr	PSEN2	group	hsa04330	group
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	gr	APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	group	hsa04330	group
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	gr	APH1B	group	hsa04330	group
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	gr	PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	group	hsa04330	group
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	gr	PSEN2	group	hsa04330	group
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	gr	PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	group	hsa04330	group
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	gr	PSEN2	group	hsa04330	group
+APH1B	gr	PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	group	hsa04330	group
+APH1B	gr	PSEN2	group	hsa04330	group
+CREBBP, CBP, KAT3A, RSTS, RSTS1	gr	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	group	hsa04330	group
+CREBBP, CBP, KAT3A, RSTS, RSTS1	gr	MAML2	group	hsa04330	group
+CREBBP, CBP, KAT3A, RSTS, RSTS1	gr	MAML1	group	hsa04330	group
+EP300	gr	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	group	hsa04330	group
+KAT2A	gr	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	group	hsa04330	group
+KAT2B	gr	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	group	hsa04330	group
+EP300	gr	MAML2	group	hsa04330	group
+EP300	gr	MAML1	group	hsa04330	group
+KAT2A	gr	MAML2	group	hsa04330	group
+KAT2A	gr	MAML1	group	hsa04330	group
+KAT2B	gr	MAML2	group	hsa04330	group
+KAT2B	gr	MAML1	group	hsa04330	group
+HDAC1, GON-10, HD1, RPD3, RPD3L1	gr	CTBP1, BARS	group	hsa04330	group
+HDAC1, GON-10, HD1, RPD3, RPD3L1	gr	CTBP2	group	hsa04330	group
+HDAC2	gr	CTBP1, BARS	group	hsa04330	group
+HDAC2	gr	CTBP2	group	hsa04330	group
+NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1	gr	HDAC1, GON-10, HD1, RPD3, RPD3L1	group	hsa04330	group
+NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1	gr	HDAC2	group	hsa04330	group
+NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1	gr	CIR1, CIR	group	hsa04330	group
+HDAC1, GON-10, HD1, RPD3, RPD3L1	gr	CIR1, CIR	group	hsa04330	group
+HDAC2	gr	CIR1, CIR	group	hsa04330	group
+DLL3, SCDO1	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+DLL3, SCDO1	pp	NOTCH2	g-g	hsa04330	activation
+DLL3, SCDO1	pp	NOTCH3	g-g	hsa04330	activation
+DLL3, SCDO1	pp	NOTCH4	g-g	hsa04330	activation
+DLL1	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+DLL4	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+DLL1	pp	NOTCH2	g-g	hsa04330	activation
+DLL1	pp	NOTCH3	g-g	hsa04330	activation
+DLL1	pp	NOTCH4	g-g	hsa04330	activation
+DLL4	pp	NOTCH2	g-g	hsa04330	activation
+DLL4	pp	NOTCH3	g-g	hsa04330	activation
+DLL4	pp	NOTCH4	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	DTX2, RNF58	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	DTX3L	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	DTX1	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	DTX3	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	DTX4	g-g	hsa04330	activation
+NOTCH2	pp	DTX2, RNF58	g-g	hsa04330	activation
+NOTCH3	pp	DTX2, RNF58	g-g	hsa04330	activation
+NOTCH4	pp	DTX2, RNF58	g-g	hsa04330	activation
+NOTCH2	pp	DTX3L	g-g	hsa04330	activation
+NOTCH2	pp	DTX1	g-g	hsa04330	activation
+NOTCH2	pp	DTX3	g-g	hsa04330	activation
+NOTCH2	pp	DTX4	g-g	hsa04330	activation
+NOTCH3	pp	DTX3L	g-g	hsa04330	activation
+NOTCH3	pp	DTX1	g-g	hsa04330	activation
+NOTCH3	pp	DTX3	g-g	hsa04330	activation
+NOTCH3	pp	DTX4	g-g	hsa04330	activation
+NOTCH4	pp	DTX3L	g-g	hsa04330	activation
+NOTCH4	pp	DTX1	g-g	hsa04330	activation
+NOTCH4	pp	DTX3	g-g	hsa04330	activation
+NOTCH4	pp	DTX4	g-g	hsa04330	activation
+ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE	pp	NOTCH2	g-g	hsa04330	activation
+ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE	pp	NOTCH3	g-g	hsa04330	activation
+ADAM17, ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE	pp	NOTCH4	g-g	hsa04330	activation
+NCSTN, ATAG1874	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+NCSTN, ATAG1874	pp	NOTCH2	gr-g	hsa04330	activation
+NCSTN, ATAG1874	pp	NOTCH3	gr-g	hsa04330	activation
+NCSTN, ATAG1874	pp	NOTCH4	gr-g	hsa04330	activation
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	pp	NOTCH2	gr-g	hsa04330	activation
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	pp	NOTCH3	gr-g	hsa04330	activation
+PSENEN, ACNINV2, MDS033, MSTP064, PEN-2, PEN2	pp	NOTCH4	gr-g	hsa04330	activation
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	pp	NOTCH2	gr-g	hsa04330	activation
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	pp	NOTCH3	gr-g	hsa04330	activation
+APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78	pp	NOTCH4	gr-g	hsa04330	activation
+APH1B	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+APH1B	pp	NOTCH2	gr-g	hsa04330	activation
+APH1B	pp	NOTCH3	gr-g	hsa04330	activation
+APH1B	pp	NOTCH4	gr-g	hsa04330	activation
+PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	pp	NOTCH2	gr-g	hsa04330	activation
+PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	pp	NOTCH3	gr-g	hsa04330	activation
+PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182	pp	NOTCH4	gr-g	hsa04330	activation
+PSEN2	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	gr-g	hsa04330	activation
+PSEN2	pp	NOTCH2	gr-g	hsa04330	activation
+PSEN2	pp	NOTCH3	gr-g	hsa04330	activation
+PSEN2	pp	NOTCH4	gr-g	hsa04330	activation
+LFNG, SCDO3	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+LFNG, SCDO3	pp	NOTCH2	g-g	hsa04330	activation
+LFNG, SCDO3	pp	NOTCH3	g-g	hsa04330	activation
+LFNG, SCDO3	pp	NOTCH4	g-g	hsa04330	activation
+MFNG	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+RFNG	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	activation
+MFNG	pp	NOTCH2	g-g	hsa04330	activation
+MFNG	pp	NOTCH3	g-g	hsa04330	activation
+MFNG	pp	NOTCH4	g-g	hsa04330	activation
+RFNG	pp	NOTCH2	g-g	hsa04330	activation
+RFNG	pp	NOTCH3	g-g	hsa04330	activation
+RFNG	pp	NOTCH4	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	RBPJ	g-g	hsa04330	activation
+NOTCH2	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	activation
+NOTCH3	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	activation
+NOTCH4	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	activation
+NOTCH2	pp	RBPJ	g-g	hsa04330	activation
+NOTCH3	pp	RBPJ	g-g	hsa04330	activation
+NOTCH4	pp	RBPJ	g-g	hsa04330	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	RBPJ	gr-g	hsa04330	activation
+EP300	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+KAT2A	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+KAT2B	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+EP300	pp	RBPJ	gr-g	hsa04330	activation
+KAT2A	pp	RBPJ	gr-g	hsa04330	activation
+KAT2B	pp	RBPJ	gr-g	hsa04330	activation
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	pp	RBPJ	gr-g	hsa04330	activation
+MAML2	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+MAML1	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	activation
+MAML2	pp	RBPJ	gr-g	hsa04330	activation
+MAML1	pp	RBPJ	gr-g	hsa04330	activation
+RBPJL, RBPL, RBPSUHL, SUHL	pd	HES1, HES-1, HHL, HRY, bHLHb39	g-g	hsa04330	expression
+RBPJL, RBPL, RBPSUHL, SUHL	pd	HES5	g-g	hsa04330	expression
+RBPJ	pd	HES1, HES-1, HHL, HRY, bHLHb39	g-g	hsa04330	expression
+RBPJ	pd	HES5	g-g	hsa04330	expression
+RBPJL, RBPL, RBPSUHL, SUHL	pd	PTCRA, PT-ALPHA, PTA	g-g	hsa04330	expression
+RBPJ	pd	PTCRA, PT-ALPHA, PTA	g-g	hsa04330	expression
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH2	g-g	hsa04330	inhibition
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH3	g-g	hsa04330	inhibition
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH4	g-g	hsa04330	inhibition
+JAG2	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+JAG2	pp	NOTCH2	g-g	hsa04330	inhibition
+JAG2	pp	NOTCH3	g-g	hsa04330	inhibition
+JAG2	pp	NOTCH4	g-g	hsa04330	inhibition
+DVL1, DRS2, DVL, DVL1L1, DVL1P1	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+DVL1, DRS2, DVL, DVL1L1, DVL1P1	pp	NOTCH2	g-g	hsa04330	inhibition
+DVL1, DRS2, DVL, DVL1L1, DVL1P1	pp	NOTCH3	g-g	hsa04330	inhibition
+DVL1, DRS2, DVL, DVL1L1, DVL1P1	pp	NOTCH4	g-g	hsa04330	inhibition
+DVL2	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+DVL3	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+DVL2	pp	NOTCH2	g-g	hsa04330	inhibition
+DVL2	pp	NOTCH3	g-g	hsa04330	inhibition
+DVL2	pp	NOTCH4	g-g	hsa04330	inhibition
+DVL3	pp	NOTCH2	g-g	hsa04330	inhibition
+DVL3	pp	NOTCH3	g-g	hsa04330	inhibition
+DVL3	pp	NOTCH4	g-g	hsa04330	inhibition
+NUMB, C14orf41, S171, c14_5527	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+NUMB, C14orf41, S171, c14_5527	pp	NOTCH2	g-g	hsa04330	inhibition
+NUMB, C14orf41, S171, c14_5527	pp	NOTCH3	g-g	hsa04330	inhibition
+NUMB, C14orf41, S171, c14_5527	pp	NOTCH4	g-g	hsa04330	inhibition
+NUMBL	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04330	inhibition
+NUMBL	pp	NOTCH2	g-g	hsa04330	inhibition
+NUMBL	pp	NOTCH3	g-g	hsa04330	inhibition
+NUMBL	pp	NOTCH4	g-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJ	gr-g	hsa04330	inhibition
+HDAC2	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+HDAC2	pp	RBPJ	gr-g	hsa04330	inhibition
+CTBP1, BARS	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+CTBP1, BARS	pp	RBPJ	gr-g	hsa04330	inhibition
+CTBP2	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+CTBP2	pp	RBPJ	gr-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJ	g-g	hsa04330	inhibition
+HDAC2	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-g	hsa04330	inhibition
+HDAC2	pp	RBPJ	g-g	hsa04330	inhibition
+NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+NCOR2, CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1	pp	RBPJ	gr-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RBPJ	gr-g	hsa04330	inhibition
+HDAC2	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+HDAC2	pp	RBPJ	gr-g	hsa04330	inhibition
+CIR1, CIR	pp	RBPJL, RBPL, RBPSUHL, SUHL	gr-g	hsa04330	inhibition
+CIR1, CIR	pp	RBPJ	gr-g	hsa04330	inhibition
+RBPJL, RBPL, RBPSUHL, SUHL	pp	SNW1, Bx42, FUN20, NCOA-62, PRPF45, Prp45, SKIIP, SKIP, SKIP1	g-g	hsa04330	binding/association
+RBPJ	pp	SNW1, Bx42, FUN20, NCOA-62, PRPF45, Prp45, SKIIP, SKIP, SKIP1	g-g	hsa04330	binding/association

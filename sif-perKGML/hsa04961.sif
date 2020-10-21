@@ -1,0 +1,106 @@
+C01673	pc	VDR, NR1I1, PPP1R163	c-g	hsa04961	binding/association
+C00951	pc	ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	c-g	hsa04961	binding/association
+KLK1, KLKR, Klk6, hK1	pc	BDKRB2, B2R, BK-2, BK2, BKR2, BRB2	g-g	hsa04961	activation
+KLK2	pc	BDKRB2, B2R, BK-2, BK2, BKR2, BRB2	g-g	hsa04961	activation
+BDKRB2, B2R, BK-2, BK2, BKR2, BRB2	pc	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04961	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04961	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB2	g-g	hsa04961	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB3	g-g	hsa04961	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB4	g-g	hsa04961	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04961	activation
+PLCB2	pc	C00165	g-c	hsa04961	activation
+PLCB3	pc	C00165	g-c	hsa04961	activation
+PLCB4	pc	C00165	g-c	hsa04961	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	c-g	hsa04961	activation
+C00165	pc	PRKACB	c-g	hsa04961	activation
+C00165	pc	PRKACG	c-g	hsa04961	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+PRKACB	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+PRKACG	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+KL, HFTC3	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+VDR, NR1I1, PPP1R163	pd	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	expression
+VDR, NR1I1, PPP1R163	pd	CALB1, CALB, D-28K	g-g	hsa04961	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A1, NCX1	g-g	hsa04961	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A2	g-g	hsa04961	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A3	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	CALB1, CALB, D-28K	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	ATP2B1, PMCA1, PMCA1kb	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	SLC8A1, NCX1	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	SLC8A2	g-g	hsa04961	expression
+ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	pd	SLC8A3	g-g	hsa04961	expression
+C00076	pc	CALB1, CALB, D-28K	c-g	hsa04961	binding/association
+C00076	pc	CALB1, CALB, D-28K	c-g	hsa04961	binding/association
+C00076	pc	CALB1, CALB, D-28K	c-g	hsa04961	dissociation
+ADCY6, AC6, LCCS8	pc	C00575	g-c	hsa04961	activation
+ADCY9	pc	C00575	g-c	hsa04961	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04961	activation
+C00575	pc	PRKACB	c-g	hsa04961	activation
+C00575	pc	PRKACG	c-g	hsa04961	activation
+PRKACA, PKACA, PPNAD4	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+PRKACB	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+PRKACG	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	activation
+PTH1R, PFE, PTHR, PTHR1	pc	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04961	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pc	ADCY6, AC6, LCCS8	g-g	hsa04961	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pc	ADCY9	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1B4	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1A1	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1A2	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1A3	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1A4	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1B1	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1B2	g-g	hsa04961	activation
+KL, HFTC3	pc	ATP1B3	g-g	hsa04961	activation
+KL, HFTC3	pc	FXYD2	g-g	hsa04961	activation
+ATP1B4	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1B4	pc	SLC8A2	g-g	hsa04961	activation
+ATP1B4	pc	SLC8A3	g-g	hsa04961	activation
+ATP1A1	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1A2	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1A3	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1A4	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1B1	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1B2	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1B3	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+FXYD2	pc	SLC8A1, NCX1	g-g	hsa04961	activation
+ATP1A1	pc	SLC8A2	g-g	hsa04961	activation
+ATP1A1	pc	SLC8A3	g-g	hsa04961	activation
+ATP1A2	pc	SLC8A2	g-g	hsa04961	activation
+ATP1A2	pc	SLC8A3	g-g	hsa04961	activation
+ATP1A3	pc	SLC8A2	g-g	hsa04961	activation
+ATP1A3	pc	SLC8A3	g-g	hsa04961	activation
+ATP1A4	pc	SLC8A2	g-g	hsa04961	activation
+ATP1A4	pc	SLC8A3	g-g	hsa04961	activation
+ATP1B1	pc	SLC8A2	g-g	hsa04961	activation
+ATP1B1	pc	SLC8A3	g-g	hsa04961	activation
+ATP1B2	pc	SLC8A2	g-g	hsa04961	activation
+ATP1B2	pc	SLC8A3	g-g	hsa04961	activation
+ATP1B3	pc	SLC8A2	g-g	hsa04961	activation
+ATP1B3	pc	SLC8A3	g-g	hsa04961	activation
+FXYD2	pc	SLC8A2	g-g	hsa04961	activation
+FXYD2	pc	SLC8A3	g-g	hsa04961	activation
+RAB11A, YL8	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	binding/association
+RAB11A, YL8	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	binding/association
+TRPV5, CAT2, ECAC1, OTRPC3	pc	RAB11A, YL8	g-g	hsa04961	binding/association
+TRPV5, CAT2, ECAC1, OTRPC3	pc	RAB11A, YL8	g-g	hsa04961	binding/association
+RAB11A, YL8	pc	TRPV5, CAT2, ECAC1, OTRPC3	g-g	hsa04961	binding/association
+PTH, PTH1	pp	PTH1R, PFE, PTHR, PTHR1	g-g	hsa04961	activation
+C01330				hsa04961	
+CLTA, LCA				hsa04961	
+CLTB				hsa04961	
+CLTC				hsa04961	
+CLTCL1				hsa04961	
+AP2M1, AP50, CLAPM1, mu2				hsa04961	
+AP2S1				hsa04961	
+AP2A1				hsa04961	
+AP2A2				hsa04961	
+AP2B1				hsa04961	
+DNM1, DNM, EIEE31				hsa04961	
+DNM2				hsa04961	
+DNM3				hsa04961	
+DNM1, DNM, EIEE31				hsa04961	
+DNM2				hsa04961	
+DNM3				hsa04961	
+C01245				hsa04961	
+C01330				hsa04961	
+C00238				hsa04961	

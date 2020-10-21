@@ -1,0 +1,336 @@
+CTH	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+CTH	ec	KYAT1	g-g	hsa00270	compound
+CTH	ec	CDO1, CDO-I	g-g	hsa00270	compound
+CTH	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+CTH	ec	KYAT1	g-g	hsa00270	compound
+CTH	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00270	compound
+CTH	ec	GOT2	g-g	hsa00270	compound
+CDO1, CDO-I	ec	CTH	g-g	hsa00270	compound
+CDO1, CDO-I	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+CDO1, CDO-I	ec	KYAT1	g-g	hsa00270	compound
+CDO1, CDO-I	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00270	compound
+CDO1, CDO-I	ec	GOT2	g-g	hsa00270	compound
+CTH	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00270	compound
+CTH	ec	GOT2	g-g	hsa00270	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00270	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	GOT2	g-g	hsa00270	compound
+KYAT1	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00270	compound
+KYAT1	ec	GOT2	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	KYAT1	g-g	hsa00270	compound
+TST	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+TST	ec	KYAT1	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	CTH	g-g	hsa00270	compound
+TST	ec	CTH	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	MPST, MST, TST2, TUM1	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	TST	g-g	hsa00270	compound
+GOT2	ec	MPST, MST, TST2, TUM1	g-g	hsa00270	compound
+GOT2	ec	TST	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	LDHAL6A, LDH6A	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	LDHA	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	LDHB	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	LDHC	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	LDHAL6B	g-g	hsa00270	compound
+GOT2	ec	LDHAL6A, LDH6A	g-g	hsa00270	compound
+GOT2	ec	LDHA	g-g	hsa00270	compound
+GOT2	ec	LDHB	g-g	hsa00270	compound
+GOT2	ec	LDHC	g-g	hsa00270	compound
+GOT2	ec	LDHAL6B	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	LDHAL6A, LDH6A	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	LDHA	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	LDHB	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	LDHC	g-g	hsa00270	compound
+MPST, MST, TST2, TUM1	ec	LDHAL6B	g-g	hsa00270	compound
+TST	ec	LDHAL6A, LDH6A	g-g	hsa00270	compound
+TST	ec	LDHA	g-g	hsa00270	compound
+TST	ec	LDHB	g-g	hsa00270	compound
+TST	ec	LDHC	g-g	hsa00270	compound
+TST	ec	LDHAL6B	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	CDO1, CDO-I	g-g	hsa00270	compound
+GOT2	ec	CDO1, CDO-I	g-g	hsa00270	compound
+CBSL, CBS	ec	CTH	g-g	hsa00270	compound
+CBSL	ec	CTH	g-g	hsa00270	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	CTH	g-g	hsa00270	compound
+KYAT1	ec	CTH	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	AHCY	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	AHCYL2	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	KYAT1	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	CBSL, CBS	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	CBSL	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	AHCY	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	AHCYL2	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	KYAT1	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	CBSL, CBS	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	CBSL	g-g	hsa00270	compound
+BHMT2	ec	AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	g-g	hsa00270	compound
+BHMT2	ec	AHCY	g-g	hsa00270	compound
+BHMT2	ec	AHCYL2	g-g	hsa00270	compound
+BHMT2	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+BHMT2	ec	KYAT1	g-g	hsa00270	compound
+BHMT2	ec	CBSL, CBS	g-g	hsa00270	compound
+BHMT2	ec	CBSL	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	KYAT1	g-g	hsa00270	compound
+AHCY	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+AHCYL2	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00270	compound
+AHCY	ec	KYAT1	g-g	hsa00270	compound
+AHCYL2	ec	KYAT1	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	CBSL, CBS	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	CBSL	g-g	hsa00270	compound
+AHCY	ec	CBSL, CBS	g-g	hsa00270	compound
+AHCYL2	ec	CBSL, CBS	g-g	hsa00270	compound
+AHCY	ec	CBSL	g-g	hsa00270	compound
+AHCYL2	ec	CBSL	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	TAT	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	MAT1A	g-g	hsa00270	compound
+MTR, HMAG, MS, cblG	ec	MAT2A	g-g	hsa00270	compound
+BHMT2	ec	TAT	g-g	hsa00270	compound
+BHMT2	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00270	compound
+BHMT2	ec	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	g-g	hsa00270	compound
+BHMT2	ec	MAT1A	g-g	hsa00270	compound
+BHMT2	ec	MAT2A	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	TAT	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	MAT1A	g-g	hsa00270	compound
+BHMT, BHMT1, HEL-S-61p	ec	MAT2A	g-g	hsa00270	compound
+TAT	ec	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	g-g	hsa00270	compound
+TAT	ec	MAT1A	g-g	hsa00270	compound
+TAT	ec	MAT2A	g-g	hsa00270	compound
+IL4I1, FIG1, LAAO, LAO	ec	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	g-g	hsa00270	compound
+IL4I1, FIG1, LAAO, LAO	ec	MAT1A	g-g	hsa00270	compound
+IL4I1, FIG1, LAAO, LAO	ec	MAT2A	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	DNMT3A	g-g	hsa00270	compound
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	ec	DNMT3B	g-g	hsa00270	compound
+AHCY	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+AHCYL2	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+AHCY	ec	DNMT3A	g-g	hsa00270	compound
+AHCY	ec	DNMT3B	g-g	hsa00270	compound
+AHCYL2	ec	DNMT3A	g-g	hsa00270	compound
+AHCYL2	ec	DNMT3B	g-g	hsa00270	compound
+MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	ec	DNMT3A	g-g	hsa00270	compound
+MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	ec	DNMT3B	g-g	hsa00270	compound
+MAT1A	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+MAT2A	ec	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	g-g	hsa00270	compound
+MAT1A	ec	DNMT3A	g-g	hsa00270	compound
+MAT1A	ec	DNMT3B	g-g	hsa00270	compound
+MAT2A	ec	DNMT3A	g-g	hsa00270	compound
+MAT2A	ec	DNMT3B	g-g	hsa00270	compound
+MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+MAT1A	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+MAT2A	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+DNMT3A	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+DNMT3B	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00270	compound
+AMD1, ADOMETDC, AMD, SAMDC	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00270	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	MTAP, BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	g-g	hsa00270	compound
+MRI1, M1Pi, MRDI, MTNA, Ypr118w	ec	MTAP, BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	g-g	hsa00270	compound
+APIP, APIP2, CGI-29, CGI29, MMRP19, hAPIP	ec	MRI1, M1Pi, MRDI, MTNA, Ypr118w	g-g	hsa00270	compound
+APIP, APIP2, CGI-29, CGI29, MMRP19, hAPIP	ec	ENOPH1, E1, MASA, MST145, mtnC	g-g	hsa00270	compound
+ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	ec	ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	g-g	hsa00270	compound
+ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	ec	ENOPH1, E1, MASA, MST145, mtnC	g-g	hsa00270	compound
+ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	ec	ENOPH1, E1, MASA, MST145, mtnC	g-g	hsa00270	compound
+TAT	ec	ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	g-g	hsa00270	compound
+IL4I1, FIG1, LAAO, LAO	ec	ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	g-g	hsa00270	compound
+AMD1, ADOMETDC, AMD, SAMDC	ec	SMS, MRSR, SPMSY, SRS, SpS	g-g	hsa00270	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	MTAP, BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	g-g	hsa00270	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	MDH2	g-g	hsa00270	compound
+GOT2	ec	MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	g-g	hsa00270	compound
+GOT2	ec	MDH2	g-g	hsa00270	compound
+CTH	ec	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	g-g	hsa00270	compound
+CTH	ec	BCAT2	g-g	hsa00270	compound
+CTH	ec	AGXT2, AGT2, BAIBA, DAIBAT	g-g	hsa00270	compound
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00270	compound
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	ec	GCLM	g-g	hsa00270	compound
+BCAT2	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00270	compound
+BCAT2	ec	GCLM	g-g	hsa00270	compound
+AGXT2, AGT2, BAIBA, DAIBAT	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00270	compound
+AGXT2, AGT2, BAIBA, DAIBAT	ec	GCLM	g-g	hsa00270	compound
+GCLC, GCL, GCS, GLCL, GLCLC	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00270	compound
+GCLM	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00270	compound
+C01180	rt	TAT	irreversible	hsa00270	se
+TAT	rt	C00073	irreversible	hsa00270	ep
+C15606	rt	ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	irreversible	hsa00270	se
+ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	rt	C01180	irreversible	hsa00270	ep
+C15606	rt	ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	irreversible	hsa00270	se
+ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD	rt	C08276	irreversible	hsa00270	ep
+C04582	rt	APIP, APIP2, CGI-29, CGI29, MMRP19, hAPIP	irreversible	hsa00270	se
+APIP, APIP2, CGI-29, CGI29, MMRP19, hAPIP	rt	C15650	irreversible	hsa00270	ep
+C04188	rt	MRI1, M1Pi, MRDI, MTNA, Ypr118w	irreversible	hsa00270	se
+MRI1, M1Pi, MRDI, MTNA, Ypr118w	rt	C04582	irreversible	hsa00270	ep
+C00170	rt	MTAP, BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	irreversible	hsa00270	se
+MTAP, BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	rt	C04188	irreversible	hsa00270	ep
+C01137	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00270	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C00170	irreversible	hsa00270	ep
+C00019	rt	AMD1, ADOMETDC, AMD, SAMDC	irreversible	hsa00270	se
+AMD1, ADOMETDC, AMD, SAMDC	rt	C01137	irreversible	hsa00270	ep
+C02291	rt	CTH	reversible	hsa00270	se
+CTH	rt	C02291	reversible	hsa00270	ep
+CTH	rt	C00097	reversible	hsa00270	ep
+C00097	rt	CTH	reversible	hsa00270	se
+CTH	rt	C00109	reversible	hsa00270	ep
+C00109	rt	CTH	reversible	hsa00270	se
+C00065	rt	CBSL, CBS	irreversible	hsa00270	se
+C00065	rt	CBSL	irreversible	hsa00270	se
+C00155	rt	CBSL, CBS	irreversible	hsa00270	se
+C00155	rt	CBSL	irreversible	hsa00270	se
+CBSL, CBS	rt	C02291	irreversible	hsa00270	ep
+CBSL	rt	C02291	irreversible	hsa00270	ep
+C00155	rt	MTR, HMAG, MS, cblG	irreversible	hsa00270	se
+MTR, HMAG, MS, cblG	rt	C00073	irreversible	hsa00270	ep
+C02291	rt	KYAT3, CCBL2, KAT3, KATIII	irreversible	hsa00270	se
+C02291	rt	KYAT1	irreversible	hsa00270	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C00155	irreversible	hsa00270	ep
+KYAT1	rt	C00155	irreversible	hsa00270	ep
+C00155	rt	BHMT, BHMT1, HEL-S-61p	irreversible	hsa00270	se
+BHMT, BHMT1, HEL-S-61p	rt	C00073	irreversible	hsa00270	ep
+C00073	rt	MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	irreversible	hsa00270	se
+C00073	rt	MAT1A	irreversible	hsa00270	se
+C00073	rt	MAT2A	irreversible	hsa00270	se
+MAT2B, MAT-II, MATIIbeta, Nbla02999, SDR23E1, TGR	rt	C00019	irreversible	hsa00270	ep
+MAT1A	rt	C00019	irreversible	hsa00270	ep
+MAT2A	rt	C00019	irreversible	hsa00270	ep
+C00021	rt	AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	irreversible	hsa00270	se
+C00021	rt	AHCY	irreversible	hsa00270	se
+C00021	rt	AHCYL2	irreversible	hsa00270	se
+AHCYL1, DCAL, IRBIT, PPP1R78, PRO0233, XPVKONA	rt	C00155	irreversible	hsa00270	ep
+AHCY	rt	C00155	irreversible	hsa00270	ep
+AHCYL2	rt	C00155	irreversible	hsa00270	ep
+C00019	rt	DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	irreversible	hsa00270	se
+C00019	rt	DNMT3A	irreversible	hsa00270	se
+C00019	rt	DNMT3B	irreversible	hsa00270	se
+DNMT1, ADCADN, AIM, CXXC9, DNMT, HSN1E, MCMT, mHsaI	rt	C00021	irreversible	hsa00270	ep
+DNMT3A	rt	C00021	irreversible	hsa00270	ep
+DNMT3B	rt	C00021	irreversible	hsa00270	ep
+C01180	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00270	se
+IL4I1, FIG1, LAAO, LAO	rt	C00073	irreversible	hsa00270	ep
+C00155	rt	BHMT2	irreversible	hsa00270	se
+BHMT2	rt	C00073	irreversible	hsa00270	ep
+C15650	rt	ENOPH1, E1, MASA, MST145, mtnC	irreversible	hsa00270	se
+ENOPH1, E1, MASA, MST145, mtnC	rt	C15606	irreversible	hsa00270	ep
+C00065	rt	SDS, SDH	irreversible	hsa00270	se
+C00065	rt	SDSL	irreversible	hsa00270	se
+SDS, SDH	rt	C02218	irreversible	hsa00270	ep
+SDSL	rt	C02218	irreversible	hsa00270	ep
+C00506	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00270	se
+C00506	rt	GOT2	reversible	hsa00270	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00506	reversible	hsa00270	ep
+GOT2	rt	C00506	reversible	hsa00270	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C05528	reversible	hsa00270	ep
+GOT2	rt	C05528	reversible	hsa00270	ep
+C05528	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00270	se
+C05528	rt	GOT2	reversible	hsa00270	se
+C00491	rt	KYAT3, CCBL2, KAT3, KATIII	irreversible	hsa00270	se
+C00491	rt	KYAT1	irreversible	hsa00270	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C01962	irreversible	hsa00270	ep
+KYAT1	rt	C01962	irreversible	hsa00270	ep
+C00491	rt	CTH	irreversible	hsa00270	se
+CTH	rt	C01962	irreversible	hsa00270	ep
+C00097	rt	CDO1, CDO-I	irreversible	hsa00270	se
+CDO1, CDO-I	rt	C00606	irreversible	hsa00270	ep
+C00606	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	irreversible	hsa00270	se
+C00606	rt	GOT2	irreversible	hsa00270	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C05527	irreversible	hsa00270	ep
+GOT2	rt	C05527	irreversible	hsa00270	ep
+C00097	rt	KYAT3, CCBL2, KAT3, KATIII	reversible	hsa00270	se
+C00097	rt	KYAT1	reversible	hsa00270	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C00097	reversible	hsa00270	ep
+KYAT1	rt	C00097	reversible	hsa00270	ep
+KYAT3, CCBL2, KAT3, KATIII	rt	C00022	reversible	hsa00270	ep
+KYAT1	rt	C00022	reversible	hsa00270	ep
+C00022	rt	KYAT3, CCBL2, KAT3, KATIII	reversible	hsa00270	se
+C00022	rt	KYAT1	reversible	hsa00270	se
+C00097	rt	CTH	reversible	hsa00270	se
+CTH	rt	C00097	reversible	hsa00270	ep
+CTH	rt	C00022	reversible	hsa00270	ep
+C00022	rt	CTH	reversible	hsa00270	se
+C00957	rt	MPST, MST, TST2, TUM1	irreversible	hsa00270	se
+C00957	rt	TST	irreversible	hsa00270	se
+MPST, MST, TST2, TUM1	rt	C00022	irreversible	hsa00270	ep
+TST	rt	C00022	irreversible	hsa00270	ep
+C00097	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00270	se
+C00097	rt	GOT2	reversible	hsa00270	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00097	reversible	hsa00270	ep
+GOT2	rt	C00097	reversible	hsa00270	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00957	reversible	hsa00270	ep
+GOT2	rt	C00957	reversible	hsa00270	ep
+C00957	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00270	se
+C00957	rt	GOT2	reversible	hsa00270	se
+C00957	rt	LDHAL6A, LDH6A	irreversible	hsa00270	se
+C00957	rt	LDHA	irreversible	hsa00270	se
+C00957	rt	LDHB	irreversible	hsa00270	se
+C00957	rt	LDHC	irreversible	hsa00270	se
+C00957	rt	LDHAL6B	irreversible	hsa00270	se
+LDHAL6A, LDH6A	rt	C05823	irreversible	hsa00270	ep
+LDHA	rt	C05823	irreversible	hsa00270	ep
+LDHB	rt	C05823	irreversible	hsa00270	ep
+LDHC	rt	C05823	irreversible	hsa00270	ep
+LDHAL6B	rt	C05823	irreversible	hsa00270	ep
+C01137	rt	SMS, MRSR, SPMSY, SRS, SpS	irreversible	hsa00270	se
+SMS, MRSR, SPMSY, SRS, SpS	rt	C00170	irreversible	hsa00270	ep
+C11537	rt	MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	reversible	hsa00270	se
+C11537	rt	MDH2	reversible	hsa00270	se
+MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	rt	C11537	reversible	hsa00270	ep
+MDH2	rt	C11537	reversible	hsa00270	ep
+MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	rt	C05528	reversible	hsa00270	ep
+MDH2	rt	C05528	reversible	hsa00270	ep
+C05528	rt	MDH1, HEL-S-32, MDH-s, MDHA, MGC:1375, MOR2	reversible	hsa00270	se
+C05528	rt	MDH2	reversible	hsa00270	se
+C21015	rt	GSS, GSHS, HEL-S-64p, HEL-S-88n	irreversible	hsa00270	se
+GSS, GSHS, HEL-S-64p, HEL-S-88n	rt	C21016	irreversible	hsa00270	ep
+C02356	rt	GCLC, GCL, GCS, GLCL, GLCLC	irreversible	hsa00270	se
+C02356	rt	GCLM	irreversible	hsa00270	se
+GCLC, GCL, GCS, GLCL, GLCLC	rt	C21015	irreversible	hsa00270	ep
+GCLM	rt	C21015	irreversible	hsa00270	ep
+C00109	rt	AGXT2, AGT2, BAIBA, DAIBAT	reversible	hsa00270	se
+AGXT2, AGT2, BAIBA, DAIBAT	rt	C00109	reversible	hsa00270	ep
+AGXT2, AGT2, BAIBA, DAIBAT	rt	C02356	reversible	hsa00270	ep
+C02356	rt	AGXT2, AGT2, BAIBA, DAIBAT	reversible	hsa00270	se
+C00109	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00270	se
+C00109	rt	BCAT2	reversible	hsa00270	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00109	reversible	hsa00270	ep
+BCAT2	rt	C00109	reversible	hsa00270	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C02356	reversible	hsa00270	ep
+BCAT2	rt	C02356	reversible	hsa00270	ep
+C02356	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00270	se
+C02356	rt	BCAT2	reversible	hsa00270	se
+C06547				hsa00270	
+C01234				hsa00270	
+C15651				hsa00270	
+C03089				hsa00270	
+C01817				hsa00270	
+C03145				hsa00270	
+C02989				hsa00270	
+C03539				hsa00270	
+C00409				hsa00270	
+C00979				hsa00270	
+C00283				hsa00270	
+C05824				hsa00270	
+C05526				hsa00270	
+C00059				hsa00270	
+C00051				hsa00270	
+C11481				hsa00270	
+C00793				hsa00270	
+C00263				hsa00270	
+C01118				hsa00270	
+C01077				hsa00270	
+C00441				hsa00270	
+C03082				hsa00270	
+C00049				hsa00270	
+C05524				hsa00270	
+C09306				hsa00270	
+C00041				hsa00270	
+C00094				hsa00270	
+C01005				hsa00270	
+C11499				hsa00270	
+C19787				hsa00270	
+C18049				hsa00270	

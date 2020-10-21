@@ -1,0 +1,61 @@
+HBA1, ECYT7, HBA-T3, HBH, METHBA	pp	HPR, A-259H102, HP	g-g	hsa05143	binding/association
+HBA2	pp	HPR, A-259H102, HP	g-g	hsa05143	binding/association
+HBB	pp	HPR, A-259H102, HP	g-g	hsa05143	binding/association
+TLR9, CD289	pp	MYD88, MYD88D	g-g	hsa05143	activation
+FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	pp	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	g-g	hsa05143	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pd	VCAM1, CD106, INCAM-100	g-g	hsa05143	expression
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pd	SELE, CD62E, ELAM, ELAM1, ESEL, LECAM2	g-g	hsa05143	expression
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pd	ICAM1, BB2, CD54, P358	g-g	hsa05143	expression
+IFNG, IFG, IFI	pd	ICAM1, BB2, CD54, P358	g-g	hsa05143	expression
+IFNG, IFG, IFI	pd	IDO2, INDOL1	g-g	hsa05143	expression
+IFNG, IFG, IFI	pd	IDO1	g-g	hsa05143	expression
+F2RL1, GPR11, PAR2	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa05143	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa05143	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa05143	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa05143	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa05143	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCB	g-g	hsa05143	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCG	g-g	hsa05143	compound
+PLCB2	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB3	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB4	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB2	pp	PRKCB	g-g	hsa05143	compound
+PLCB2	pp	PRKCG	g-g	hsa05143	compound
+PLCB3	pp	PRKCB	g-g	hsa05143	compound
+PLCB3	pp	PRKCG	g-g	hsa05143	compound
+PLCB4	pp	PRKCB	g-g	hsa05143	compound
+PLCB4	pp	PRKCG	g-g	hsa05143	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCB	g-g	hsa05143	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCG	g-g	hsa05143	compound
+PLCB2	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB3	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB4	pp	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	g-g	hsa05143	compound
+PLCB2	pp	PRKCB	g-g	hsa05143	compound
+PLCB2	pp	PRKCG	g-g	hsa05143	compound
+PLCB3	pp	PRKCB	g-g	hsa05143	compound
+PLCB3	pp	PRKCG	g-g	hsa05143	compound
+PLCB4	pp	PRKCB	g-g	hsa05143	compound
+PLCB4	pp	PRKCG	g-g	hsa05143	compound
+THOP1, EP2415, MEPD_HUMAN, MP78, TOP	pp	KNG1, BDK, BK, HMWK, KNG	g-g	hsa05143	inhibition
+IL12A, CLMF, IL-12A, NFSK, NKSF1, P35				hsa05143	
+IL12B				hsa05143	
+IL18, IGIF, IL-18, IL-1g, IL1F4				hsa05143	
+APOL1, APO-L, APOL, APOL-I, FSGS4				hsa05143	
+LAMA4, CMD1JJ, LAMA3, LAMA4*-1				hsa05143	
+IL1B, IL-1, IL1-BETA, IL1F2				hsa05143	
+C00584				hsa05143	
+C00696				hsa05143	
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv				hsa05143	
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv				hsa05143	
+IL10, CSIF, GVHDS, IL-10, IL10A, TGIF				hsa05143	
+IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6				hsa05143	
+APOA1, apo(a)				hsa05143	
+C00328				hsa05143	
+C00078				hsa05143	
+C01245				hsa05143	
+C00076				hsa05143	
+C00165				hsa05143	
+C00533				hsa05143	
+NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND				hsa05143	

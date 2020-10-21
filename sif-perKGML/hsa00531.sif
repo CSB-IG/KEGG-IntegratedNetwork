@@ -1,0 +1,165 @@
+IDS, MPS2, SIDS	ec	IDUA, IDA, MPS1	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	ARSB, ASB, G4S, MPS6	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	HYAL4, CSHY	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	HYAL1	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	SPAM1	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	HYAL3	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	HYAL2	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL4, CSHY	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL1	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	SPAM1	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL3	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL2	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL4, CSHY	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL1	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	SPAM1	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL3	g-g	hsa00531	compound
+ARSB, ASB, G4S, MPS6	ec	HYAL2	g-g	hsa00531	compound
+HPSE, HPA, HPA1, HPR1, HPSE1, HSE1	ec	IDS, MPS2, SIDS	g-g	hsa00531	compound
+HPSE2, HPA2, HPR2, UFS, UFS1	ec	IDS, MPS2, SIDS	g-g	hsa00531	compound
+IDS, MPS2, SIDS	ec	IDUA, IDA, MPS1	g-g	hsa00531	compound
+IDUA, IDA, MPS1	ec	SGSH, HSS, MPS3A, SFMD	g-g	hsa00531	compound
+SGSH, HSS, MPS3A, SFMD	ec	HGSNAT, HGNAT, MPS3C, RP73, TMEM76	g-g	hsa00531	compound
+HGSNAT, HGNAT, MPS3C, RP73, TMEM76	ec	NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD	g-g	hsa00531	compound
+GUSB, BG, MPS7	ec	GNS, G6S	g-g	hsa00531	compound
+GNS, G6S	ec	HEXA, TSD	g-g	hsa00531	compound
+GNS, G6S	ec	HEXB	g-g	hsa00531	compound
+GNS, G6S	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00531	compound
+GLB1, EBP, ELNR1, MPS4B	ec	HEXA, TSD	g-g	hsa00531	compound
+GLB1, EBP, ELNR1, MPS4B	ec	HEXB	g-g	hsa00531	compound
+GNS, G6S	ec	HEXA, TSD	g-g	hsa00531	compound
+GNS, G6S	ec	HEXB	g-g	hsa00531	compound
+GALNS, GALNAC6S, GAS, GalN6S, MPS4A	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00531	compound
+HYAL4, CSHY	ec	GUSB, BG, MPS7	g-g	hsa00531	compound
+HYAL1	ec	GUSB, BG, MPS7	g-g	hsa00531	compound
+SPAM1	ec	GUSB, BG, MPS7	g-g	hsa00531	compound
+HYAL3	ec	GUSB, BG, MPS7	g-g	hsa00531	compound
+HYAL2	ec	GUSB, BG, MPS7	g-g	hsa00531	compound
+C00925	rt	HPSE2, HPA2, HPR2, UFS, UFS1	reversible	hsa00531	se
+HPSE2, HPA2, HPR2, UFS, UFS1	rt	C00925	reversible	hsa00531	ep
+HPSE2, HPA2, HPR2, UFS, UFS1	rt	G13034	reversible	hsa00531	ep
+G13034	rt	HPSE2, HPA2, HPR2, UFS, UFS1	reversible	hsa00531	se
+HPSE2, HPA2, HPR2, UFS, UFS1	rt	C00925	reversible	hsa00531	ep
+C00925	rt	HPSE2, HPA2, HPR2, UFS, UFS1	reversible	hsa00531	se
+C00925	rt	HPSE, HPA, HPA1, HPR1, HPSE1, HSE1	irreversible	hsa00531	se
+HPSE, HPA, HPA1, HPR1, HPSE1, HSE1	rt	G13034	irreversible	hsa00531	ep
+G13073	rt	GNS, G6S	irreversible	hsa00531	se
+GNS, G6S	rt	G13074	irreversible	hsa00531	ep
+G13041	rt	IDS, MPS2, SIDS	irreversible	hsa00531	se
+IDS, MPS2, SIDS	rt	G13042	irreversible	hsa00531	ep
+G13034	rt	IDS, MPS2, SIDS	irreversible	hsa00531	se
+IDS, MPS2, SIDS	rt	G13035	irreversible	hsa00531	ep
+G01945	rt	GALNS, GALNAC6S, GAS, GalN6S, MPS4A	irreversible	hsa00531	se
+GALNS, GALNAC6S, GAS, GalN6S, MPS4A	rt	G01977	irreversible	hsa00531	ep
+G13042	rt	IDUA, IDA, MPS1	irreversible	hsa00531	se
+IDUA, IDA, MPS1	rt	G12336	irreversible	hsa00531	ep
+G13035	rt	IDUA, IDA, MPS1	irreversible	hsa00531	se
+IDUA, IDA, MPS1	rt	G13036	irreversible	hsa00531	ep
+G12336	rt	ARSB, ASB, G4S, MPS6	irreversible	hsa00531	se
+ARSB, ASB, G4S, MPS6	rt	G13043	irreversible	hsa00531	ep
+G13036	rt	SGSH, HSS, MPS3A, SFMD	irreversible	hsa00531	se
+SGSH, HSS, MPS3A, SFMD	rt	G13037	irreversible	hsa00531	ep
+G01977	rt	GLB1, EBP, ELNR1, MPS4B	irreversible	hsa00531	se
+GLB1, EBP, ELNR1, MPS4B	rt	G13073	irreversible	hsa00531	ep
+G13043	rt	HYAL4, CSHY	irreversible	hsa00531	se
+G13043	rt	HYAL1	irreversible	hsa00531	se
+G13043	rt	SPAM1	irreversible	hsa00531	se
+G13043	rt	HYAL3	irreversible	hsa00531	se
+G13043	rt	HYAL2	irreversible	hsa00531	se
+HYAL4, CSHY	rt	G00872	irreversible	hsa00531	ep
+HYAL1	rt	G00872	irreversible	hsa00531	ep
+SPAM1	rt	G00872	irreversible	hsa00531	ep
+HYAL3	rt	G00872	irreversible	hsa00531	ep
+HYAL2	rt	G00872	irreversible	hsa00531	ep
+G13037	rt	HGSNAT, HGNAT, MPS3C, RP73, TMEM76	irreversible	hsa00531	se
+HGSNAT, HGNAT, MPS3C, RP73, TMEM76	rt	G13038	irreversible	hsa00531	ep
+G13073	rt	HEXA, TSD	irreversible	hsa00531	se
+G13073	rt	HEXB	irreversible	hsa00531	se
+HEXA, TSD	rt	G01391	irreversible	hsa00531	ep
+HEXB	rt	G01391	irreversible	hsa00531	ep
+G12336	rt	HYAL4, CSHY	irreversible	hsa00531	se
+G12336	rt	HYAL1	irreversible	hsa00531	se
+G12336	rt	SPAM1	irreversible	hsa00531	se
+G12336	rt	HYAL3	irreversible	hsa00531	se
+G12336	rt	HYAL2	irreversible	hsa00531	se
+HYAL4, CSHY	rt	G00872	irreversible	hsa00531	ep
+HYAL1	rt	G00872	irreversible	hsa00531	ep
+SPAM1	rt	G00872	irreversible	hsa00531	ep
+HYAL3	rt	G00872	irreversible	hsa00531	ep
+HYAL2	rt	G00872	irreversible	hsa00531	ep
+G13038	rt	NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD	irreversible	hsa00531	se
+NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD	rt	G13039	irreversible	hsa00531	ep
+G13074	rt	HEXA, TSD	irreversible	hsa00531	se
+G13074	rt	HEXB	irreversible	hsa00531	se
+HEXA, TSD	rt	G01391	irreversible	hsa00531	ep
+HEXB	rt	G01391	irreversible	hsa00531	ep
+G13040	rt	GUSB, BG, MPS7	irreversible	hsa00531	se
+GUSB, BG, MPS7	rt	G09660	irreversible	hsa00531	ep
+G09660	rt	GNS, G6S	irreversible	hsa00531	se
+GNS, G6S	rt	G02632	irreversible	hsa00531	ep
+G13043	rt	HYAL4, CSHY	irreversible	hsa00531	se
+G13043	rt	HYAL1	irreversible	hsa00531	se
+G13043	rt	SPAM1	irreversible	hsa00531	se
+G13043	rt	HYAL3	irreversible	hsa00531	se
+G13043	rt	HYAL2	irreversible	hsa00531	se
+HYAL4, CSHY	rt	G00872	irreversible	hsa00531	ep
+HYAL1	rt	G00872	irreversible	hsa00531	ep
+SPAM1	rt	G00872	irreversible	hsa00531	ep
+HYAL3	rt	G00872	irreversible	hsa00531	ep
+HYAL2	rt	G00872	irreversible	hsa00531	ep
+G12336	rt	ARSB, ASB, G4S, MPS6	irreversible	hsa00531	se
+ARSB, ASB, G4S, MPS6	rt	G13043	irreversible	hsa00531	ep
+G13043	rt	HYAL4, CSHY	irreversible	hsa00531	se
+G13043	rt	HYAL1	irreversible	hsa00531	se
+G13043	rt	SPAM1	irreversible	hsa00531	se
+G13043	rt	HYAL3	irreversible	hsa00531	se
+G13043	rt	HYAL2	irreversible	hsa00531	se
+HYAL4, CSHY	rt	G00872	irreversible	hsa00531	ep
+HYAL1	rt	G00872	irreversible	hsa00531	ep
+SPAM1	rt	G00872	irreversible	hsa00531	ep
+HYAL3	rt	G00872	irreversible	hsa00531	ep
+HYAL2	rt	G00872	irreversible	hsa00531	ep
+G13041	rt	IDS, MPS2, SIDS	irreversible	hsa00531	se
+IDS, MPS2, SIDS	rt	G13042	irreversible	hsa00531	ep
+G13042	rt	IDUA, IDA, MPS1	irreversible	hsa00531	se
+IDUA, IDA, MPS1	rt	G12336	irreversible	hsa00531	ep
+G13038	rt	NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD	irreversible	hsa00531	se
+NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD	rt	G13039	irreversible	hsa00531	ep
+G13040	rt	GUSB, BG, MPS7	irreversible	hsa00531	se
+GUSB, BG, MPS7	rt	G09660	irreversible	hsa00531	ep
+G13034	rt	IDS, MPS2, SIDS	irreversible	hsa00531	se
+IDS, MPS2, SIDS	rt	G13035	irreversible	hsa00531	ep
+G13035	rt	IDUA, IDA, MPS1	irreversible	hsa00531	se
+IDUA, IDA, MPS1	rt	G13036	irreversible	hsa00531	ep
+C00925	rt	HPSE, HPA, HPA1, HPR1, HPSE1, HSE1	irreversible	hsa00531	se
+HPSE, HPA, HPA1, HPR1, HPSE1, HSE1	rt	G13034	irreversible	hsa00531	ep
+G13036	rt	SGSH, HSS, MPS3A, SFMD	irreversible	hsa00531	se
+SGSH, HSS, MPS3A, SFMD	rt	G13037	irreversible	hsa00531	ep
+G13074	rt	HEXA, TSD	irreversible	hsa00531	se
+G13074	rt	HEXB	irreversible	hsa00531	se
+HEXA, TSD	rt	G01391	irreversible	hsa00531	ep
+HEXB	rt	G01391	irreversible	hsa00531	ep
+G13073	rt	GNS, G6S	irreversible	hsa00531	se
+GNS, G6S	rt	G13074	irreversible	hsa00531	ep
+G01945	rt	GALNS, GALNAC6S, GAS, GalN6S, MPS4A	irreversible	hsa00531	se
+GALNS, GALNAC6S, GAS, GalN6S, MPS4A	rt	G01977	irreversible	hsa00531	ep
+G01977	rt	GLB1, EBP, ELNR1, MPS4B	irreversible	hsa00531	se
+GLB1, EBP, ELNR1, MPS4B	rt	G13073	irreversible	hsa00531	ep
+G10505	rt	HYAL4, CSHY	irreversible	hsa00531	se
+G10505	rt	HYAL1	irreversible	hsa00531	se
+G10505	rt	SPAM1	irreversible	hsa00531	se
+G10505	rt	HYAL3	irreversible	hsa00531	se
+G10505	rt	HYAL2	irreversible	hsa00531	se
+HYAL4, CSHY	rt	G00526	irreversible	hsa00531	ep
+HYAL1	rt	G00526	irreversible	hsa00531	ep
+SPAM1	rt	G00526	irreversible	hsa00531	ep
+HYAL3	rt	G00526	irreversible	hsa00531	ep
+HYAL2	rt	G00526	irreversible	hsa00531	ep
+G00526	rt	GUSB, BG, MPS7	irreversible	hsa00531	se
+GUSB, BG, MPS7	rt	G00711	irreversible	hsa00531	ep
+G00526	rt	GUSB, BG, MPS7	irreversible	hsa00531	se
+GUSB, BG, MPS7	rt	G00711	irreversible	hsa00531	ep
+C00426				hsa00531	
+C00634				hsa00531	
+C00573				hsa00531	
+G10008				hsa00531	

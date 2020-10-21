@@ -1,0 +1,243 @@
+GUSB, BG, MPS7	ec	UGT2B11	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2A1	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B28	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A10	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A8	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A7	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A6	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A5	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A9	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A4	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A1	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT1A3	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2A2	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B4	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B7	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B10	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B15	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2B17	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	UGT2A3	g-g	hsa00040	compound
+KL	ec	UGT2B11	g-g	hsa00040	compound
+KL	ec	UGT2A1	g-g	hsa00040	compound
+KL	ec	UGT2B28	g-g	hsa00040	compound
+KL	ec	UGT1A10	g-g	hsa00040	compound
+KL	ec	UGT1A8	g-g	hsa00040	compound
+KL	ec	UGT1A7	g-g	hsa00040	compound
+KL	ec	UGT1A6	g-g	hsa00040	compound
+KL	ec	UGT1A5	g-g	hsa00040	compound
+KL	ec	UGT1A9	g-g	hsa00040	compound
+KL	ec	UGT1A4	g-g	hsa00040	compound
+KL	ec	UGT1A1	g-g	hsa00040	compound
+KL	ec	UGT1A3	g-g	hsa00040	compound
+KL	ec	UGT2A2	g-g	hsa00040	compound
+KL	ec	UGT2B4	g-g	hsa00040	compound
+KL	ec	UGT2B7	g-g	hsa00040	compound
+KL	ec	UGT2B10	g-g	hsa00040	compound
+KL	ec	UGT2B15	g-g	hsa00040	compound
+KL	ec	UGT2B17	g-g	hsa00040	compound
+KL	ec	UGT2A3	g-g	hsa00040	compound
+UGT2B11	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2A1	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B28	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A10	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A8	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A7	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A6	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A5	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A9	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A4	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A1	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT1A3	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2A2	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B4	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B7	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B10	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B15	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2B17	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGT2A3	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	g-g	hsa00040	compound
+RPE, RPE2-1	ec	XYLB	g-g	hsa00040	compound
+RPEL1	ec	XYLB	g-g	hsa00040	compound
+DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00040	compound
+DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	ec	AKR1B10	g-g	hsa00040	compound
+DHDH, 2DD, HUM2DD	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00040	compound
+DHDH, 2DD, HUM2DD	ec	AKR1B10	g-g	hsa00040	compound
+GUSB, BG, MPS7	ec	AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	g-g	hsa00040	compound
+KL	ec	AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	g-g	hsa00040	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	SORD, HEL-S-95n, SORD1	g-g	hsa00040	compound
+AKR1B10	ec	SORD, HEL-S-95n, SORD1	g-g	hsa00040	compound
+SORD, HEL-S-95n, SORD1	ec	DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	g-g	hsa00040	compound
+AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	ec	CRYL1, GDH, HEL30, gul3DH, lambda-CRY	g-g	hsa00040	compound
+C03033	rt	GUSB, BG, MPS7	irreversible	hsa00040	se
+C03033	rt	KL	irreversible	hsa00040	se
+GUSB, BG, MPS7	rt	C00191	irreversible	hsa00040	ep
+KL	rt	C00191	irreversible	hsa00040	ep
+C00199	rt	RPE, RPE2-1	reversible	hsa00040	se
+C00199	rt	RPEL1	reversible	hsa00040	se
+RPE, RPE2-1	rt	C00199	reversible	hsa00040	ep
+RPEL1	rt	C00199	reversible	hsa00040	ep
+RPE, RPE2-1	rt	C00231	reversible	hsa00040	ep
+RPEL1	rt	C00231	reversible	hsa00040	ep
+C00231	rt	RPE, RPE2-1	reversible	hsa00040	se
+C00231	rt	RPEL1	reversible	hsa00040	se
+C01068	rt	ISPD, MDDGA7, MDDGC7, Nip, hCG_1745121, hISPD	reversible	hsa00040	se
+ISPD, MDDGA7, MDDGC7, Nip, hCG_1745121, hISPD	rt	C01068	reversible	hsa00040	ep
+ISPD, MDDGA7, MDDGC7, Nip, hCG_1745121, hISPD	rt	C00789	reversible	hsa00040	ep
+C00789	rt	ISPD, MDDGA7, MDDGC7, Nip, hCG_1745121, hISPD	reversible	hsa00040	se
+C00310	rt	XYLB	reversible	hsa00040	se
+XYLB	rt	C00310	reversible	hsa00040	ep
+XYLB	rt	C00231	reversible	hsa00040	ep
+C00231	rt	XYLB	reversible	hsa00040	se
+C00532	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00040	se
+C00532	rt	AKR1B10	reversible	hsa00040	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00532	reversible	hsa00040	ep
+AKR1B10	rt	C00532	reversible	hsa00040	ep
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00259	reversible	hsa00040	ep
+AKR1B10	rt	C00259	reversible	hsa00040	ep
+C00259	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00040	se
+C00259	rt	AKR1B10	reversible	hsa00040	se
+C00379	rt	DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	reversible	hsa00040	se
+DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	rt	C00379	reversible	hsa00040	ep
+DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	rt	C00312	reversible	hsa00040	ep
+C00312	rt	DCXR, DCR, HCR2, HCRII, KIDCR, P34H, PNTSU, SDR20C1, XR	reversible	hsa00040	se
+C00379	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00040	se
+C00379	rt	AKR1B10	reversible	hsa00040	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00379	reversible	hsa00040	ep
+AKR1B10	rt	C00379	reversible	hsa00040	ep
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00181	reversible	hsa00040	ep
+AKR1B10	rt	C00181	reversible	hsa00040	ep
+C00181	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00040	se
+C00181	rt	AKR1B10	reversible	hsa00040	se
+C00800	rt	CRYL1, GDH, HEL30, gul3DH, lambda-CRY	reversible	hsa00040	se
+CRYL1, GDH, HEL30, gul3DH, lambda-CRY	rt	C00800	reversible	hsa00040	ep
+CRYL1, GDH, HEL30, gul3DH, lambda-CRY	rt	C00618	reversible	hsa00040	ep
+C00618	rt	CRYL1, GDH, HEL30, gul3DH, lambda-CRY	reversible	hsa00040	se
+C00103	rt	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	irreversible	hsa00040	se
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	rt	C00029	irreversible	hsa00040	ep
+C00167	rt	UGT2B11	reversible	hsa00040	se
+C00167	rt	UGT2A1	reversible	hsa00040	se
+C00167	rt	UGT2B28	reversible	hsa00040	se
+C00167	rt	UGT1A10	reversible	hsa00040	se
+C00167	rt	UGT1A8	reversible	hsa00040	se
+C00167	rt	UGT1A7	reversible	hsa00040	se
+C00167	rt	UGT1A6	reversible	hsa00040	se
+C00167	rt	UGT1A5	reversible	hsa00040	se
+C00167	rt	UGT1A9	reversible	hsa00040	se
+C00167	rt	UGT1A4	reversible	hsa00040	se
+C00167	rt	UGT1A1	reversible	hsa00040	se
+C00167	rt	UGT1A3	reversible	hsa00040	se
+C00167	rt	UGT2A2	reversible	hsa00040	se
+C00167	rt	UGT2B4	reversible	hsa00040	se
+C00167	rt	UGT2B7	reversible	hsa00040	se
+C00167	rt	UGT2B10	reversible	hsa00040	se
+C00167	rt	UGT2B15	reversible	hsa00040	se
+C00167	rt	UGT2B17	reversible	hsa00040	se
+C00167	rt	UGT2A3	reversible	hsa00040	se
+UGT2B11	rt	C00167	reversible	hsa00040	ep
+UGT2A1	rt	C00167	reversible	hsa00040	ep
+UGT2B28	rt	C00167	reversible	hsa00040	ep
+UGT1A10	rt	C00167	reversible	hsa00040	ep
+UGT1A8	rt	C00167	reversible	hsa00040	ep
+UGT1A7	rt	C00167	reversible	hsa00040	ep
+UGT1A6	rt	C00167	reversible	hsa00040	ep
+UGT1A5	rt	C00167	reversible	hsa00040	ep
+UGT1A9	rt	C00167	reversible	hsa00040	ep
+UGT1A4	rt	C00167	reversible	hsa00040	ep
+UGT1A1	rt	C00167	reversible	hsa00040	ep
+UGT1A3	rt	C00167	reversible	hsa00040	ep
+UGT2A2	rt	C00167	reversible	hsa00040	ep
+UGT2B4	rt	C00167	reversible	hsa00040	ep
+UGT2B7	rt	C00167	reversible	hsa00040	ep
+UGT2B10	rt	C00167	reversible	hsa00040	ep
+UGT2B15	rt	C00167	reversible	hsa00040	ep
+UGT2B17	rt	C00167	reversible	hsa00040	ep
+UGT2A3	rt	C00167	reversible	hsa00040	ep
+UGT2B11	rt	C03033	reversible	hsa00040	ep
+UGT2A1	rt	C03033	reversible	hsa00040	ep
+UGT2B28	rt	C03033	reversible	hsa00040	ep
+UGT1A10	rt	C03033	reversible	hsa00040	ep
+UGT1A8	rt	C03033	reversible	hsa00040	ep
+UGT1A7	rt	C03033	reversible	hsa00040	ep
+UGT1A6	rt	C03033	reversible	hsa00040	ep
+UGT1A5	rt	C03033	reversible	hsa00040	ep
+UGT1A9	rt	C03033	reversible	hsa00040	ep
+UGT1A4	rt	C03033	reversible	hsa00040	ep
+UGT1A1	rt	C03033	reversible	hsa00040	ep
+UGT1A3	rt	C03033	reversible	hsa00040	ep
+UGT2A2	rt	C03033	reversible	hsa00040	ep
+UGT2B4	rt	C03033	reversible	hsa00040	ep
+UGT2B7	rt	C03033	reversible	hsa00040	ep
+UGT2B10	rt	C03033	reversible	hsa00040	ep
+UGT2B15	rt	C03033	reversible	hsa00040	ep
+UGT2B17	rt	C03033	reversible	hsa00040	ep
+UGT2A3	rt	C03033	reversible	hsa00040	ep
+C03033	rt	UGT2B11	reversible	hsa00040	se
+C03033	rt	UGT2A1	reversible	hsa00040	se
+C03033	rt	UGT2B28	reversible	hsa00040	se
+C03033	rt	UGT1A10	reversible	hsa00040	se
+C03033	rt	UGT1A8	reversible	hsa00040	se
+C03033	rt	UGT1A7	reversible	hsa00040	se
+C03033	rt	UGT1A6	reversible	hsa00040	se
+C03033	rt	UGT1A5	reversible	hsa00040	se
+C03033	rt	UGT1A9	reversible	hsa00040	se
+C03033	rt	UGT1A4	reversible	hsa00040	se
+C03033	rt	UGT1A1	reversible	hsa00040	se
+C03033	rt	UGT1A3	reversible	hsa00040	se
+C03033	rt	UGT2A2	reversible	hsa00040	se
+C03033	rt	UGT2B4	reversible	hsa00040	se
+C03033	rt	UGT2B7	reversible	hsa00040	se
+C03033	rt	UGT2B10	reversible	hsa00040	se
+C03033	rt	UGT2B15	reversible	hsa00040	se
+C03033	rt	UGT2B17	reversible	hsa00040	se
+C03033	rt	UGT2A3	reversible	hsa00040	se
+C00029	rt	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	reversible	hsa00040	se
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	rt	C00029	reversible	hsa00040	ep
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	rt	C00167	reversible	hsa00040	ep
+C00167	rt	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	reversible	hsa00040	se
+C00181	rt	DHDH, 2DD, HUM2DD	irreversible	hsa00040	se
+DHDH, 2DD, HUM2DD	rt	C02266	irreversible	hsa00040	ep
+C00379	rt	SORD, HEL-S-95n, SORD1	reversible	hsa00040	se
+SORD, HEL-S-95n, SORD1	rt	C00379	reversible	hsa00040	ep
+SORD, HEL-S-95n, SORD1	rt	C00310	reversible	hsa00040	ep
+C00310	rt	SORD, HEL-S-95n, SORD1	reversible	hsa00040	se
+C00800	rt	AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	reversible	hsa00040	se
+AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	rt	C00800	reversible	hsa00040	ep
+AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	rt	C00191	reversible	hsa00040	ep
+C00191	rt	AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6	reversible	hsa00040	se
+C14899				hsa00040	
+C00817				hsa00040	
+C00905				hsa00040	
+C00514				hsa00040	
+C00558				hsa00040	
+C05385				hsa00040	
+C00022				hsa00040	
+C03826				hsa00040	
+C00502				hsa00040	
+C00309				hsa00040	
+C00474				hsa00040	
+C00476				hsa00040	
+C00508				hsa00040	
+C03291				hsa00040	
+C01508				hsa00040	
+C01101				hsa00040	
+C01904				hsa00040	
+C00714				hsa00040	
+C00470				hsa00040	
+C02273				hsa00040	
+C06118				hsa00040	
+C04053				hsa00040	
+C04349				hsa00040	
+C05411				hsa00040	
+C04575				hsa00040	
+C05412				hsa00040	
+C06441				hsa00040	
+C00266				hsa00040	
+C00111				hsa00040	
+C00204				hsa00040	
+C00116				hsa00040	
+C00333				hsa00040	
+C15930				hsa00040	
+C20680				hsa00040	
+C02426				hsa00040	
+C00433				hsa00040	
+C00026				hsa00040	

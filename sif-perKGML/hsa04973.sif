@@ -1,0 +1,89 @@
+TAS1R2, GPR71, T1R2, TR2	gr	TAS1R3, T1R3	group	hsa04973	group
+C00095	pc	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	c-g	hsa04973	activation
+C00095	pc	PIK3CB	c-g	hsa04973	activation
+C00095	pc	PIK3CD	c-g	hsa04973	activation
+C00095	pc	PIK3R1	c-g	hsa04973	activation
+C00095	pc	PIK3R2	c-g	hsa04973	activation
+C00095	pc	PIK3R3	c-g	hsa04973	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pc	C05981	g-c	hsa04973	activation
+PIK3CB	pc	C05981	g-c	hsa04973	activation
+PIK3CD	pc	C05981	g-c	hsa04973	activation
+PIK3R1	pc	C05981	g-c	hsa04973	activation
+PIK3R2	pc	C05981	g-c	hsa04973	activation
+PIK3R3	pc	C05981	g-c	hsa04973	activation
+C05981	pc	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	c-g	hsa04973	activation
+C05981	pc	AKT1	c-g	hsa04973	activation
+C05981	pc	AKT2	c-g	hsa04973	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	SLC2A5, GLUT-5, GLUT5	g-g	hsa04973	activation
+AKT1	pp	SLC2A5, GLUT-5, GLUT5	g-g	hsa04973	activation
+AKT2	pp	SLC2A5, GLUT-5, GLUT5	g-g	hsa04973	activation
+TAS1R2, GPR71, T1R2, TR2	pp	GNAT3, GDCA	gr-g	hsa04973	activation
+TAS1R3, T1R3	pp	GNAT3, GDCA	gr-g	hsa04973	activation
+GNAT3, GDCA	pp	PLCB2, PLC-beta-2	g-g	hsa04973	activation
+PLCB2, PLC-beta-2	pc	C00165	g-c	hsa04973	activation
+C00165	pc	PRKCB, PKC-beta, PKCB, PRKCB1, PRKCB2	c-g	hsa04973	activation
+PRKCB, PKC-beta, PKCB, PRKCB1, PRKCB2	pp	SLC2A2, GLUT2	g-g	hsa04973	activation
+SLC5A1, D22S675, NAGT, SGLT1				hsa04973	
+ATP1B4				hsa04973	
+ATP1A1				hsa04973	
+ATP1A2				hsa04973	
+ATP1A3				hsa04973	
+ATP1A4				hsa04973	
+ATP1B1				hsa04973	
+ATP1B2				hsa04973	
+ATP1B3				hsa04973	
+FXYD2				hsa04973	
+SLC37A4, G6PT1, G6PT2, G6PT3, GSD1b, GSD1c, GSD1d, PRO0685, TRG-19, TRG19				hsa04973	
+C00092				hsa04973	
+C00092				hsa04973	
+C00031				hsa04973	
+C00031				hsa04973	
+C00031				hsa04973	
+C01330				hsa04973	
+C00124				hsa04973	
+C00124				hsa04973	
+C00031				hsa04973	
+C01330				hsa04973	
+C00238				hsa04973	
+LCT, LAC, LPH, LPH1				hsa04973	
+SI				hsa04973	
+C00243				hsa04973	
+C00124				hsa04973	
+C00031				hsa04973	
+C00089				hsa04973	
+C00031				hsa04973	
+C02049				hsa04973	
+C01835				hsa04973	
+C00208				hsa04973	
+MGAM, MG, MGA				hsa04973	
+MGAM2				hsa04973	
+C00369				hsa04973	
+AMY1A, AMY1				hsa04973	
+AMY1B				hsa04973	
+AMY1C				hsa04973	
+AMY2A				hsa04973	
+AMY2B				hsa04973	
+C00031				hsa04973	
+CACNA1D, CACH3, CACN4, CACNL1A2, CCHL1A2, Cav13, PASNA, SANDD				hsa04973	
+C00076				hsa04973	
+C00076				hsa04973	
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, hexokinase				hsa04973	
+HK2				hsa04973	
+HK3				hsa04973	
+HKDC1				hsa04973	
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a				hsa04973	
+G6PC2				hsa04973	
+G6PC3				hsa04973	
+C12285				hsa04973	
+C12284				hsa04973	
+C00760				hsa04973	
+C00369				hsa04973	
+C00707				hsa04973	
+C01355				hsa04973	
+C00246				hsa04973	
+C00163				hsa04973	
+C00033				hsa04973	
+C00714				hsa04973	
+C08822				hsa04973	
+C00011				hsa04973	
+C00282				hsa04973	

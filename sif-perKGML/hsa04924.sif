@@ -1,0 +1,139 @@
+C00788	pc	ADRB1, ADRB1R, B1AR, BETA1AR, RHR	c-g	hsa04924	activation
+C00788	pc	ADRB2	c-g	hsa04924	activation
+C00788	pc	ADRB3	c-g	hsa04924	activation
+C00547	pc	ADRB1, ADRB1R, B1AR, BETA1AR, RHR	c-g	hsa04924	activation
+C00547	pc	ADRB2	c-g	hsa04924	activation
+C00547	pc	ADRB3	c-g	hsa04924	activation
+ADRB1, ADRB1R, B1AR, BETA1AR, RHR	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+ADRB2	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+ADRB3	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+ADCYAP1, PACAP	pp	ADCYAP1R1, PAC1, PAC1R, PACAPR, PACAPRI	g-g	hsa04924	activation
+ADCYAP1R1, PAC1, PAC1R, PACAPR, PACAPRI	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+C00584	pc	PTGER2, EP2	c-g	hsa04924	activation
+C00584	pc	PTGER4	c-g	hsa04924	activation
+PTGER2, EP2	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+PTGER4	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04924	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY5, AC5, FDFM	g-g	hsa04924	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04924	activation
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa04924	activation
+ADCY6	pc	C00575	g-c	hsa04924	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04924	activation
+C00575	pc	PRKACB	c-g	hsa04924	activation
+C00575	pc	PRKACG	c-g	hsa04924	activation
+PRKACA, PKACA, PPNAD4	pp	CREB1, CREB, CREB-1	g-g	hsa04924	activation
+PRKACB	pp	CREB1, CREB, CREB-1	g-g	hsa04924	activation
+PRKACG	pp	CREB1, CREB, CREB-1	g-g	hsa04924	activation
+C00212	pc	ADORA1, RDC7	c-g	hsa04924	activation
+ADORA1, RDC7	pp	GNAI1, Gi	g-g	hsa04924	activation
+ADORA1, RDC7	pp	GNAI2	g-g	hsa04924	activation
+ADORA1, RDC7	pp	GNAI3	g-g	hsa04924	activation
+C00076	pc	PDE1A, CAM-PDE_1A, CAM-PDE-1A, HCAM-1, HCAM1, HSPDE1A	c-g	hsa04924	activation
+C00076	pc	PDE1C	c-g	hsa04924	activation
+C00076	pc	PDE1B	c-g	hsa04924	activation
+EDNRA, ET-A, ETA, ETA-R, ETAR, ETRA, MFDA, hET-AR	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04924	activation
+AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	pc	C02135	g-c	hsa04924	activation
+AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04924	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04924	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa04924	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa04924	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa04924	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04924	activation
+PLCB2	pc	C01245	g-c	hsa04924	activation
+PLCB3	pc	C01245	g-c	hsa04924	activation
+PLCB4	pc	C01245	g-c	hsa04924	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04924	activation
+C01245	pc	ITPR2	c-g	hsa04924	activation
+C01245	pc	ITPR3	c-g	hsa04924	activation
+C00076	pc	CALML6, CAGLP	c-g	hsa04924	activation
+C00076	pc	CALML5	c-g	hsa04924	activation
+C00076	pc	CALM1	c-g	hsa04924	activation
+C00076	pc	CALM2	c-g	hsa04924	activation
+C00076	pc	CALM3	c-g	hsa04924	activation
+C00076	pc	CALML3	c-g	hsa04924	activation
+C00076	pc	CALML4	c-g	hsa04924	activation
+CALML6, CAGLP	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALML6, CAGLP	pp	PPP3CB	g-g	hsa04924	activation
+CALML6, CAGLP	pp	PPP3CC	g-g	hsa04924	activation
+CALML6, CAGLP	pp	PPP3R1	g-g	hsa04924	activation
+CALML6, CAGLP	pp	PPP3R2	g-g	hsa04924	activation
+CALML5	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALM1	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALM2	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALM3	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALML3	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALML4	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04924	activation
+CALML5	pp	PPP3CB	g-g	hsa04924	activation
+CALML5	pp	PPP3CC	g-g	hsa04924	activation
+CALML5	pp	PPP3R1	g-g	hsa04924	activation
+CALML5	pp	PPP3R2	g-g	hsa04924	activation
+CALM1	pp	PPP3CB	g-g	hsa04924	activation
+CALM1	pp	PPP3CC	g-g	hsa04924	activation
+CALM1	pp	PPP3R1	g-g	hsa04924	activation
+CALM1	pp	PPP3R2	g-g	hsa04924	activation
+CALM2	pp	PPP3CB	g-g	hsa04924	activation
+CALM2	pp	PPP3CC	g-g	hsa04924	activation
+CALM2	pp	PPP3R1	g-g	hsa04924	activation
+CALM2	pp	PPP3R2	g-g	hsa04924	activation
+CALM3	pp	PPP3CB	g-g	hsa04924	activation
+CALM3	pp	PPP3CC	g-g	hsa04924	activation
+CALM3	pp	PPP3R1	g-g	hsa04924	activation
+CALM3	pp	PPP3R2	g-g	hsa04924	activation
+CALML3	pp	PPP3CB	g-g	hsa04924	activation
+CALML3	pp	PPP3CC	g-g	hsa04924	activation
+CALML3	pp	PPP3R1	g-g	hsa04924	activation
+CALML3	pp	PPP3R2	g-g	hsa04924	activation
+CALML4	pp	PPP3CB	g-g	hsa04924	activation
+CALML4	pp	PPP3CC	g-g	hsa04924	activation
+CALML4	pp	PPP3R1	g-g	hsa04924	activation
+CALML4	pp	PPP3R2	g-g	hsa04924	activation
+C00533	pc	GUCY1A2, GC-SA2, GUC1A2	c-g	hsa04924	activation
+C00533	pc	GUCY1A1	c-g	hsa04924	activation
+C00533	pc	GUCY1B1	c-g	hsa04924	activation
+GUCY1A2, GC-SA2, GUC1A2	pc	C00942	g-c	hsa04924	activation
+GUCY1A1	pc	C00942	g-c	hsa04924	activation
+GUCY1B1	pc	C00942	g-c	hsa04924	activation
+NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA	pc	C00942	g-c	hsa04924	activation
+PRKACA, PKACA, PPNAD4	pp	KCNMA1, BKTM, CADEDS, KCa11, MaxiK, PNKD3, SAKCA, SLO, SLO-ALPHA, SLO1, bA205K101, hSlo, mSLO1	g-g	hsa04924	activation
+PRKACB	pp	KCNMA1, BKTM, CADEDS, KCa11, MaxiK, PNKD3, SAKCA, SLO, SLO-ALPHA, SLO1, bA205K101, hSlo, mSLO1	g-g	hsa04924	activation
+PRKACG	pp	KCNMA1, BKTM, CADEDS, KCa11, MaxiK, PNKD3, SAKCA, SLO, SLO-ALPHA, SLO1, bA205K101, hSlo, mSLO1	g-g	hsa04924	activation
+CREB1, CREB, CREB-1	pd	REN, HNFJ2	g-g	hsa04924	expression
+C00942	pc	PDE3A, CGI-PDE, CGI-PDE_A, CGI-PDE-A, HTNB	c-g	hsa04924	inhibition
+C00942	pc	PDE3B	c-g	hsa04924	inhibition
+C00076	pc	ADCY5, AC5, FDFM	c-g	hsa04924	inhibition
+C00076	pc	ADCY6	c-g	hsa04924	inhibition
+C00076	pc	ADCY5, AC5, FDFM	c-g	hsa04924	inhibition
+C00076	pc	ADCY6	c-g	hsa04924	inhibition
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa04924	inhibition
+GNAI1, Gi	pp	ADCY6	g-g	hsa04924	inhibition
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa04924	inhibition
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa04924	inhibition
+GNAI2	pp	ADCY6	g-g	hsa04924	inhibition
+GNAI3	pp	ADCY6	g-g	hsa04924	inhibition
+EDNRA, ET-A, ETA, ETA-R, ETAR, ETRA, MFDA, hET-AR	pp	KCNJ2, ATFB9, HHBIRK1, HHIRK1, IRK1, KIR21, LQT7, SQT3	g-g	hsa04924	inhibition
+AQP1, AQP-CHIP, CHIP28, CO	pp	PTGER2, EP2	g-g	hsa04924	activation
+AQP1, AQP-CHIP, CHIP28, CO	pp	PTGER4	g-g	hsa04924	activation
+EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME	pp	EDNRA, ET-A, ETA, ETA-R, ETAR, ETRA, MFDA, hET-AR	g-g	hsa04924	activation
+EDN2	pp	EDNRA, ET-A, ETA, ETA-R, ETAR, ETRA, MFDA, hET-AR	g-g	hsa04924	activation
+EDN3	pp	EDNRA, ET-A, ETA, ETA-R, ETAR, ETRA, MFDA, hET-AR	g-g	hsa04924	activation
+NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	pp	NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA	g-g	hsa04924	activation
+ORAI1, CRACM1, IMD9, ORAT1, TAM2, TMEM142A				hsa04924	
+PRKG2, PKG2, PRKGR2, cGK2, cGKII				hsa04924	
+C00020				hsa04924	
+CTSB, APPS, CPSB, RECEUP				hsa04924	
+AGT, ANHU, SERPINA8, hFLT1				hsa04924	
+C00873				hsa04924	
+ACE, ACE1, CD143, DCP, DCP1				hsa04924	
+C00002				hsa04924	
+C00008				hsa04924	
+C00020				hsa04924	
+C00238				hsa04924	
+CLCA1, CACC, CACC1, CLCRG1, CaCC-1, GOB5, hCLCA1, hCaCC-1				hsa04924	
+CLCA4				hsa04924	
+CLCA2				hsa04924	
+CACNA1C, CACH2, CACN2, CACNL1A1, CCHL1A1, CaV12, LQT8, TS				hsa04924	
+CACNA1D				hsa04924	
+CACNA1F				hsa04924	
+CACNA1S				hsa04924	
+C00238				hsa04924	
+C00698				hsa04924	
+C00001				hsa04924	

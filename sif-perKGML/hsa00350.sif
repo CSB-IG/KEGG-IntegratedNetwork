@@ -1,0 +1,535 @@
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00350	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH1A3	ec	MAOB	g-g	hsa00350	compound
+ALDH3B1	ec	MAOB	g-g	hsa00350	compound
+ALDH3B2	ec	MAOB	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC3	g-g	hsa00350	compound
+ALDH1A3	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3B1	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3B2	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH1A3	ec	AOC3	g-g	hsa00350	compound
+ALDH3B1	ec	AOC3	g-g	hsa00350	compound
+ALDH3B2	ec	AOC3	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	DDC, AADC	g-g	hsa00350	compound
+MAOB	ec	DDC, AADC	g-g	hsa00350	compound
+DDC, AADC	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+DDC, AADC	ec	AOC3	g-g	hsa00350	compound
+HGD, AKU, HGO	ec	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	g-g	hsa00350	compound
+GSTZ1, GSTZ1-1, MAAI, MAAID, MAI	ec	HGD, AKU, HGO	g-g	hsa00350	compound
+FAH	ec	GSTZ1, GSTZ1-1, MAAI, MAAID, MAI	g-g	hsa00350	compound
+MIF, GIF, GLIF, MMIF	ec	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	g-g	hsa00350	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	TAT	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	g-g	hsa00350	compound
+GOT2	ec	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	g-g	hsa00350	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+MIF, GIF, GLIF, MMIF	ec	TAT	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00350	compound
+GOT2	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00350	compound
+MIF, GIF, GLIF, MMIF	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+TH, DYT14, DYT5b, TYH	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00350	compound
+IL4I1, FIG1, LAAO, LAO	ec	DDC, AADC	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	GOT2	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+GOT2	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+GOT2	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+GOT2	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	DDC, AADC	g-g	hsa00350	compound
+GOT2	ec	DDC, AADC	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	TAT	g-g	hsa00350	compound
+TH, DYT14, DYT5b, TYH	ec	TAT	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	TAT	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	TAT	g-g	hsa00350	compound
+TAT	ec	DDC, AADC	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+TPO, MSA, TDH2A, TPX	ec	DDC, AADC	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+TH, DYT14, DYT5b, TYH	ec	DDC, AADC	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	DDC, AADC	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	DDC, AADC	g-g	hsa00350	compound
+DDC, AADC	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+DDC, AADC	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00350	compound
+DDC, AADC	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	DDC, AADC	g-g	hsa00350	compound
+LRTOMT	ec	DDC, AADC	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	DDC, AADC	g-g	hsa00350	compound
+MAOB	ec	DDC, AADC	g-g	hsa00350	compound
+DDC, AADC	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+DDC, AADC	ec	AOC3	g-g	hsa00350	compound
+DBH, DBM	ec	DDC, AADC	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	LRTOMT	g-g	hsa00350	compound
+MAOB	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOB	ec	LRTOMT	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	AOC3	g-g	hsa00350	compound
+LRTOMT	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+LRTOMT	ec	AOC3	g-g	hsa00350	compound
+DBH, DBM	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+DBH, DBM	ec	LRTOMT	g-g	hsa00350	compound
+DBH, DBM	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+DBH, DBM	ec	MAOB	g-g	hsa00350	compound
+DBH, DBM	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+DBH, DBM	ec	AOC3	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOB	g-g	hsa00350	compound
+LRTOMT	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+LRTOMT	ec	MAOB	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00350	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH1A3	ec	MAOB	g-g	hsa00350	compound
+ALDH3B1	ec	MAOB	g-g	hsa00350	compound
+ALDH3B2	ec	MAOB	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH1A3	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3B1	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3B2	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+LRTOMT	ec	ALDH1A3	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3B1	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3B2	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	LRTOMT	g-g	hsa00350	compound
+ALDH1A3	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3B1	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3B2	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH1A3	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3B1	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3B2	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00350	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH1A3	ec	MAOB	g-g	hsa00350	compound
+ALDH3B1	ec	MAOB	g-g	hsa00350	compound
+ALDH3B2	ec	MAOB	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC3	g-g	hsa00350	compound
+ALDH1A3	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3B1	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH3B2	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00350	compound
+ALDH1A3	ec	AOC3	g-g	hsa00350	compound
+ALDH3B1	ec	AOC3	g-g	hsa00350	compound
+ALDH3B2	ec	AOC3	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	DBH, DBM	g-g	hsa00350	compound
+LRTOMT	ec	DBH, DBM	g-g	hsa00350	compound
+PNMT, PENT, PNMTase	ec	DBH, DBM	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	DBH, DBM	g-g	hsa00350	compound
+MAOB	ec	DBH, DBM	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+LRTOMT	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	LRTOMT	g-g	hsa00350	compound
+MAOB	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOB	ec	LRTOMT	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+MAOB	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH1A3	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B1	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B2	g-g	hsa00350	compound
+MAOB	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+MAOB	ec	ALDH1A3	g-g	hsa00350	compound
+MAOB	ec	ALDH3B1	g-g	hsa00350	compound
+MAOB	ec	ALDH3B2	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH1A, ADH1	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH1B	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH1C	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH4	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH5	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH6	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ADH7	g-g	hsa00350	compound
+MAOB	ec	ADH1A, ADH1	g-g	hsa00350	compound
+MAOB	ec	ADH1B	g-g	hsa00350	compound
+MAOB	ec	ADH1C	g-g	hsa00350	compound
+MAOB	ec	ADH4	g-g	hsa00350	compound
+MAOB	ec	ADH5	g-g	hsa00350	compound
+MAOB	ec	ADH6	g-g	hsa00350	compound
+MAOB	ec	ADH7	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00350	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH1A3	ec	MAOB	g-g	hsa00350	compound
+ALDH3B1	ec	MAOB	g-g	hsa00350	compound
+ALDH3B2	ec	MAOB	g-g	hsa00350	compound
+ADH1A, ADH1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH1A, ADH1	ec	MAOB	g-g	hsa00350	compound
+ADH1B	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH1C	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH4	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH5	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH6	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH7	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ADH1B	ec	MAOB	g-g	hsa00350	compound
+ADH1C	ec	MAOB	g-g	hsa00350	compound
+ADH4	ec	MAOB	g-g	hsa00350	compound
+ADH5	ec	MAOB	g-g	hsa00350	compound
+ADH6	ec	MAOB	g-g	hsa00350	compound
+ADH7	ec	MAOB	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1A, ADH1	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1B	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1C	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH4	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH5	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH6	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH7	g-g	hsa00350	compound
+ALDH1A3	ec	ADH1A, ADH1	g-g	hsa00350	compound
+ALDH3B1	ec	ADH1A, ADH1	g-g	hsa00350	compound
+ALDH3B2	ec	ADH1A, ADH1	g-g	hsa00350	compound
+ALDH1A3	ec	ADH1B	g-g	hsa00350	compound
+ALDH1A3	ec	ADH1C	g-g	hsa00350	compound
+ALDH1A3	ec	ADH4	g-g	hsa00350	compound
+ALDH1A3	ec	ADH5	g-g	hsa00350	compound
+ALDH1A3	ec	ADH6	g-g	hsa00350	compound
+ALDH1A3	ec	ADH7	g-g	hsa00350	compound
+ALDH3B1	ec	ADH1B	g-g	hsa00350	compound
+ALDH3B1	ec	ADH1C	g-g	hsa00350	compound
+ALDH3B1	ec	ADH4	g-g	hsa00350	compound
+ALDH3B1	ec	ADH5	g-g	hsa00350	compound
+ALDH3B1	ec	ADH6	g-g	hsa00350	compound
+ALDH3B1	ec	ADH7	g-g	hsa00350	compound
+ALDH3B2	ec	ADH1B	g-g	hsa00350	compound
+ALDH3B2	ec	ADH1C	g-g	hsa00350	compound
+ALDH3B2	ec	ADH4	g-g	hsa00350	compound
+ALDH3B2	ec	ADH5	g-g	hsa00350	compound
+ALDH3B2	ec	ADH6	g-g	hsa00350	compound
+ALDH3B2	ec	ADH7	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH1A3	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3B1	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	ALDH3B2	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+LRTOMT	ec	ALDH1A3	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3B1	g-g	hsa00350	compound
+LRTOMT	ec	ALDH3B2	g-g	hsa00350	compound
+ADH1A, ADH1	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH1A, ADH1	ec	LRTOMT	g-g	hsa00350	compound
+ADH1B	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH1C	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH4	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH5	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH6	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH7	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ADH1B	ec	LRTOMT	g-g	hsa00350	compound
+ADH1C	ec	LRTOMT	g-g	hsa00350	compound
+ADH4	ec	LRTOMT	g-g	hsa00350	compound
+ADH5	ec	LRTOMT	g-g	hsa00350	compound
+ADH6	ec	LRTOMT	g-g	hsa00350	compound
+ADH7	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	LRTOMT	g-g	hsa00350	compound
+ALDH1A3	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3B1	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH3B2	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+ALDH1A3	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3B1	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3B2	ec	LRTOMT	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00350	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+ALDH1A3	ec	MAOB	g-g	hsa00350	compound
+ALDH3B1	ec	MAOB	g-g	hsa00350	compound
+ALDH3B2	ec	MAOB	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH1A3	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B1	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B2	g-g	hsa00350	compound
+MAOB	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00350	compound
+MAOB	ec	ALDH1A3	g-g	hsa00350	compound
+MAOB	ec	ALDH3B1	g-g	hsa00350	compound
+MAOB	ec	ALDH3B2	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOB	g-g	hsa00350	compound
+LRTOMT	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+LRTOMT	ec	MAOB	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOA, BRNRS, MAO-A	ec	LRTOMT	g-g	hsa00350	compound
+MAOB	ec	COMT, HEL-S-98n	g-g	hsa00350	compound
+MAOB	ec	LRTOMT	g-g	hsa00350	compound
+PNMT, PENT, PNMTase	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+PNMT, PENT, PNMTase	ec	MAOB	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+LRTOMT	ec	PNMT, PENT, PNMTase	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+COMT, HEL-S-98n	ec	MAOB	g-g	hsa00350	compound
+LRTOMT	ec	MAOA, BRNRS, MAO-A	g-g	hsa00350	compound
+LRTOMT	ec	MAOB	g-g	hsa00350	compound
+DCT, TRP-2, TYRP2	ec	TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN	g-g	hsa00350	compound
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+TH, DYT14, DYT5b, TYH	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+DDC, AADC	ec	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	g-g	hsa00350	compound
+FAH	ec	FAHD1, C16orf36, YISKL	g-g	hsa00350	compound
+C01693	rt	DCT, TRP-2, TYRP2	irreversible	hsa00350	se
+DCT, TRP-2, TYRP2	rt	C04185	irreversible	hsa00350	ep
+C05589	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C05589	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C05583	irreversible	hsa00350	ep
+MAOB	rt	C05583	irreversible	hsa00350	ep
+C05583	rt	ALDH3A1, ALDH3, ALDHIII	irreversible	hsa00350	se
+C05583	rt	ALDH1A3	irreversible	hsa00350	se
+C05583	rt	ALDH3B1	irreversible	hsa00350	se
+C05583	rt	ALDH3B2	irreversible	hsa00350	se
+ALDH3A1, ALDH3, ALDHIII	rt	C05584	irreversible	hsa00350	ep
+ALDH1A3	rt	C05584	irreversible	hsa00350	ep
+ALDH3B1	rt	C05584	irreversible	hsa00350	ep
+ALDH3B2	rt	C05584	irreversible	hsa00350	ep
+C00547	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C00547	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C05577	irreversible	hsa00350	ep
+MAOB	rt	C05577	irreversible	hsa00350	ep
+C00547	rt	COMT, HEL-S-98n	irreversible	hsa00350	se
+C00547	rt	LRTOMT	irreversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05589	irreversible	hsa00350	ep
+LRTOMT	rt	C05589	irreversible	hsa00350	ep
+C00788	rt	COMT, HEL-S-98n	irreversible	hsa00350	se
+C00788	rt	LRTOMT	irreversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05588	irreversible	hsa00350	ep
+LRTOMT	rt	C05588	irreversible	hsa00350	ep
+C05580	rt	COMT, HEL-S-98n	reversible	hsa00350	se
+C05580	rt	LRTOMT	reversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05580	reversible	hsa00350	ep
+LRTOMT	rt	C05580	reversible	hsa00350	ep
+COMT, HEL-S-98n	rt	C05584	reversible	hsa00350	ep
+LRTOMT	rt	C05584	reversible	hsa00350	ep
+C05584	rt	COMT, HEL-S-98n	reversible	hsa00350	se
+C05584	rt	LRTOMT	reversible	hsa00350	se
+C05577	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C05577	rt	ALDH1A3	reversible	hsa00350	se
+C05577	rt	ALDH3B1	reversible	hsa00350	se
+C05577	rt	ALDH3B2	reversible	hsa00350	se
+ALDH3A1, ALDH3, ALDHIII	rt	C05577	reversible	hsa00350	ep
+ALDH1A3	rt	C05577	reversible	hsa00350	ep
+ALDH3B1	rt	C05577	reversible	hsa00350	ep
+ALDH3B2	rt	C05577	reversible	hsa00350	ep
+ALDH3A1, ALDH3, ALDHIII	rt	C05580	reversible	hsa00350	ep
+ALDH1A3	rt	C05580	reversible	hsa00350	ep
+ALDH3B1	rt	C05580	reversible	hsa00350	ep
+ALDH3B2	rt	C05580	reversible	hsa00350	ep
+C05580	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C05580	rt	ALDH1A3	reversible	hsa00350	se
+C05580	rt	ALDH3B1	reversible	hsa00350	se
+C05580	rt	ALDH3B2	reversible	hsa00350	se
+C05576	rt	ADH1A, ADH1	reversible	hsa00350	se
+C05576	rt	ADH1B	reversible	hsa00350	se
+C05576	rt	ADH1C	reversible	hsa00350	se
+C05576	rt	ADH4	reversible	hsa00350	se
+C05576	rt	ADH5	reversible	hsa00350	se
+C05576	rt	ADH6	reversible	hsa00350	se
+C05576	rt	ADH7	reversible	hsa00350	se
+ADH1A, ADH1	rt	C05576	reversible	hsa00350	ep
+ADH1B	rt	C05576	reversible	hsa00350	ep
+ADH1C	rt	C05576	reversible	hsa00350	ep
+ADH4	rt	C05576	reversible	hsa00350	ep
+ADH5	rt	C05576	reversible	hsa00350	ep
+ADH6	rt	C05576	reversible	hsa00350	ep
+ADH7	rt	C05576	reversible	hsa00350	ep
+ADH1A, ADH1	rt	C05577	reversible	hsa00350	ep
+ADH1B	rt	C05577	reversible	hsa00350	ep
+ADH1C	rt	C05577	reversible	hsa00350	ep
+ADH4	rt	C05577	reversible	hsa00350	ep
+ADH5	rt	C05577	reversible	hsa00350	ep
+ADH6	rt	C05577	reversible	hsa00350	ep
+ADH7	rt	C05577	reversible	hsa00350	ep
+C05577	rt	ADH1A, ADH1	reversible	hsa00350	se
+C05577	rt	ADH1B	reversible	hsa00350	se
+C05577	rt	ADH1C	reversible	hsa00350	se
+C05577	rt	ADH4	reversible	hsa00350	se
+C05577	rt	ADH5	reversible	hsa00350	se
+C05577	rt	ADH6	reversible	hsa00350	se
+C05577	rt	ADH7	reversible	hsa00350	se
+C05576	rt	COMT, HEL-S-98n	irreversible	hsa00350	se
+C05576	rt	LRTOMT	irreversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05594	irreversible	hsa00350	ep
+LRTOMT	rt	C05594	irreversible	hsa00350	ep
+C05588	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C05588	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C05583	irreversible	hsa00350	ep
+MAOB	rt	C05583	irreversible	hsa00350	ep
+C00547	rt	PNMT, PENT, PNMTase	irreversible	hsa00350	se
+PNMT, PENT, PNMTase	rt	C00788	irreversible	hsa00350	ep
+C00788	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C00788	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C05577	irreversible	hsa00350	ep
+MAOB	rt	C05577	irreversible	hsa00350	ep
+C03758	rt	DBH, DBM	irreversible	hsa00350	se
+DBH, DBM	rt	C00547	irreversible	hsa00350	ep
+C04043	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C04043	rt	ALDH1A3	reversible	hsa00350	se
+C04043	rt	ALDH3B1	reversible	hsa00350	se
+C04043	rt	ALDH3B2	reversible	hsa00350	se
+ALDH3A1, ALDH3, ALDHIII	rt	C04043	reversible	hsa00350	ep
+ALDH1A3	rt	C04043	reversible	hsa00350	ep
+ALDH3B1	rt	C04043	reversible	hsa00350	ep
+ALDH3B2	rt	C04043	reversible	hsa00350	ep
+ALDH3A1, ALDH3, ALDHIII	rt	C01161	reversible	hsa00350	ep
+ALDH1A3	rt	C01161	reversible	hsa00350	ep
+ALDH3B1	rt	C01161	reversible	hsa00350	ep
+ALDH3B2	rt	C01161	reversible	hsa00350	ep
+C01161	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C01161	rt	ALDH1A3	reversible	hsa00350	se
+C01161	rt	ALDH3B1	reversible	hsa00350	se
+C01161	rt	ALDH3B2	reversible	hsa00350	se
+C01161	rt	COMT, HEL-S-98n	irreversible	hsa00350	se
+C01161	rt	LRTOMT	irreversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05582	irreversible	hsa00350	ep
+LRTOMT	rt	C05582	irreversible	hsa00350	ep
+C03758	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C03758	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C04043	irreversible	hsa00350	ep
+MAOB	rt	C04043	irreversible	hsa00350	ep
+C05581	rt	ALDH3A1, ALDH3, ALDHIII	irreversible	hsa00350	se
+C05581	rt	ALDH1A3	irreversible	hsa00350	se
+C05581	rt	ALDH3B1	irreversible	hsa00350	se
+C05581	rt	ALDH3B2	irreversible	hsa00350	se
+ALDH3A1, ALDH3, ALDHIII	rt	C05582	irreversible	hsa00350	ep
+ALDH1A3	rt	C05582	irreversible	hsa00350	ep
+ALDH3B1	rt	C05582	irreversible	hsa00350	ep
+ALDH3B2	rt	C05582	irreversible	hsa00350	ep
+C03758	rt	COMT, HEL-S-98n	irreversible	hsa00350	se
+C03758	rt	LRTOMT	irreversible	hsa00350	se
+COMT, HEL-S-98n	rt	C05587	irreversible	hsa00350	ep
+LRTOMT	rt	C05587	irreversible	hsa00350	ep
+C05587	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C05587	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C05581	irreversible	hsa00350	ep
+MAOB	rt	C05581	irreversible	hsa00350	ep
+C00355	rt	DDC, AADC	irreversible	hsa00350	se
+DDC, AADC	rt	C03758	irreversible	hsa00350	ep
+C01060	rt	TPO, MSA, TDH2A, TPX	irreversible	hsa00350	se
+TPO, MSA, TDH2A, TPX	rt	C02465	irreversible	hsa00350	ep
+C02515	rt	TPO, MSA, TDH2A, TPX	irreversible	hsa00350	se
+TPO, MSA, TDH2A, TPX	rt	C01060	irreversible	hsa00350	ep
+C00082	rt	TPO, MSA, TDH2A, TPX	irreversible	hsa00350	se
+TPO, MSA, TDH2A, TPX	rt	C02515	irreversible	hsa00350	ep
+C02514	rt	FAHD1, C16orf36, YISKL	irreversible	hsa00350	se
+FAHD1, C16orf36, YISKL	rt	C00122	irreversible	hsa00350	ep
+FAHD1, C16orf36, YISKL	rt	C00022	irreversible	hsa00350	ep
+C01061	rt	FAH	irreversible	hsa00350	se
+FAH	rt	C00122	irreversible	hsa00350	ep
+FAH	rt	C00164	irreversible	hsa00350	ep
+C01036	rt	GSTZ1, GSTZ1-1, MAAI, MAAID, MAI	irreversible	hsa00350	se
+GSTZ1, GSTZ1-1, MAAI, MAAID, MAI	rt	C01061	irreversible	hsa00350	ep
+C00544	rt	HGD, AKU, HGO	irreversible	hsa00350	se
+HGD, AKU, HGO	rt	C01036	irreversible	hsa00350	ep
+C00082	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00350	se
+C00082	rt	GOT2	reversible	hsa00350	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00082	reversible	hsa00350	ep
+GOT2	rt	C00082	reversible	hsa00350	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C01179	reversible	hsa00350	ep
+GOT2	rt	C01179	reversible	hsa00350	ep
+C01179	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00350	se
+C01179	rt	GOT2	reversible	hsa00350	se
+C01179	rt	MIF, GIF, GLIF, MMIF	reversible	hsa00350	se
+MIF, GIF, GLIF, MMIF	rt	C01179	reversible	hsa00350	ep
+MIF, GIF, GLIF, MMIF	rt	C05350	reversible	hsa00350	ep
+C05350	rt	MIF, GIF, GLIF, MMIF	reversible	hsa00350	se
+C01179	rt	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	irreversible	hsa00350	se
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	rt	C00544	irreversible	hsa00350	ep
+C03765	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C03765	rt	ALDH1A3	reversible	hsa00350	se
+C03765	rt	ALDH3B1	reversible	hsa00350	se
+C03765	rt	ALDH3B2	reversible	hsa00350	se
+ALDH3A1, ALDH3, ALDHIII	rt	C03765	reversible	hsa00350	ep
+ALDH1A3	rt	C03765	reversible	hsa00350	ep
+ALDH3B1	rt	C03765	reversible	hsa00350	ep
+ALDH3B2	rt	C03765	reversible	hsa00350	ep
+ALDH3A1, ALDH3, ALDHIII	rt	C00642	reversible	hsa00350	ep
+ALDH1A3	rt	C00642	reversible	hsa00350	ep
+ALDH3B1	rt	C00642	reversible	hsa00350	ep
+ALDH3B2	rt	C00642	reversible	hsa00350	ep
+C00642	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00350	se
+C00642	rt	ALDH1A3	reversible	hsa00350	se
+C00642	rt	ALDH3B1	reversible	hsa00350	se
+C00642	rt	ALDH3B2	reversible	hsa00350	se
+C00483	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00350	se
+C00483	rt	MAOB	irreversible	hsa00350	se
+MAOA, BRNRS, MAO-A	rt	C03765	irreversible	hsa00350	ep
+MAOB	rt	C03765	irreversible	hsa00350	ep
+C05578	rt	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	irreversible	hsa00350	se
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	rt	C05579	irreversible	hsa00350	ep
+C00082	rt	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	irreversible	hsa00350	se
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	rt	C00822	irreversible	hsa00350	ep
+C01060	rt	TPO, MSA, TDH2A, TPX	irreversible	hsa00350	se
+TPO, MSA, TDH2A, TPX	rt	C01829	irreversible	hsa00350	ep
+C00082	rt	TH, DYT14, DYT5b, TYH	irreversible	hsa00350	se
+TH, DYT14, DYT5b, TYH	rt	C00355	irreversible	hsa00350	ep
+C00082	rt	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	irreversible	hsa00350	se
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	rt	C00355	irreversible	hsa00350	ep
+C00082	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00350	se
+IL4I1, FIG1, LAAO, LAO	rt	C01179	irreversible	hsa00350	ep
+C00082	rt	TAT	reversible	hsa00350	se
+TAT	rt	C00082	reversible	hsa00350	ep
+TAT	rt	C01179	reversible	hsa00350	ep
+C01179	rt	TAT	reversible	hsa00350	se
+C00082	rt	DDC, AADC	irreversible	hsa00350	se
+DDC, AADC	rt	C00483	irreversible	hsa00350	ep
+C00483	rt	AOC2, DAO2, RAO, SSAO	irreversible	hsa00350	se
+C00483	rt	AOC3	irreversible	hsa00350	se
+AOC2, DAO2, RAO, SSAO	rt	C03765	irreversible	hsa00350	ep
+AOC3	rt	C03765	irreversible	hsa00350	ep
+C05585	rt	AOX1, AO, AOH1	irreversible	hsa00350	se
+AOX1, AO, AOH1	rt	C00628	irreversible	hsa00350	ep
+C03758	rt	AOC2, DAO2, RAO, SSAO	irreversible	hsa00350	se
+C03758	rt	AOC3	irreversible	hsa00350	se
+AOC2, DAO2, RAO, SSAO	rt	C04043	irreversible	hsa00350	ep
+AOC3	rt	C04043	irreversible	hsa00350	ep
+C00355	rt	TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	irreversible	hsa00350	se
+TYR, ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	rt	C00822	irreversible	hsa00350	ep
+C04185	rt	TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN	irreversible	hsa00350	se
+TYRP1, CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN	rt	C17938	irreversible	hsa00350	ep
+C06044				hsa00350	
+C06046				hsa00350	
+C04186				hsa00350	
+C04642				hsa00350	
+C04052				hsa00350	
+C05600				hsa00350	
+C00232				hsa00350	
+C00042				hsa00350	
+C05596				hsa00350	
+C05595				hsa00350	
+C05338				hsa00350	
+C00530				hsa00350	
+C02167				hsa00350	
+C03964				hsa00350	
+C00146				hsa00350	
+C04368				hsa00350	
+C02442				hsa00350	
+C03077				hsa00350	
+C03063				hsa00350	
+C06201				hsa00350	
+C06199				hsa00350	
+C05593				hsa00350	
+C05604				hsa00350	
+C04045				hsa00350	
+C22038				hsa00350	
+C04797				hsa00350	
+C01850				hsa00350	
+C04796				hsa00350	
+C06047				hsa00350	
+C06048				hsa00350	
+C17937				hsa00350	
+C17935				hsa00350	
+C17936				hsa00350	
+C10447				hsa00350	
+C00811				hsa00350	
+C01384				hsa00350	

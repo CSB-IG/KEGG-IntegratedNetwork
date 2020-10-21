@@ -1,0 +1,109 @@
+VDR, NR1I1, PPP1R163	pd	SLC34A2, NAPI-3B, NAPI-IIb, NPTIIb	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	TRPV6, ABP/ZF, CAT1, CATL, ECAC2, HSA277909, LP6728, ZFAB	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	S100G, CABP, CABP1, CABP9K, CALB3	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	ATP2B1, PMCA1, PMCA1kb	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A1, NCX1	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A2	g-g	hsa04978	expression
+VDR, NR1I1, PPP1R163	pd	SLC8A3	g-g	hsa04978	expression
+C01673	pc	VDR, NR1I1, PPP1R163	c-g	hsa04978	binding/association
+C00070	pc	MT1A, MT1, MT1S, MTC	c-g	hsa04978	binding/association
+C00070	pc	MT1B	c-g	hsa04978	binding/association
+C00070	pc	MT1E	c-g	hsa04978	binding/association
+C00070	pc	MT1F	c-g	hsa04978	binding/association
+C00070	pc	MT1G	c-g	hsa04978	binding/association
+C00070	pc	MT1H	c-g	hsa04978	binding/association
+C00070	pc	MT1M	c-g	hsa04978	binding/association
+C00070	pc	MT1X	c-g	hsa04978	binding/association
+C00070	pc	MT2A	c-g	hsa04978	binding/association
+C00070	pc	MT1HL1	c-g	hsa04978	binding/association
+MT1A, MT1, MT1S, MTC	pc	C00038	g-c	hsa04978	binding/association
+MT1B	pc	C00038	g-c	hsa04978	binding/association
+MT1E	pc	C00038	g-c	hsa04978	binding/association
+MT1F	pc	C00038	g-c	hsa04978	binding/association
+MT1G	pc	C00038	g-c	hsa04978	binding/association
+MT1H	pc	C00038	g-c	hsa04978	binding/association
+MT1M	pc	C00038	g-c	hsa04978	binding/association
+MT1X	pc	C00038	g-c	hsa04978	binding/association
+MT2A	pc	C00038	g-c	hsa04978	binding/association
+MT1HL1	pc	C00038	g-c	hsa04978	binding/association
+C00070	pc	ATOX1, ATX1, HAH1	c-g	hsa04978	binding/association
+C00076	pc	S100G, CABP, CABP1, CABP9K, CALB3	c-g	hsa04978	binding/association
+C00076	pc	S100G, CABP, CABP1, CABP9K, CALB3	c-g	hsa04978	binding/association
+S100G, CABP, CABP1, CABP9K, CALB3	pc	C00076	g-c	hsa04978	dissociation
+C14819	pc	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	c-g	hsa04978	binding/association
+SLC40A1, FPN1, HFE4, IREG1, MST079, MSTP079, MTP1, SLC11A3	pc	HEPH, CPL	g-g	hsa04978	binding/association
+C01330				hsa04978	
+C00009				hsa04978	
+SLC46A1, G21, HCP1, PCFT				hsa04978	
+CYBRD1, CYB561A2, DCYTB, FRRS3				hsa04978	
+SLC11A2, AHMIO1, DCT1, DMT1, NRAMP2				hsa04978	
+C00032				hsa04978	
+C14818				hsa04978	
+C14818				hsa04978	
+FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF				hsa04978	
+FTL				hsa04978	
+C14818				hsa04978	
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10				hsa04978	
+HMOX2				hsa04978	
+SLC39A4, AEZ, AWMS2, ZIP4				hsa04978	
+SLC31A1, COPT1, CTR1				hsa04978	
+SLC30A1, ZNT1, ZRC1				hsa04978	
+ATP7A, DSMAX, MK, MNK, SMAX3				hsa04978	
+STEAP2, IPCA1, PCANAP1, PUMPCn, STAMP1, STMP				hsa04978	
+STEAP1				hsa04978	
+SLC26A6				hsa04978	
+SLC9A3, DIAR8, NHE-3, NHE3				hsa04978	
+ATP1B4				hsa04978	
+ATP1A1				hsa04978	
+ATP1A2				hsa04978	
+ATP1A3				hsa04978	
+ATP1A4				hsa04978	
+ATP1B1				hsa04978	
+ATP1B2				hsa04978	
+ATP1B3				hsa04978	
+FXYD2				hsa04978	
+C01330				hsa04978	
+C00080				hsa04978	
+C00698				hsa04978	
+C00288				hsa04978	
+SLC26A3, CLD, DRA				hsa04978	
+C00698				hsa04978	
+C00288				hsa04978	
+C01330				hsa04978	
+C00238				hsa04978	
+C00238				hsa04978	
+C14818				hsa04978	
+SLC5A1, D22S675, NAGT, SGLT1				hsa04978	
+SLC6A19, B0AT1, HND				hsa04978	
+C01330				hsa04978	
+C00124				hsa04978	
+C00031				hsa04978	
+C00037				hsa04978	
+C00041				hsa04978	
+C00183				hsa04978	
+C00123				hsa04978	
+C00073				hsa04978	
+C00407				hsa04978	
+C00148				hsa04978	
+C00079				hsa04978	
+C00078				hsa04978	
+C00065				hsa04978	
+C00188				hsa04978	
+C00152				hsa04978	
+C00064				hsa04978	
+C01330				hsa04978	
+C14818				hsa04978	
+TRPM6, CHAK2, HMGX, HOMG, HOMG1, HSH				hsa04978	
+TRPM7				hsa04978	
+C00305				hsa04978	
+C00305				hsa04978	
+C01330				hsa04978	
+C00009				hsa04978	
+C01330				hsa04978	
+SLC26A9				hsa04978	
+C00305				hsa04978	
+CLCN2, CIC-2, CLC2, ECA2, ECA3, EGI11, EGI3, EGMA, EJM6, EJM8, LKPAT, clC-2				hsa04978	
+C00698				hsa04978	
+C00698				hsa04978	
+C00288				hsa04978	
+C00009				hsa04978	

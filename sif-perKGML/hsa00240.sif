@@ -1,0 +1,1587 @@
+CAD, CDG1Z, EIEE50, GATD4	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00240	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00240	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	DHODH, DHOdehase, POADS, URA1	g-g	hsa00240	compound
+UMPS, OPRT	ec	DHODH, DHOdehase, POADS, URA1	g-g	hsa00240	compound
+UMPS, OPRT	ec	UMPS, OPRT	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	UMPS, OPRT	g-g	hsa00240	compound
+UCK2	ec	UMPS, OPRT	g-g	hsa00240	compound
+UCK1	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C3B	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C2	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5E	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C3A	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5M	ec	UMPS, OPRT	g-g	hsa00240	compound
+NT5C1A	ec	UMPS, OPRT	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UMPS, OPRT	g-g	hsa00240	compound
+UMPS, OPRT	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UMPS, OPRT	ec	ENPP3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UMPS, OPRT	g-g	hsa00240	compound
+ENTPD1	ec	UMPS, OPRT	g-g	hsa00240	compound
+ENTPD3	ec	UMPS, OPRT	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	UMPS, OPRT	g-g	hsa00240	compound
+ENTPD6	ec	UMPS, OPRT	g-g	hsa00240	compound
+ENTPD5	ec	UMPS, OPRT	g-g	hsa00240	compound
+ENTPD4	ec	UMPS, OPRT	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UMPS, OPRT	g-g	hsa00240	compound
+CMPK1	ec	UMPS, OPRT	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UCK2	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UCK1	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	ENPP3	g-g	hsa00240	compound
+UCK2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCK1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCK2	ec	ENPP3	g-g	hsa00240	compound
+UCK1	ec	ENPP3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCK2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCK1	g-g	hsa00240	compound
+ENTPD1	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD3	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD1	ec	UCK2	g-g	hsa00240	compound
+ENTPD1	ec	UCK1	g-g	hsa00240	compound
+ENTPD3	ec	UCK2	g-g	hsa00240	compound
+ENTPD3	ec	UCK1	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	UCK2	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	UCK1	g-g	hsa00240	compound
+ENTPD6	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD5	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD4	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD6	ec	UCK2	g-g	hsa00240	compound
+ENTPD6	ec	UCK1	g-g	hsa00240	compound
+ENTPD5	ec	UCK2	g-g	hsa00240	compound
+ENTPD5	ec	UCK1	g-g	hsa00240	compound
+ENTPD4	ec	UCK2	g-g	hsa00240	compound
+ENTPD4	ec	UCK1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCK2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCK1	g-g	hsa00240	compound
+CMPK1	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+CMPK1	ec	UCK2	g-g	hsa00240	compound
+CMPK1	ec	UCK1	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C3B	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C2	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5E	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C3A	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5M	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	NT5C1A	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	ENPP3	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C3B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5E	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C3A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5M	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C1A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	ENPP3	g-g	hsa00240	compound
+NT5C3B	ec	ENPP3	g-g	hsa00240	compound
+NT5C2	ec	ENPP3	g-g	hsa00240	compound
+NT5C	ec	ENPP3	g-g	hsa00240	compound
+NT5E	ec	ENPP3	g-g	hsa00240	compound
+NT5C3A	ec	ENPP3	g-g	hsa00240	compound
+NT5M	ec	ENPP3	g-g	hsa00240	compound
+NT5C1A	ec	ENPP3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5E	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5M	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C2	g-g	hsa00240	compound
+ENTPD1	ec	NT5C	g-g	hsa00240	compound
+ENTPD1	ec	NT5E	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD1	ec	NT5M	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C2	g-g	hsa00240	compound
+ENTPD3	ec	NT5C	g-g	hsa00240	compound
+ENTPD3	ec	NT5E	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD3	ec	NT5M	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1A	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C3B	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C2	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5E	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C3A	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5M	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD6	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD5	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD4	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD6	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD6	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD6	ec	NT5C2	g-g	hsa00240	compound
+ENTPD6	ec	NT5C	g-g	hsa00240	compound
+ENTPD6	ec	NT5E	g-g	hsa00240	compound
+ENTPD6	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD6	ec	NT5M	g-g	hsa00240	compound
+ENTPD6	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD5	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD5	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD5	ec	NT5C2	g-g	hsa00240	compound
+ENTPD5	ec	NT5C	g-g	hsa00240	compound
+ENTPD5	ec	NT5E	g-g	hsa00240	compound
+ENTPD5	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD5	ec	NT5M	g-g	hsa00240	compound
+ENTPD5	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD4	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD4	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD4	ec	NT5C2	g-g	hsa00240	compound
+ENTPD4	ec	NT5C	g-g	hsa00240	compound
+ENTPD4	ec	NT5E	g-g	hsa00240	compound
+ENTPD4	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD4	ec	NT5M	g-g	hsa00240	compound
+ENTPD4	ec	NT5C1A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5E	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5M	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1A	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK1	ec	NT5C3B	g-g	hsa00240	compound
+CMPK1	ec	NT5C2	g-g	hsa00240	compound
+CMPK1	ec	NT5C	g-g	hsa00240	compound
+CMPK1	ec	NT5E	g-g	hsa00240	compound
+CMPK1	ec	NT5C3A	g-g	hsa00240	compound
+CMPK1	ec	NT5M	g-g	hsa00240	compound
+CMPK1	ec	NT5C1A	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	ENPP3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD1	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD3	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD6	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD5	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD4	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+CMPK1	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENPP3	g-g	hsa00240	compound
+ENTPD1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD3	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD1	ec	ENPP3	g-g	hsa00240	compound
+ENTPD3	ec	ENPP3	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	ec	ENPP3	g-g	hsa00240	compound
+ENTPD6	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD5	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD4	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD6	ec	ENPP3	g-g	hsa00240	compound
+ENTPD5	ec	ENPP3	g-g	hsa00240	compound
+ENTPD4	ec	ENPP3	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	ENPP3	g-g	hsa00240	compound
+CMPK1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+CMPK1	ec	ENPP3	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	ENTPD1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	ENTPD3	g-g	hsa00240	compound
+CMPK1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CMPK1	ec	ENTPD1	g-g	hsa00240	compound
+CMPK1	ec	ENTPD3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK1	g-g	hsa00240	compound
+AK9	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME7	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME3	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME4	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+AK9	ec	CMPK1	g-g	hsa00240	compound
+NME7	ec	CMPK1	g-g	hsa00240	compound
+NME1	ec	CMPK1	g-g	hsa00240	compound
+NME2	ec	CMPK1	g-g	hsa00240	compound
+NME3	ec	CMPK1	g-g	hsa00240	compound
+NME4	ec	CMPK1	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD6	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD5	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD4	g-g	hsa00240	compound
+ENTPD1	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+ENTPD3	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD6	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD5	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD4	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD6	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD5	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD4	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD6	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD5	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD4	g-g	hsa00240	compound
+AK9	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME7	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME1	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME2	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME3	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME4	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+NME1-NME2	ec	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	g-g	hsa00240	compound
+AK9	ec	ENTPD6	g-g	hsa00240	compound
+AK9	ec	ENTPD5	g-g	hsa00240	compound
+AK9	ec	ENTPD4	g-g	hsa00240	compound
+NME7	ec	ENTPD6	g-g	hsa00240	compound
+NME7	ec	ENTPD5	g-g	hsa00240	compound
+NME7	ec	ENTPD4	g-g	hsa00240	compound
+NME1	ec	ENTPD6	g-g	hsa00240	compound
+NME1	ec	ENTPD5	g-g	hsa00240	compound
+NME1	ec	ENTPD4	g-g	hsa00240	compound
+NME2	ec	ENTPD6	g-g	hsa00240	compound
+NME2	ec	ENTPD5	g-g	hsa00240	compound
+NME2	ec	ENTPD4	g-g	hsa00240	compound
+NME3	ec	ENTPD6	g-g	hsa00240	compound
+NME3	ec	ENTPD5	g-g	hsa00240	compound
+NME3	ec	ENTPD4	g-g	hsa00240	compound
+NME4	ec	ENTPD6	g-g	hsa00240	compound
+NME4	ec	ENTPD5	g-g	hsa00240	compound
+NME4	ec	ENTPD4	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD6	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD5	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD4	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD3	g-g	hsa00240	compound
+AK9	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME7	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME4	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+AK9	ec	ENTPD1	g-g	hsa00240	compound
+AK9	ec	ENTPD3	g-g	hsa00240	compound
+NME7	ec	ENTPD1	g-g	hsa00240	compound
+NME7	ec	ENTPD3	g-g	hsa00240	compound
+NME1	ec	ENTPD1	g-g	hsa00240	compound
+NME1	ec	ENTPD3	g-g	hsa00240	compound
+NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME2	ec	ENTPD3	g-g	hsa00240	compound
+NME3	ec	ENTPD1	g-g	hsa00240	compound
+NME3	ec	ENTPD3	g-g	hsa00240	compound
+NME4	ec	ENTPD1	g-g	hsa00240	compound
+NME4	ec	ENTPD3	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	NUDT2, APAH1	g-g	hsa00240	compound
+AK9	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME7	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME1	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME2	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME3	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME4	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME1-NME2	ec	NUDT2, APAH1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NUDT2, APAH1	g-g	hsa00240	compound
+ENTPD1	ec	NUDT2, APAH1	g-g	hsa00240	compound
+ENTPD3	ec	NUDT2, APAH1	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NUDT2, APAH1	g-g	hsa00240	compound
+ENPP3	ec	NUDT2, APAH1	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NUDT2, APAH1	g-g	hsa00240	compound
+CTPS2	ec	NUDT2, APAH1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENPP3	g-g	hsa00240	compound
+AK9	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME7	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME3	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME4	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME1-NME2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+AK9	ec	ENPP3	g-g	hsa00240	compound
+NME7	ec	ENPP3	g-g	hsa00240	compound
+NME1	ec	ENPP3	g-g	hsa00240	compound
+NME2	ec	ENPP3	g-g	hsa00240	compound
+NME3	ec	ENPP3	g-g	hsa00240	compound
+NME4	ec	ENPP3	g-g	hsa00240	compound
+NME1-NME2	ec	ENPP3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CTPS2	g-g	hsa00240	compound
+AK9	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME7	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME1	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME2	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME3	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME4	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+NME1-NME2	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+AK9	ec	CTPS2	g-g	hsa00240	compound
+NME7	ec	CTPS2	g-g	hsa00240	compound
+NME1	ec	CTPS2	g-g	hsa00240	compound
+NME2	ec	CTPS2	g-g	hsa00240	compound
+NME3	ec	CTPS2	g-g	hsa00240	compound
+NME4	ec	CTPS2	g-g	hsa00240	compound
+NME1-NME2	ec	CTPS2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENPP3	g-g	hsa00240	compound
+ENTPD1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD3	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+ENTPD1	ec	ENPP3	g-g	hsa00240	compound
+ENTPD3	ec	ENPP3	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD1	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD3	g-g	hsa00240	compound
+CTPS2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CTPS2	ec	ENTPD1	g-g	hsa00240	compound
+CTPS2	ec	ENTPD3	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENPP3	g-g	hsa00240	compound
+CTPS2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+CTPS2	ec	ENPP3	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD1	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	ENTPD3	g-g	hsa00240	compound
+CTPS2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+CTPS2	ec	ENTPD1	g-g	hsa00240	compound
+CTPS2	ec	ENTPD3	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	AK9	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME7	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME1	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME2	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME3	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME4	g-g	hsa00240	compound
+CTPS1, CTPS, GATD5, IMD24	ec	NME1-NME2	g-g	hsa00240	compound
+CTPS2	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00240	compound
+CTPS2	ec	AK9	g-g	hsa00240	compound
+CTPS2	ec	NME7	g-g	hsa00240	compound
+CTPS2	ec	NME1	g-g	hsa00240	compound
+CTPS2	ec	NME2	g-g	hsa00240	compound
+CTPS2	ec	NME3	g-g	hsa00240	compound
+CTPS2	ec	NME4	g-g	hsa00240	compound
+CTPS2	ec	NME1-NME2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM2	g-g	hsa00240	compound
+ENTPD1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD1	ec	RRM1	g-g	hsa00240	compound
+ENTPD1	ec	RRM2	g-g	hsa00240	compound
+ENTPD3	ec	RRM1	g-g	hsa00240	compound
+ENTPD3	ec	RRM2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	CMPK1	g-g	hsa00240	compound
+ENTPD1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+ENTPD3	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+ENTPD1	ec	CMPK1	g-g	hsa00240	compound
+ENTPD3	ec	CMPK1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2	g-g	hsa00240	compound
+AK9	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME7	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME4	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+AK9	ec	RRM1	g-g	hsa00240	compound
+AK9	ec	RRM2	g-g	hsa00240	compound
+NME7	ec	RRM1	g-g	hsa00240	compound
+NME7	ec	RRM2	g-g	hsa00240	compound
+NME1	ec	RRM1	g-g	hsa00240	compound
+NME1	ec	RRM2	g-g	hsa00240	compound
+NME2	ec	RRM1	g-g	hsa00240	compound
+NME2	ec	RRM2	g-g	hsa00240	compound
+NME3	ec	RRM1	g-g	hsa00240	compound
+NME3	ec	RRM2	g-g	hsa00240	compound
+NME4	ec	RRM1	g-g	hsa00240	compound
+NME4	ec	RRM2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM1	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD3	g-g	hsa00240	compound
+AK9	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME7	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME4	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+AK9	ec	ENTPD1	g-g	hsa00240	compound
+AK9	ec	ENTPD3	g-g	hsa00240	compound
+NME7	ec	ENTPD1	g-g	hsa00240	compound
+NME7	ec	ENTPD3	g-g	hsa00240	compound
+NME1	ec	ENTPD1	g-g	hsa00240	compound
+NME1	ec	ENTPD3	g-g	hsa00240	compound
+NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME2	ec	ENTPD3	g-g	hsa00240	compound
+NME3	ec	ENTPD1	g-g	hsa00240	compound
+NME3	ec	ENTPD3	g-g	hsa00240	compound
+NME4	ec	ENTPD1	g-g	hsa00240	compound
+NME4	ec	ENTPD3	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK1	g-g	hsa00240	compound
+AK9	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME7	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME3	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME4	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+AK9	ec	CMPK1	g-g	hsa00240	compound
+NME7	ec	CMPK1	g-g	hsa00240	compound
+NME1	ec	CMPK1	g-g	hsa00240	compound
+NME2	ec	CMPK1	g-g	hsa00240	compound
+NME3	ec	CMPK1	g-g	hsa00240	compound
+NME4	ec	CMPK1	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	RRM2	g-g	hsa00240	compound
+ENTPD1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+ENTPD1	ec	RRM1	g-g	hsa00240	compound
+ENTPD1	ec	RRM2	g-g	hsa00240	compound
+ENTPD3	ec	RRM1	g-g	hsa00240	compound
+ENTPD3	ec	RRM2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	RRM1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	RRM2	g-g	hsa00240	compound
+CMPK1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+CMPK1	ec	RRM1	g-g	hsa00240	compound
+CMPK1	ec	RRM2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5E	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5M	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1A	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK1	ec	NT5C3B	g-g	hsa00240	compound
+CMPK1	ec	NT5C2	g-g	hsa00240	compound
+CMPK1	ec	NT5C	g-g	hsa00240	compound
+CMPK1	ec	NT5E	g-g	hsa00240	compound
+CMPK1	ec	NT5C3A	g-g	hsa00240	compound
+CMPK1	ec	NT5M	g-g	hsa00240	compound
+CMPK1	ec	NT5C1A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCK2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	UCK1	g-g	hsa00240	compound
+CMPK1	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+CMPK1	ec	UCK2	g-g	hsa00240	compound
+CMPK1	ec	UCK1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5E	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5M	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C2	g-g	hsa00240	compound
+ENTPD1	ec	NT5C	g-g	hsa00240	compound
+ENTPD1	ec	NT5E	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD1	ec	NT5M	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C2	g-g	hsa00240	compound
+ENTPD3	ec	NT5C	g-g	hsa00240	compound
+ENTPD3	ec	NT5E	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD3	ec	NT5M	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCK2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	UCK1	g-g	hsa00240	compound
+ENTPD1	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD3	ec	UCKL1, UCK1L, URKL1	g-g	hsa00240	compound
+ENTPD1	ec	UCK2	g-g	hsa00240	compound
+ENTPD1	ec	UCK1	g-g	hsa00240	compound
+ENTPD3	ec	UCK2	g-g	hsa00240	compound
+ENTPD3	ec	UCK1	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	CDA, CDD	g-g	hsa00240	compound
+UCK2	ec	CDA, CDD	g-g	hsa00240	compound
+UCK1	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C2	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C	ec	CDA, CDD	g-g	hsa00240	compound
+NT5E	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3A	ec	CDA, CDD	g-g	hsa00240	compound
+NT5M	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1A	ec	CDA, CDD	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	UPP1	g-g	hsa00240	compound
+UCK2	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+UCK1	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+UCK2	ec	UPP1	g-g	hsa00240	compound
+UCK1	ec	UPP1	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	CDA, CDD	g-g	hsa00240	compound
+UCK2	ec	CDA, CDD	g-g	hsa00240	compound
+UCK1	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	UPP1	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C3B	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C2	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5E	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C3A	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5M	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1A	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	UPP1	g-g	hsa00240	compound
+NT5C3B	ec	UPP1	g-g	hsa00240	compound
+NT5C2	ec	UPP1	g-g	hsa00240	compound
+NT5C	ec	UPP1	g-g	hsa00240	compound
+NT5E	ec	UPP1	g-g	hsa00240	compound
+NT5C3A	ec	UPP1	g-g	hsa00240	compound
+NT5M	ec	UPP1	g-g	hsa00240	compound
+NT5C1A	ec	UPP1	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C2	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C	ec	CDA, CDD	g-g	hsa00240	compound
+NT5E	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3A	ec	CDA, CDD	g-g	hsa00240	compound
+NT5M	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1A	ec	CDA, CDD	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	CDA, CDD	g-g	hsa00240	compound
+UPP1	ec	CDA, CDD	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	UPP1	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+UPP1	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+UPP1	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+UPP1	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+UPRT, FUR1, UPP	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+DPYD, DHP, DHPDHASE, DPD	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+DPYD, DHP, DHPDHASE, DPD	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+DPYD, DHP, DHPDHASE, DPD	ec	DPYS, DHP, DHPase	g-g	hsa00240	compound
+DPYS, DHP, DHPase	ec	UPB1, BUP1	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+DCTD	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C3B	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5E	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C3A	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5M	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NT5C1A	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+DCK	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CMPK1	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	DCTD	g-g	hsa00240	compound
+CMPK1	ec	DCTD	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3B	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C2	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5E	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C3A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5M	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	NT5C1A	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+CMPK1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+CMPK1	ec	NT5C3B	g-g	hsa00240	compound
+CMPK1	ec	NT5C2	g-g	hsa00240	compound
+CMPK1	ec	NT5C	g-g	hsa00240	compound
+CMPK1	ec	NT5E	g-g	hsa00240	compound
+CMPK1	ec	NT5C3A	g-g	hsa00240	compound
+CMPK1	ec	NT5M	g-g	hsa00240	compound
+CMPK1	ec	NT5C1A	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	DCK	g-g	hsa00240	compound
+CMPK1	ec	DCK	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	DCTD	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C3B	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C2	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5E	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C3A	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5M	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	NT5C1A	g-g	hsa00240	compound
+DCTPP1, CDA03, RS21C6, XTP3TPA	ec	DCK	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	DCTD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	DCTD	g-g	hsa00240	compound
+NT5C3B	ec	DCTD	g-g	hsa00240	compound
+NT5C2	ec	DCTD	g-g	hsa00240	compound
+NT5C	ec	DCTD	g-g	hsa00240	compound
+NT5E	ec	DCTD	g-g	hsa00240	compound
+NT5C3A	ec	DCTD	g-g	hsa00240	compound
+NT5M	ec	DCTD	g-g	hsa00240	compound
+NT5C1A	ec	DCTD	g-g	hsa00240	compound
+DCK	ec	DCTD	g-g	hsa00240	compound
+DCK	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C2	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C	ec	CDA, CDD	g-g	hsa00240	compound
+NT5E	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3A	ec	CDA, CDD	g-g	hsa00240	compound
+NT5M	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1A	ec	CDA, CDD	g-g	hsa00240	compound
+TK1, TK2	ec	CDA, CDD	g-g	hsa00240	compound
+TK1	ec	CDA, CDD	g-g	hsa00240	compound
+TK1, TK2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+TK1	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+TK1, TK2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+TK1	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+CDA, CDD	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+CDA, CDD	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+DCTD	ec	TK1, TK2	g-g	hsa00240	compound
+DCTD	ec	TK1	g-g	hsa00240	compound
+DCTD	ec	TYMS, HST422, TMS, TS	g-g	hsa00240	compound
+DCTD	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+DCTD	ec	DUT, dUTPase	g-g	hsa00240	compound
+TK1, TK2	ec	TYMS, HST422, TMS, TS	g-g	hsa00240	compound
+TK1	ec	TYMS, HST422, TMS, TS	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	TK1, TK2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	TK1	g-g	hsa00240	compound
+DUT, dUTPase	ec	TK1, TK2	g-g	hsa00240	compound
+DUT, dUTPase	ec	TK1	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	TYMS, HST422, TMS, TS	g-g	hsa00240	compound
+DUT, dUTPase	ec	TYMS, HST422, TMS, TS	g-g	hsa00240	compound
+DUT, dUTPase	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+AK9	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME7	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME1	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME2	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME3	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME4	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME1-NME2	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2	g-g	hsa00240	compound
+AK9	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME7	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME4	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+AK9	ec	RRM1	g-g	hsa00240	compound
+AK9	ec	RRM2	g-g	hsa00240	compound
+NME7	ec	RRM1	g-g	hsa00240	compound
+NME7	ec	RRM2	g-g	hsa00240	compound
+NME1	ec	RRM1	g-g	hsa00240	compound
+NME1	ec	RRM2	g-g	hsa00240	compound
+NME2	ec	RRM1	g-g	hsa00240	compound
+NME2	ec	RRM2	g-g	hsa00240	compound
+NME3	ec	RRM1	g-g	hsa00240	compound
+NME3	ec	RRM2	g-g	hsa00240	compound
+NME4	ec	RRM1	g-g	hsa00240	compound
+NME4	ec	RRM2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM1	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	RRM1	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	RRM2	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME6, IPIA-ALPHA, NDK_6, NM23-H6	g-g	hsa00240	compound
+DUT, dUTPase	ec	AK9	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME7	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME1	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME2	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME3	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME4	g-g	hsa00240	compound
+DUT, dUTPase	ec	NME1-NME2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+AK9	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME7	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME1	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME2	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME3	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME4	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME1-NME2	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENTPD3	g-g	hsa00240	compound
+AK9	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME7	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME4	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+AK9	ec	ENTPD1	g-g	hsa00240	compound
+AK9	ec	ENTPD3	g-g	hsa00240	compound
+NME7	ec	ENTPD1	g-g	hsa00240	compound
+NME7	ec	ENTPD3	g-g	hsa00240	compound
+NME1	ec	ENTPD1	g-g	hsa00240	compound
+NME1	ec	ENTPD3	g-g	hsa00240	compound
+NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME2	ec	ENTPD3	g-g	hsa00240	compound
+NME3	ec	ENTPD1	g-g	hsa00240	compound
+NME3	ec	ENTPD3	g-g	hsa00240	compound
+NME4	ec	ENTPD1	g-g	hsa00240	compound
+NME4	ec	ENTPD3	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD1	g-g	hsa00240	compound
+NME1-NME2	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+ENTPD1	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+ENTPD3	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD1	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD1	g-g	hsa00240	compound
+ENTPD3	ec	ENTPD3	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	DTYMK, CDC8, PP3731, TMPK, TYMK	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C3B	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5E	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C3A	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5M	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1A	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	TK1, TK2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	TK1	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	ENTPD1	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	ENTPD3	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5E	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5M	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD1	ec	NT5C2	g-g	hsa00240	compound
+ENTPD1	ec	NT5C	g-g	hsa00240	compound
+ENTPD1	ec	NT5E	g-g	hsa00240	compound
+ENTPD1	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD1	ec	NT5M	g-g	hsa00240	compound
+ENTPD1	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3B	g-g	hsa00240	compound
+ENTPD3	ec	NT5C2	g-g	hsa00240	compound
+ENTPD3	ec	NT5C	g-g	hsa00240	compound
+ENTPD3	ec	NT5E	g-g	hsa00240	compound
+ENTPD3	ec	NT5C3A	g-g	hsa00240	compound
+ENTPD3	ec	NT5M	g-g	hsa00240	compound
+ENTPD3	ec	NT5C1A	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	TK1, TK2	g-g	hsa00240	compound
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	ec	TK1	g-g	hsa00240	compound
+ENTPD1	ec	TK1, TK2	g-g	hsa00240	compound
+ENTPD3	ec	TK1, TK2	g-g	hsa00240	compound
+ENTPD1	ec	TK1	g-g	hsa00240	compound
+ENTPD3	ec	TK1	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C3B	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C2	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5E	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C3A	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5M	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1A	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	TK1, TK2	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	TK1	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C3B	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5E	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C3A	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5M	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C1A	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+TK1, TK2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+TK1	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+DPYD, DHP, DHPDHASE, DPD	ec	DPYS, DHP, DHPase	g-g	hsa00240	compound
+DPYS, DHP, DHPase	ec	UPB1, BUP1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+AK9	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME7	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME1	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME3	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME4	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME1-NME2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CDA, CDD	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+CDA, CDD	ec	UPP1	g-g	hsa00240	compound
+TK1, TK2	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+TK1, TK2	ec	UPP1	g-g	hsa00240	compound
+TK1	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+TK1	ec	UPP1	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+UPP1	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00240	compound
+UPP2, UDRPASE2, UP2, UPASE2	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+UPP1	ec	UPRT, FUR1, UPP	g-g	hsa00240	compound
+DCTD	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+DCTD	ec	CMPK1	g-g	hsa00240	compound
+DCTD	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+CMPK1	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C3B	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C2	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5E	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C3A	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5M	g-g	hsa00240	compound
+TYMS, HST422, TMS, TS	ec	NT5C1A	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C3B	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C2	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5E	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C3A	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5M	g-g	hsa00240	compound
+DTYMK, CDC8, PP3731, TMPK, TYMK	ec	NT5C1A	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C3B	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C2	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5E	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C3A	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5M	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C1A	ec	DUT, dUTPase	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	DCTD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	DCTD	g-g	hsa00240	compound
+NT5C3B	ec	DCTD	g-g	hsa00240	compound
+NT5C2	ec	DCTD	g-g	hsa00240	compound
+NT5C	ec	DCTD	g-g	hsa00240	compound
+NT5E	ec	DCTD	g-g	hsa00240	compound
+NT5C3A	ec	DCTD	g-g	hsa00240	compound
+NT5M	ec	DCTD	g-g	hsa00240	compound
+NT5C1A	ec	DCTD	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3B	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C2	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C	ec	CDA, CDD	g-g	hsa00240	compound
+NT5E	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C3A	ec	CDA, CDD	g-g	hsa00240	compound
+NT5M	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1A	ec	CDA, CDD	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C3B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5E	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C3A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5M	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C1A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	UPP1	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C3B	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C2	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5E	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C3A	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5M	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1A	ec	UPP2, UDRPASE2, UP2, UPASE2	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	UPP1	g-g	hsa00240	compound
+NT5C3B	ec	UPP1	g-g	hsa00240	compound
+NT5C2	ec	UPP1	g-g	hsa00240	compound
+NT5C	ec	UPP1	g-g	hsa00240	compound
+NT5E	ec	UPP1	g-g	hsa00240	compound
+NT5C3A	ec	UPP1	g-g	hsa00240	compound
+NT5M	ec	UPP1	g-g	hsa00240	compound
+NT5C1A	ec	UPP1	g-g	hsa00240	compound
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C1B-RDH14	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C3B	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C2	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5E	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C3A	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5M	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+NT5C1A	ec	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD1	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD3	g-g	hsa00240	compound
+ENPP3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENPP3	ec	ENTPD1	g-g	hsa00240	compound
+ENPP3	ec	ENTPD3	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	CTPS2	g-g	hsa00240	compound
+ENPP3	ec	CTPS1, CTPS, GATD5, IMD24	g-g	hsa00240	compound
+ENPP3	ec	CTPS2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	ENPP3	g-g	hsa00240	compound
+AK9	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME7	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME3	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME4	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+NME1-NME2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+AK9	ec	ENPP3	g-g	hsa00240	compound
+NME7	ec	ENPP3	g-g	hsa00240	compound
+NME1	ec	ENPP3	g-g	hsa00240	compound
+NME2	ec	ENPP3	g-g	hsa00240	compound
+NME3	ec	ENPP3	g-g	hsa00240	compound
+NME4	ec	ENPP3	g-g	hsa00240	compound
+NME1-NME2	ec	ENPP3	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	CMPK1	g-g	hsa00240	compound
+ENPP3	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+ENPP3	ec	CMPK1	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C3B	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C2	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5E	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C3A	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5M	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NT5C1A	g-g	hsa00240	compound
+ENPP3	ec	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	g-g	hsa00240	compound
+ENPP3	ec	NT5C1B-RDH14	g-g	hsa00240	compound
+ENPP3	ec	NT5C3B	g-g	hsa00240	compound
+ENPP3	ec	NT5C2	g-g	hsa00240	compound
+ENPP3	ec	NT5C	g-g	hsa00240	compound
+ENPP3	ec	NT5E	g-g	hsa00240	compound
+ENPP3	ec	NT5C3A	g-g	hsa00240	compound
+ENPP3	ec	NT5M	g-g	hsa00240	compound
+ENPP3	ec	NT5C1A	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD1	g-g	hsa00240	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	ENTPD3	g-g	hsa00240	compound
+ENPP3	ec	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	g-g	hsa00240	compound
+ENPP3	ec	ENTPD1	g-g	hsa00240	compound
+ENPP3	ec	ENTPD3	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	RRM2	g-g	hsa00240	compound
+AK9	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME7	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME3	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME4	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2B, MTDPS8A, MTDPS8B, P53R2	g-g	hsa00240	compound
+AK9	ec	RRM1	g-g	hsa00240	compound
+AK9	ec	RRM2	g-g	hsa00240	compound
+NME7	ec	RRM1	g-g	hsa00240	compound
+NME7	ec	RRM2	g-g	hsa00240	compound
+NME1	ec	RRM1	g-g	hsa00240	compound
+NME1	ec	RRM2	g-g	hsa00240	compound
+NME2	ec	RRM1	g-g	hsa00240	compound
+NME2	ec	RRM2	g-g	hsa00240	compound
+NME3	ec	RRM1	g-g	hsa00240	compound
+NME3	ec	RRM2	g-g	hsa00240	compound
+NME4	ec	RRM1	g-g	hsa00240	compound
+NME4	ec	RRM2	g-g	hsa00240	compound
+NME1-NME2	ec	RRM1	g-g	hsa00240	compound
+NME1-NME2	ec	RRM2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	CMPK1	g-g	hsa00240	compound
+AK9	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME7	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME3	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME4	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+AK9	ec	CMPK1	g-g	hsa00240	compound
+NME7	ec	CMPK1	g-g	hsa00240	compound
+NME1	ec	CMPK1	g-g	hsa00240	compound
+NME2	ec	CMPK1	g-g	hsa00240	compound
+NME3	ec	CMPK1	g-g	hsa00240	compound
+NME4	ec	CMPK1	g-g	hsa00240	compound
+NME1-NME2	ec	CMPK1	g-g	hsa00240	compound
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+AK9	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME7	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME1	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME3	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME4	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+NME1-NME2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	CMPK1	g-g	hsa00240	compound
+RRM1	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+RRM2	ec	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	g-g	hsa00240	compound
+RRM1	ec	CMPK1	g-g	hsa00240	compound
+RRM2	ec	CMPK1	g-g	hsa00240	compound
+RRM2B, MTDPS8A, MTDPS8B, P53R2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+RRM1	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+RRM2	ec	DCTPP1, CDA03, RS21C6, XTP3TPA	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCKL1, UCK1L, URKL1	ec	ENPP3	g-g	hsa00240	compound
+UCK2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCK1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00240	compound
+UCK2	ec	ENPP3	g-g	hsa00240	compound
+UCK1	ec	ENPP3	g-g	hsa00240	compound
+C00015	rt	RRM2B, MTDPS8A, MTDPS8B, P53R2	irreversible	hsa00240	se
+C00015	rt	RRM1	irreversible	hsa00240	se
+C00015	rt	RRM2	irreversible	hsa00240	se
+RRM2B, MTDPS8A, MTDPS8B, P53R2	rt	C01346	irreversible	hsa00240	ep
+RRM1	rt	C01346	irreversible	hsa00240	ep
+RRM2	rt	C01346	irreversible	hsa00240	ep
+C00064	rt	CAD, CDG1Z, EIEE50, GATD4	irreversible	hsa00240	se
+CAD, CDG1Z, EIEE50, GATD4	rt	C00169	irreversible	hsa00240	ep
+C00169	rt	CAD, CDG1Z, EIEE50, GATD4	irreversible	hsa00240	se
+CAD, CDG1Z, EIEE50, GATD4	rt	C00438	irreversible	hsa00240	ep
+C00337	rt	CAD, CDG1Z, EIEE50, GATD4	reversible	hsa00240	se
+CAD, CDG1Z, EIEE50, GATD4	rt	C00337	reversible	hsa00240	ep
+CAD, CDG1Z, EIEE50, GATD4	rt	C00438	reversible	hsa00240	ep
+C00438	rt	CAD, CDG1Z, EIEE50, GATD4	reversible	hsa00240	se
+C01103	rt	UMPS, OPRT	reversible	hsa00240	se
+UMPS, OPRT	rt	C01103	reversible	hsa00240	ep
+UMPS, OPRT	rt	C00119	reversible	hsa00240	ep
+C00119	rt	UMPS, OPRT	reversible	hsa00240	se
+UMPS, OPRT	rt	C00295	reversible	hsa00240	ep
+C00295	rt	UMPS, OPRT	reversible	hsa00240	se
+C00015	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00015	rt	AK9	reversible	hsa00240	se
+C00015	rt	NME7	reversible	hsa00240	se
+C00015	rt	NME1	reversible	hsa00240	se
+C00015	rt	NME2	reversible	hsa00240	se
+C00015	rt	NME3	reversible	hsa00240	se
+C00015	rt	NME4	reversible	hsa00240	se
+C00015	rt	NME1-NME2	reversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00015	reversible	hsa00240	ep
+AK9	rt	C00015	reversible	hsa00240	ep
+NME7	rt	C00015	reversible	hsa00240	ep
+NME1	rt	C00015	reversible	hsa00240	ep
+NME2	rt	C00015	reversible	hsa00240	ep
+NME3	rt	C00015	reversible	hsa00240	ep
+NME4	rt	C00015	reversible	hsa00240	ep
+NME1-NME2	rt	C00015	reversible	hsa00240	ep
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00075	reversible	hsa00240	ep
+AK9	rt	C00075	reversible	hsa00240	ep
+NME7	rt	C00075	reversible	hsa00240	ep
+NME1	rt	C00075	reversible	hsa00240	ep
+NME2	rt	C00075	reversible	hsa00240	ep
+NME3	rt	C00075	reversible	hsa00240	ep
+NME4	rt	C00075	reversible	hsa00240	ep
+NME1-NME2	rt	C00075	reversible	hsa00240	ep
+C00075	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00075	rt	AK9	reversible	hsa00240	se
+C00075	rt	NME7	reversible	hsa00240	se
+C00075	rt	NME1	reversible	hsa00240	se
+C00075	rt	NME2	reversible	hsa00240	se
+C00075	rt	NME3	reversible	hsa00240	se
+C00075	rt	NME4	reversible	hsa00240	se
+C00075	rt	NME1-NME2	reversible	hsa00240	se
+C00105	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00105	rt	CMPK1	reversible	hsa00240	se
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00105	reversible	hsa00240	ep
+CMPK1	rt	C00105	reversible	hsa00240	ep
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00015	reversible	hsa00240	ep
+CMPK1	rt	C00015	reversible	hsa00240	ep
+C00015	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00015	rt	CMPK1	reversible	hsa00240	se
+C00075	rt	CTPS1, CTPS, GATD5, IMD24	irreversible	hsa00240	se
+C00075	rt	CTPS2	irreversible	hsa00240	se
+CTPS1, CTPS, GATD5, IMD24	rt	C00063	irreversible	hsa00240	ep
+CTPS2	rt	C00063	irreversible	hsa00240	ep
+C00075	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00075	rt	ENTPD1	irreversible	hsa00240	se
+C00075	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00015	irreversible	hsa00240	ep
+ENTPD1	rt	C00015	irreversible	hsa00240	ep
+ENTPD3	rt	C00015	irreversible	hsa00240	ep
+C00015	rt	CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	irreversible	hsa00240	se
+C00015	rt	ENTPD6	irreversible	hsa00240	se
+C00015	rt	ENTPD5	irreversible	hsa00240	se
+C00015	rt	ENTPD4	irreversible	hsa00240	se
+CANT1, DBQD, DBQD1, EDM7, SCAN-1, SCAN1, SHAPY	rt	C00105	irreversible	hsa00240	ep
+ENTPD6	rt	C00105	irreversible	hsa00240	ep
+ENTPD5	rt	C00105	irreversible	hsa00240	ep
+ENTPD4	rt	C00105	irreversible	hsa00240	ep
+C00015	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00015	rt	ENTPD1	irreversible	hsa00240	se
+C00015	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00105	irreversible	hsa00240	ep
+ENTPD1	rt	C00105	irreversible	hsa00240	ep
+ENTPD3	rt	C00105	irreversible	hsa00240	ep
+C00105	rt	UPRT, FUR1, UPP	reversible	hsa00240	se
+UPRT, FUR1, UPP	rt	C00105	reversible	hsa00240	ep
+UPRT, FUR1, UPP	rt	C00106	reversible	hsa00240	ep
+C00106	rt	UPRT, FUR1, UPP	reversible	hsa00240	se
+C00299	rt	UCKL1, UCK1L, URKL1	irreversible	hsa00240	se
+C00299	rt	UCK2	irreversible	hsa00240	se
+C00299	rt	UCK1	irreversible	hsa00240	se
+UCKL1, UCK1L, URKL1	rt	C00105	irreversible	hsa00240	ep
+UCK2	rt	C00105	irreversible	hsa00240	ep
+UCK1	rt	C00105	irreversible	hsa00240	ep
+C00105	rt	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	irreversible	hsa00240	se
+C00105	rt	NT5C1B-RDH14	irreversible	hsa00240	se
+C00105	rt	NT5C3B	irreversible	hsa00240	se
+C00105	rt	NT5C2	irreversible	hsa00240	se
+C00105	rt	NT5C	irreversible	hsa00240	se
+C00105	rt	NT5E	irreversible	hsa00240	se
+C00105	rt	NT5C3A	irreversible	hsa00240	se
+C00105	rt	NT5M	irreversible	hsa00240	se
+C00105	rt	NT5C1A	irreversible	hsa00240	se
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	rt	C00299	irreversible	hsa00240	ep
+NT5C1B-RDH14	rt	C00299	irreversible	hsa00240	ep
+NT5C3B	rt	C00299	irreversible	hsa00240	ep
+NT5C2	rt	C00299	irreversible	hsa00240	ep
+NT5C	rt	C00299	irreversible	hsa00240	ep
+NT5E	rt	C00299	irreversible	hsa00240	ep
+NT5C3A	rt	C00299	irreversible	hsa00240	ep
+NT5M	rt	C00299	irreversible	hsa00240	ep
+NT5C1A	rt	C00299	irreversible	hsa00240	ep
+C00299	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00240	se
+C00299	rt	UPP1	reversible	hsa00240	se
+UPP2, UDRPASE2, UP2, UPASE2	rt	C00299	reversible	hsa00240	ep
+UPP1	rt	C00299	reversible	hsa00240	ep
+UPP2, UDRPASE2, UP2, UPASE2	rt	C00106	reversible	hsa00240	ep
+UPP1	rt	C00106	reversible	hsa00240	ep
+C00106	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00240	se
+C00106	rt	UPP1	reversible	hsa00240	se
+C00429	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00240	se
+DPYD, DHP, DHPDHASE, DPD	rt	C00429	reversible	hsa00240	ep
+DPYD, DHP, DHPDHASE, DPD	rt	C00106	reversible	hsa00240	ep
+C00106	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00240	se
+C00429	rt	DPYS, DHP, DHPase	reversible	hsa00240	se
+DPYS, DHP, DHPase	rt	C00429	reversible	hsa00240	ep
+DPYS, DHP, DHPase	rt	C02642	reversible	hsa00240	ep
+C02642	rt	DPYS, DHP, DHPase	reversible	hsa00240	se
+C02642	rt	UPB1, BUP1	irreversible	hsa00240	se
+UPB1, BUP1	rt	C00099	irreversible	hsa00240	ep
+C00063	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00063	rt	ENTPD1	irreversible	hsa00240	se
+C00063	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00112	irreversible	hsa00240	ep
+ENTPD1	rt	C00112	irreversible	hsa00240	ep
+ENTPD3	rt	C00112	irreversible	hsa00240	ep
+C00112	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00112	rt	AK9	reversible	hsa00240	se
+C00112	rt	NME7	reversible	hsa00240	se
+C00112	rt	NME1	reversible	hsa00240	se
+C00112	rt	NME2	reversible	hsa00240	se
+C00112	rt	NME3	reversible	hsa00240	se
+C00112	rt	NME4	reversible	hsa00240	se
+C00112	rt	NME1-NME2	reversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00112	reversible	hsa00240	ep
+AK9	rt	C00112	reversible	hsa00240	ep
+NME7	rt	C00112	reversible	hsa00240	ep
+NME1	rt	C00112	reversible	hsa00240	ep
+NME2	rt	C00112	reversible	hsa00240	ep
+NME3	rt	C00112	reversible	hsa00240	ep
+NME4	rt	C00112	reversible	hsa00240	ep
+NME1-NME2	rt	C00112	reversible	hsa00240	ep
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00063	reversible	hsa00240	ep
+AK9	rt	C00063	reversible	hsa00240	ep
+NME7	rt	C00063	reversible	hsa00240	ep
+NME1	rt	C00063	reversible	hsa00240	ep
+NME2	rt	C00063	reversible	hsa00240	ep
+NME3	rt	C00063	reversible	hsa00240	ep
+NME4	rt	C00063	reversible	hsa00240	ep
+NME1-NME2	rt	C00063	reversible	hsa00240	ep
+C00063	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00063	rt	AK9	reversible	hsa00240	se
+C00063	rt	NME7	reversible	hsa00240	se
+C00063	rt	NME1	reversible	hsa00240	se
+C00063	rt	NME2	reversible	hsa00240	se
+C00063	rt	NME3	reversible	hsa00240	se
+C00063	rt	NME4	reversible	hsa00240	se
+C00063	rt	NME1-NME2	reversible	hsa00240	se
+C00112	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00112	rt	ENTPD1	irreversible	hsa00240	se
+C00112	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00055	irreversible	hsa00240	ep
+ENTPD1	rt	C00055	irreversible	hsa00240	ep
+ENTPD3	rt	C00055	irreversible	hsa00240	ep
+C00055	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00055	rt	CMPK1	reversible	hsa00240	se
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00055	reversible	hsa00240	ep
+CMPK1	rt	C00055	reversible	hsa00240	ep
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00112	reversible	hsa00240	ep
+CMPK1	rt	C00112	reversible	hsa00240	ep
+C00112	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00112	rt	CMPK1	reversible	hsa00240	se
+C00475	rt	UCKL1, UCK1L, URKL1	irreversible	hsa00240	se
+C00475	rt	UCK2	irreversible	hsa00240	se
+C00475	rt	UCK1	irreversible	hsa00240	se
+UCKL1, UCK1L, URKL1	rt	C00055	irreversible	hsa00240	ep
+UCK2	rt	C00055	irreversible	hsa00240	ep
+UCK1	rt	C00055	irreversible	hsa00240	ep
+C00055	rt	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	irreversible	hsa00240	se
+C00055	rt	NT5C1B-RDH14	irreversible	hsa00240	se
+C00055	rt	NT5C3B	irreversible	hsa00240	se
+C00055	rt	NT5C2	irreversible	hsa00240	se
+C00055	rt	NT5C	irreversible	hsa00240	se
+C00055	rt	NT5E	irreversible	hsa00240	se
+C00055	rt	NT5C3A	irreversible	hsa00240	se
+C00055	rt	NT5M	irreversible	hsa00240	se
+C00055	rt	NT5C1A	irreversible	hsa00240	se
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	rt	C00475	irreversible	hsa00240	ep
+NT5C1B-RDH14	rt	C00475	irreversible	hsa00240	ep
+NT5C3B	rt	C00475	irreversible	hsa00240	ep
+NT5C2	rt	C00475	irreversible	hsa00240	ep
+NT5C	rt	C00475	irreversible	hsa00240	ep
+NT5E	rt	C00475	irreversible	hsa00240	ep
+NT5C3A	rt	C00475	irreversible	hsa00240	ep
+NT5M	rt	C00475	irreversible	hsa00240	ep
+NT5C1A	rt	C00475	irreversible	hsa00240	ep
+C00475	rt	CDA, CDD	irreversible	hsa00240	se
+CDA, CDD	rt	C00299	irreversible	hsa00240	ep
+C00112	rt	RRM2B, MTDPS8A, MTDPS8B, P53R2	irreversible	hsa00240	se
+C00112	rt	RRM1	irreversible	hsa00240	se
+C00112	rt	RRM2	irreversible	hsa00240	se
+RRM2B, MTDPS8A, MTDPS8B, P53R2	rt	C00705	irreversible	hsa00240	ep
+RRM1	rt	C00705	irreversible	hsa00240	ep
+RRM2	rt	C00705	irreversible	hsa00240	ep
+C00705	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00705	rt	AK9	reversible	hsa00240	se
+C00705	rt	NME7	reversible	hsa00240	se
+C00705	rt	NME1	reversible	hsa00240	se
+C00705	rt	NME2	reversible	hsa00240	se
+C00705	rt	NME3	reversible	hsa00240	se
+C00705	rt	NME4	reversible	hsa00240	se
+C00705	rt	NME1-NME2	reversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00705	reversible	hsa00240	ep
+AK9	rt	C00705	reversible	hsa00240	ep
+NME7	rt	C00705	reversible	hsa00240	ep
+NME1	rt	C00705	reversible	hsa00240	ep
+NME2	rt	C00705	reversible	hsa00240	ep
+NME3	rt	C00705	reversible	hsa00240	ep
+NME4	rt	C00705	reversible	hsa00240	ep
+NME1-NME2	rt	C00705	reversible	hsa00240	ep
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00458	reversible	hsa00240	ep
+AK9	rt	C00458	reversible	hsa00240	ep
+NME7	rt	C00458	reversible	hsa00240	ep
+NME1	rt	C00458	reversible	hsa00240	ep
+NME2	rt	C00458	reversible	hsa00240	ep
+NME3	rt	C00458	reversible	hsa00240	ep
+NME4	rt	C00458	reversible	hsa00240	ep
+NME1-NME2	rt	C00458	reversible	hsa00240	ep
+C00458	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00458	rt	AK9	reversible	hsa00240	se
+C00458	rt	NME7	reversible	hsa00240	se
+C00458	rt	NME1	reversible	hsa00240	se
+C00458	rt	NME2	reversible	hsa00240	se
+C00458	rt	NME3	reversible	hsa00240	se
+C00458	rt	NME4	reversible	hsa00240	se
+C00458	rt	NME1-NME2	reversible	hsa00240	se
+C00239	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00239	rt	CMPK1	reversible	hsa00240	se
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00239	reversible	hsa00240	ep
+CMPK1	rt	C00239	reversible	hsa00240	ep
+CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	rt	C00705	reversible	hsa00240	ep
+CMPK1	rt	C00705	reversible	hsa00240	ep
+C00705	rt	CMPK2, NDK, TMPK2, TYKi, UMP-CMPK2	reversible	hsa00240	se
+C00705	rt	CMPK1	reversible	hsa00240	se
+C00458	rt	DCTPP1, CDA03, RS21C6, XTP3TPA	irreversible	hsa00240	se
+DCTPP1, CDA03, RS21C6, XTP3TPA	rt	C00239	irreversible	hsa00240	ep
+C00881	rt	DCK	irreversible	hsa00240	se
+DCK	rt	C00239	irreversible	hsa00240	ep
+C00239	rt	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	irreversible	hsa00240	se
+C00239	rt	NT5C1B-RDH14	irreversible	hsa00240	se
+C00239	rt	NT5C3B	irreversible	hsa00240	se
+C00239	rt	NT5C2	irreversible	hsa00240	se
+C00239	rt	NT5C	irreversible	hsa00240	se
+C00239	rt	NT5E	irreversible	hsa00240	se
+C00239	rt	NT5C3A	irreversible	hsa00240	se
+C00239	rt	NT5M	irreversible	hsa00240	se
+C00239	rt	NT5C1A	irreversible	hsa00240	se
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	rt	C00881	irreversible	hsa00240	ep
+NT5C1B-RDH14	rt	C00881	irreversible	hsa00240	ep
+NT5C3B	rt	C00881	irreversible	hsa00240	ep
+NT5C2	rt	C00881	irreversible	hsa00240	ep
+NT5C	rt	C00881	irreversible	hsa00240	ep
+NT5E	rt	C00881	irreversible	hsa00240	ep
+NT5C3A	rt	C00881	irreversible	hsa00240	ep
+NT5M	rt	C00881	irreversible	hsa00240	ep
+NT5C1A	rt	C00881	irreversible	hsa00240	ep
+C00239	rt	DCTD	irreversible	hsa00240	se
+DCTD	rt	C00365	irreversible	hsa00240	ep
+C00460	rt	DUT, dUTPase	irreversible	hsa00240	se
+DUT, dUTPase	rt	C00365	irreversible	hsa00240	ep
+C01346	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C01346	rt	AK9	reversible	hsa00240	se
+C01346	rt	NME7	reversible	hsa00240	se
+C01346	rt	NME1	reversible	hsa00240	se
+C01346	rt	NME2	reversible	hsa00240	se
+C01346	rt	NME3	reversible	hsa00240	se
+C01346	rt	NME4	reversible	hsa00240	se
+C01346	rt	NME1-NME2	reversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C01346	reversible	hsa00240	ep
+AK9	rt	C01346	reversible	hsa00240	ep
+NME7	rt	C01346	reversible	hsa00240	ep
+NME1	rt	C01346	reversible	hsa00240	ep
+NME2	rt	C01346	reversible	hsa00240	ep
+NME3	rt	C01346	reversible	hsa00240	ep
+NME4	rt	C01346	reversible	hsa00240	ep
+NME1-NME2	rt	C01346	reversible	hsa00240	ep
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00460	reversible	hsa00240	ep
+AK9	rt	C00460	reversible	hsa00240	ep
+NME7	rt	C00460	reversible	hsa00240	ep
+NME1	rt	C00460	reversible	hsa00240	ep
+NME2	rt	C00460	reversible	hsa00240	ep
+NME3	rt	C00460	reversible	hsa00240	ep
+NME4	rt	C00460	reversible	hsa00240	ep
+NME1-NME2	rt	C00460	reversible	hsa00240	ep
+C00460	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00460	rt	AK9	reversible	hsa00240	se
+C00460	rt	NME7	reversible	hsa00240	se
+C00460	rt	NME1	reversible	hsa00240	se
+C00460	rt	NME2	reversible	hsa00240	se
+C00460	rt	NME3	reversible	hsa00240	se
+C00460	rt	NME4	reversible	hsa00240	se
+C00460	rt	NME1-NME2	reversible	hsa00240	se
+C00365	rt	DTYMK, CDC8, PP3731, TMPK, TYMK	reversible	hsa00240	se
+DTYMK, CDC8, PP3731, TMPK, TYMK	rt	C00365	reversible	hsa00240	ep
+DTYMK, CDC8, PP3731, TMPK, TYMK	rt	C01346	reversible	hsa00240	ep
+C01346	rt	DTYMK, CDC8, PP3731, TMPK, TYMK	reversible	hsa00240	se
+C00526	rt	TK1, TK2	irreversible	hsa00240	se
+C00526	rt	TK1	irreversible	hsa00240	se
+TK1, TK2	rt	C00365	irreversible	hsa00240	ep
+TK1	rt	C00365	irreversible	hsa00240	ep
+C00881	rt	CDA, CDD	irreversible	hsa00240	se
+CDA, CDD	rt	C00526	irreversible	hsa00240	ep
+C00526	rt	PNP, NP, PRO1837, PUNP	irreversible	hsa00240	se
+PNP, NP, PRO1837, PUNP	rt	C00106	irreversible	hsa00240	ep
+C00526	rt	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	irreversible	hsa00240	se
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C00106	irreversible	hsa00240	ep
+C00365	rt	TYMS, HST422, TMS, TS	irreversible	hsa00240	se
+TYMS, HST422, TMS, TS	rt	C00364	irreversible	hsa00240	ep
+C00363	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00363	rt	AK9	reversible	hsa00240	se
+C00363	rt	NME7	reversible	hsa00240	se
+C00363	rt	NME1	reversible	hsa00240	se
+C00363	rt	NME2	reversible	hsa00240	se
+C00363	rt	NME3	reversible	hsa00240	se
+C00363	rt	NME4	reversible	hsa00240	se
+C00363	rt	NME1-NME2	reversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00363	reversible	hsa00240	ep
+AK9	rt	C00363	reversible	hsa00240	ep
+NME7	rt	C00363	reversible	hsa00240	ep
+NME1	rt	C00363	reversible	hsa00240	ep
+NME2	rt	C00363	reversible	hsa00240	ep
+NME3	rt	C00363	reversible	hsa00240	ep
+NME4	rt	C00363	reversible	hsa00240	ep
+NME1-NME2	rt	C00363	reversible	hsa00240	ep
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C00459	reversible	hsa00240	ep
+AK9	rt	C00459	reversible	hsa00240	ep
+NME7	rt	C00459	reversible	hsa00240	ep
+NME1	rt	C00459	reversible	hsa00240	ep
+NME2	rt	C00459	reversible	hsa00240	ep
+NME3	rt	C00459	reversible	hsa00240	ep
+NME4	rt	C00459	reversible	hsa00240	ep
+NME1-NME2	rt	C00459	reversible	hsa00240	ep
+C00459	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	reversible	hsa00240	se
+C00459	rt	AK9	reversible	hsa00240	se
+C00459	rt	NME7	reversible	hsa00240	se
+C00459	rt	NME1	reversible	hsa00240	se
+C00459	rt	NME2	reversible	hsa00240	se
+C00459	rt	NME3	reversible	hsa00240	se
+C00459	rt	NME4	reversible	hsa00240	se
+C00459	rt	NME1-NME2	reversible	hsa00240	se
+C00459	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00459	rt	ENTPD1	irreversible	hsa00240	se
+C00459	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00363	irreversible	hsa00240	ep
+ENTPD1	rt	C00363	irreversible	hsa00240	ep
+ENTPD3	rt	C00363	irreversible	hsa00240	ep
+C00364	rt	DTYMK, CDC8, PP3731, TMPK, TYMK	reversible	hsa00240	se
+DTYMK, CDC8, PP3731, TMPK, TYMK	rt	C00364	reversible	hsa00240	ep
+DTYMK, CDC8, PP3731, TMPK, TYMK	rt	C00363	reversible	hsa00240	ep
+C00363	rt	DTYMK, CDC8, PP3731, TMPK, TYMK	reversible	hsa00240	se
+C00363	rt	ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	irreversible	hsa00240	se
+C00363	rt	ENTPD1	irreversible	hsa00240	se
+C00363	rt	ENTPD3	irreversible	hsa00240	se
+ENTPD8, E-NTPDase, GLSR2492, NTPDase-8, UNQ2492	rt	C00364	irreversible	hsa00240	ep
+ENTPD1	rt	C00364	irreversible	hsa00240	ep
+ENTPD3	rt	C00364	irreversible	hsa00240	ep
+C00364	rt	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	irreversible	hsa00240	se
+C00364	rt	NT5C1B-RDH14	irreversible	hsa00240	se
+C00364	rt	NT5C3B	irreversible	hsa00240	se
+C00364	rt	NT5C2	irreversible	hsa00240	se
+C00364	rt	NT5C	irreversible	hsa00240	se
+C00364	rt	NT5E	irreversible	hsa00240	se
+C00364	rt	NT5C3A	irreversible	hsa00240	se
+C00364	rt	NT5M	irreversible	hsa00240	se
+C00364	rt	NT5C1A	irreversible	hsa00240	se
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	rt	C00214	irreversible	hsa00240	ep
+NT5C1B-RDH14	rt	C00214	irreversible	hsa00240	ep
+NT5C3B	rt	C00214	irreversible	hsa00240	ep
+NT5C2	rt	C00214	irreversible	hsa00240	ep
+NT5C	rt	C00214	irreversible	hsa00240	ep
+NT5E	rt	C00214	irreversible	hsa00240	ep
+NT5C3A	rt	C00214	irreversible	hsa00240	ep
+NT5M	rt	C00214	irreversible	hsa00240	ep
+NT5C1A	rt	C00214	irreversible	hsa00240	ep
+C00214	rt	TK1, TK2	irreversible	hsa00240	se
+C00214	rt	TK1	irreversible	hsa00240	se
+TK1, TK2	rt	C00364	irreversible	hsa00240	ep
+TK1	rt	C00364	irreversible	hsa00240	ep
+C00214	rt	TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	irreversible	hsa00240	se
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C00672	irreversible	hsa00240	ep
+TYMP, ECGF, ECGF1, MEDPS1, MNGIE, MTDPS1, PDECGF, TP, hPD-ECGF	rt	C00178	irreversible	hsa00240	ep
+C00178	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00240	se
+DPYD, DHP, DHPDHASE, DPD	rt	C00178	reversible	hsa00240	ep
+DPYD, DHP, DHPDHASE, DPD	rt	C21028	reversible	hsa00240	ep
+C21028	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00240	se
+C21028	rt	DPYS, DHP, DHPase	reversible	hsa00240	se
+DPYS, DHP, DHPase	rt	C21028	reversible	hsa00240	ep
+DPYS, DHP, DHPase	rt	C21029	reversible	hsa00240	ep
+C21029	rt	DPYS, DHP, DHPase	reversible	hsa00240	se
+C21029	rt	UPB1, BUP1	irreversible	hsa00240	se
+UPB1, BUP1	rt	C01205	irreversible	hsa00240	ep
+C00337	rt	DHODH, DHOdehase, POADS, URA1	reversible	hsa00240	se
+DHODH, DHOdehase, POADS, URA1	rt	C00337	reversible	hsa00240	ep
+DHODH, DHOdehase, POADS, URA1	rt	C00295	reversible	hsa00240	ep
+C00295	rt	DHODH, DHOdehase, POADS, URA1	reversible	hsa00240	se
+C00705	rt	DCTPP1, CDA03, RS21C6, XTP3TPA	irreversible	hsa00240	se
+DCTPP1, CDA03, RS21C6, XTP3TPA	rt	C00239	irreversible	hsa00240	ep
+C01103	rt	UMPS, OPRT	irreversible	hsa00240	se
+UMPS, OPRT	rt	C00105	irreversible	hsa00240	ep
+C00075	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00240	se
+C00075	rt	ENPP3	irreversible	hsa00240	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00105	irreversible	hsa00240	ep
+ENPP3	rt	C00105	irreversible	hsa00240	ep
+C06198	rt	NUDT2, APAH1	irreversible	hsa00240	se
+NUDT2, APAH1	rt	C00075	irreversible	hsa00240	ep
+C00526	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00240	se
+C00526	rt	UPP1	reversible	hsa00240	se
+UPP2, UDRPASE2, UP2, UPASE2	rt	C00526	reversible	hsa00240	ep
+UPP1	rt	C00526	reversible	hsa00240	ep
+UPP2, UDRPASE2, UP2, UPASE2	rt	C00106	reversible	hsa00240	ep
+UPP1	rt	C00106	reversible	hsa00240	ep
+C00106	rt	UPP2, UDRPASE2, UP2, UPASE2	reversible	hsa00240	se
+C00106	rt	UPP1	reversible	hsa00240	se
+C00365	rt	NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	irreversible	hsa00240	se
+C00365	rt	NT5C1B-RDH14	irreversible	hsa00240	se
+C00365	rt	NT5C3B	irreversible	hsa00240	se
+C00365	rt	NT5C2	irreversible	hsa00240	se
+C00365	rt	NT5C	irreversible	hsa00240	se
+C00365	rt	NT5E	irreversible	hsa00240	se
+C00365	rt	NT5C3A	irreversible	hsa00240	se
+C00365	rt	NT5M	irreversible	hsa00240	se
+C00365	rt	NT5C1A	irreversible	hsa00240	se
+NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B	rt	C00526	irreversible	hsa00240	ep
+NT5C1B-RDH14	rt	C00526	irreversible	hsa00240	ep
+NT5C3B	rt	C00526	irreversible	hsa00240	ep
+NT5C2	rt	C00526	irreversible	hsa00240	ep
+NT5C	rt	C00526	irreversible	hsa00240	ep
+NT5E	rt	C00526	irreversible	hsa00240	ep
+NT5C3A	rt	C00526	irreversible	hsa00240	ep
+NT5M	rt	C00526	irreversible	hsa00240	ep
+NT5C1A	rt	C00526	irreversible	hsa00240	ep
+C11038	rt	NME6, IPIA-ALPHA, NDK_6, NM23-H6	irreversible	hsa00240	se
+C11038	rt	AK9	irreversible	hsa00240	se
+C11038	rt	NME7	irreversible	hsa00240	se
+C11038	rt	NME1	irreversible	hsa00240	se
+C11038	rt	NME2	irreversible	hsa00240	se
+C11038	rt	NME3	irreversible	hsa00240	se
+C11038	rt	NME4	irreversible	hsa00240	se
+C11038	rt	NME1-NME2	irreversible	hsa00240	se
+NME6, IPIA-ALPHA, NDK_6, NM23-H6	rt	C11039	irreversible	hsa00240	ep
+AK9	rt	C11039	irreversible	hsa00240	ep
+NME7	rt	C11039	irreversible	hsa00240	ep
+NME1	rt	C11039	irreversible	hsa00240	ep
+NME2	rt	C11039	irreversible	hsa00240	ep
+NME3	rt	C11039	irreversible	hsa00240	ep
+NME4	rt	C11039	irreversible	hsa00240	ep
+NME1-NME2	rt	C11039	irreversible	hsa00240	ep
+C00459	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00240	se
+C00459	rt	ENPP3	irreversible	hsa00240	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00364	irreversible	hsa00240	ep
+ENPP3	rt	C00364	irreversible	hsa00240	ep
+C00063	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00240	se
+C00063	rt	ENPP3	irreversible	hsa00240	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00055	irreversible	hsa00240	ep
+ENPP3	rt	C00055	irreversible	hsa00240	ep
+C15607				hsa00240	
+C00046				hsa00240	
+C00039				hsa00240	
+C05281				hsa00240	
+C20846				hsa00240	
+C02376				hsa00240	
+C00383				hsa00240	
+C00086				hsa00240	
+C00813				hsa00240	
+C00380				hsa00240	
+C03997				hsa00240	
+C01168				hsa00240	
+C02067				hsa00240	
+C00029				hsa00240	
+C01368				hsa00240	
+C02355				hsa00240	
+C02354				hsa00240	
+C05822				hsa00240	
+C20231				hsa00240	
+C20249				hsa00240	
+C01563				hsa00240	
+C00222				hsa00240	
+C01013				hsa00240	
+C20253				hsa00240	
+C20254				hsa00240	
+C02170				hsa00240	
+C00086				hsa00240	
+C00039				hsa00240	

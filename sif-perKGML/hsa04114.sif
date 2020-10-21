@@ -1,0 +1,598 @@
+SPDYE2B, SPDYE2L	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE18	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE11	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE16	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE17	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYA	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE1	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYC	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE4	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE3	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE2	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE5	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+SPDYE6	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNB2, HsT17299	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	BTRC	group	hsa04114	group
+CUL1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+RBX1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+CUL1	gr	BTRC	group	hsa04114	group
+RBX1	gr	BTRC	group	hsa04114	group
+ANAPC10, APC10, DOC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC26	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC13	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC2	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC4	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC5	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC7	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC11	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC23	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC16	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC27	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC10, APC10, DOC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC26	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC13	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC2	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC4	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC5	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC7	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC11	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC23	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC16	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC27	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	BTRC	group	hsa04114	group
+CUL1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+RBX1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+CUL1	gr	BTRC	group	hsa04114	group
+RBX1	gr	BTRC	group	hsa04114	group
+CCNE1, CCNE, pCCNE1	gr	CDK2, CDKN2, p33(CDK2)	group	hsa04114	group
+CCNE2	gr	CDK2, CDKN2, p33(CDK2)	group	hsa04114	group
+ANAPC10, APC10, DOC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC26	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC13	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC2	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC4	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC5	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC7	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC11	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+ANAPC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC23	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC16	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+CDC27	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	BTRC	group	hsa04114	group
+CUL1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+RBX1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04114	group
+CUL1	gr	BTRC	group	hsa04114	group
+RBX1	gr	BTRC	group	hsa04114	group
+PPP2R5A, B56A, B56alpha, PR61A	gr	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	group	hsa04114	group
+PPP2R5A, B56A, B56alpha, PR61A	gr	PPP2CB	group	hsa04114	group
+PPP2R5A, B56A, B56alpha, PR61A	gr	PPP2R1A	group	hsa04114	group
+PPP2R5A, B56A, B56alpha, PR61A	gr	PPP2R1B	group	hsa04114	group
+PPP2R5B	gr	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	group	hsa04114	group
+PPP2R5C	gr	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	group	hsa04114	group
+PPP2R5D	gr	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	group	hsa04114	group
+PPP2R5E	gr	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	group	hsa04114	group
+PPP2R5B	gr	PPP2CB	group	hsa04114	group
+PPP2R5B	gr	PPP2R1A	group	hsa04114	group
+PPP2R5B	gr	PPP2R1B	group	hsa04114	group
+PPP2R5C	gr	PPP2CB	group	hsa04114	group
+PPP2R5C	gr	PPP2R1A	group	hsa04114	group
+PPP2R5C	gr	PPP2R1B	group	hsa04114	group
+PPP2R5D	gr	PPP2CB	group	hsa04114	group
+PPP2R5D	gr	PPP2R1A	group	hsa04114	group
+PPP2R5D	gr	PPP2R1B	group	hsa04114	group
+PPP2R5E	gr	PPP2CB	group	hsa04114	group
+PPP2R5E	gr	PPP2R1A	group	hsa04114	group
+PPP2R5E	gr	PPP2R1B	group	hsa04114	group
+CCNB1, CCNB	gr	CDK1, CDC2, CDC28A, P34CDC2	group	hsa04114	group
+MOS, MSV	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04114	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04114	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04114	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6	g-g	hsa04114	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	RPS6KA1	g-g	hsa04114	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	RPS6KA2	g-g	hsa04114	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	RPS6KA3	g-g	hsa04114	activation
+MAPK3	pp	RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6	g-g	hsa04114	activation
+MAPK3	pp	RPS6KA1	g-g	hsa04114	activation
+MAPK3	pp	RPS6KA2	g-g	hsa04114	activation
+MAPK3	pp	RPS6KA3	g-g	hsa04114	activation
+RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6	pp	BUB1, BUB1A, BUB1L, hBUB1	g-g	hsa04114	activation
+RPS6KA1	pp	BUB1, BUB1A, BUB1L, hBUB1	g-g	hsa04114	activation
+RPS6KA2	pp	BUB1, BUB1A, BUB1L, hBUB1	g-g	hsa04114	activation
+RPS6KA3	pp	BUB1, BUB1A, BUB1L, hBUB1	g-g	hsa04114	activation
+RPS6KA6, PP90RSK4, RSK-4, RSK4, S6K-alpha-6, p90RSK6	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04114	inhibition
+RPS6KA1	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04114	inhibition
+RPS6KA2	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04114	inhibition
+RPS6KA3	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04114	inhibition
+PKMYT1, MYT1, PPP1R126	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04114	inhibition
+BUB1, BUB1A, BUB1L, hBUB1	pp	MAD2L2, FANCV, MAD2B, POLZ2, REV7	g-g	hsa04114	activation
+BUB1, BUB1A, BUB1L, hBUB1	pp	MAD2L1	g-g	hsa04114	activation
+BUB1, BUB1A, BUB1L, hBUB1	pp	MAD1L1	g-g	hsa04114	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	IGF1R, CD221, IGFIR, IGFR, JTK13	g-g	hsa04114	activation
+IGF1, IGF, IGF-I, IGFI, MGF	pp	IGF1R, CD221, IGFIR, IGFR, JTK13	g-g	hsa04114	activation
+C00410	pc	PGR, NR3C3, PR	c-g	hsa04114	NA
+C00410	pc	AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM	c-g	hsa04114	NA
+ADCY1, AC1, DFNB44	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY1, AC1, DFNB44	ec	PRKACB	g-g	hsa04114	compound
+ADCY1, AC1, DFNB44	ec	PRKACG	g-g	hsa04114	compound
+ADCY2	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY3	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY5	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY6	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY7	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY8	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY9	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY4	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+ADCY2	ec	PRKACB	g-g	hsa04114	compound
+ADCY2	ec	PRKACG	g-g	hsa04114	compound
+ADCY3	ec	PRKACB	g-g	hsa04114	compound
+ADCY3	ec	PRKACG	g-g	hsa04114	compound
+ADCY5	ec	PRKACB	g-g	hsa04114	compound
+ADCY5	ec	PRKACG	g-g	hsa04114	compound
+ADCY6	ec	PRKACB	g-g	hsa04114	compound
+ADCY6	ec	PRKACG	g-g	hsa04114	compound
+ADCY7	ec	PRKACB	g-g	hsa04114	compound
+ADCY7	ec	PRKACG	g-g	hsa04114	compound
+ADCY8	ec	PRKACB	g-g	hsa04114	compound
+ADCY8	ec	PRKACG	g-g	hsa04114	compound
+ADCY9	ec	PRKACB	g-g	hsa04114	compound
+ADCY9	ec	PRKACG	g-g	hsa04114	compound
+ADCY4	ec	PRKACB	g-g	hsa04114	compound
+ADCY4	ec	PRKACG	g-g	hsa04114	compound
+PGR, NR3C3, PR	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+PGR, NR3C3, PR	ec	PRKACB	g-g	hsa04114	compound
+PGR, NR3C3, PR	ec	PRKACG	g-g	hsa04114	compound
+AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM	ec	PRKACB	g-g	hsa04114	compound
+AR, AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM	ec	PRKACG	g-g	hsa04114	compound
+IGF1R, CD221, IGFIR, IGFR, JTK13	ec	PRKACA, PKACA, PPNAD4	g-g	hsa04114	compound
+IGF1R, CD221, IGFIR, IGFR, JTK13	ec	PRKACB	g-g	hsa04114	compound
+IGF1R, CD221, IGFIR, IGFR, JTK13	ec	PRKACG	g-g	hsa04114	compound
+C00410	pc	AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	c-g	hsa04114	NA
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB2, CPE-BP2, CPEB-2, hCPEB-2	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB3	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB1	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB4	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB2, CPE-BP2, CPEB-2, hCPEB-2	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB3	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB1	g-g	hsa04114	activation
+AURKA, AIK, ARK1, AURA, BTAK, PPP1R47, STK15, STK6, STK7	pp	CPEB4	g-g	hsa04114	activation
+PLK1, PLK, STPK13	pp	CPEB2, CPE-BP2, CPEB-2, hCPEB-2	g-g	hsa04114	activation
+PLK1, PLK, STPK13	pp	CPEB3	g-g	hsa04114	activation
+PLK1, PLK, STPK13	pp	CPEB1	g-g	hsa04114	activation
+PLK1, PLK, STPK13	pp	CPEB4	g-g	hsa04114	activation
+SPDYE2B, SPDYE2L	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE18	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE11	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE16	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE17	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYA	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE1	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYC	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE4	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE3	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE2	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE5	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+SPDYE6	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+CDK2, CDKN2, p33(CDK2)	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+MAPK12, ERK-6, ERK3, ERK6, MAPK_12, P38GAMMA, PRKM12, SAPK-3, SAPK3	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+MAPK14	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+MAPK11	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+MAPK13	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+PPP1CB	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+PPP1CC	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+PLK1, PLK, STPK13	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	SLK, LOSK, STK2, bA16H231, se20-9	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	SLK, LOSK, STK2, bA16H231, se20-9	gr-g	hsa04114	activation
+SLK, LOSK, STK2, bA16H231, se20-9	pp	PLK1, PLK, STPK13	g-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	CDC25C, CDC25, PPP1R60	gr-g	hsa04114	activation
+PRKACA, PKACA, PPNAD4	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+PRKACB	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+PRKACG	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	FBXO5, EMI1, FBX5, Fbxo31	gr-g	hsa04114	inhibition
+CUL1	pp	FBXO5, EMI1, FBX5, Fbxo31	gr-g	hsa04114	inhibition
+RBX1	pp	FBXO5, EMI1, FBX5, Fbxo31	gr-g	hsa04114	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	FBXO5, EMI1, FBX5, Fbxo31	gr-g	hsa04114	inhibition
+BTRC	pp	FBXO5, EMI1, FBX5, Fbxo31	gr-g	hsa04114	inhibition
+FBXO5, EMI1, FBX5, Fbxo31	pp	CDC20, CDC20A, bA276H193, p55CDC	g-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC26	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC13	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC2	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC4	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC5	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC7	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC11	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC1	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC23	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC16	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC27	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC26	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC13	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC2	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC4	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC5	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC7	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC11	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC1	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC23	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC16	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC27	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	CCNB2, HsT17299	gr-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC26	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC13	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC2	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC4	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC5	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC7	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC11	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC1	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC23	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC16	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC27	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC26	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC13	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC2	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC4	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC5	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC7	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC11	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC1	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC23	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC16	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC27	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG1	gr-g	hsa04114	inhibition
+PTTG2	pp	ESPL1, ESP1, SEPA	g-g	hsa04114	inhibition
+PTTG1	pp	ESPL1, ESP1, SEPA	g-g	hsa04114	inhibition
+ESPL1, ESP1, SEPA	pp	REC8, HR21spB, REC8L1, Rec8p	g-g	hsa04114	inhibition
+CDK1, CDC2, CDC28A, P34CDC2	pp	CPEB2, CPE-BP2, CPEB-2, hCPEB-2	gr-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	CPEB3	gr-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	CPEB1	gr-g	hsa04114	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	CPEB4	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	CPEB2, CPE-BP2, CPEB-2, hCPEB-2	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	CPEB3	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	CPEB1	gr-g	hsa04114	activation
+CCNB2, HsT17299	pp	CPEB4	gr-g	hsa04114	activation
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+CUL1	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+RBX1	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+BTRC	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+FBXO43, EMI2, ERP1, FBX43	pp	CDC20, CDC20A, bA276H193, p55CDC	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC10, APC10, DOC1	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC26	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC13	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC2	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC4	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC5	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC7	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC11	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC1	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC23	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC16	g-g	hsa04114	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC27	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC10, APC10, DOC1	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC10, APC10, DOC1	g-g	hsa04114	inhibition
+MAD2L1	pp	CDC26	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC13	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC2	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC4	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC5	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC7	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC11	g-g	hsa04114	inhibition
+MAD2L1	pp	ANAPC1	g-g	hsa04114	inhibition
+MAD2L1	pp	CDC23	g-g	hsa04114	inhibition
+MAD2L1	pp	CDC16	g-g	hsa04114	inhibition
+MAD2L1	pp	CDC27	g-g	hsa04114	inhibition
+MAD1L1	pp	CDC26	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC13	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC2	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC4	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC5	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC7	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC11	g-g	hsa04114	inhibition
+MAD1L1	pp	ANAPC1	g-g	hsa04114	inhibition
+MAD1L1	pp	CDC23	g-g	hsa04114	inhibition
+MAD1L1	pp	CDC16	g-g	hsa04114	inhibition
+MAD1L1	pp	CDC27	g-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC10, APC10, DOC1	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDC26	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC13	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC2	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC4	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC5	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC7	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC11	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	ANAPC1	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDC23	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDC16	gr-g	hsa04114	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDC27	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC10, APC10, DOC1	gr-g	hsa04114	inhibition
+CCNE2	pp	CDC26	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC13	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC2	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC4	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC5	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC7	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC11	gr-g	hsa04114	inhibition
+CCNE2	pp	ANAPC1	gr-g	hsa04114	inhibition
+CCNE2	pp	CDC23	gr-g	hsa04114	inhibition
+CCNE2	pp	CDC16	gr-g	hsa04114	inhibition
+CCNE2	pp	CDC27	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC10, APC10, DOC1	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	CDC26	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC13	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC2	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC4	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC5	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC7	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC11	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	ANAPC1	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	CDC23	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	CDC16	gr-g	hsa04114	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	CDC27	gr-g	hsa04114	inhibition
+PLCZ1, NYD-SP27, PLC-zeta-1, PLCzeta, SPGF17	ec	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04114	compound
+PLCZ1, NYD-SP27, PLC-zeta-1, PLCzeta, SPGF17	ec	ITPR2	g-g	hsa04114	compound
+PLCZ1, NYD-SP27, PLC-zeta-1, PLCzeta, SPGF17	ec	ITPR3	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALML6, CAGLP	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALML5	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALM1	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALM2	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALM3	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALML3	g-g	hsa04114	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	ec	CALML4	g-g	hsa04114	compound
+ITPR2	ec	CALML6, CAGLP	g-g	hsa04114	compound
+ITPR3	ec	CALML6, CAGLP	g-g	hsa04114	compound
+ITPR2	ec	CALML5	g-g	hsa04114	compound
+ITPR2	ec	CALM1	g-g	hsa04114	compound
+ITPR2	ec	CALM2	g-g	hsa04114	compound
+ITPR2	ec	CALM3	g-g	hsa04114	compound
+ITPR2	ec	CALML3	g-g	hsa04114	compound
+ITPR2	ec	CALML4	g-g	hsa04114	compound
+ITPR3	ec	CALML5	g-g	hsa04114	compound
+ITPR3	ec	CALM1	g-g	hsa04114	compound
+ITPR3	ec	CALM2	g-g	hsa04114	compound
+ITPR3	ec	CALM3	g-g	hsa04114	compound
+ITPR3	ec	CALML3	g-g	hsa04114	compound
+ITPR3	ec	CALML4	g-g	hsa04114	compound
+CALML6, CAGLP	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALML6, CAGLP	pp	PPP3CB	g-g	hsa04114	activation
+CALML6, CAGLP	pp	PPP3CC	g-g	hsa04114	activation
+CALML6, CAGLP	pp	PPP3R1	g-g	hsa04114	activation
+CALML6, CAGLP	pp	PPP3R2	g-g	hsa04114	activation
+CALML5	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALM1	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALM2	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALM3	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALML3	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALML4	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	g-g	hsa04114	activation
+CALML5	pp	PPP3CB	g-g	hsa04114	activation
+CALML5	pp	PPP3CC	g-g	hsa04114	activation
+CALML5	pp	PPP3R1	g-g	hsa04114	activation
+CALML5	pp	PPP3R2	g-g	hsa04114	activation
+CALM1	pp	PPP3CB	g-g	hsa04114	activation
+CALM1	pp	PPP3CC	g-g	hsa04114	activation
+CALM1	pp	PPP3R1	g-g	hsa04114	activation
+CALM1	pp	PPP3R2	g-g	hsa04114	activation
+CALM2	pp	PPP3CB	g-g	hsa04114	activation
+CALM2	pp	PPP3CC	g-g	hsa04114	activation
+CALM2	pp	PPP3R1	g-g	hsa04114	activation
+CALM2	pp	PPP3R2	g-g	hsa04114	activation
+CALM3	pp	PPP3CB	g-g	hsa04114	activation
+CALM3	pp	PPP3CC	g-g	hsa04114	activation
+CALM3	pp	PPP3R1	g-g	hsa04114	activation
+CALM3	pp	PPP3R2	g-g	hsa04114	activation
+CALML3	pp	PPP3CB	g-g	hsa04114	activation
+CALML3	pp	PPP3CC	g-g	hsa04114	activation
+CALML3	pp	PPP3R1	g-g	hsa04114	activation
+CALML3	pp	PPP3R2	g-g	hsa04114	activation
+CALML4	pp	PPP3CB	g-g	hsa04114	activation
+CALML4	pp	PPP3CC	g-g	hsa04114	activation
+CALML4	pp	PPP3R1	g-g	hsa04114	activation
+CALML4	pp	PPP3R2	g-g	hsa04114	activation
+CALML6, CAGLP	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALML6, CAGLP	pp	CAMK2B	g-g	hsa04114	activation
+CALML6, CAGLP	pp	CAMK2D	g-g	hsa04114	activation
+CALML6, CAGLP	pp	CAMK2G	g-g	hsa04114	activation
+CALML5	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALM1	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALM2	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALM3	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALML3	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALML4	pp	CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	g-g	hsa04114	activation
+CALML5	pp	CAMK2B	g-g	hsa04114	activation
+CALML5	pp	CAMK2D	g-g	hsa04114	activation
+CALML5	pp	CAMK2G	g-g	hsa04114	activation
+CALM1	pp	CAMK2B	g-g	hsa04114	activation
+CALM1	pp	CAMK2D	g-g	hsa04114	activation
+CALM1	pp	CAMK2G	g-g	hsa04114	activation
+CALM2	pp	CAMK2B	g-g	hsa04114	activation
+CALM2	pp	CAMK2D	g-g	hsa04114	activation
+CALM2	pp	CAMK2G	g-g	hsa04114	activation
+CALM3	pp	CAMK2B	g-g	hsa04114	activation
+CALM3	pp	CAMK2D	g-g	hsa04114	activation
+CALM3	pp	CAMK2G	g-g	hsa04114	activation
+CALML3	pp	CAMK2B	g-g	hsa04114	activation
+CALML3	pp	CAMK2D	g-g	hsa04114	activation
+CALML3	pp	CAMK2G	g-g	hsa04114	activation
+CALML4	pp	CAMK2B	g-g	hsa04114	activation
+CALML4	pp	CAMK2D	g-g	hsa04114	activation
+CALML4	pp	CAMK2G	g-g	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC10, APC10, DOC1	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	CDC26	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC13	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC2	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC4	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC5	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC7	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC11	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	ANAPC1	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	CDC23	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	CDC16	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	CDC27	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC10, APC10, DOC1	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC10, APC10, DOC1	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC10, APC10, DOC1	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC10, APC10, DOC1	g-gr	hsa04114	activation
+PPP3CB	pp	CDC26	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC13	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC2	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC4	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC5	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC7	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC11	g-gr	hsa04114	activation
+PPP3CB	pp	ANAPC1	g-gr	hsa04114	activation
+PPP3CB	pp	CDC23	g-gr	hsa04114	activation
+PPP3CB	pp	CDC16	g-gr	hsa04114	activation
+PPP3CB	pp	CDC27	g-gr	hsa04114	activation
+PPP3CC	pp	CDC26	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC13	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC2	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC4	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC5	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC7	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC11	g-gr	hsa04114	activation
+PPP3CC	pp	ANAPC1	g-gr	hsa04114	activation
+PPP3CC	pp	CDC23	g-gr	hsa04114	activation
+PPP3CC	pp	CDC16	g-gr	hsa04114	activation
+PPP3CC	pp	CDC27	g-gr	hsa04114	activation
+PPP3R1	pp	CDC26	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC13	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC2	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC4	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC5	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC7	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC11	g-gr	hsa04114	activation
+PPP3R1	pp	ANAPC1	g-gr	hsa04114	activation
+PPP3R1	pp	CDC23	g-gr	hsa04114	activation
+PPP3R1	pp	CDC16	g-gr	hsa04114	activation
+PPP3R1	pp	CDC27	g-gr	hsa04114	activation
+PPP3R2	pp	CDC26	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC13	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC2	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC4	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC5	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC7	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC11	g-gr	hsa04114	activation
+PPP3R2	pp	ANAPC1	g-gr	hsa04114	activation
+PPP3R2	pp	CDC23	g-gr	hsa04114	activation
+PPP3R2	pp	CDC16	g-gr	hsa04114	activation
+PPP3R2	pp	CDC27	g-gr	hsa04114	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, IECEE, IECEE1, PPP2B	pp	CDC20, CDC20A, bA276H193, p55CDC	g-gr	hsa04114	activation
+PPP3CB	pp	CDC20, CDC20A, bA276H193, p55CDC	g-gr	hsa04114	activation
+PPP3CC	pp	CDC20, CDC20A, bA276H193, p55CDC	g-gr	hsa04114	activation
+PPP3R1	pp	CDC20, CDC20A, bA276H193, p55CDC	g-gr	hsa04114	activation
+PPP3R2	pp	CDC20, CDC20A, bA276H193, p55CDC	g-gr	hsa04114	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	activation
+PPP2CB	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	activation
+PPP2R1A	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	activation
+PPP2R1B	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	activation
+CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	inhibition
+CAMK2B	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	inhibition
+CAMK2D	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	inhibition
+CAMK2G	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	inhibition
+PLK1, PLK, STPK13	pp	FBXO43, EMI2, ERP1, FBX43	g-g	hsa04114	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+CUL1	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+RBX1	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+BTRC	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+CAMK2A, CAMKA, CaMKIINalpha, MRD53, MRT63	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+CAMK2B	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+CAMK2D	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+CAMK2G	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	inhibition
+FBXO43, EMI2, ERP1, FBX43	pp	CDC20, CDC20A, bA276H193, p55CDC	g-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC26	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC13	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC2	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC4	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC5	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC7	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC11	pp	PTTG2	gr-g	hsa04114	inhibition
+ANAPC1	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC23	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC16	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC27	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC26	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC13	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC2	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC4	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC5	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC7	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC11	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC1	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC23	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC16	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC27	pp	PTTG1	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG2	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG1	gr-g	hsa04114	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+CDC26	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC13	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC2	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC4	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC5	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC7	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC11	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+ANAPC1	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+CDC23	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+CDC16	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+CDC27	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	CCNB1, CCNB	gr-g	hsa04114	inhibition
+BUB1, BUB1A, BUB1L, hBUB1	pp	SGO1, CAID, NY-BR-85, SGO, SGOL1	g-g	hsa04114	indirect effect
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R5A, B56A, B56alpha, PR61A	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R5B	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R5C	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R5D	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R5E	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2CB	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R1A	g-gr	hsa04114	binding/association
+SGO1, CAID, NY-BR-85, SGO, SGOL1	pp	PPP2R1B	g-gr	hsa04114	binding/association
+PPP2R5A, B56A, B56alpha, PR61A	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R5B	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R5C	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R5D	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R5E	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2CB	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R1A	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PPP2R1B	pp	REC8, HR21spB, REC8L1, Rec8p	gr-g	hsa04114	activation
+PTTG2	pp	ESPL1, ESP1, SEPA	g-g	hsa04114	inhibition
+PTTG1	pp	ESPL1, ESP1, SEPA	g-g	hsa04114	inhibition
+ESPL1, ESP1, SEPA	pp	REC8, HR21spB, REC8L1, Rec8p	g-g	hsa04114	inhibition
+CCNB1, CCNB	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+CDK1, CDC2, CDC28A, P34CDC2	pp	FBXO43, EMI2, ERP1, FBX43	gr-g	hsa04114	inhibition
+YWHAQ, 14-3-3, 1C5, HS1	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+YWHAB	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+YWHAE	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+YWHAG	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+YWHAH	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+YWHAZ	pp	CDC25C, CDC25, PPP1R60	g-g	hsa04114	dissociation
+CDC25C, CDC25, PPP1R60	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04114	activation
+MOS, MSV	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04114	inhibition
+C01245				hsa04114	
+C00076				hsa04114	
+C00575				hsa04114	
+SMC1B, SMC1BETA, SMC1L2				hsa04114	
+SMC1A				hsa04114	
+STAG3				hsa04114	
+SMC1B, SMC1BETA, SMC1L2				hsa04114	
+SMC1A				hsa04114	
+STAG3				hsa04114	
+SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1				hsa04114	
+SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1				hsa04114	

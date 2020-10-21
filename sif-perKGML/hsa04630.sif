@@ -1,0 +1,3510 @@
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT2	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT3	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT4	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT5A	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT5B	group	hsa04630	group
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	gr	STAT6	group	hsa04630	group
+STAT2	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT3	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT4	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT5A	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT5B	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT6	gr	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	group	hsa04630	group
+STAT2	gr	STAT2	group	hsa04630	group
+STAT2	gr	STAT3	group	hsa04630	group
+STAT2	gr	STAT4	group	hsa04630	group
+STAT2	gr	STAT5A	group	hsa04630	group
+STAT2	gr	STAT5B	group	hsa04630	group
+STAT2	gr	STAT6	group	hsa04630	group
+STAT3	gr	STAT2	group	hsa04630	group
+STAT3	gr	STAT3	group	hsa04630	group
+STAT3	gr	STAT4	group	hsa04630	group
+STAT3	gr	STAT5A	group	hsa04630	group
+STAT3	gr	STAT5B	group	hsa04630	group
+STAT3	gr	STAT6	group	hsa04630	group
+STAT4	gr	STAT2	group	hsa04630	group
+STAT4	gr	STAT3	group	hsa04630	group
+STAT4	gr	STAT4	group	hsa04630	group
+STAT4	gr	STAT5A	group	hsa04630	group
+STAT4	gr	STAT5B	group	hsa04630	group
+STAT4	gr	STAT6	group	hsa04630	group
+STAT5A	gr	STAT2	group	hsa04630	group
+STAT5A	gr	STAT3	group	hsa04630	group
+STAT5A	gr	STAT4	group	hsa04630	group
+STAT5A	gr	STAT5A	group	hsa04630	group
+STAT5A	gr	STAT5B	group	hsa04630	group
+STAT5A	gr	STAT6	group	hsa04630	group
+STAT5B	gr	STAT2	group	hsa04630	group
+STAT5B	gr	STAT3	group	hsa04630	group
+STAT5B	gr	STAT4	group	hsa04630	group
+STAT5B	gr	STAT5A	group	hsa04630	group
+STAT5B	gr	STAT5B	group	hsa04630	group
+STAT5B	gr	STAT6	group	hsa04630	group
+STAT6	gr	STAT2	group	hsa04630	group
+STAT6	gr	STAT3	group	hsa04630	group
+STAT6	gr	STAT4	group	hsa04630	group
+STAT6	gr	STAT5A	group	hsa04630	group
+STAT6	gr	STAT5B	group	hsa04630	group
+STAT6	gr	STAT6	group	hsa04630	group
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	gr	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	group	hsa04630	group
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	CNTFR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	CSF2RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	CSF2RB	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	CSF3R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL23R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IFNLR1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	EGFR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	EPOR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	GHR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IFNAR1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IFNAR2	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IFNGR1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IFNGR2	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL2RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL2RB	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL2RG	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL3RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL4R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL5RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL6R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL6ST	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL7R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL9R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL10RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL10RB	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL11RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL12RB1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL12RB2	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL13RA1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL13RA2	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL15RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	LEPR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	LIFR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	MPL	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL21R	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	PDGFRA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	PDGFRB	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL20RA	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL20RB	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	PRLR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL22RA1	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	CRLF2	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	OSMR	g-g	hsa04630	activation
+IL24, C49A, FISP, IL10B, MDA7, MOB5, ST16	pp	IL27RA	g-g	hsa04630	activation
+CSF2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CTF1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNL2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNL3	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNL1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL19	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNE	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA4	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA5	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA6	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA7	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA8	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA10	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA13	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA14	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA16	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA17	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNA21	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNB1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNG	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNW1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL3	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL4	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL5	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL6	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL7	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL9	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL10	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL11	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL12A	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL12B	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL13	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL15	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+LIF	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+OSM	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL20	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL22	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL23A	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL17D	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IFNK	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+IL21	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+TSLP	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CSF2	pp	CNTFR	g-g	hsa04630	activation
+CSF2	pp	CSF2RA	g-g	hsa04630	activation
+CSF2	pp	CSF2RB	g-g	hsa04630	activation
+CSF2	pp	CSF3R	g-g	hsa04630	activation
+CSF2	pp	IL23R	g-g	hsa04630	activation
+CSF2	pp	IFNLR1	g-g	hsa04630	activation
+CSF2	pp	EGFR	g-g	hsa04630	activation
+CSF2	pp	EPOR	g-g	hsa04630	activation
+CSF2	pp	GHR	g-g	hsa04630	activation
+CSF2	pp	IFNAR1	g-g	hsa04630	activation
+CSF2	pp	IFNAR2	g-g	hsa04630	activation
+CSF2	pp	IFNGR1	g-g	hsa04630	activation
+CSF2	pp	IFNGR2	g-g	hsa04630	activation
+CSF2	pp	IL2RA	g-g	hsa04630	activation
+CSF2	pp	IL2RB	g-g	hsa04630	activation
+CSF2	pp	IL2RG	g-g	hsa04630	activation
+CSF2	pp	IL3RA	g-g	hsa04630	activation
+CSF2	pp	IL4R	g-g	hsa04630	activation
+CSF2	pp	IL5RA	g-g	hsa04630	activation
+CSF2	pp	IL6R	g-g	hsa04630	activation
+CSF2	pp	IL6ST	g-g	hsa04630	activation
+CSF2	pp	IL7R	g-g	hsa04630	activation
+CSF2	pp	IL9R	g-g	hsa04630	activation
+CSF2	pp	IL10RA	g-g	hsa04630	activation
+CSF2	pp	IL10RB	g-g	hsa04630	activation
+CSF2	pp	IL11RA	g-g	hsa04630	activation
+CSF2	pp	IL12RB1	g-g	hsa04630	activation
+CSF2	pp	IL12RB2	g-g	hsa04630	activation
+CSF2	pp	IL13RA1	g-g	hsa04630	activation
+CSF2	pp	IL13RA2	g-g	hsa04630	activation
+CSF2	pp	IL15RA	g-g	hsa04630	activation
+CSF2	pp	LEPR	g-g	hsa04630	activation
+CSF2	pp	LIFR	g-g	hsa04630	activation
+CSF2	pp	MPL	g-g	hsa04630	activation
+CSF2	pp	IL21R	g-g	hsa04630	activation
+CSF2	pp	PDGFRA	g-g	hsa04630	activation
+CSF2	pp	PDGFRB	g-g	hsa04630	activation
+CSF2	pp	IL20RA	g-g	hsa04630	activation
+CSF2	pp	IL20RB	g-g	hsa04630	activation
+CSF2	pp	PRLR	g-g	hsa04630	activation
+CSF2	pp	IL22RA1	g-g	hsa04630	activation
+CSF2	pp	CRLF2	g-g	hsa04630	activation
+CSF2	pp	OSMR	g-g	hsa04630	activation
+CSF2	pp	IL27RA	g-g	hsa04630	activation
+CTF1	pp	CNTFR	g-g	hsa04630	activation
+CTF1	pp	CSF2RA	g-g	hsa04630	activation
+CTF1	pp	CSF2RB	g-g	hsa04630	activation
+CTF1	pp	CSF3R	g-g	hsa04630	activation
+CTF1	pp	IL23R	g-g	hsa04630	activation
+CTF1	pp	IFNLR1	g-g	hsa04630	activation
+CTF1	pp	EGFR	g-g	hsa04630	activation
+CTF1	pp	EPOR	g-g	hsa04630	activation
+CTF1	pp	GHR	g-g	hsa04630	activation
+CTF1	pp	IFNAR1	g-g	hsa04630	activation
+CTF1	pp	IFNAR2	g-g	hsa04630	activation
+CTF1	pp	IFNGR1	g-g	hsa04630	activation
+CTF1	pp	IFNGR2	g-g	hsa04630	activation
+CTF1	pp	IL2RA	g-g	hsa04630	activation
+CTF1	pp	IL2RB	g-g	hsa04630	activation
+CTF1	pp	IL2RG	g-g	hsa04630	activation
+CTF1	pp	IL3RA	g-g	hsa04630	activation
+CTF1	pp	IL4R	g-g	hsa04630	activation
+CTF1	pp	IL5RA	g-g	hsa04630	activation
+CTF1	pp	IL6R	g-g	hsa04630	activation
+CTF1	pp	IL6ST	g-g	hsa04630	activation
+CTF1	pp	IL7R	g-g	hsa04630	activation
+CTF1	pp	IL9R	g-g	hsa04630	activation
+CTF1	pp	IL10RA	g-g	hsa04630	activation
+CTF1	pp	IL10RB	g-g	hsa04630	activation
+CTF1	pp	IL11RA	g-g	hsa04630	activation
+CTF1	pp	IL12RB1	g-g	hsa04630	activation
+CTF1	pp	IL12RB2	g-g	hsa04630	activation
+CTF1	pp	IL13RA1	g-g	hsa04630	activation
+CTF1	pp	IL13RA2	g-g	hsa04630	activation
+CTF1	pp	IL15RA	g-g	hsa04630	activation
+CTF1	pp	LEPR	g-g	hsa04630	activation
+CTF1	pp	LIFR	g-g	hsa04630	activation
+CTF1	pp	MPL	g-g	hsa04630	activation
+CTF1	pp	IL21R	g-g	hsa04630	activation
+CTF1	pp	PDGFRA	g-g	hsa04630	activation
+CTF1	pp	PDGFRB	g-g	hsa04630	activation
+CTF1	pp	IL20RA	g-g	hsa04630	activation
+CTF1	pp	IL20RB	g-g	hsa04630	activation
+CTF1	pp	PRLR	g-g	hsa04630	activation
+CTF1	pp	IL22RA1	g-g	hsa04630	activation
+CTF1	pp	CRLF2	g-g	hsa04630	activation
+CTF1	pp	OSMR	g-g	hsa04630	activation
+CTF1	pp	IL27RA	g-g	hsa04630	activation
+IFNL2	pp	CNTFR	g-g	hsa04630	activation
+IFNL2	pp	CSF2RA	g-g	hsa04630	activation
+IFNL2	pp	CSF2RB	g-g	hsa04630	activation
+IFNL2	pp	CSF3R	g-g	hsa04630	activation
+IFNL2	pp	IL23R	g-g	hsa04630	activation
+IFNL2	pp	IFNLR1	g-g	hsa04630	activation
+IFNL2	pp	EGFR	g-g	hsa04630	activation
+IFNL2	pp	EPOR	g-g	hsa04630	activation
+IFNL2	pp	GHR	g-g	hsa04630	activation
+IFNL2	pp	IFNAR1	g-g	hsa04630	activation
+IFNL2	pp	IFNAR2	g-g	hsa04630	activation
+IFNL2	pp	IFNGR1	g-g	hsa04630	activation
+IFNL2	pp	IFNGR2	g-g	hsa04630	activation
+IFNL2	pp	IL2RA	g-g	hsa04630	activation
+IFNL2	pp	IL2RB	g-g	hsa04630	activation
+IFNL2	pp	IL2RG	g-g	hsa04630	activation
+IFNL2	pp	IL3RA	g-g	hsa04630	activation
+IFNL2	pp	IL4R	g-g	hsa04630	activation
+IFNL2	pp	IL5RA	g-g	hsa04630	activation
+IFNL2	pp	IL6R	g-g	hsa04630	activation
+IFNL2	pp	IL6ST	g-g	hsa04630	activation
+IFNL2	pp	IL7R	g-g	hsa04630	activation
+IFNL2	pp	IL9R	g-g	hsa04630	activation
+IFNL2	pp	IL10RA	g-g	hsa04630	activation
+IFNL2	pp	IL10RB	g-g	hsa04630	activation
+IFNL2	pp	IL11RA	g-g	hsa04630	activation
+IFNL2	pp	IL12RB1	g-g	hsa04630	activation
+IFNL2	pp	IL12RB2	g-g	hsa04630	activation
+IFNL2	pp	IL13RA1	g-g	hsa04630	activation
+IFNL2	pp	IL13RA2	g-g	hsa04630	activation
+IFNL2	pp	IL15RA	g-g	hsa04630	activation
+IFNL2	pp	LEPR	g-g	hsa04630	activation
+IFNL2	pp	LIFR	g-g	hsa04630	activation
+IFNL2	pp	MPL	g-g	hsa04630	activation
+IFNL2	pp	IL21R	g-g	hsa04630	activation
+IFNL2	pp	PDGFRA	g-g	hsa04630	activation
+IFNL2	pp	PDGFRB	g-g	hsa04630	activation
+IFNL2	pp	IL20RA	g-g	hsa04630	activation
+IFNL2	pp	IL20RB	g-g	hsa04630	activation
+IFNL2	pp	PRLR	g-g	hsa04630	activation
+IFNL2	pp	IL22RA1	g-g	hsa04630	activation
+IFNL2	pp	CRLF2	g-g	hsa04630	activation
+IFNL2	pp	OSMR	g-g	hsa04630	activation
+IFNL2	pp	IL27RA	g-g	hsa04630	activation
+IFNL3	pp	CNTFR	g-g	hsa04630	activation
+IFNL3	pp	CSF2RA	g-g	hsa04630	activation
+IFNL3	pp	CSF2RB	g-g	hsa04630	activation
+IFNL3	pp	CSF3R	g-g	hsa04630	activation
+IFNL3	pp	IL23R	g-g	hsa04630	activation
+IFNL3	pp	IFNLR1	g-g	hsa04630	activation
+IFNL3	pp	EGFR	g-g	hsa04630	activation
+IFNL3	pp	EPOR	g-g	hsa04630	activation
+IFNL3	pp	GHR	g-g	hsa04630	activation
+IFNL3	pp	IFNAR1	g-g	hsa04630	activation
+IFNL3	pp	IFNAR2	g-g	hsa04630	activation
+IFNL3	pp	IFNGR1	g-g	hsa04630	activation
+IFNL3	pp	IFNGR2	g-g	hsa04630	activation
+IFNL3	pp	IL2RA	g-g	hsa04630	activation
+IFNL3	pp	IL2RB	g-g	hsa04630	activation
+IFNL3	pp	IL2RG	g-g	hsa04630	activation
+IFNL3	pp	IL3RA	g-g	hsa04630	activation
+IFNL3	pp	IL4R	g-g	hsa04630	activation
+IFNL3	pp	IL5RA	g-g	hsa04630	activation
+IFNL3	pp	IL6R	g-g	hsa04630	activation
+IFNL3	pp	IL6ST	g-g	hsa04630	activation
+IFNL3	pp	IL7R	g-g	hsa04630	activation
+IFNL3	pp	IL9R	g-g	hsa04630	activation
+IFNL3	pp	IL10RA	g-g	hsa04630	activation
+IFNL3	pp	IL10RB	g-g	hsa04630	activation
+IFNL3	pp	IL11RA	g-g	hsa04630	activation
+IFNL3	pp	IL12RB1	g-g	hsa04630	activation
+IFNL3	pp	IL12RB2	g-g	hsa04630	activation
+IFNL3	pp	IL13RA1	g-g	hsa04630	activation
+IFNL3	pp	IL13RA2	g-g	hsa04630	activation
+IFNL3	pp	IL15RA	g-g	hsa04630	activation
+IFNL3	pp	LEPR	g-g	hsa04630	activation
+IFNL3	pp	LIFR	g-g	hsa04630	activation
+IFNL3	pp	MPL	g-g	hsa04630	activation
+IFNL3	pp	IL21R	g-g	hsa04630	activation
+IFNL3	pp	PDGFRA	g-g	hsa04630	activation
+IFNL3	pp	PDGFRB	g-g	hsa04630	activation
+IFNL3	pp	IL20RA	g-g	hsa04630	activation
+IFNL3	pp	IL20RB	g-g	hsa04630	activation
+IFNL3	pp	PRLR	g-g	hsa04630	activation
+IFNL3	pp	IL22RA1	g-g	hsa04630	activation
+IFNL3	pp	CRLF2	g-g	hsa04630	activation
+IFNL3	pp	OSMR	g-g	hsa04630	activation
+IFNL3	pp	IL27RA	g-g	hsa04630	activation
+IFNL1	pp	CNTFR	g-g	hsa04630	activation
+IFNL1	pp	CSF2RA	g-g	hsa04630	activation
+IFNL1	pp	CSF2RB	g-g	hsa04630	activation
+IFNL1	pp	CSF3R	g-g	hsa04630	activation
+IFNL1	pp	IL23R	g-g	hsa04630	activation
+IFNL1	pp	IFNLR1	g-g	hsa04630	activation
+IFNL1	pp	EGFR	g-g	hsa04630	activation
+IFNL1	pp	EPOR	g-g	hsa04630	activation
+IFNL1	pp	GHR	g-g	hsa04630	activation
+IFNL1	pp	IFNAR1	g-g	hsa04630	activation
+IFNL1	pp	IFNAR2	g-g	hsa04630	activation
+IFNL1	pp	IFNGR1	g-g	hsa04630	activation
+IFNL1	pp	IFNGR2	g-g	hsa04630	activation
+IFNL1	pp	IL2RA	g-g	hsa04630	activation
+IFNL1	pp	IL2RB	g-g	hsa04630	activation
+IFNL1	pp	IL2RG	g-g	hsa04630	activation
+IFNL1	pp	IL3RA	g-g	hsa04630	activation
+IFNL1	pp	IL4R	g-g	hsa04630	activation
+IFNL1	pp	IL5RA	g-g	hsa04630	activation
+IFNL1	pp	IL6R	g-g	hsa04630	activation
+IFNL1	pp	IL6ST	g-g	hsa04630	activation
+IFNL1	pp	IL7R	g-g	hsa04630	activation
+IFNL1	pp	IL9R	g-g	hsa04630	activation
+IFNL1	pp	IL10RA	g-g	hsa04630	activation
+IFNL1	pp	IL10RB	g-g	hsa04630	activation
+IFNL1	pp	IL11RA	g-g	hsa04630	activation
+IFNL1	pp	IL12RB1	g-g	hsa04630	activation
+IFNL1	pp	IL12RB2	g-g	hsa04630	activation
+IFNL1	pp	IL13RA1	g-g	hsa04630	activation
+IFNL1	pp	IL13RA2	g-g	hsa04630	activation
+IFNL1	pp	IL15RA	g-g	hsa04630	activation
+IFNL1	pp	LEPR	g-g	hsa04630	activation
+IFNL1	pp	LIFR	g-g	hsa04630	activation
+IFNL1	pp	MPL	g-g	hsa04630	activation
+IFNL1	pp	IL21R	g-g	hsa04630	activation
+IFNL1	pp	PDGFRA	g-g	hsa04630	activation
+IFNL1	pp	PDGFRB	g-g	hsa04630	activation
+IFNL1	pp	IL20RA	g-g	hsa04630	activation
+IFNL1	pp	IL20RB	g-g	hsa04630	activation
+IFNL1	pp	PRLR	g-g	hsa04630	activation
+IFNL1	pp	IL22RA1	g-g	hsa04630	activation
+IFNL1	pp	CRLF2	g-g	hsa04630	activation
+IFNL1	pp	OSMR	g-g	hsa04630	activation
+IFNL1	pp	IL27RA	g-g	hsa04630	activation
+IL19	pp	CNTFR	g-g	hsa04630	activation
+IL19	pp	CSF2RA	g-g	hsa04630	activation
+IL19	pp	CSF2RB	g-g	hsa04630	activation
+IL19	pp	CSF3R	g-g	hsa04630	activation
+IL19	pp	IL23R	g-g	hsa04630	activation
+IL19	pp	IFNLR1	g-g	hsa04630	activation
+IL19	pp	EGFR	g-g	hsa04630	activation
+IL19	pp	EPOR	g-g	hsa04630	activation
+IL19	pp	GHR	g-g	hsa04630	activation
+IL19	pp	IFNAR1	g-g	hsa04630	activation
+IL19	pp	IFNAR2	g-g	hsa04630	activation
+IL19	pp	IFNGR1	g-g	hsa04630	activation
+IL19	pp	IFNGR2	g-g	hsa04630	activation
+IL19	pp	IL2RA	g-g	hsa04630	activation
+IL19	pp	IL2RB	g-g	hsa04630	activation
+IL19	pp	IL2RG	g-g	hsa04630	activation
+IL19	pp	IL3RA	g-g	hsa04630	activation
+IL19	pp	IL4R	g-g	hsa04630	activation
+IL19	pp	IL5RA	g-g	hsa04630	activation
+IL19	pp	IL6R	g-g	hsa04630	activation
+IL19	pp	IL6ST	g-g	hsa04630	activation
+IL19	pp	IL7R	g-g	hsa04630	activation
+IL19	pp	IL9R	g-g	hsa04630	activation
+IL19	pp	IL10RA	g-g	hsa04630	activation
+IL19	pp	IL10RB	g-g	hsa04630	activation
+IL19	pp	IL11RA	g-g	hsa04630	activation
+IL19	pp	IL12RB1	g-g	hsa04630	activation
+IL19	pp	IL12RB2	g-g	hsa04630	activation
+IL19	pp	IL13RA1	g-g	hsa04630	activation
+IL19	pp	IL13RA2	g-g	hsa04630	activation
+IL19	pp	IL15RA	g-g	hsa04630	activation
+IL19	pp	LEPR	g-g	hsa04630	activation
+IL19	pp	LIFR	g-g	hsa04630	activation
+IL19	pp	MPL	g-g	hsa04630	activation
+IL19	pp	IL21R	g-g	hsa04630	activation
+IL19	pp	PDGFRA	g-g	hsa04630	activation
+IL19	pp	PDGFRB	g-g	hsa04630	activation
+IL19	pp	IL20RA	g-g	hsa04630	activation
+IL19	pp	IL20RB	g-g	hsa04630	activation
+IL19	pp	PRLR	g-g	hsa04630	activation
+IL19	pp	IL22RA1	g-g	hsa04630	activation
+IL19	pp	CRLF2	g-g	hsa04630	activation
+IL19	pp	OSMR	g-g	hsa04630	activation
+IL19	pp	IL27RA	g-g	hsa04630	activation
+IFNE	pp	CNTFR	g-g	hsa04630	activation
+IFNE	pp	CSF2RA	g-g	hsa04630	activation
+IFNE	pp	CSF2RB	g-g	hsa04630	activation
+IFNE	pp	CSF3R	g-g	hsa04630	activation
+IFNE	pp	IL23R	g-g	hsa04630	activation
+IFNE	pp	IFNLR1	g-g	hsa04630	activation
+IFNE	pp	EGFR	g-g	hsa04630	activation
+IFNE	pp	EPOR	g-g	hsa04630	activation
+IFNE	pp	GHR	g-g	hsa04630	activation
+IFNE	pp	IFNAR1	g-g	hsa04630	activation
+IFNE	pp	IFNAR2	g-g	hsa04630	activation
+IFNE	pp	IFNGR1	g-g	hsa04630	activation
+IFNE	pp	IFNGR2	g-g	hsa04630	activation
+IFNE	pp	IL2RA	g-g	hsa04630	activation
+IFNE	pp	IL2RB	g-g	hsa04630	activation
+IFNE	pp	IL2RG	g-g	hsa04630	activation
+IFNE	pp	IL3RA	g-g	hsa04630	activation
+IFNE	pp	IL4R	g-g	hsa04630	activation
+IFNE	pp	IL5RA	g-g	hsa04630	activation
+IFNE	pp	IL6R	g-g	hsa04630	activation
+IFNE	pp	IL6ST	g-g	hsa04630	activation
+IFNE	pp	IL7R	g-g	hsa04630	activation
+IFNE	pp	IL9R	g-g	hsa04630	activation
+IFNE	pp	IL10RA	g-g	hsa04630	activation
+IFNE	pp	IL10RB	g-g	hsa04630	activation
+IFNE	pp	IL11RA	g-g	hsa04630	activation
+IFNE	pp	IL12RB1	g-g	hsa04630	activation
+IFNE	pp	IL12RB2	g-g	hsa04630	activation
+IFNE	pp	IL13RA1	g-g	hsa04630	activation
+IFNE	pp	IL13RA2	g-g	hsa04630	activation
+IFNE	pp	IL15RA	g-g	hsa04630	activation
+IFNE	pp	LEPR	g-g	hsa04630	activation
+IFNE	pp	LIFR	g-g	hsa04630	activation
+IFNE	pp	MPL	g-g	hsa04630	activation
+IFNE	pp	IL21R	g-g	hsa04630	activation
+IFNE	pp	PDGFRA	g-g	hsa04630	activation
+IFNE	pp	PDGFRB	g-g	hsa04630	activation
+IFNE	pp	IL20RA	g-g	hsa04630	activation
+IFNE	pp	IL20RB	g-g	hsa04630	activation
+IFNE	pp	PRLR	g-g	hsa04630	activation
+IFNE	pp	IL22RA1	g-g	hsa04630	activation
+IFNE	pp	CRLF2	g-g	hsa04630	activation
+IFNE	pp	OSMR	g-g	hsa04630	activation
+IFNE	pp	IL27RA	g-g	hsa04630	activation
+IFNA1	pp	CNTFR	g-g	hsa04630	activation
+IFNA1	pp	CSF2RA	g-g	hsa04630	activation
+IFNA1	pp	CSF2RB	g-g	hsa04630	activation
+IFNA1	pp	CSF3R	g-g	hsa04630	activation
+IFNA1	pp	IL23R	g-g	hsa04630	activation
+IFNA1	pp	IFNLR1	g-g	hsa04630	activation
+IFNA1	pp	EGFR	g-g	hsa04630	activation
+IFNA1	pp	EPOR	g-g	hsa04630	activation
+IFNA1	pp	GHR	g-g	hsa04630	activation
+IFNA1	pp	IFNAR1	g-g	hsa04630	activation
+IFNA1	pp	IFNAR2	g-g	hsa04630	activation
+IFNA1	pp	IFNGR1	g-g	hsa04630	activation
+IFNA1	pp	IFNGR2	g-g	hsa04630	activation
+IFNA1	pp	IL2RA	g-g	hsa04630	activation
+IFNA1	pp	IL2RB	g-g	hsa04630	activation
+IFNA1	pp	IL2RG	g-g	hsa04630	activation
+IFNA1	pp	IL3RA	g-g	hsa04630	activation
+IFNA1	pp	IL4R	g-g	hsa04630	activation
+IFNA1	pp	IL5RA	g-g	hsa04630	activation
+IFNA1	pp	IL6R	g-g	hsa04630	activation
+IFNA1	pp	IL6ST	g-g	hsa04630	activation
+IFNA1	pp	IL7R	g-g	hsa04630	activation
+IFNA1	pp	IL9R	g-g	hsa04630	activation
+IFNA1	pp	IL10RA	g-g	hsa04630	activation
+IFNA1	pp	IL10RB	g-g	hsa04630	activation
+IFNA1	pp	IL11RA	g-g	hsa04630	activation
+IFNA1	pp	IL12RB1	g-g	hsa04630	activation
+IFNA1	pp	IL12RB2	g-g	hsa04630	activation
+IFNA1	pp	IL13RA1	g-g	hsa04630	activation
+IFNA1	pp	IL13RA2	g-g	hsa04630	activation
+IFNA1	pp	IL15RA	g-g	hsa04630	activation
+IFNA1	pp	LEPR	g-g	hsa04630	activation
+IFNA1	pp	LIFR	g-g	hsa04630	activation
+IFNA1	pp	MPL	g-g	hsa04630	activation
+IFNA1	pp	IL21R	g-g	hsa04630	activation
+IFNA1	pp	PDGFRA	g-g	hsa04630	activation
+IFNA1	pp	PDGFRB	g-g	hsa04630	activation
+IFNA1	pp	IL20RA	g-g	hsa04630	activation
+IFNA1	pp	IL20RB	g-g	hsa04630	activation
+IFNA1	pp	PRLR	g-g	hsa04630	activation
+IFNA1	pp	IL22RA1	g-g	hsa04630	activation
+IFNA1	pp	CRLF2	g-g	hsa04630	activation
+IFNA1	pp	OSMR	g-g	hsa04630	activation
+IFNA1	pp	IL27RA	g-g	hsa04630	activation
+IFNA2	pp	CNTFR	g-g	hsa04630	activation
+IFNA2	pp	CSF2RA	g-g	hsa04630	activation
+IFNA2	pp	CSF2RB	g-g	hsa04630	activation
+IFNA2	pp	CSF3R	g-g	hsa04630	activation
+IFNA2	pp	IL23R	g-g	hsa04630	activation
+IFNA2	pp	IFNLR1	g-g	hsa04630	activation
+IFNA2	pp	EGFR	g-g	hsa04630	activation
+IFNA2	pp	EPOR	g-g	hsa04630	activation
+IFNA2	pp	GHR	g-g	hsa04630	activation
+IFNA2	pp	IFNAR1	g-g	hsa04630	activation
+IFNA2	pp	IFNAR2	g-g	hsa04630	activation
+IFNA2	pp	IFNGR1	g-g	hsa04630	activation
+IFNA2	pp	IFNGR2	g-g	hsa04630	activation
+IFNA2	pp	IL2RA	g-g	hsa04630	activation
+IFNA2	pp	IL2RB	g-g	hsa04630	activation
+IFNA2	pp	IL2RG	g-g	hsa04630	activation
+IFNA2	pp	IL3RA	g-g	hsa04630	activation
+IFNA2	pp	IL4R	g-g	hsa04630	activation
+IFNA2	pp	IL5RA	g-g	hsa04630	activation
+IFNA2	pp	IL6R	g-g	hsa04630	activation
+IFNA2	pp	IL6ST	g-g	hsa04630	activation
+IFNA2	pp	IL7R	g-g	hsa04630	activation
+IFNA2	pp	IL9R	g-g	hsa04630	activation
+IFNA2	pp	IL10RA	g-g	hsa04630	activation
+IFNA2	pp	IL10RB	g-g	hsa04630	activation
+IFNA2	pp	IL11RA	g-g	hsa04630	activation
+IFNA2	pp	IL12RB1	g-g	hsa04630	activation
+IFNA2	pp	IL12RB2	g-g	hsa04630	activation
+IFNA2	pp	IL13RA1	g-g	hsa04630	activation
+IFNA2	pp	IL13RA2	g-g	hsa04630	activation
+IFNA2	pp	IL15RA	g-g	hsa04630	activation
+IFNA2	pp	LEPR	g-g	hsa04630	activation
+IFNA2	pp	LIFR	g-g	hsa04630	activation
+IFNA2	pp	MPL	g-g	hsa04630	activation
+IFNA2	pp	IL21R	g-g	hsa04630	activation
+IFNA2	pp	PDGFRA	g-g	hsa04630	activation
+IFNA2	pp	PDGFRB	g-g	hsa04630	activation
+IFNA2	pp	IL20RA	g-g	hsa04630	activation
+IFNA2	pp	IL20RB	g-g	hsa04630	activation
+IFNA2	pp	PRLR	g-g	hsa04630	activation
+IFNA2	pp	IL22RA1	g-g	hsa04630	activation
+IFNA2	pp	CRLF2	g-g	hsa04630	activation
+IFNA2	pp	OSMR	g-g	hsa04630	activation
+IFNA2	pp	IL27RA	g-g	hsa04630	activation
+IFNA4	pp	CNTFR	g-g	hsa04630	activation
+IFNA4	pp	CSF2RA	g-g	hsa04630	activation
+IFNA4	pp	CSF2RB	g-g	hsa04630	activation
+IFNA4	pp	CSF3R	g-g	hsa04630	activation
+IFNA4	pp	IL23R	g-g	hsa04630	activation
+IFNA4	pp	IFNLR1	g-g	hsa04630	activation
+IFNA4	pp	EGFR	g-g	hsa04630	activation
+IFNA4	pp	EPOR	g-g	hsa04630	activation
+IFNA4	pp	GHR	g-g	hsa04630	activation
+IFNA4	pp	IFNAR1	g-g	hsa04630	activation
+IFNA4	pp	IFNAR2	g-g	hsa04630	activation
+IFNA4	pp	IFNGR1	g-g	hsa04630	activation
+IFNA4	pp	IFNGR2	g-g	hsa04630	activation
+IFNA4	pp	IL2RA	g-g	hsa04630	activation
+IFNA4	pp	IL2RB	g-g	hsa04630	activation
+IFNA4	pp	IL2RG	g-g	hsa04630	activation
+IFNA4	pp	IL3RA	g-g	hsa04630	activation
+IFNA4	pp	IL4R	g-g	hsa04630	activation
+IFNA4	pp	IL5RA	g-g	hsa04630	activation
+IFNA4	pp	IL6R	g-g	hsa04630	activation
+IFNA4	pp	IL6ST	g-g	hsa04630	activation
+IFNA4	pp	IL7R	g-g	hsa04630	activation
+IFNA4	pp	IL9R	g-g	hsa04630	activation
+IFNA4	pp	IL10RA	g-g	hsa04630	activation
+IFNA4	pp	IL10RB	g-g	hsa04630	activation
+IFNA4	pp	IL11RA	g-g	hsa04630	activation
+IFNA4	pp	IL12RB1	g-g	hsa04630	activation
+IFNA4	pp	IL12RB2	g-g	hsa04630	activation
+IFNA4	pp	IL13RA1	g-g	hsa04630	activation
+IFNA4	pp	IL13RA2	g-g	hsa04630	activation
+IFNA4	pp	IL15RA	g-g	hsa04630	activation
+IFNA4	pp	LEPR	g-g	hsa04630	activation
+IFNA4	pp	LIFR	g-g	hsa04630	activation
+IFNA4	pp	MPL	g-g	hsa04630	activation
+IFNA4	pp	IL21R	g-g	hsa04630	activation
+IFNA4	pp	PDGFRA	g-g	hsa04630	activation
+IFNA4	pp	PDGFRB	g-g	hsa04630	activation
+IFNA4	pp	IL20RA	g-g	hsa04630	activation
+IFNA4	pp	IL20RB	g-g	hsa04630	activation
+IFNA4	pp	PRLR	g-g	hsa04630	activation
+IFNA4	pp	IL22RA1	g-g	hsa04630	activation
+IFNA4	pp	CRLF2	g-g	hsa04630	activation
+IFNA4	pp	OSMR	g-g	hsa04630	activation
+IFNA4	pp	IL27RA	g-g	hsa04630	activation
+IFNA5	pp	CNTFR	g-g	hsa04630	activation
+IFNA5	pp	CSF2RA	g-g	hsa04630	activation
+IFNA5	pp	CSF2RB	g-g	hsa04630	activation
+IFNA5	pp	CSF3R	g-g	hsa04630	activation
+IFNA5	pp	IL23R	g-g	hsa04630	activation
+IFNA5	pp	IFNLR1	g-g	hsa04630	activation
+IFNA5	pp	EGFR	g-g	hsa04630	activation
+IFNA5	pp	EPOR	g-g	hsa04630	activation
+IFNA5	pp	GHR	g-g	hsa04630	activation
+IFNA5	pp	IFNAR1	g-g	hsa04630	activation
+IFNA5	pp	IFNAR2	g-g	hsa04630	activation
+IFNA5	pp	IFNGR1	g-g	hsa04630	activation
+IFNA5	pp	IFNGR2	g-g	hsa04630	activation
+IFNA5	pp	IL2RA	g-g	hsa04630	activation
+IFNA5	pp	IL2RB	g-g	hsa04630	activation
+IFNA5	pp	IL2RG	g-g	hsa04630	activation
+IFNA5	pp	IL3RA	g-g	hsa04630	activation
+IFNA5	pp	IL4R	g-g	hsa04630	activation
+IFNA5	pp	IL5RA	g-g	hsa04630	activation
+IFNA5	pp	IL6R	g-g	hsa04630	activation
+IFNA5	pp	IL6ST	g-g	hsa04630	activation
+IFNA5	pp	IL7R	g-g	hsa04630	activation
+IFNA5	pp	IL9R	g-g	hsa04630	activation
+IFNA5	pp	IL10RA	g-g	hsa04630	activation
+IFNA5	pp	IL10RB	g-g	hsa04630	activation
+IFNA5	pp	IL11RA	g-g	hsa04630	activation
+IFNA5	pp	IL12RB1	g-g	hsa04630	activation
+IFNA5	pp	IL12RB2	g-g	hsa04630	activation
+IFNA5	pp	IL13RA1	g-g	hsa04630	activation
+IFNA5	pp	IL13RA2	g-g	hsa04630	activation
+IFNA5	pp	IL15RA	g-g	hsa04630	activation
+IFNA5	pp	LEPR	g-g	hsa04630	activation
+IFNA5	pp	LIFR	g-g	hsa04630	activation
+IFNA5	pp	MPL	g-g	hsa04630	activation
+IFNA5	pp	IL21R	g-g	hsa04630	activation
+IFNA5	pp	PDGFRA	g-g	hsa04630	activation
+IFNA5	pp	PDGFRB	g-g	hsa04630	activation
+IFNA5	pp	IL20RA	g-g	hsa04630	activation
+IFNA5	pp	IL20RB	g-g	hsa04630	activation
+IFNA5	pp	PRLR	g-g	hsa04630	activation
+IFNA5	pp	IL22RA1	g-g	hsa04630	activation
+IFNA5	pp	CRLF2	g-g	hsa04630	activation
+IFNA5	pp	OSMR	g-g	hsa04630	activation
+IFNA5	pp	IL27RA	g-g	hsa04630	activation
+IFNA6	pp	CNTFR	g-g	hsa04630	activation
+IFNA6	pp	CSF2RA	g-g	hsa04630	activation
+IFNA6	pp	CSF2RB	g-g	hsa04630	activation
+IFNA6	pp	CSF3R	g-g	hsa04630	activation
+IFNA6	pp	IL23R	g-g	hsa04630	activation
+IFNA6	pp	IFNLR1	g-g	hsa04630	activation
+IFNA6	pp	EGFR	g-g	hsa04630	activation
+IFNA6	pp	EPOR	g-g	hsa04630	activation
+IFNA6	pp	GHR	g-g	hsa04630	activation
+IFNA6	pp	IFNAR1	g-g	hsa04630	activation
+IFNA6	pp	IFNAR2	g-g	hsa04630	activation
+IFNA6	pp	IFNGR1	g-g	hsa04630	activation
+IFNA6	pp	IFNGR2	g-g	hsa04630	activation
+IFNA6	pp	IL2RA	g-g	hsa04630	activation
+IFNA6	pp	IL2RB	g-g	hsa04630	activation
+IFNA6	pp	IL2RG	g-g	hsa04630	activation
+IFNA6	pp	IL3RA	g-g	hsa04630	activation
+IFNA6	pp	IL4R	g-g	hsa04630	activation
+IFNA6	pp	IL5RA	g-g	hsa04630	activation
+IFNA6	pp	IL6R	g-g	hsa04630	activation
+IFNA6	pp	IL6ST	g-g	hsa04630	activation
+IFNA6	pp	IL7R	g-g	hsa04630	activation
+IFNA6	pp	IL9R	g-g	hsa04630	activation
+IFNA6	pp	IL10RA	g-g	hsa04630	activation
+IFNA6	pp	IL10RB	g-g	hsa04630	activation
+IFNA6	pp	IL11RA	g-g	hsa04630	activation
+IFNA6	pp	IL12RB1	g-g	hsa04630	activation
+IFNA6	pp	IL12RB2	g-g	hsa04630	activation
+IFNA6	pp	IL13RA1	g-g	hsa04630	activation
+IFNA6	pp	IL13RA2	g-g	hsa04630	activation
+IFNA6	pp	IL15RA	g-g	hsa04630	activation
+IFNA6	pp	LEPR	g-g	hsa04630	activation
+IFNA6	pp	LIFR	g-g	hsa04630	activation
+IFNA6	pp	MPL	g-g	hsa04630	activation
+IFNA6	pp	IL21R	g-g	hsa04630	activation
+IFNA6	pp	PDGFRA	g-g	hsa04630	activation
+IFNA6	pp	PDGFRB	g-g	hsa04630	activation
+IFNA6	pp	IL20RA	g-g	hsa04630	activation
+IFNA6	pp	IL20RB	g-g	hsa04630	activation
+IFNA6	pp	PRLR	g-g	hsa04630	activation
+IFNA6	pp	IL22RA1	g-g	hsa04630	activation
+IFNA6	pp	CRLF2	g-g	hsa04630	activation
+IFNA6	pp	OSMR	g-g	hsa04630	activation
+IFNA6	pp	IL27RA	g-g	hsa04630	activation
+IFNA7	pp	CNTFR	g-g	hsa04630	activation
+IFNA7	pp	CSF2RA	g-g	hsa04630	activation
+IFNA7	pp	CSF2RB	g-g	hsa04630	activation
+IFNA7	pp	CSF3R	g-g	hsa04630	activation
+IFNA7	pp	IL23R	g-g	hsa04630	activation
+IFNA7	pp	IFNLR1	g-g	hsa04630	activation
+IFNA7	pp	EGFR	g-g	hsa04630	activation
+IFNA7	pp	EPOR	g-g	hsa04630	activation
+IFNA7	pp	GHR	g-g	hsa04630	activation
+IFNA7	pp	IFNAR1	g-g	hsa04630	activation
+IFNA7	pp	IFNAR2	g-g	hsa04630	activation
+IFNA7	pp	IFNGR1	g-g	hsa04630	activation
+IFNA7	pp	IFNGR2	g-g	hsa04630	activation
+IFNA7	pp	IL2RA	g-g	hsa04630	activation
+IFNA7	pp	IL2RB	g-g	hsa04630	activation
+IFNA7	pp	IL2RG	g-g	hsa04630	activation
+IFNA7	pp	IL3RA	g-g	hsa04630	activation
+IFNA7	pp	IL4R	g-g	hsa04630	activation
+IFNA7	pp	IL5RA	g-g	hsa04630	activation
+IFNA7	pp	IL6R	g-g	hsa04630	activation
+IFNA7	pp	IL6ST	g-g	hsa04630	activation
+IFNA7	pp	IL7R	g-g	hsa04630	activation
+IFNA7	pp	IL9R	g-g	hsa04630	activation
+IFNA7	pp	IL10RA	g-g	hsa04630	activation
+IFNA7	pp	IL10RB	g-g	hsa04630	activation
+IFNA7	pp	IL11RA	g-g	hsa04630	activation
+IFNA7	pp	IL12RB1	g-g	hsa04630	activation
+IFNA7	pp	IL12RB2	g-g	hsa04630	activation
+IFNA7	pp	IL13RA1	g-g	hsa04630	activation
+IFNA7	pp	IL13RA2	g-g	hsa04630	activation
+IFNA7	pp	IL15RA	g-g	hsa04630	activation
+IFNA7	pp	LEPR	g-g	hsa04630	activation
+IFNA7	pp	LIFR	g-g	hsa04630	activation
+IFNA7	pp	MPL	g-g	hsa04630	activation
+IFNA7	pp	IL21R	g-g	hsa04630	activation
+IFNA7	pp	PDGFRA	g-g	hsa04630	activation
+IFNA7	pp	PDGFRB	g-g	hsa04630	activation
+IFNA7	pp	IL20RA	g-g	hsa04630	activation
+IFNA7	pp	IL20RB	g-g	hsa04630	activation
+IFNA7	pp	PRLR	g-g	hsa04630	activation
+IFNA7	pp	IL22RA1	g-g	hsa04630	activation
+IFNA7	pp	CRLF2	g-g	hsa04630	activation
+IFNA7	pp	OSMR	g-g	hsa04630	activation
+IFNA7	pp	IL27RA	g-g	hsa04630	activation
+IFNA8	pp	CNTFR	g-g	hsa04630	activation
+IFNA8	pp	CSF2RA	g-g	hsa04630	activation
+IFNA8	pp	CSF2RB	g-g	hsa04630	activation
+IFNA8	pp	CSF3R	g-g	hsa04630	activation
+IFNA8	pp	IL23R	g-g	hsa04630	activation
+IFNA8	pp	IFNLR1	g-g	hsa04630	activation
+IFNA8	pp	EGFR	g-g	hsa04630	activation
+IFNA8	pp	EPOR	g-g	hsa04630	activation
+IFNA8	pp	GHR	g-g	hsa04630	activation
+IFNA8	pp	IFNAR1	g-g	hsa04630	activation
+IFNA8	pp	IFNAR2	g-g	hsa04630	activation
+IFNA8	pp	IFNGR1	g-g	hsa04630	activation
+IFNA8	pp	IFNGR2	g-g	hsa04630	activation
+IFNA8	pp	IL2RA	g-g	hsa04630	activation
+IFNA8	pp	IL2RB	g-g	hsa04630	activation
+IFNA8	pp	IL2RG	g-g	hsa04630	activation
+IFNA8	pp	IL3RA	g-g	hsa04630	activation
+IFNA8	pp	IL4R	g-g	hsa04630	activation
+IFNA8	pp	IL5RA	g-g	hsa04630	activation
+IFNA8	pp	IL6R	g-g	hsa04630	activation
+IFNA8	pp	IL6ST	g-g	hsa04630	activation
+IFNA8	pp	IL7R	g-g	hsa04630	activation
+IFNA8	pp	IL9R	g-g	hsa04630	activation
+IFNA8	pp	IL10RA	g-g	hsa04630	activation
+IFNA8	pp	IL10RB	g-g	hsa04630	activation
+IFNA8	pp	IL11RA	g-g	hsa04630	activation
+IFNA8	pp	IL12RB1	g-g	hsa04630	activation
+IFNA8	pp	IL12RB2	g-g	hsa04630	activation
+IFNA8	pp	IL13RA1	g-g	hsa04630	activation
+IFNA8	pp	IL13RA2	g-g	hsa04630	activation
+IFNA8	pp	IL15RA	g-g	hsa04630	activation
+IFNA8	pp	LEPR	g-g	hsa04630	activation
+IFNA8	pp	LIFR	g-g	hsa04630	activation
+IFNA8	pp	MPL	g-g	hsa04630	activation
+IFNA8	pp	IL21R	g-g	hsa04630	activation
+IFNA8	pp	PDGFRA	g-g	hsa04630	activation
+IFNA8	pp	PDGFRB	g-g	hsa04630	activation
+IFNA8	pp	IL20RA	g-g	hsa04630	activation
+IFNA8	pp	IL20RB	g-g	hsa04630	activation
+IFNA8	pp	PRLR	g-g	hsa04630	activation
+IFNA8	pp	IL22RA1	g-g	hsa04630	activation
+IFNA8	pp	CRLF2	g-g	hsa04630	activation
+IFNA8	pp	OSMR	g-g	hsa04630	activation
+IFNA8	pp	IL27RA	g-g	hsa04630	activation
+IFNA10	pp	CNTFR	g-g	hsa04630	activation
+IFNA10	pp	CSF2RA	g-g	hsa04630	activation
+IFNA10	pp	CSF2RB	g-g	hsa04630	activation
+IFNA10	pp	CSF3R	g-g	hsa04630	activation
+IFNA10	pp	IL23R	g-g	hsa04630	activation
+IFNA10	pp	IFNLR1	g-g	hsa04630	activation
+IFNA10	pp	EGFR	g-g	hsa04630	activation
+IFNA10	pp	EPOR	g-g	hsa04630	activation
+IFNA10	pp	GHR	g-g	hsa04630	activation
+IFNA10	pp	IFNAR1	g-g	hsa04630	activation
+IFNA10	pp	IFNAR2	g-g	hsa04630	activation
+IFNA10	pp	IFNGR1	g-g	hsa04630	activation
+IFNA10	pp	IFNGR2	g-g	hsa04630	activation
+IFNA10	pp	IL2RA	g-g	hsa04630	activation
+IFNA10	pp	IL2RB	g-g	hsa04630	activation
+IFNA10	pp	IL2RG	g-g	hsa04630	activation
+IFNA10	pp	IL3RA	g-g	hsa04630	activation
+IFNA10	pp	IL4R	g-g	hsa04630	activation
+IFNA10	pp	IL5RA	g-g	hsa04630	activation
+IFNA10	pp	IL6R	g-g	hsa04630	activation
+IFNA10	pp	IL6ST	g-g	hsa04630	activation
+IFNA10	pp	IL7R	g-g	hsa04630	activation
+IFNA10	pp	IL9R	g-g	hsa04630	activation
+IFNA10	pp	IL10RA	g-g	hsa04630	activation
+IFNA10	pp	IL10RB	g-g	hsa04630	activation
+IFNA10	pp	IL11RA	g-g	hsa04630	activation
+IFNA10	pp	IL12RB1	g-g	hsa04630	activation
+IFNA10	pp	IL12RB2	g-g	hsa04630	activation
+IFNA10	pp	IL13RA1	g-g	hsa04630	activation
+IFNA10	pp	IL13RA2	g-g	hsa04630	activation
+IFNA10	pp	IL15RA	g-g	hsa04630	activation
+IFNA10	pp	LEPR	g-g	hsa04630	activation
+IFNA10	pp	LIFR	g-g	hsa04630	activation
+IFNA10	pp	MPL	g-g	hsa04630	activation
+IFNA10	pp	IL21R	g-g	hsa04630	activation
+IFNA10	pp	PDGFRA	g-g	hsa04630	activation
+IFNA10	pp	PDGFRB	g-g	hsa04630	activation
+IFNA10	pp	IL20RA	g-g	hsa04630	activation
+IFNA10	pp	IL20RB	g-g	hsa04630	activation
+IFNA10	pp	PRLR	g-g	hsa04630	activation
+IFNA10	pp	IL22RA1	g-g	hsa04630	activation
+IFNA10	pp	CRLF2	g-g	hsa04630	activation
+IFNA10	pp	OSMR	g-g	hsa04630	activation
+IFNA10	pp	IL27RA	g-g	hsa04630	activation
+IFNA13	pp	CNTFR	g-g	hsa04630	activation
+IFNA13	pp	CSF2RA	g-g	hsa04630	activation
+IFNA13	pp	CSF2RB	g-g	hsa04630	activation
+IFNA13	pp	CSF3R	g-g	hsa04630	activation
+IFNA13	pp	IL23R	g-g	hsa04630	activation
+IFNA13	pp	IFNLR1	g-g	hsa04630	activation
+IFNA13	pp	EGFR	g-g	hsa04630	activation
+IFNA13	pp	EPOR	g-g	hsa04630	activation
+IFNA13	pp	GHR	g-g	hsa04630	activation
+IFNA13	pp	IFNAR1	g-g	hsa04630	activation
+IFNA13	pp	IFNAR2	g-g	hsa04630	activation
+IFNA13	pp	IFNGR1	g-g	hsa04630	activation
+IFNA13	pp	IFNGR2	g-g	hsa04630	activation
+IFNA13	pp	IL2RA	g-g	hsa04630	activation
+IFNA13	pp	IL2RB	g-g	hsa04630	activation
+IFNA13	pp	IL2RG	g-g	hsa04630	activation
+IFNA13	pp	IL3RA	g-g	hsa04630	activation
+IFNA13	pp	IL4R	g-g	hsa04630	activation
+IFNA13	pp	IL5RA	g-g	hsa04630	activation
+IFNA13	pp	IL6R	g-g	hsa04630	activation
+IFNA13	pp	IL6ST	g-g	hsa04630	activation
+IFNA13	pp	IL7R	g-g	hsa04630	activation
+IFNA13	pp	IL9R	g-g	hsa04630	activation
+IFNA13	pp	IL10RA	g-g	hsa04630	activation
+IFNA13	pp	IL10RB	g-g	hsa04630	activation
+IFNA13	pp	IL11RA	g-g	hsa04630	activation
+IFNA13	pp	IL12RB1	g-g	hsa04630	activation
+IFNA13	pp	IL12RB2	g-g	hsa04630	activation
+IFNA13	pp	IL13RA1	g-g	hsa04630	activation
+IFNA13	pp	IL13RA2	g-g	hsa04630	activation
+IFNA13	pp	IL15RA	g-g	hsa04630	activation
+IFNA13	pp	LEPR	g-g	hsa04630	activation
+IFNA13	pp	LIFR	g-g	hsa04630	activation
+IFNA13	pp	MPL	g-g	hsa04630	activation
+IFNA13	pp	IL21R	g-g	hsa04630	activation
+IFNA13	pp	PDGFRA	g-g	hsa04630	activation
+IFNA13	pp	PDGFRB	g-g	hsa04630	activation
+IFNA13	pp	IL20RA	g-g	hsa04630	activation
+IFNA13	pp	IL20RB	g-g	hsa04630	activation
+IFNA13	pp	PRLR	g-g	hsa04630	activation
+IFNA13	pp	IL22RA1	g-g	hsa04630	activation
+IFNA13	pp	CRLF2	g-g	hsa04630	activation
+IFNA13	pp	OSMR	g-g	hsa04630	activation
+IFNA13	pp	IL27RA	g-g	hsa04630	activation
+IFNA14	pp	CNTFR	g-g	hsa04630	activation
+IFNA14	pp	CSF2RA	g-g	hsa04630	activation
+IFNA14	pp	CSF2RB	g-g	hsa04630	activation
+IFNA14	pp	CSF3R	g-g	hsa04630	activation
+IFNA14	pp	IL23R	g-g	hsa04630	activation
+IFNA14	pp	IFNLR1	g-g	hsa04630	activation
+IFNA14	pp	EGFR	g-g	hsa04630	activation
+IFNA14	pp	EPOR	g-g	hsa04630	activation
+IFNA14	pp	GHR	g-g	hsa04630	activation
+IFNA14	pp	IFNAR1	g-g	hsa04630	activation
+IFNA14	pp	IFNAR2	g-g	hsa04630	activation
+IFNA14	pp	IFNGR1	g-g	hsa04630	activation
+IFNA14	pp	IFNGR2	g-g	hsa04630	activation
+IFNA14	pp	IL2RA	g-g	hsa04630	activation
+IFNA14	pp	IL2RB	g-g	hsa04630	activation
+IFNA14	pp	IL2RG	g-g	hsa04630	activation
+IFNA14	pp	IL3RA	g-g	hsa04630	activation
+IFNA14	pp	IL4R	g-g	hsa04630	activation
+IFNA14	pp	IL5RA	g-g	hsa04630	activation
+IFNA14	pp	IL6R	g-g	hsa04630	activation
+IFNA14	pp	IL6ST	g-g	hsa04630	activation
+IFNA14	pp	IL7R	g-g	hsa04630	activation
+IFNA14	pp	IL9R	g-g	hsa04630	activation
+IFNA14	pp	IL10RA	g-g	hsa04630	activation
+IFNA14	pp	IL10RB	g-g	hsa04630	activation
+IFNA14	pp	IL11RA	g-g	hsa04630	activation
+IFNA14	pp	IL12RB1	g-g	hsa04630	activation
+IFNA14	pp	IL12RB2	g-g	hsa04630	activation
+IFNA14	pp	IL13RA1	g-g	hsa04630	activation
+IFNA14	pp	IL13RA2	g-g	hsa04630	activation
+IFNA14	pp	IL15RA	g-g	hsa04630	activation
+IFNA14	pp	LEPR	g-g	hsa04630	activation
+IFNA14	pp	LIFR	g-g	hsa04630	activation
+IFNA14	pp	MPL	g-g	hsa04630	activation
+IFNA14	pp	IL21R	g-g	hsa04630	activation
+IFNA14	pp	PDGFRA	g-g	hsa04630	activation
+IFNA14	pp	PDGFRB	g-g	hsa04630	activation
+IFNA14	pp	IL20RA	g-g	hsa04630	activation
+IFNA14	pp	IL20RB	g-g	hsa04630	activation
+IFNA14	pp	PRLR	g-g	hsa04630	activation
+IFNA14	pp	IL22RA1	g-g	hsa04630	activation
+IFNA14	pp	CRLF2	g-g	hsa04630	activation
+IFNA14	pp	OSMR	g-g	hsa04630	activation
+IFNA14	pp	IL27RA	g-g	hsa04630	activation
+IFNA16	pp	CNTFR	g-g	hsa04630	activation
+IFNA16	pp	CSF2RA	g-g	hsa04630	activation
+IFNA16	pp	CSF2RB	g-g	hsa04630	activation
+IFNA16	pp	CSF3R	g-g	hsa04630	activation
+IFNA16	pp	IL23R	g-g	hsa04630	activation
+IFNA16	pp	IFNLR1	g-g	hsa04630	activation
+IFNA16	pp	EGFR	g-g	hsa04630	activation
+IFNA16	pp	EPOR	g-g	hsa04630	activation
+IFNA16	pp	GHR	g-g	hsa04630	activation
+IFNA16	pp	IFNAR1	g-g	hsa04630	activation
+IFNA16	pp	IFNAR2	g-g	hsa04630	activation
+IFNA16	pp	IFNGR1	g-g	hsa04630	activation
+IFNA16	pp	IFNGR2	g-g	hsa04630	activation
+IFNA16	pp	IL2RA	g-g	hsa04630	activation
+IFNA16	pp	IL2RB	g-g	hsa04630	activation
+IFNA16	pp	IL2RG	g-g	hsa04630	activation
+IFNA16	pp	IL3RA	g-g	hsa04630	activation
+IFNA16	pp	IL4R	g-g	hsa04630	activation
+IFNA16	pp	IL5RA	g-g	hsa04630	activation
+IFNA16	pp	IL6R	g-g	hsa04630	activation
+IFNA16	pp	IL6ST	g-g	hsa04630	activation
+IFNA16	pp	IL7R	g-g	hsa04630	activation
+IFNA16	pp	IL9R	g-g	hsa04630	activation
+IFNA16	pp	IL10RA	g-g	hsa04630	activation
+IFNA16	pp	IL10RB	g-g	hsa04630	activation
+IFNA16	pp	IL11RA	g-g	hsa04630	activation
+IFNA16	pp	IL12RB1	g-g	hsa04630	activation
+IFNA16	pp	IL12RB2	g-g	hsa04630	activation
+IFNA16	pp	IL13RA1	g-g	hsa04630	activation
+IFNA16	pp	IL13RA2	g-g	hsa04630	activation
+IFNA16	pp	IL15RA	g-g	hsa04630	activation
+IFNA16	pp	LEPR	g-g	hsa04630	activation
+IFNA16	pp	LIFR	g-g	hsa04630	activation
+IFNA16	pp	MPL	g-g	hsa04630	activation
+IFNA16	pp	IL21R	g-g	hsa04630	activation
+IFNA16	pp	PDGFRA	g-g	hsa04630	activation
+IFNA16	pp	PDGFRB	g-g	hsa04630	activation
+IFNA16	pp	IL20RA	g-g	hsa04630	activation
+IFNA16	pp	IL20RB	g-g	hsa04630	activation
+IFNA16	pp	PRLR	g-g	hsa04630	activation
+IFNA16	pp	IL22RA1	g-g	hsa04630	activation
+IFNA16	pp	CRLF2	g-g	hsa04630	activation
+IFNA16	pp	OSMR	g-g	hsa04630	activation
+IFNA16	pp	IL27RA	g-g	hsa04630	activation
+IFNA17	pp	CNTFR	g-g	hsa04630	activation
+IFNA17	pp	CSF2RA	g-g	hsa04630	activation
+IFNA17	pp	CSF2RB	g-g	hsa04630	activation
+IFNA17	pp	CSF3R	g-g	hsa04630	activation
+IFNA17	pp	IL23R	g-g	hsa04630	activation
+IFNA17	pp	IFNLR1	g-g	hsa04630	activation
+IFNA17	pp	EGFR	g-g	hsa04630	activation
+IFNA17	pp	EPOR	g-g	hsa04630	activation
+IFNA17	pp	GHR	g-g	hsa04630	activation
+IFNA17	pp	IFNAR1	g-g	hsa04630	activation
+IFNA17	pp	IFNAR2	g-g	hsa04630	activation
+IFNA17	pp	IFNGR1	g-g	hsa04630	activation
+IFNA17	pp	IFNGR2	g-g	hsa04630	activation
+IFNA17	pp	IL2RA	g-g	hsa04630	activation
+IFNA17	pp	IL2RB	g-g	hsa04630	activation
+IFNA17	pp	IL2RG	g-g	hsa04630	activation
+IFNA17	pp	IL3RA	g-g	hsa04630	activation
+IFNA17	pp	IL4R	g-g	hsa04630	activation
+IFNA17	pp	IL5RA	g-g	hsa04630	activation
+IFNA17	pp	IL6R	g-g	hsa04630	activation
+IFNA17	pp	IL6ST	g-g	hsa04630	activation
+IFNA17	pp	IL7R	g-g	hsa04630	activation
+IFNA17	pp	IL9R	g-g	hsa04630	activation
+IFNA17	pp	IL10RA	g-g	hsa04630	activation
+IFNA17	pp	IL10RB	g-g	hsa04630	activation
+IFNA17	pp	IL11RA	g-g	hsa04630	activation
+IFNA17	pp	IL12RB1	g-g	hsa04630	activation
+IFNA17	pp	IL12RB2	g-g	hsa04630	activation
+IFNA17	pp	IL13RA1	g-g	hsa04630	activation
+IFNA17	pp	IL13RA2	g-g	hsa04630	activation
+IFNA17	pp	IL15RA	g-g	hsa04630	activation
+IFNA17	pp	LEPR	g-g	hsa04630	activation
+IFNA17	pp	LIFR	g-g	hsa04630	activation
+IFNA17	pp	MPL	g-g	hsa04630	activation
+IFNA17	pp	IL21R	g-g	hsa04630	activation
+IFNA17	pp	PDGFRA	g-g	hsa04630	activation
+IFNA17	pp	PDGFRB	g-g	hsa04630	activation
+IFNA17	pp	IL20RA	g-g	hsa04630	activation
+IFNA17	pp	IL20RB	g-g	hsa04630	activation
+IFNA17	pp	PRLR	g-g	hsa04630	activation
+IFNA17	pp	IL22RA1	g-g	hsa04630	activation
+IFNA17	pp	CRLF2	g-g	hsa04630	activation
+IFNA17	pp	OSMR	g-g	hsa04630	activation
+IFNA17	pp	IL27RA	g-g	hsa04630	activation
+IFNA21	pp	CNTFR	g-g	hsa04630	activation
+IFNA21	pp	CSF2RA	g-g	hsa04630	activation
+IFNA21	pp	CSF2RB	g-g	hsa04630	activation
+IFNA21	pp	CSF3R	g-g	hsa04630	activation
+IFNA21	pp	IL23R	g-g	hsa04630	activation
+IFNA21	pp	IFNLR1	g-g	hsa04630	activation
+IFNA21	pp	EGFR	g-g	hsa04630	activation
+IFNA21	pp	EPOR	g-g	hsa04630	activation
+IFNA21	pp	GHR	g-g	hsa04630	activation
+IFNA21	pp	IFNAR1	g-g	hsa04630	activation
+IFNA21	pp	IFNAR2	g-g	hsa04630	activation
+IFNA21	pp	IFNGR1	g-g	hsa04630	activation
+IFNA21	pp	IFNGR2	g-g	hsa04630	activation
+IFNA21	pp	IL2RA	g-g	hsa04630	activation
+IFNA21	pp	IL2RB	g-g	hsa04630	activation
+IFNA21	pp	IL2RG	g-g	hsa04630	activation
+IFNA21	pp	IL3RA	g-g	hsa04630	activation
+IFNA21	pp	IL4R	g-g	hsa04630	activation
+IFNA21	pp	IL5RA	g-g	hsa04630	activation
+IFNA21	pp	IL6R	g-g	hsa04630	activation
+IFNA21	pp	IL6ST	g-g	hsa04630	activation
+IFNA21	pp	IL7R	g-g	hsa04630	activation
+IFNA21	pp	IL9R	g-g	hsa04630	activation
+IFNA21	pp	IL10RA	g-g	hsa04630	activation
+IFNA21	pp	IL10RB	g-g	hsa04630	activation
+IFNA21	pp	IL11RA	g-g	hsa04630	activation
+IFNA21	pp	IL12RB1	g-g	hsa04630	activation
+IFNA21	pp	IL12RB2	g-g	hsa04630	activation
+IFNA21	pp	IL13RA1	g-g	hsa04630	activation
+IFNA21	pp	IL13RA2	g-g	hsa04630	activation
+IFNA21	pp	IL15RA	g-g	hsa04630	activation
+IFNA21	pp	LEPR	g-g	hsa04630	activation
+IFNA21	pp	LIFR	g-g	hsa04630	activation
+IFNA21	pp	MPL	g-g	hsa04630	activation
+IFNA21	pp	IL21R	g-g	hsa04630	activation
+IFNA21	pp	PDGFRA	g-g	hsa04630	activation
+IFNA21	pp	PDGFRB	g-g	hsa04630	activation
+IFNA21	pp	IL20RA	g-g	hsa04630	activation
+IFNA21	pp	IL20RB	g-g	hsa04630	activation
+IFNA21	pp	PRLR	g-g	hsa04630	activation
+IFNA21	pp	IL22RA1	g-g	hsa04630	activation
+IFNA21	pp	CRLF2	g-g	hsa04630	activation
+IFNA21	pp	OSMR	g-g	hsa04630	activation
+IFNA21	pp	IL27RA	g-g	hsa04630	activation
+IFNB1	pp	CNTFR	g-g	hsa04630	activation
+IFNB1	pp	CSF2RA	g-g	hsa04630	activation
+IFNB1	pp	CSF2RB	g-g	hsa04630	activation
+IFNB1	pp	CSF3R	g-g	hsa04630	activation
+IFNB1	pp	IL23R	g-g	hsa04630	activation
+IFNB1	pp	IFNLR1	g-g	hsa04630	activation
+IFNB1	pp	EGFR	g-g	hsa04630	activation
+IFNB1	pp	EPOR	g-g	hsa04630	activation
+IFNB1	pp	GHR	g-g	hsa04630	activation
+IFNB1	pp	IFNAR1	g-g	hsa04630	activation
+IFNB1	pp	IFNAR2	g-g	hsa04630	activation
+IFNB1	pp	IFNGR1	g-g	hsa04630	activation
+IFNB1	pp	IFNGR2	g-g	hsa04630	activation
+IFNB1	pp	IL2RA	g-g	hsa04630	activation
+IFNB1	pp	IL2RB	g-g	hsa04630	activation
+IFNB1	pp	IL2RG	g-g	hsa04630	activation
+IFNB1	pp	IL3RA	g-g	hsa04630	activation
+IFNB1	pp	IL4R	g-g	hsa04630	activation
+IFNB1	pp	IL5RA	g-g	hsa04630	activation
+IFNB1	pp	IL6R	g-g	hsa04630	activation
+IFNB1	pp	IL6ST	g-g	hsa04630	activation
+IFNB1	pp	IL7R	g-g	hsa04630	activation
+IFNB1	pp	IL9R	g-g	hsa04630	activation
+IFNB1	pp	IL10RA	g-g	hsa04630	activation
+IFNB1	pp	IL10RB	g-g	hsa04630	activation
+IFNB1	pp	IL11RA	g-g	hsa04630	activation
+IFNB1	pp	IL12RB1	g-g	hsa04630	activation
+IFNB1	pp	IL12RB2	g-g	hsa04630	activation
+IFNB1	pp	IL13RA1	g-g	hsa04630	activation
+IFNB1	pp	IL13RA2	g-g	hsa04630	activation
+IFNB1	pp	IL15RA	g-g	hsa04630	activation
+IFNB1	pp	LEPR	g-g	hsa04630	activation
+IFNB1	pp	LIFR	g-g	hsa04630	activation
+IFNB1	pp	MPL	g-g	hsa04630	activation
+IFNB1	pp	IL21R	g-g	hsa04630	activation
+IFNB1	pp	PDGFRA	g-g	hsa04630	activation
+IFNB1	pp	PDGFRB	g-g	hsa04630	activation
+IFNB1	pp	IL20RA	g-g	hsa04630	activation
+IFNB1	pp	IL20RB	g-g	hsa04630	activation
+IFNB1	pp	PRLR	g-g	hsa04630	activation
+IFNB1	pp	IL22RA1	g-g	hsa04630	activation
+IFNB1	pp	CRLF2	g-g	hsa04630	activation
+IFNB1	pp	OSMR	g-g	hsa04630	activation
+IFNB1	pp	IL27RA	g-g	hsa04630	activation
+IFNG	pp	CNTFR	g-g	hsa04630	activation
+IFNG	pp	CSF2RA	g-g	hsa04630	activation
+IFNG	pp	CSF2RB	g-g	hsa04630	activation
+IFNG	pp	CSF3R	g-g	hsa04630	activation
+IFNG	pp	IL23R	g-g	hsa04630	activation
+IFNG	pp	IFNLR1	g-g	hsa04630	activation
+IFNG	pp	EGFR	g-g	hsa04630	activation
+IFNG	pp	EPOR	g-g	hsa04630	activation
+IFNG	pp	GHR	g-g	hsa04630	activation
+IFNG	pp	IFNAR1	g-g	hsa04630	activation
+IFNG	pp	IFNAR2	g-g	hsa04630	activation
+IFNG	pp	IFNGR1	g-g	hsa04630	activation
+IFNG	pp	IFNGR2	g-g	hsa04630	activation
+IFNG	pp	IL2RA	g-g	hsa04630	activation
+IFNG	pp	IL2RB	g-g	hsa04630	activation
+IFNG	pp	IL2RG	g-g	hsa04630	activation
+IFNG	pp	IL3RA	g-g	hsa04630	activation
+IFNG	pp	IL4R	g-g	hsa04630	activation
+IFNG	pp	IL5RA	g-g	hsa04630	activation
+IFNG	pp	IL6R	g-g	hsa04630	activation
+IFNG	pp	IL6ST	g-g	hsa04630	activation
+IFNG	pp	IL7R	g-g	hsa04630	activation
+IFNG	pp	IL9R	g-g	hsa04630	activation
+IFNG	pp	IL10RA	g-g	hsa04630	activation
+IFNG	pp	IL10RB	g-g	hsa04630	activation
+IFNG	pp	IL11RA	g-g	hsa04630	activation
+IFNG	pp	IL12RB1	g-g	hsa04630	activation
+IFNG	pp	IL12RB2	g-g	hsa04630	activation
+IFNG	pp	IL13RA1	g-g	hsa04630	activation
+IFNG	pp	IL13RA2	g-g	hsa04630	activation
+IFNG	pp	IL15RA	g-g	hsa04630	activation
+IFNG	pp	LEPR	g-g	hsa04630	activation
+IFNG	pp	LIFR	g-g	hsa04630	activation
+IFNG	pp	MPL	g-g	hsa04630	activation
+IFNG	pp	IL21R	g-g	hsa04630	activation
+IFNG	pp	PDGFRA	g-g	hsa04630	activation
+IFNG	pp	PDGFRB	g-g	hsa04630	activation
+IFNG	pp	IL20RA	g-g	hsa04630	activation
+IFNG	pp	IL20RB	g-g	hsa04630	activation
+IFNG	pp	PRLR	g-g	hsa04630	activation
+IFNG	pp	IL22RA1	g-g	hsa04630	activation
+IFNG	pp	CRLF2	g-g	hsa04630	activation
+IFNG	pp	OSMR	g-g	hsa04630	activation
+IFNG	pp	IL27RA	g-g	hsa04630	activation
+IFNW1	pp	CNTFR	g-g	hsa04630	activation
+IFNW1	pp	CSF2RA	g-g	hsa04630	activation
+IFNW1	pp	CSF2RB	g-g	hsa04630	activation
+IFNW1	pp	CSF3R	g-g	hsa04630	activation
+IFNW1	pp	IL23R	g-g	hsa04630	activation
+IFNW1	pp	IFNLR1	g-g	hsa04630	activation
+IFNW1	pp	EGFR	g-g	hsa04630	activation
+IFNW1	pp	EPOR	g-g	hsa04630	activation
+IFNW1	pp	GHR	g-g	hsa04630	activation
+IFNW1	pp	IFNAR1	g-g	hsa04630	activation
+IFNW1	pp	IFNAR2	g-g	hsa04630	activation
+IFNW1	pp	IFNGR1	g-g	hsa04630	activation
+IFNW1	pp	IFNGR2	g-g	hsa04630	activation
+IFNW1	pp	IL2RA	g-g	hsa04630	activation
+IFNW1	pp	IL2RB	g-g	hsa04630	activation
+IFNW1	pp	IL2RG	g-g	hsa04630	activation
+IFNW1	pp	IL3RA	g-g	hsa04630	activation
+IFNW1	pp	IL4R	g-g	hsa04630	activation
+IFNW1	pp	IL5RA	g-g	hsa04630	activation
+IFNW1	pp	IL6R	g-g	hsa04630	activation
+IFNW1	pp	IL6ST	g-g	hsa04630	activation
+IFNW1	pp	IL7R	g-g	hsa04630	activation
+IFNW1	pp	IL9R	g-g	hsa04630	activation
+IFNW1	pp	IL10RA	g-g	hsa04630	activation
+IFNW1	pp	IL10RB	g-g	hsa04630	activation
+IFNW1	pp	IL11RA	g-g	hsa04630	activation
+IFNW1	pp	IL12RB1	g-g	hsa04630	activation
+IFNW1	pp	IL12RB2	g-g	hsa04630	activation
+IFNW1	pp	IL13RA1	g-g	hsa04630	activation
+IFNW1	pp	IL13RA2	g-g	hsa04630	activation
+IFNW1	pp	IL15RA	g-g	hsa04630	activation
+IFNW1	pp	LEPR	g-g	hsa04630	activation
+IFNW1	pp	LIFR	g-g	hsa04630	activation
+IFNW1	pp	MPL	g-g	hsa04630	activation
+IFNW1	pp	IL21R	g-g	hsa04630	activation
+IFNW1	pp	PDGFRA	g-g	hsa04630	activation
+IFNW1	pp	PDGFRB	g-g	hsa04630	activation
+IFNW1	pp	IL20RA	g-g	hsa04630	activation
+IFNW1	pp	IL20RB	g-g	hsa04630	activation
+IFNW1	pp	PRLR	g-g	hsa04630	activation
+IFNW1	pp	IL22RA1	g-g	hsa04630	activation
+IFNW1	pp	CRLF2	g-g	hsa04630	activation
+IFNW1	pp	OSMR	g-g	hsa04630	activation
+IFNW1	pp	IL27RA	g-g	hsa04630	activation
+IL2	pp	CNTFR	g-g	hsa04630	activation
+IL2	pp	CSF2RA	g-g	hsa04630	activation
+IL2	pp	CSF2RB	g-g	hsa04630	activation
+IL2	pp	CSF3R	g-g	hsa04630	activation
+IL2	pp	IL23R	g-g	hsa04630	activation
+IL2	pp	IFNLR1	g-g	hsa04630	activation
+IL2	pp	EGFR	g-g	hsa04630	activation
+IL2	pp	EPOR	g-g	hsa04630	activation
+IL2	pp	GHR	g-g	hsa04630	activation
+IL2	pp	IFNAR1	g-g	hsa04630	activation
+IL2	pp	IFNAR2	g-g	hsa04630	activation
+IL2	pp	IFNGR1	g-g	hsa04630	activation
+IL2	pp	IFNGR2	g-g	hsa04630	activation
+IL2	pp	IL2RA	g-g	hsa04630	activation
+IL2	pp	IL2RB	g-g	hsa04630	activation
+IL2	pp	IL2RG	g-g	hsa04630	activation
+IL2	pp	IL3RA	g-g	hsa04630	activation
+IL2	pp	IL4R	g-g	hsa04630	activation
+IL2	pp	IL5RA	g-g	hsa04630	activation
+IL2	pp	IL6R	g-g	hsa04630	activation
+IL2	pp	IL6ST	g-g	hsa04630	activation
+IL2	pp	IL7R	g-g	hsa04630	activation
+IL2	pp	IL9R	g-g	hsa04630	activation
+IL2	pp	IL10RA	g-g	hsa04630	activation
+IL2	pp	IL10RB	g-g	hsa04630	activation
+IL2	pp	IL11RA	g-g	hsa04630	activation
+IL2	pp	IL12RB1	g-g	hsa04630	activation
+IL2	pp	IL12RB2	g-g	hsa04630	activation
+IL2	pp	IL13RA1	g-g	hsa04630	activation
+IL2	pp	IL13RA2	g-g	hsa04630	activation
+IL2	pp	IL15RA	g-g	hsa04630	activation
+IL2	pp	LEPR	g-g	hsa04630	activation
+IL2	pp	LIFR	g-g	hsa04630	activation
+IL2	pp	MPL	g-g	hsa04630	activation
+IL2	pp	IL21R	g-g	hsa04630	activation
+IL2	pp	PDGFRA	g-g	hsa04630	activation
+IL2	pp	PDGFRB	g-g	hsa04630	activation
+IL2	pp	IL20RA	g-g	hsa04630	activation
+IL2	pp	IL20RB	g-g	hsa04630	activation
+IL2	pp	PRLR	g-g	hsa04630	activation
+IL2	pp	IL22RA1	g-g	hsa04630	activation
+IL2	pp	CRLF2	g-g	hsa04630	activation
+IL2	pp	OSMR	g-g	hsa04630	activation
+IL2	pp	IL27RA	g-g	hsa04630	activation
+IL3	pp	CNTFR	g-g	hsa04630	activation
+IL3	pp	CSF2RA	g-g	hsa04630	activation
+IL3	pp	CSF2RB	g-g	hsa04630	activation
+IL3	pp	CSF3R	g-g	hsa04630	activation
+IL3	pp	IL23R	g-g	hsa04630	activation
+IL3	pp	IFNLR1	g-g	hsa04630	activation
+IL3	pp	EGFR	g-g	hsa04630	activation
+IL3	pp	EPOR	g-g	hsa04630	activation
+IL3	pp	GHR	g-g	hsa04630	activation
+IL3	pp	IFNAR1	g-g	hsa04630	activation
+IL3	pp	IFNAR2	g-g	hsa04630	activation
+IL3	pp	IFNGR1	g-g	hsa04630	activation
+IL3	pp	IFNGR2	g-g	hsa04630	activation
+IL3	pp	IL2RA	g-g	hsa04630	activation
+IL3	pp	IL2RB	g-g	hsa04630	activation
+IL3	pp	IL2RG	g-g	hsa04630	activation
+IL3	pp	IL3RA	g-g	hsa04630	activation
+IL3	pp	IL4R	g-g	hsa04630	activation
+IL3	pp	IL5RA	g-g	hsa04630	activation
+IL3	pp	IL6R	g-g	hsa04630	activation
+IL3	pp	IL6ST	g-g	hsa04630	activation
+IL3	pp	IL7R	g-g	hsa04630	activation
+IL3	pp	IL9R	g-g	hsa04630	activation
+IL3	pp	IL10RA	g-g	hsa04630	activation
+IL3	pp	IL10RB	g-g	hsa04630	activation
+IL3	pp	IL11RA	g-g	hsa04630	activation
+IL3	pp	IL12RB1	g-g	hsa04630	activation
+IL3	pp	IL12RB2	g-g	hsa04630	activation
+IL3	pp	IL13RA1	g-g	hsa04630	activation
+IL3	pp	IL13RA2	g-g	hsa04630	activation
+IL3	pp	IL15RA	g-g	hsa04630	activation
+IL3	pp	LEPR	g-g	hsa04630	activation
+IL3	pp	LIFR	g-g	hsa04630	activation
+IL3	pp	MPL	g-g	hsa04630	activation
+IL3	pp	IL21R	g-g	hsa04630	activation
+IL3	pp	PDGFRA	g-g	hsa04630	activation
+IL3	pp	PDGFRB	g-g	hsa04630	activation
+IL3	pp	IL20RA	g-g	hsa04630	activation
+IL3	pp	IL20RB	g-g	hsa04630	activation
+IL3	pp	PRLR	g-g	hsa04630	activation
+IL3	pp	IL22RA1	g-g	hsa04630	activation
+IL3	pp	CRLF2	g-g	hsa04630	activation
+IL3	pp	OSMR	g-g	hsa04630	activation
+IL3	pp	IL27RA	g-g	hsa04630	activation
+IL4	pp	CNTFR	g-g	hsa04630	activation
+IL4	pp	CSF2RA	g-g	hsa04630	activation
+IL4	pp	CSF2RB	g-g	hsa04630	activation
+IL4	pp	CSF3R	g-g	hsa04630	activation
+IL4	pp	IL23R	g-g	hsa04630	activation
+IL4	pp	IFNLR1	g-g	hsa04630	activation
+IL4	pp	EGFR	g-g	hsa04630	activation
+IL4	pp	EPOR	g-g	hsa04630	activation
+IL4	pp	GHR	g-g	hsa04630	activation
+IL4	pp	IFNAR1	g-g	hsa04630	activation
+IL4	pp	IFNAR2	g-g	hsa04630	activation
+IL4	pp	IFNGR1	g-g	hsa04630	activation
+IL4	pp	IFNGR2	g-g	hsa04630	activation
+IL4	pp	IL2RA	g-g	hsa04630	activation
+IL4	pp	IL2RB	g-g	hsa04630	activation
+IL4	pp	IL2RG	g-g	hsa04630	activation
+IL4	pp	IL3RA	g-g	hsa04630	activation
+IL4	pp	IL4R	g-g	hsa04630	activation
+IL4	pp	IL5RA	g-g	hsa04630	activation
+IL4	pp	IL6R	g-g	hsa04630	activation
+IL4	pp	IL6ST	g-g	hsa04630	activation
+IL4	pp	IL7R	g-g	hsa04630	activation
+IL4	pp	IL9R	g-g	hsa04630	activation
+IL4	pp	IL10RA	g-g	hsa04630	activation
+IL4	pp	IL10RB	g-g	hsa04630	activation
+IL4	pp	IL11RA	g-g	hsa04630	activation
+IL4	pp	IL12RB1	g-g	hsa04630	activation
+IL4	pp	IL12RB2	g-g	hsa04630	activation
+IL4	pp	IL13RA1	g-g	hsa04630	activation
+IL4	pp	IL13RA2	g-g	hsa04630	activation
+IL4	pp	IL15RA	g-g	hsa04630	activation
+IL4	pp	LEPR	g-g	hsa04630	activation
+IL4	pp	LIFR	g-g	hsa04630	activation
+IL4	pp	MPL	g-g	hsa04630	activation
+IL4	pp	IL21R	g-g	hsa04630	activation
+IL4	pp	PDGFRA	g-g	hsa04630	activation
+IL4	pp	PDGFRB	g-g	hsa04630	activation
+IL4	pp	IL20RA	g-g	hsa04630	activation
+IL4	pp	IL20RB	g-g	hsa04630	activation
+IL4	pp	PRLR	g-g	hsa04630	activation
+IL4	pp	IL22RA1	g-g	hsa04630	activation
+IL4	pp	CRLF2	g-g	hsa04630	activation
+IL4	pp	OSMR	g-g	hsa04630	activation
+IL4	pp	IL27RA	g-g	hsa04630	activation
+IL5	pp	CNTFR	g-g	hsa04630	activation
+IL5	pp	CSF2RA	g-g	hsa04630	activation
+IL5	pp	CSF2RB	g-g	hsa04630	activation
+IL5	pp	CSF3R	g-g	hsa04630	activation
+IL5	pp	IL23R	g-g	hsa04630	activation
+IL5	pp	IFNLR1	g-g	hsa04630	activation
+IL5	pp	EGFR	g-g	hsa04630	activation
+IL5	pp	EPOR	g-g	hsa04630	activation
+IL5	pp	GHR	g-g	hsa04630	activation
+IL5	pp	IFNAR1	g-g	hsa04630	activation
+IL5	pp	IFNAR2	g-g	hsa04630	activation
+IL5	pp	IFNGR1	g-g	hsa04630	activation
+IL5	pp	IFNGR2	g-g	hsa04630	activation
+IL5	pp	IL2RA	g-g	hsa04630	activation
+IL5	pp	IL2RB	g-g	hsa04630	activation
+IL5	pp	IL2RG	g-g	hsa04630	activation
+IL5	pp	IL3RA	g-g	hsa04630	activation
+IL5	pp	IL4R	g-g	hsa04630	activation
+IL5	pp	IL5RA	g-g	hsa04630	activation
+IL5	pp	IL6R	g-g	hsa04630	activation
+IL5	pp	IL6ST	g-g	hsa04630	activation
+IL5	pp	IL7R	g-g	hsa04630	activation
+IL5	pp	IL9R	g-g	hsa04630	activation
+IL5	pp	IL10RA	g-g	hsa04630	activation
+IL5	pp	IL10RB	g-g	hsa04630	activation
+IL5	pp	IL11RA	g-g	hsa04630	activation
+IL5	pp	IL12RB1	g-g	hsa04630	activation
+IL5	pp	IL12RB2	g-g	hsa04630	activation
+IL5	pp	IL13RA1	g-g	hsa04630	activation
+IL5	pp	IL13RA2	g-g	hsa04630	activation
+IL5	pp	IL15RA	g-g	hsa04630	activation
+IL5	pp	LEPR	g-g	hsa04630	activation
+IL5	pp	LIFR	g-g	hsa04630	activation
+IL5	pp	MPL	g-g	hsa04630	activation
+IL5	pp	IL21R	g-g	hsa04630	activation
+IL5	pp	PDGFRA	g-g	hsa04630	activation
+IL5	pp	PDGFRB	g-g	hsa04630	activation
+IL5	pp	IL20RA	g-g	hsa04630	activation
+IL5	pp	IL20RB	g-g	hsa04630	activation
+IL5	pp	PRLR	g-g	hsa04630	activation
+IL5	pp	IL22RA1	g-g	hsa04630	activation
+IL5	pp	CRLF2	g-g	hsa04630	activation
+IL5	pp	OSMR	g-g	hsa04630	activation
+IL5	pp	IL27RA	g-g	hsa04630	activation
+IL6	pp	CNTFR	g-g	hsa04630	activation
+IL6	pp	CSF2RA	g-g	hsa04630	activation
+IL6	pp	CSF2RB	g-g	hsa04630	activation
+IL6	pp	CSF3R	g-g	hsa04630	activation
+IL6	pp	IL23R	g-g	hsa04630	activation
+IL6	pp	IFNLR1	g-g	hsa04630	activation
+IL6	pp	EGFR	g-g	hsa04630	activation
+IL6	pp	EPOR	g-g	hsa04630	activation
+IL6	pp	GHR	g-g	hsa04630	activation
+IL6	pp	IFNAR1	g-g	hsa04630	activation
+IL6	pp	IFNAR2	g-g	hsa04630	activation
+IL6	pp	IFNGR1	g-g	hsa04630	activation
+IL6	pp	IFNGR2	g-g	hsa04630	activation
+IL6	pp	IL2RA	g-g	hsa04630	activation
+IL6	pp	IL2RB	g-g	hsa04630	activation
+IL6	pp	IL2RG	g-g	hsa04630	activation
+IL6	pp	IL3RA	g-g	hsa04630	activation
+IL6	pp	IL4R	g-g	hsa04630	activation
+IL6	pp	IL5RA	g-g	hsa04630	activation
+IL6	pp	IL6R	g-g	hsa04630	activation
+IL6	pp	IL6ST	g-g	hsa04630	activation
+IL6	pp	IL7R	g-g	hsa04630	activation
+IL6	pp	IL9R	g-g	hsa04630	activation
+IL6	pp	IL10RA	g-g	hsa04630	activation
+IL6	pp	IL10RB	g-g	hsa04630	activation
+IL6	pp	IL11RA	g-g	hsa04630	activation
+IL6	pp	IL12RB1	g-g	hsa04630	activation
+IL6	pp	IL12RB2	g-g	hsa04630	activation
+IL6	pp	IL13RA1	g-g	hsa04630	activation
+IL6	pp	IL13RA2	g-g	hsa04630	activation
+IL6	pp	IL15RA	g-g	hsa04630	activation
+IL6	pp	LEPR	g-g	hsa04630	activation
+IL6	pp	LIFR	g-g	hsa04630	activation
+IL6	pp	MPL	g-g	hsa04630	activation
+IL6	pp	IL21R	g-g	hsa04630	activation
+IL6	pp	PDGFRA	g-g	hsa04630	activation
+IL6	pp	PDGFRB	g-g	hsa04630	activation
+IL6	pp	IL20RA	g-g	hsa04630	activation
+IL6	pp	IL20RB	g-g	hsa04630	activation
+IL6	pp	PRLR	g-g	hsa04630	activation
+IL6	pp	IL22RA1	g-g	hsa04630	activation
+IL6	pp	CRLF2	g-g	hsa04630	activation
+IL6	pp	OSMR	g-g	hsa04630	activation
+IL6	pp	IL27RA	g-g	hsa04630	activation
+IL7	pp	CNTFR	g-g	hsa04630	activation
+IL7	pp	CSF2RA	g-g	hsa04630	activation
+IL7	pp	CSF2RB	g-g	hsa04630	activation
+IL7	pp	CSF3R	g-g	hsa04630	activation
+IL7	pp	IL23R	g-g	hsa04630	activation
+IL7	pp	IFNLR1	g-g	hsa04630	activation
+IL7	pp	EGFR	g-g	hsa04630	activation
+IL7	pp	EPOR	g-g	hsa04630	activation
+IL7	pp	GHR	g-g	hsa04630	activation
+IL7	pp	IFNAR1	g-g	hsa04630	activation
+IL7	pp	IFNAR2	g-g	hsa04630	activation
+IL7	pp	IFNGR1	g-g	hsa04630	activation
+IL7	pp	IFNGR2	g-g	hsa04630	activation
+IL7	pp	IL2RA	g-g	hsa04630	activation
+IL7	pp	IL2RB	g-g	hsa04630	activation
+IL7	pp	IL2RG	g-g	hsa04630	activation
+IL7	pp	IL3RA	g-g	hsa04630	activation
+IL7	pp	IL4R	g-g	hsa04630	activation
+IL7	pp	IL5RA	g-g	hsa04630	activation
+IL7	pp	IL6R	g-g	hsa04630	activation
+IL7	pp	IL6ST	g-g	hsa04630	activation
+IL7	pp	IL7R	g-g	hsa04630	activation
+IL7	pp	IL9R	g-g	hsa04630	activation
+IL7	pp	IL10RA	g-g	hsa04630	activation
+IL7	pp	IL10RB	g-g	hsa04630	activation
+IL7	pp	IL11RA	g-g	hsa04630	activation
+IL7	pp	IL12RB1	g-g	hsa04630	activation
+IL7	pp	IL12RB2	g-g	hsa04630	activation
+IL7	pp	IL13RA1	g-g	hsa04630	activation
+IL7	pp	IL13RA2	g-g	hsa04630	activation
+IL7	pp	IL15RA	g-g	hsa04630	activation
+IL7	pp	LEPR	g-g	hsa04630	activation
+IL7	pp	LIFR	g-g	hsa04630	activation
+IL7	pp	MPL	g-g	hsa04630	activation
+IL7	pp	IL21R	g-g	hsa04630	activation
+IL7	pp	PDGFRA	g-g	hsa04630	activation
+IL7	pp	PDGFRB	g-g	hsa04630	activation
+IL7	pp	IL20RA	g-g	hsa04630	activation
+IL7	pp	IL20RB	g-g	hsa04630	activation
+IL7	pp	PRLR	g-g	hsa04630	activation
+IL7	pp	IL22RA1	g-g	hsa04630	activation
+IL7	pp	CRLF2	g-g	hsa04630	activation
+IL7	pp	OSMR	g-g	hsa04630	activation
+IL7	pp	IL27RA	g-g	hsa04630	activation
+IL9	pp	CNTFR	g-g	hsa04630	activation
+IL9	pp	CSF2RA	g-g	hsa04630	activation
+IL9	pp	CSF2RB	g-g	hsa04630	activation
+IL9	pp	CSF3R	g-g	hsa04630	activation
+IL9	pp	IL23R	g-g	hsa04630	activation
+IL9	pp	IFNLR1	g-g	hsa04630	activation
+IL9	pp	EGFR	g-g	hsa04630	activation
+IL9	pp	EPOR	g-g	hsa04630	activation
+IL9	pp	GHR	g-g	hsa04630	activation
+IL9	pp	IFNAR1	g-g	hsa04630	activation
+IL9	pp	IFNAR2	g-g	hsa04630	activation
+IL9	pp	IFNGR1	g-g	hsa04630	activation
+IL9	pp	IFNGR2	g-g	hsa04630	activation
+IL9	pp	IL2RA	g-g	hsa04630	activation
+IL9	pp	IL2RB	g-g	hsa04630	activation
+IL9	pp	IL2RG	g-g	hsa04630	activation
+IL9	pp	IL3RA	g-g	hsa04630	activation
+IL9	pp	IL4R	g-g	hsa04630	activation
+IL9	pp	IL5RA	g-g	hsa04630	activation
+IL9	pp	IL6R	g-g	hsa04630	activation
+IL9	pp	IL6ST	g-g	hsa04630	activation
+IL9	pp	IL7R	g-g	hsa04630	activation
+IL9	pp	IL9R	g-g	hsa04630	activation
+IL9	pp	IL10RA	g-g	hsa04630	activation
+IL9	pp	IL10RB	g-g	hsa04630	activation
+IL9	pp	IL11RA	g-g	hsa04630	activation
+IL9	pp	IL12RB1	g-g	hsa04630	activation
+IL9	pp	IL12RB2	g-g	hsa04630	activation
+IL9	pp	IL13RA1	g-g	hsa04630	activation
+IL9	pp	IL13RA2	g-g	hsa04630	activation
+IL9	pp	IL15RA	g-g	hsa04630	activation
+IL9	pp	LEPR	g-g	hsa04630	activation
+IL9	pp	LIFR	g-g	hsa04630	activation
+IL9	pp	MPL	g-g	hsa04630	activation
+IL9	pp	IL21R	g-g	hsa04630	activation
+IL9	pp	PDGFRA	g-g	hsa04630	activation
+IL9	pp	PDGFRB	g-g	hsa04630	activation
+IL9	pp	IL20RA	g-g	hsa04630	activation
+IL9	pp	IL20RB	g-g	hsa04630	activation
+IL9	pp	PRLR	g-g	hsa04630	activation
+IL9	pp	IL22RA1	g-g	hsa04630	activation
+IL9	pp	CRLF2	g-g	hsa04630	activation
+IL9	pp	OSMR	g-g	hsa04630	activation
+IL9	pp	IL27RA	g-g	hsa04630	activation
+IL10	pp	CNTFR	g-g	hsa04630	activation
+IL10	pp	CSF2RA	g-g	hsa04630	activation
+IL10	pp	CSF2RB	g-g	hsa04630	activation
+IL10	pp	CSF3R	g-g	hsa04630	activation
+IL10	pp	IL23R	g-g	hsa04630	activation
+IL10	pp	IFNLR1	g-g	hsa04630	activation
+IL10	pp	EGFR	g-g	hsa04630	activation
+IL10	pp	EPOR	g-g	hsa04630	activation
+IL10	pp	GHR	g-g	hsa04630	activation
+IL10	pp	IFNAR1	g-g	hsa04630	activation
+IL10	pp	IFNAR2	g-g	hsa04630	activation
+IL10	pp	IFNGR1	g-g	hsa04630	activation
+IL10	pp	IFNGR2	g-g	hsa04630	activation
+IL10	pp	IL2RA	g-g	hsa04630	activation
+IL10	pp	IL2RB	g-g	hsa04630	activation
+IL10	pp	IL2RG	g-g	hsa04630	activation
+IL10	pp	IL3RA	g-g	hsa04630	activation
+IL10	pp	IL4R	g-g	hsa04630	activation
+IL10	pp	IL5RA	g-g	hsa04630	activation
+IL10	pp	IL6R	g-g	hsa04630	activation
+IL10	pp	IL6ST	g-g	hsa04630	activation
+IL10	pp	IL7R	g-g	hsa04630	activation
+IL10	pp	IL9R	g-g	hsa04630	activation
+IL10	pp	IL10RA	g-g	hsa04630	activation
+IL10	pp	IL10RB	g-g	hsa04630	activation
+IL10	pp	IL11RA	g-g	hsa04630	activation
+IL10	pp	IL12RB1	g-g	hsa04630	activation
+IL10	pp	IL12RB2	g-g	hsa04630	activation
+IL10	pp	IL13RA1	g-g	hsa04630	activation
+IL10	pp	IL13RA2	g-g	hsa04630	activation
+IL10	pp	IL15RA	g-g	hsa04630	activation
+IL10	pp	LEPR	g-g	hsa04630	activation
+IL10	pp	LIFR	g-g	hsa04630	activation
+IL10	pp	MPL	g-g	hsa04630	activation
+IL10	pp	IL21R	g-g	hsa04630	activation
+IL10	pp	PDGFRA	g-g	hsa04630	activation
+IL10	pp	PDGFRB	g-g	hsa04630	activation
+IL10	pp	IL20RA	g-g	hsa04630	activation
+IL10	pp	IL20RB	g-g	hsa04630	activation
+IL10	pp	PRLR	g-g	hsa04630	activation
+IL10	pp	IL22RA1	g-g	hsa04630	activation
+IL10	pp	CRLF2	g-g	hsa04630	activation
+IL10	pp	OSMR	g-g	hsa04630	activation
+IL10	pp	IL27RA	g-g	hsa04630	activation
+IL11	pp	CNTFR	g-g	hsa04630	activation
+IL11	pp	CSF2RA	g-g	hsa04630	activation
+IL11	pp	CSF2RB	g-g	hsa04630	activation
+IL11	pp	CSF3R	g-g	hsa04630	activation
+IL11	pp	IL23R	g-g	hsa04630	activation
+IL11	pp	IFNLR1	g-g	hsa04630	activation
+IL11	pp	EGFR	g-g	hsa04630	activation
+IL11	pp	EPOR	g-g	hsa04630	activation
+IL11	pp	GHR	g-g	hsa04630	activation
+IL11	pp	IFNAR1	g-g	hsa04630	activation
+IL11	pp	IFNAR2	g-g	hsa04630	activation
+IL11	pp	IFNGR1	g-g	hsa04630	activation
+IL11	pp	IFNGR2	g-g	hsa04630	activation
+IL11	pp	IL2RA	g-g	hsa04630	activation
+IL11	pp	IL2RB	g-g	hsa04630	activation
+IL11	pp	IL2RG	g-g	hsa04630	activation
+IL11	pp	IL3RA	g-g	hsa04630	activation
+IL11	pp	IL4R	g-g	hsa04630	activation
+IL11	pp	IL5RA	g-g	hsa04630	activation
+IL11	pp	IL6R	g-g	hsa04630	activation
+IL11	pp	IL6ST	g-g	hsa04630	activation
+IL11	pp	IL7R	g-g	hsa04630	activation
+IL11	pp	IL9R	g-g	hsa04630	activation
+IL11	pp	IL10RA	g-g	hsa04630	activation
+IL11	pp	IL10RB	g-g	hsa04630	activation
+IL11	pp	IL11RA	g-g	hsa04630	activation
+IL11	pp	IL12RB1	g-g	hsa04630	activation
+IL11	pp	IL12RB2	g-g	hsa04630	activation
+IL11	pp	IL13RA1	g-g	hsa04630	activation
+IL11	pp	IL13RA2	g-g	hsa04630	activation
+IL11	pp	IL15RA	g-g	hsa04630	activation
+IL11	pp	LEPR	g-g	hsa04630	activation
+IL11	pp	LIFR	g-g	hsa04630	activation
+IL11	pp	MPL	g-g	hsa04630	activation
+IL11	pp	IL21R	g-g	hsa04630	activation
+IL11	pp	PDGFRA	g-g	hsa04630	activation
+IL11	pp	PDGFRB	g-g	hsa04630	activation
+IL11	pp	IL20RA	g-g	hsa04630	activation
+IL11	pp	IL20RB	g-g	hsa04630	activation
+IL11	pp	PRLR	g-g	hsa04630	activation
+IL11	pp	IL22RA1	g-g	hsa04630	activation
+IL11	pp	CRLF2	g-g	hsa04630	activation
+IL11	pp	OSMR	g-g	hsa04630	activation
+IL11	pp	IL27RA	g-g	hsa04630	activation
+IL12A	pp	CNTFR	g-g	hsa04630	activation
+IL12A	pp	CSF2RA	g-g	hsa04630	activation
+IL12A	pp	CSF2RB	g-g	hsa04630	activation
+IL12A	pp	CSF3R	g-g	hsa04630	activation
+IL12A	pp	IL23R	g-g	hsa04630	activation
+IL12A	pp	IFNLR1	g-g	hsa04630	activation
+IL12A	pp	EGFR	g-g	hsa04630	activation
+IL12A	pp	EPOR	g-g	hsa04630	activation
+IL12A	pp	GHR	g-g	hsa04630	activation
+IL12A	pp	IFNAR1	g-g	hsa04630	activation
+IL12A	pp	IFNAR2	g-g	hsa04630	activation
+IL12A	pp	IFNGR1	g-g	hsa04630	activation
+IL12A	pp	IFNGR2	g-g	hsa04630	activation
+IL12A	pp	IL2RA	g-g	hsa04630	activation
+IL12A	pp	IL2RB	g-g	hsa04630	activation
+IL12A	pp	IL2RG	g-g	hsa04630	activation
+IL12A	pp	IL3RA	g-g	hsa04630	activation
+IL12A	pp	IL4R	g-g	hsa04630	activation
+IL12A	pp	IL5RA	g-g	hsa04630	activation
+IL12A	pp	IL6R	g-g	hsa04630	activation
+IL12A	pp	IL6ST	g-g	hsa04630	activation
+IL12A	pp	IL7R	g-g	hsa04630	activation
+IL12A	pp	IL9R	g-g	hsa04630	activation
+IL12A	pp	IL10RA	g-g	hsa04630	activation
+IL12A	pp	IL10RB	g-g	hsa04630	activation
+IL12A	pp	IL11RA	g-g	hsa04630	activation
+IL12A	pp	IL12RB1	g-g	hsa04630	activation
+IL12A	pp	IL12RB2	g-g	hsa04630	activation
+IL12A	pp	IL13RA1	g-g	hsa04630	activation
+IL12A	pp	IL13RA2	g-g	hsa04630	activation
+IL12A	pp	IL15RA	g-g	hsa04630	activation
+IL12A	pp	LEPR	g-g	hsa04630	activation
+IL12A	pp	LIFR	g-g	hsa04630	activation
+IL12A	pp	MPL	g-g	hsa04630	activation
+IL12A	pp	IL21R	g-g	hsa04630	activation
+IL12A	pp	PDGFRA	g-g	hsa04630	activation
+IL12A	pp	PDGFRB	g-g	hsa04630	activation
+IL12A	pp	IL20RA	g-g	hsa04630	activation
+IL12A	pp	IL20RB	g-g	hsa04630	activation
+IL12A	pp	PRLR	g-g	hsa04630	activation
+IL12A	pp	IL22RA1	g-g	hsa04630	activation
+IL12A	pp	CRLF2	g-g	hsa04630	activation
+IL12A	pp	OSMR	g-g	hsa04630	activation
+IL12A	pp	IL27RA	g-g	hsa04630	activation
+IL12B	pp	CNTFR	g-g	hsa04630	activation
+IL12B	pp	CSF2RA	g-g	hsa04630	activation
+IL12B	pp	CSF2RB	g-g	hsa04630	activation
+IL12B	pp	CSF3R	g-g	hsa04630	activation
+IL12B	pp	IL23R	g-g	hsa04630	activation
+IL12B	pp	IFNLR1	g-g	hsa04630	activation
+IL12B	pp	EGFR	g-g	hsa04630	activation
+IL12B	pp	EPOR	g-g	hsa04630	activation
+IL12B	pp	GHR	g-g	hsa04630	activation
+IL12B	pp	IFNAR1	g-g	hsa04630	activation
+IL12B	pp	IFNAR2	g-g	hsa04630	activation
+IL12B	pp	IFNGR1	g-g	hsa04630	activation
+IL12B	pp	IFNGR2	g-g	hsa04630	activation
+IL12B	pp	IL2RA	g-g	hsa04630	activation
+IL12B	pp	IL2RB	g-g	hsa04630	activation
+IL12B	pp	IL2RG	g-g	hsa04630	activation
+IL12B	pp	IL3RA	g-g	hsa04630	activation
+IL12B	pp	IL4R	g-g	hsa04630	activation
+IL12B	pp	IL5RA	g-g	hsa04630	activation
+IL12B	pp	IL6R	g-g	hsa04630	activation
+IL12B	pp	IL6ST	g-g	hsa04630	activation
+IL12B	pp	IL7R	g-g	hsa04630	activation
+IL12B	pp	IL9R	g-g	hsa04630	activation
+IL12B	pp	IL10RA	g-g	hsa04630	activation
+IL12B	pp	IL10RB	g-g	hsa04630	activation
+IL12B	pp	IL11RA	g-g	hsa04630	activation
+IL12B	pp	IL12RB1	g-g	hsa04630	activation
+IL12B	pp	IL12RB2	g-g	hsa04630	activation
+IL12B	pp	IL13RA1	g-g	hsa04630	activation
+IL12B	pp	IL13RA2	g-g	hsa04630	activation
+IL12B	pp	IL15RA	g-g	hsa04630	activation
+IL12B	pp	LEPR	g-g	hsa04630	activation
+IL12B	pp	LIFR	g-g	hsa04630	activation
+IL12B	pp	MPL	g-g	hsa04630	activation
+IL12B	pp	IL21R	g-g	hsa04630	activation
+IL12B	pp	PDGFRA	g-g	hsa04630	activation
+IL12B	pp	PDGFRB	g-g	hsa04630	activation
+IL12B	pp	IL20RA	g-g	hsa04630	activation
+IL12B	pp	IL20RB	g-g	hsa04630	activation
+IL12B	pp	PRLR	g-g	hsa04630	activation
+IL12B	pp	IL22RA1	g-g	hsa04630	activation
+IL12B	pp	CRLF2	g-g	hsa04630	activation
+IL12B	pp	OSMR	g-g	hsa04630	activation
+IL12B	pp	IL27RA	g-g	hsa04630	activation
+IL13	pp	CNTFR	g-g	hsa04630	activation
+IL13	pp	CSF2RA	g-g	hsa04630	activation
+IL13	pp	CSF2RB	g-g	hsa04630	activation
+IL13	pp	CSF3R	g-g	hsa04630	activation
+IL13	pp	IL23R	g-g	hsa04630	activation
+IL13	pp	IFNLR1	g-g	hsa04630	activation
+IL13	pp	EGFR	g-g	hsa04630	activation
+IL13	pp	EPOR	g-g	hsa04630	activation
+IL13	pp	GHR	g-g	hsa04630	activation
+IL13	pp	IFNAR1	g-g	hsa04630	activation
+IL13	pp	IFNAR2	g-g	hsa04630	activation
+IL13	pp	IFNGR1	g-g	hsa04630	activation
+IL13	pp	IFNGR2	g-g	hsa04630	activation
+IL13	pp	IL2RA	g-g	hsa04630	activation
+IL13	pp	IL2RB	g-g	hsa04630	activation
+IL13	pp	IL2RG	g-g	hsa04630	activation
+IL13	pp	IL3RA	g-g	hsa04630	activation
+IL13	pp	IL4R	g-g	hsa04630	activation
+IL13	pp	IL5RA	g-g	hsa04630	activation
+IL13	pp	IL6R	g-g	hsa04630	activation
+IL13	pp	IL6ST	g-g	hsa04630	activation
+IL13	pp	IL7R	g-g	hsa04630	activation
+IL13	pp	IL9R	g-g	hsa04630	activation
+IL13	pp	IL10RA	g-g	hsa04630	activation
+IL13	pp	IL10RB	g-g	hsa04630	activation
+IL13	pp	IL11RA	g-g	hsa04630	activation
+IL13	pp	IL12RB1	g-g	hsa04630	activation
+IL13	pp	IL12RB2	g-g	hsa04630	activation
+IL13	pp	IL13RA1	g-g	hsa04630	activation
+IL13	pp	IL13RA2	g-g	hsa04630	activation
+IL13	pp	IL15RA	g-g	hsa04630	activation
+IL13	pp	LEPR	g-g	hsa04630	activation
+IL13	pp	LIFR	g-g	hsa04630	activation
+IL13	pp	MPL	g-g	hsa04630	activation
+IL13	pp	IL21R	g-g	hsa04630	activation
+IL13	pp	PDGFRA	g-g	hsa04630	activation
+IL13	pp	PDGFRB	g-g	hsa04630	activation
+IL13	pp	IL20RA	g-g	hsa04630	activation
+IL13	pp	IL20RB	g-g	hsa04630	activation
+IL13	pp	PRLR	g-g	hsa04630	activation
+IL13	pp	IL22RA1	g-g	hsa04630	activation
+IL13	pp	CRLF2	g-g	hsa04630	activation
+IL13	pp	OSMR	g-g	hsa04630	activation
+IL13	pp	IL27RA	g-g	hsa04630	activation
+IL15	pp	CNTFR	g-g	hsa04630	activation
+IL15	pp	CSF2RA	g-g	hsa04630	activation
+IL15	pp	CSF2RB	g-g	hsa04630	activation
+IL15	pp	CSF3R	g-g	hsa04630	activation
+IL15	pp	IL23R	g-g	hsa04630	activation
+IL15	pp	IFNLR1	g-g	hsa04630	activation
+IL15	pp	EGFR	g-g	hsa04630	activation
+IL15	pp	EPOR	g-g	hsa04630	activation
+IL15	pp	GHR	g-g	hsa04630	activation
+IL15	pp	IFNAR1	g-g	hsa04630	activation
+IL15	pp	IFNAR2	g-g	hsa04630	activation
+IL15	pp	IFNGR1	g-g	hsa04630	activation
+IL15	pp	IFNGR2	g-g	hsa04630	activation
+IL15	pp	IL2RA	g-g	hsa04630	activation
+IL15	pp	IL2RB	g-g	hsa04630	activation
+IL15	pp	IL2RG	g-g	hsa04630	activation
+IL15	pp	IL3RA	g-g	hsa04630	activation
+IL15	pp	IL4R	g-g	hsa04630	activation
+IL15	pp	IL5RA	g-g	hsa04630	activation
+IL15	pp	IL6R	g-g	hsa04630	activation
+IL15	pp	IL6ST	g-g	hsa04630	activation
+IL15	pp	IL7R	g-g	hsa04630	activation
+IL15	pp	IL9R	g-g	hsa04630	activation
+IL15	pp	IL10RA	g-g	hsa04630	activation
+IL15	pp	IL10RB	g-g	hsa04630	activation
+IL15	pp	IL11RA	g-g	hsa04630	activation
+IL15	pp	IL12RB1	g-g	hsa04630	activation
+IL15	pp	IL12RB2	g-g	hsa04630	activation
+IL15	pp	IL13RA1	g-g	hsa04630	activation
+IL15	pp	IL13RA2	g-g	hsa04630	activation
+IL15	pp	IL15RA	g-g	hsa04630	activation
+IL15	pp	LEPR	g-g	hsa04630	activation
+IL15	pp	LIFR	g-g	hsa04630	activation
+IL15	pp	MPL	g-g	hsa04630	activation
+IL15	pp	IL21R	g-g	hsa04630	activation
+IL15	pp	PDGFRA	g-g	hsa04630	activation
+IL15	pp	PDGFRB	g-g	hsa04630	activation
+IL15	pp	IL20RA	g-g	hsa04630	activation
+IL15	pp	IL20RB	g-g	hsa04630	activation
+IL15	pp	PRLR	g-g	hsa04630	activation
+IL15	pp	IL22RA1	g-g	hsa04630	activation
+IL15	pp	CRLF2	g-g	hsa04630	activation
+IL15	pp	OSMR	g-g	hsa04630	activation
+IL15	pp	IL27RA	g-g	hsa04630	activation
+LIF	pp	CNTFR	g-g	hsa04630	activation
+LIF	pp	CSF2RA	g-g	hsa04630	activation
+LIF	pp	CSF2RB	g-g	hsa04630	activation
+LIF	pp	CSF3R	g-g	hsa04630	activation
+LIF	pp	IL23R	g-g	hsa04630	activation
+LIF	pp	IFNLR1	g-g	hsa04630	activation
+LIF	pp	EGFR	g-g	hsa04630	activation
+LIF	pp	EPOR	g-g	hsa04630	activation
+LIF	pp	GHR	g-g	hsa04630	activation
+LIF	pp	IFNAR1	g-g	hsa04630	activation
+LIF	pp	IFNAR2	g-g	hsa04630	activation
+LIF	pp	IFNGR1	g-g	hsa04630	activation
+LIF	pp	IFNGR2	g-g	hsa04630	activation
+LIF	pp	IL2RA	g-g	hsa04630	activation
+LIF	pp	IL2RB	g-g	hsa04630	activation
+LIF	pp	IL2RG	g-g	hsa04630	activation
+LIF	pp	IL3RA	g-g	hsa04630	activation
+LIF	pp	IL4R	g-g	hsa04630	activation
+LIF	pp	IL5RA	g-g	hsa04630	activation
+LIF	pp	IL6R	g-g	hsa04630	activation
+LIF	pp	IL6ST	g-g	hsa04630	activation
+LIF	pp	IL7R	g-g	hsa04630	activation
+LIF	pp	IL9R	g-g	hsa04630	activation
+LIF	pp	IL10RA	g-g	hsa04630	activation
+LIF	pp	IL10RB	g-g	hsa04630	activation
+LIF	pp	IL11RA	g-g	hsa04630	activation
+LIF	pp	IL12RB1	g-g	hsa04630	activation
+LIF	pp	IL12RB2	g-g	hsa04630	activation
+LIF	pp	IL13RA1	g-g	hsa04630	activation
+LIF	pp	IL13RA2	g-g	hsa04630	activation
+LIF	pp	IL15RA	g-g	hsa04630	activation
+LIF	pp	LEPR	g-g	hsa04630	activation
+LIF	pp	LIFR	g-g	hsa04630	activation
+LIF	pp	MPL	g-g	hsa04630	activation
+LIF	pp	IL21R	g-g	hsa04630	activation
+LIF	pp	PDGFRA	g-g	hsa04630	activation
+LIF	pp	PDGFRB	g-g	hsa04630	activation
+LIF	pp	IL20RA	g-g	hsa04630	activation
+LIF	pp	IL20RB	g-g	hsa04630	activation
+LIF	pp	PRLR	g-g	hsa04630	activation
+LIF	pp	IL22RA1	g-g	hsa04630	activation
+LIF	pp	CRLF2	g-g	hsa04630	activation
+LIF	pp	OSMR	g-g	hsa04630	activation
+LIF	pp	IL27RA	g-g	hsa04630	activation
+OSM	pp	CNTFR	g-g	hsa04630	activation
+OSM	pp	CSF2RA	g-g	hsa04630	activation
+OSM	pp	CSF2RB	g-g	hsa04630	activation
+OSM	pp	CSF3R	g-g	hsa04630	activation
+OSM	pp	IL23R	g-g	hsa04630	activation
+OSM	pp	IFNLR1	g-g	hsa04630	activation
+OSM	pp	EGFR	g-g	hsa04630	activation
+OSM	pp	EPOR	g-g	hsa04630	activation
+OSM	pp	GHR	g-g	hsa04630	activation
+OSM	pp	IFNAR1	g-g	hsa04630	activation
+OSM	pp	IFNAR2	g-g	hsa04630	activation
+OSM	pp	IFNGR1	g-g	hsa04630	activation
+OSM	pp	IFNGR2	g-g	hsa04630	activation
+OSM	pp	IL2RA	g-g	hsa04630	activation
+OSM	pp	IL2RB	g-g	hsa04630	activation
+OSM	pp	IL2RG	g-g	hsa04630	activation
+OSM	pp	IL3RA	g-g	hsa04630	activation
+OSM	pp	IL4R	g-g	hsa04630	activation
+OSM	pp	IL5RA	g-g	hsa04630	activation
+OSM	pp	IL6R	g-g	hsa04630	activation
+OSM	pp	IL6ST	g-g	hsa04630	activation
+OSM	pp	IL7R	g-g	hsa04630	activation
+OSM	pp	IL9R	g-g	hsa04630	activation
+OSM	pp	IL10RA	g-g	hsa04630	activation
+OSM	pp	IL10RB	g-g	hsa04630	activation
+OSM	pp	IL11RA	g-g	hsa04630	activation
+OSM	pp	IL12RB1	g-g	hsa04630	activation
+OSM	pp	IL12RB2	g-g	hsa04630	activation
+OSM	pp	IL13RA1	g-g	hsa04630	activation
+OSM	pp	IL13RA2	g-g	hsa04630	activation
+OSM	pp	IL15RA	g-g	hsa04630	activation
+OSM	pp	LEPR	g-g	hsa04630	activation
+OSM	pp	LIFR	g-g	hsa04630	activation
+OSM	pp	MPL	g-g	hsa04630	activation
+OSM	pp	IL21R	g-g	hsa04630	activation
+OSM	pp	PDGFRA	g-g	hsa04630	activation
+OSM	pp	PDGFRB	g-g	hsa04630	activation
+OSM	pp	IL20RA	g-g	hsa04630	activation
+OSM	pp	IL20RB	g-g	hsa04630	activation
+OSM	pp	PRLR	g-g	hsa04630	activation
+OSM	pp	IL22RA1	g-g	hsa04630	activation
+OSM	pp	CRLF2	g-g	hsa04630	activation
+OSM	pp	OSMR	g-g	hsa04630	activation
+OSM	pp	IL27RA	g-g	hsa04630	activation
+IL20	pp	CNTFR	g-g	hsa04630	activation
+IL20	pp	CSF2RA	g-g	hsa04630	activation
+IL20	pp	CSF2RB	g-g	hsa04630	activation
+IL20	pp	CSF3R	g-g	hsa04630	activation
+IL20	pp	IL23R	g-g	hsa04630	activation
+IL20	pp	IFNLR1	g-g	hsa04630	activation
+IL20	pp	EGFR	g-g	hsa04630	activation
+IL20	pp	EPOR	g-g	hsa04630	activation
+IL20	pp	GHR	g-g	hsa04630	activation
+IL20	pp	IFNAR1	g-g	hsa04630	activation
+IL20	pp	IFNAR2	g-g	hsa04630	activation
+IL20	pp	IFNGR1	g-g	hsa04630	activation
+IL20	pp	IFNGR2	g-g	hsa04630	activation
+IL20	pp	IL2RA	g-g	hsa04630	activation
+IL20	pp	IL2RB	g-g	hsa04630	activation
+IL20	pp	IL2RG	g-g	hsa04630	activation
+IL20	pp	IL3RA	g-g	hsa04630	activation
+IL20	pp	IL4R	g-g	hsa04630	activation
+IL20	pp	IL5RA	g-g	hsa04630	activation
+IL20	pp	IL6R	g-g	hsa04630	activation
+IL20	pp	IL6ST	g-g	hsa04630	activation
+IL20	pp	IL7R	g-g	hsa04630	activation
+IL20	pp	IL9R	g-g	hsa04630	activation
+IL20	pp	IL10RA	g-g	hsa04630	activation
+IL20	pp	IL10RB	g-g	hsa04630	activation
+IL20	pp	IL11RA	g-g	hsa04630	activation
+IL20	pp	IL12RB1	g-g	hsa04630	activation
+IL20	pp	IL12RB2	g-g	hsa04630	activation
+IL20	pp	IL13RA1	g-g	hsa04630	activation
+IL20	pp	IL13RA2	g-g	hsa04630	activation
+IL20	pp	IL15RA	g-g	hsa04630	activation
+IL20	pp	LEPR	g-g	hsa04630	activation
+IL20	pp	LIFR	g-g	hsa04630	activation
+IL20	pp	MPL	g-g	hsa04630	activation
+IL20	pp	IL21R	g-g	hsa04630	activation
+IL20	pp	PDGFRA	g-g	hsa04630	activation
+IL20	pp	PDGFRB	g-g	hsa04630	activation
+IL20	pp	IL20RA	g-g	hsa04630	activation
+IL20	pp	IL20RB	g-g	hsa04630	activation
+IL20	pp	PRLR	g-g	hsa04630	activation
+IL20	pp	IL22RA1	g-g	hsa04630	activation
+IL20	pp	CRLF2	g-g	hsa04630	activation
+IL20	pp	OSMR	g-g	hsa04630	activation
+IL20	pp	IL27RA	g-g	hsa04630	activation
+IL22	pp	CNTFR	g-g	hsa04630	activation
+IL22	pp	CSF2RA	g-g	hsa04630	activation
+IL22	pp	CSF2RB	g-g	hsa04630	activation
+IL22	pp	CSF3R	g-g	hsa04630	activation
+IL22	pp	IL23R	g-g	hsa04630	activation
+IL22	pp	IFNLR1	g-g	hsa04630	activation
+IL22	pp	EGFR	g-g	hsa04630	activation
+IL22	pp	EPOR	g-g	hsa04630	activation
+IL22	pp	GHR	g-g	hsa04630	activation
+IL22	pp	IFNAR1	g-g	hsa04630	activation
+IL22	pp	IFNAR2	g-g	hsa04630	activation
+IL22	pp	IFNGR1	g-g	hsa04630	activation
+IL22	pp	IFNGR2	g-g	hsa04630	activation
+IL22	pp	IL2RA	g-g	hsa04630	activation
+IL22	pp	IL2RB	g-g	hsa04630	activation
+IL22	pp	IL2RG	g-g	hsa04630	activation
+IL22	pp	IL3RA	g-g	hsa04630	activation
+IL22	pp	IL4R	g-g	hsa04630	activation
+IL22	pp	IL5RA	g-g	hsa04630	activation
+IL22	pp	IL6R	g-g	hsa04630	activation
+IL22	pp	IL6ST	g-g	hsa04630	activation
+IL22	pp	IL7R	g-g	hsa04630	activation
+IL22	pp	IL9R	g-g	hsa04630	activation
+IL22	pp	IL10RA	g-g	hsa04630	activation
+IL22	pp	IL10RB	g-g	hsa04630	activation
+IL22	pp	IL11RA	g-g	hsa04630	activation
+IL22	pp	IL12RB1	g-g	hsa04630	activation
+IL22	pp	IL12RB2	g-g	hsa04630	activation
+IL22	pp	IL13RA1	g-g	hsa04630	activation
+IL22	pp	IL13RA2	g-g	hsa04630	activation
+IL22	pp	IL15RA	g-g	hsa04630	activation
+IL22	pp	LEPR	g-g	hsa04630	activation
+IL22	pp	LIFR	g-g	hsa04630	activation
+IL22	pp	MPL	g-g	hsa04630	activation
+IL22	pp	IL21R	g-g	hsa04630	activation
+IL22	pp	PDGFRA	g-g	hsa04630	activation
+IL22	pp	PDGFRB	g-g	hsa04630	activation
+IL22	pp	IL20RA	g-g	hsa04630	activation
+IL22	pp	IL20RB	g-g	hsa04630	activation
+IL22	pp	PRLR	g-g	hsa04630	activation
+IL22	pp	IL22RA1	g-g	hsa04630	activation
+IL22	pp	CRLF2	g-g	hsa04630	activation
+IL22	pp	OSMR	g-g	hsa04630	activation
+IL22	pp	IL27RA	g-g	hsa04630	activation
+IL23A	pp	CNTFR	g-g	hsa04630	activation
+IL23A	pp	CSF2RA	g-g	hsa04630	activation
+IL23A	pp	CSF2RB	g-g	hsa04630	activation
+IL23A	pp	CSF3R	g-g	hsa04630	activation
+IL23A	pp	IL23R	g-g	hsa04630	activation
+IL23A	pp	IFNLR1	g-g	hsa04630	activation
+IL23A	pp	EGFR	g-g	hsa04630	activation
+IL23A	pp	EPOR	g-g	hsa04630	activation
+IL23A	pp	GHR	g-g	hsa04630	activation
+IL23A	pp	IFNAR1	g-g	hsa04630	activation
+IL23A	pp	IFNAR2	g-g	hsa04630	activation
+IL23A	pp	IFNGR1	g-g	hsa04630	activation
+IL23A	pp	IFNGR2	g-g	hsa04630	activation
+IL23A	pp	IL2RA	g-g	hsa04630	activation
+IL23A	pp	IL2RB	g-g	hsa04630	activation
+IL23A	pp	IL2RG	g-g	hsa04630	activation
+IL23A	pp	IL3RA	g-g	hsa04630	activation
+IL23A	pp	IL4R	g-g	hsa04630	activation
+IL23A	pp	IL5RA	g-g	hsa04630	activation
+IL23A	pp	IL6R	g-g	hsa04630	activation
+IL23A	pp	IL6ST	g-g	hsa04630	activation
+IL23A	pp	IL7R	g-g	hsa04630	activation
+IL23A	pp	IL9R	g-g	hsa04630	activation
+IL23A	pp	IL10RA	g-g	hsa04630	activation
+IL23A	pp	IL10RB	g-g	hsa04630	activation
+IL23A	pp	IL11RA	g-g	hsa04630	activation
+IL23A	pp	IL12RB1	g-g	hsa04630	activation
+IL23A	pp	IL12RB2	g-g	hsa04630	activation
+IL23A	pp	IL13RA1	g-g	hsa04630	activation
+IL23A	pp	IL13RA2	g-g	hsa04630	activation
+IL23A	pp	IL15RA	g-g	hsa04630	activation
+IL23A	pp	LEPR	g-g	hsa04630	activation
+IL23A	pp	LIFR	g-g	hsa04630	activation
+IL23A	pp	MPL	g-g	hsa04630	activation
+IL23A	pp	IL21R	g-g	hsa04630	activation
+IL23A	pp	PDGFRA	g-g	hsa04630	activation
+IL23A	pp	PDGFRB	g-g	hsa04630	activation
+IL23A	pp	IL20RA	g-g	hsa04630	activation
+IL23A	pp	IL20RB	g-g	hsa04630	activation
+IL23A	pp	PRLR	g-g	hsa04630	activation
+IL23A	pp	IL22RA1	g-g	hsa04630	activation
+IL23A	pp	CRLF2	g-g	hsa04630	activation
+IL23A	pp	OSMR	g-g	hsa04630	activation
+IL23A	pp	IL27RA	g-g	hsa04630	activation
+IL17D	pp	CNTFR	g-g	hsa04630	activation
+IL17D	pp	CSF2RA	g-g	hsa04630	activation
+IL17D	pp	CSF2RB	g-g	hsa04630	activation
+IL17D	pp	CSF3R	g-g	hsa04630	activation
+IL17D	pp	IL23R	g-g	hsa04630	activation
+IL17D	pp	IFNLR1	g-g	hsa04630	activation
+IL17D	pp	EGFR	g-g	hsa04630	activation
+IL17D	pp	EPOR	g-g	hsa04630	activation
+IL17D	pp	GHR	g-g	hsa04630	activation
+IL17D	pp	IFNAR1	g-g	hsa04630	activation
+IL17D	pp	IFNAR2	g-g	hsa04630	activation
+IL17D	pp	IFNGR1	g-g	hsa04630	activation
+IL17D	pp	IFNGR2	g-g	hsa04630	activation
+IL17D	pp	IL2RA	g-g	hsa04630	activation
+IL17D	pp	IL2RB	g-g	hsa04630	activation
+IL17D	pp	IL2RG	g-g	hsa04630	activation
+IL17D	pp	IL3RA	g-g	hsa04630	activation
+IL17D	pp	IL4R	g-g	hsa04630	activation
+IL17D	pp	IL5RA	g-g	hsa04630	activation
+IL17D	pp	IL6R	g-g	hsa04630	activation
+IL17D	pp	IL6ST	g-g	hsa04630	activation
+IL17D	pp	IL7R	g-g	hsa04630	activation
+IL17D	pp	IL9R	g-g	hsa04630	activation
+IL17D	pp	IL10RA	g-g	hsa04630	activation
+IL17D	pp	IL10RB	g-g	hsa04630	activation
+IL17D	pp	IL11RA	g-g	hsa04630	activation
+IL17D	pp	IL12RB1	g-g	hsa04630	activation
+IL17D	pp	IL12RB2	g-g	hsa04630	activation
+IL17D	pp	IL13RA1	g-g	hsa04630	activation
+IL17D	pp	IL13RA2	g-g	hsa04630	activation
+IL17D	pp	IL15RA	g-g	hsa04630	activation
+IL17D	pp	LEPR	g-g	hsa04630	activation
+IL17D	pp	LIFR	g-g	hsa04630	activation
+IL17D	pp	MPL	g-g	hsa04630	activation
+IL17D	pp	IL21R	g-g	hsa04630	activation
+IL17D	pp	PDGFRA	g-g	hsa04630	activation
+IL17D	pp	PDGFRB	g-g	hsa04630	activation
+IL17D	pp	IL20RA	g-g	hsa04630	activation
+IL17D	pp	IL20RB	g-g	hsa04630	activation
+IL17D	pp	PRLR	g-g	hsa04630	activation
+IL17D	pp	IL22RA1	g-g	hsa04630	activation
+IL17D	pp	CRLF2	g-g	hsa04630	activation
+IL17D	pp	OSMR	g-g	hsa04630	activation
+IL17D	pp	IL27RA	g-g	hsa04630	activation
+IFNK	pp	CNTFR	g-g	hsa04630	activation
+IFNK	pp	CSF2RA	g-g	hsa04630	activation
+IFNK	pp	CSF2RB	g-g	hsa04630	activation
+IFNK	pp	CSF3R	g-g	hsa04630	activation
+IFNK	pp	IL23R	g-g	hsa04630	activation
+IFNK	pp	IFNLR1	g-g	hsa04630	activation
+IFNK	pp	EGFR	g-g	hsa04630	activation
+IFNK	pp	EPOR	g-g	hsa04630	activation
+IFNK	pp	GHR	g-g	hsa04630	activation
+IFNK	pp	IFNAR1	g-g	hsa04630	activation
+IFNK	pp	IFNAR2	g-g	hsa04630	activation
+IFNK	pp	IFNGR1	g-g	hsa04630	activation
+IFNK	pp	IFNGR2	g-g	hsa04630	activation
+IFNK	pp	IL2RA	g-g	hsa04630	activation
+IFNK	pp	IL2RB	g-g	hsa04630	activation
+IFNK	pp	IL2RG	g-g	hsa04630	activation
+IFNK	pp	IL3RA	g-g	hsa04630	activation
+IFNK	pp	IL4R	g-g	hsa04630	activation
+IFNK	pp	IL5RA	g-g	hsa04630	activation
+IFNK	pp	IL6R	g-g	hsa04630	activation
+IFNK	pp	IL6ST	g-g	hsa04630	activation
+IFNK	pp	IL7R	g-g	hsa04630	activation
+IFNK	pp	IL9R	g-g	hsa04630	activation
+IFNK	pp	IL10RA	g-g	hsa04630	activation
+IFNK	pp	IL10RB	g-g	hsa04630	activation
+IFNK	pp	IL11RA	g-g	hsa04630	activation
+IFNK	pp	IL12RB1	g-g	hsa04630	activation
+IFNK	pp	IL12RB2	g-g	hsa04630	activation
+IFNK	pp	IL13RA1	g-g	hsa04630	activation
+IFNK	pp	IL13RA2	g-g	hsa04630	activation
+IFNK	pp	IL15RA	g-g	hsa04630	activation
+IFNK	pp	LEPR	g-g	hsa04630	activation
+IFNK	pp	LIFR	g-g	hsa04630	activation
+IFNK	pp	MPL	g-g	hsa04630	activation
+IFNK	pp	IL21R	g-g	hsa04630	activation
+IFNK	pp	PDGFRA	g-g	hsa04630	activation
+IFNK	pp	PDGFRB	g-g	hsa04630	activation
+IFNK	pp	IL20RA	g-g	hsa04630	activation
+IFNK	pp	IL20RB	g-g	hsa04630	activation
+IFNK	pp	PRLR	g-g	hsa04630	activation
+IFNK	pp	IL22RA1	g-g	hsa04630	activation
+IFNK	pp	CRLF2	g-g	hsa04630	activation
+IFNK	pp	OSMR	g-g	hsa04630	activation
+IFNK	pp	IL27RA	g-g	hsa04630	activation
+IL21	pp	CNTFR	g-g	hsa04630	activation
+IL21	pp	CSF2RA	g-g	hsa04630	activation
+IL21	pp	CSF2RB	g-g	hsa04630	activation
+IL21	pp	CSF3R	g-g	hsa04630	activation
+IL21	pp	IL23R	g-g	hsa04630	activation
+IL21	pp	IFNLR1	g-g	hsa04630	activation
+IL21	pp	EGFR	g-g	hsa04630	activation
+IL21	pp	EPOR	g-g	hsa04630	activation
+IL21	pp	GHR	g-g	hsa04630	activation
+IL21	pp	IFNAR1	g-g	hsa04630	activation
+IL21	pp	IFNAR2	g-g	hsa04630	activation
+IL21	pp	IFNGR1	g-g	hsa04630	activation
+IL21	pp	IFNGR2	g-g	hsa04630	activation
+IL21	pp	IL2RA	g-g	hsa04630	activation
+IL21	pp	IL2RB	g-g	hsa04630	activation
+IL21	pp	IL2RG	g-g	hsa04630	activation
+IL21	pp	IL3RA	g-g	hsa04630	activation
+IL21	pp	IL4R	g-g	hsa04630	activation
+IL21	pp	IL5RA	g-g	hsa04630	activation
+IL21	pp	IL6R	g-g	hsa04630	activation
+IL21	pp	IL6ST	g-g	hsa04630	activation
+IL21	pp	IL7R	g-g	hsa04630	activation
+IL21	pp	IL9R	g-g	hsa04630	activation
+IL21	pp	IL10RA	g-g	hsa04630	activation
+IL21	pp	IL10RB	g-g	hsa04630	activation
+IL21	pp	IL11RA	g-g	hsa04630	activation
+IL21	pp	IL12RB1	g-g	hsa04630	activation
+IL21	pp	IL12RB2	g-g	hsa04630	activation
+IL21	pp	IL13RA1	g-g	hsa04630	activation
+IL21	pp	IL13RA2	g-g	hsa04630	activation
+IL21	pp	IL15RA	g-g	hsa04630	activation
+IL21	pp	LEPR	g-g	hsa04630	activation
+IL21	pp	LIFR	g-g	hsa04630	activation
+IL21	pp	MPL	g-g	hsa04630	activation
+IL21	pp	IL21R	g-g	hsa04630	activation
+IL21	pp	PDGFRA	g-g	hsa04630	activation
+IL21	pp	PDGFRB	g-g	hsa04630	activation
+IL21	pp	IL20RA	g-g	hsa04630	activation
+IL21	pp	IL20RB	g-g	hsa04630	activation
+IL21	pp	PRLR	g-g	hsa04630	activation
+IL21	pp	IL22RA1	g-g	hsa04630	activation
+IL21	pp	CRLF2	g-g	hsa04630	activation
+IL21	pp	OSMR	g-g	hsa04630	activation
+IL21	pp	IL27RA	g-g	hsa04630	activation
+TSLP	pp	CNTFR	g-g	hsa04630	activation
+TSLP	pp	CSF2RA	g-g	hsa04630	activation
+TSLP	pp	CSF2RB	g-g	hsa04630	activation
+TSLP	pp	CSF3R	g-g	hsa04630	activation
+TSLP	pp	IL23R	g-g	hsa04630	activation
+TSLP	pp	IFNLR1	g-g	hsa04630	activation
+TSLP	pp	EGFR	g-g	hsa04630	activation
+TSLP	pp	EPOR	g-g	hsa04630	activation
+TSLP	pp	GHR	g-g	hsa04630	activation
+TSLP	pp	IFNAR1	g-g	hsa04630	activation
+TSLP	pp	IFNAR2	g-g	hsa04630	activation
+TSLP	pp	IFNGR1	g-g	hsa04630	activation
+TSLP	pp	IFNGR2	g-g	hsa04630	activation
+TSLP	pp	IL2RA	g-g	hsa04630	activation
+TSLP	pp	IL2RB	g-g	hsa04630	activation
+TSLP	pp	IL2RG	g-g	hsa04630	activation
+TSLP	pp	IL3RA	g-g	hsa04630	activation
+TSLP	pp	IL4R	g-g	hsa04630	activation
+TSLP	pp	IL5RA	g-g	hsa04630	activation
+TSLP	pp	IL6R	g-g	hsa04630	activation
+TSLP	pp	IL6ST	g-g	hsa04630	activation
+TSLP	pp	IL7R	g-g	hsa04630	activation
+TSLP	pp	IL9R	g-g	hsa04630	activation
+TSLP	pp	IL10RA	g-g	hsa04630	activation
+TSLP	pp	IL10RB	g-g	hsa04630	activation
+TSLP	pp	IL11RA	g-g	hsa04630	activation
+TSLP	pp	IL12RB1	g-g	hsa04630	activation
+TSLP	pp	IL12RB2	g-g	hsa04630	activation
+TSLP	pp	IL13RA1	g-g	hsa04630	activation
+TSLP	pp	IL13RA2	g-g	hsa04630	activation
+TSLP	pp	IL15RA	g-g	hsa04630	activation
+TSLP	pp	LEPR	g-g	hsa04630	activation
+TSLP	pp	LIFR	g-g	hsa04630	activation
+TSLP	pp	MPL	g-g	hsa04630	activation
+TSLP	pp	IL21R	g-g	hsa04630	activation
+TSLP	pp	PDGFRA	g-g	hsa04630	activation
+TSLP	pp	PDGFRB	g-g	hsa04630	activation
+TSLP	pp	IL20RA	g-g	hsa04630	activation
+TSLP	pp	IL20RB	g-g	hsa04630	activation
+TSLP	pp	PRLR	g-g	hsa04630	activation
+TSLP	pp	IL22RA1	g-g	hsa04630	activation
+TSLP	pp	CRLF2	g-g	hsa04630	activation
+TSLP	pp	OSMR	g-g	hsa04630	activation
+TSLP	pp	IL27RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CNTF, HCNTF	pp	CNTFR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	CSF2RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	CSF2RB	g-g	hsa04630	activation
+CNTF, HCNTF	pp	CSF3R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL23R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IFNLR1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	EGFR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	EPOR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	GHR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IFNAR1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IFNAR2	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IFNGR1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IFNGR2	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL2RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL2RB	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL2RG	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL3RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL4R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL5RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL6R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL6ST	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL7R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL9R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL10RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL10RB	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL11RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL12RB1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL12RB2	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL13RA1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL13RA2	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL15RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	LEPR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	LIFR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	MPL	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL21R	g-g	hsa04630	activation
+CNTF, HCNTF	pp	PDGFRA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	PDGFRB	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL20RA	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL20RB	g-g	hsa04630	activation
+CNTF, HCNTF	pp	PRLR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL22RA1	g-g	hsa04630	activation
+CNTF, HCNTF	pp	CRLF2	g-g	hsa04630	activation
+CNTF, HCNTF	pp	OSMR	g-g	hsa04630	activation
+CNTF, HCNTF	pp	IL27RA	g-g	hsa04630	activation
+CSF3	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CSH1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CSH2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+EPO	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+GH1	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+GH2	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+LEP	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+PRL	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+THPO	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	activation
+CSF3	pp	CNTFR	g-g	hsa04630	activation
+CSF3	pp	CSF2RA	g-g	hsa04630	activation
+CSF3	pp	CSF2RB	g-g	hsa04630	activation
+CSF3	pp	CSF3R	g-g	hsa04630	activation
+CSF3	pp	IL23R	g-g	hsa04630	activation
+CSF3	pp	IFNLR1	g-g	hsa04630	activation
+CSF3	pp	EGFR	g-g	hsa04630	activation
+CSF3	pp	EPOR	g-g	hsa04630	activation
+CSF3	pp	GHR	g-g	hsa04630	activation
+CSF3	pp	IFNAR1	g-g	hsa04630	activation
+CSF3	pp	IFNAR2	g-g	hsa04630	activation
+CSF3	pp	IFNGR1	g-g	hsa04630	activation
+CSF3	pp	IFNGR2	g-g	hsa04630	activation
+CSF3	pp	IL2RA	g-g	hsa04630	activation
+CSF3	pp	IL2RB	g-g	hsa04630	activation
+CSF3	pp	IL2RG	g-g	hsa04630	activation
+CSF3	pp	IL3RA	g-g	hsa04630	activation
+CSF3	pp	IL4R	g-g	hsa04630	activation
+CSF3	pp	IL5RA	g-g	hsa04630	activation
+CSF3	pp	IL6R	g-g	hsa04630	activation
+CSF3	pp	IL6ST	g-g	hsa04630	activation
+CSF3	pp	IL7R	g-g	hsa04630	activation
+CSF3	pp	IL9R	g-g	hsa04630	activation
+CSF3	pp	IL10RA	g-g	hsa04630	activation
+CSF3	pp	IL10RB	g-g	hsa04630	activation
+CSF3	pp	IL11RA	g-g	hsa04630	activation
+CSF3	pp	IL12RB1	g-g	hsa04630	activation
+CSF3	pp	IL12RB2	g-g	hsa04630	activation
+CSF3	pp	IL13RA1	g-g	hsa04630	activation
+CSF3	pp	IL13RA2	g-g	hsa04630	activation
+CSF3	pp	IL15RA	g-g	hsa04630	activation
+CSF3	pp	LEPR	g-g	hsa04630	activation
+CSF3	pp	LIFR	g-g	hsa04630	activation
+CSF3	pp	MPL	g-g	hsa04630	activation
+CSF3	pp	IL21R	g-g	hsa04630	activation
+CSF3	pp	PDGFRA	g-g	hsa04630	activation
+CSF3	pp	PDGFRB	g-g	hsa04630	activation
+CSF3	pp	IL20RA	g-g	hsa04630	activation
+CSF3	pp	IL20RB	g-g	hsa04630	activation
+CSF3	pp	PRLR	g-g	hsa04630	activation
+CSF3	pp	IL22RA1	g-g	hsa04630	activation
+CSF3	pp	CRLF2	g-g	hsa04630	activation
+CSF3	pp	OSMR	g-g	hsa04630	activation
+CSF3	pp	IL27RA	g-g	hsa04630	activation
+CSH1	pp	CNTFR	g-g	hsa04630	activation
+CSH1	pp	CSF2RA	g-g	hsa04630	activation
+CSH1	pp	CSF2RB	g-g	hsa04630	activation
+CSH1	pp	CSF3R	g-g	hsa04630	activation
+CSH1	pp	IL23R	g-g	hsa04630	activation
+CSH1	pp	IFNLR1	g-g	hsa04630	activation
+CSH1	pp	EGFR	g-g	hsa04630	activation
+CSH1	pp	EPOR	g-g	hsa04630	activation
+CSH1	pp	GHR	g-g	hsa04630	activation
+CSH1	pp	IFNAR1	g-g	hsa04630	activation
+CSH1	pp	IFNAR2	g-g	hsa04630	activation
+CSH1	pp	IFNGR1	g-g	hsa04630	activation
+CSH1	pp	IFNGR2	g-g	hsa04630	activation
+CSH1	pp	IL2RA	g-g	hsa04630	activation
+CSH1	pp	IL2RB	g-g	hsa04630	activation
+CSH1	pp	IL2RG	g-g	hsa04630	activation
+CSH1	pp	IL3RA	g-g	hsa04630	activation
+CSH1	pp	IL4R	g-g	hsa04630	activation
+CSH1	pp	IL5RA	g-g	hsa04630	activation
+CSH1	pp	IL6R	g-g	hsa04630	activation
+CSH1	pp	IL6ST	g-g	hsa04630	activation
+CSH1	pp	IL7R	g-g	hsa04630	activation
+CSH1	pp	IL9R	g-g	hsa04630	activation
+CSH1	pp	IL10RA	g-g	hsa04630	activation
+CSH1	pp	IL10RB	g-g	hsa04630	activation
+CSH1	pp	IL11RA	g-g	hsa04630	activation
+CSH1	pp	IL12RB1	g-g	hsa04630	activation
+CSH1	pp	IL12RB2	g-g	hsa04630	activation
+CSH1	pp	IL13RA1	g-g	hsa04630	activation
+CSH1	pp	IL13RA2	g-g	hsa04630	activation
+CSH1	pp	IL15RA	g-g	hsa04630	activation
+CSH1	pp	LEPR	g-g	hsa04630	activation
+CSH1	pp	LIFR	g-g	hsa04630	activation
+CSH1	pp	MPL	g-g	hsa04630	activation
+CSH1	pp	IL21R	g-g	hsa04630	activation
+CSH1	pp	PDGFRA	g-g	hsa04630	activation
+CSH1	pp	PDGFRB	g-g	hsa04630	activation
+CSH1	pp	IL20RA	g-g	hsa04630	activation
+CSH1	pp	IL20RB	g-g	hsa04630	activation
+CSH1	pp	PRLR	g-g	hsa04630	activation
+CSH1	pp	IL22RA1	g-g	hsa04630	activation
+CSH1	pp	CRLF2	g-g	hsa04630	activation
+CSH1	pp	OSMR	g-g	hsa04630	activation
+CSH1	pp	IL27RA	g-g	hsa04630	activation
+CSH2	pp	CNTFR	g-g	hsa04630	activation
+CSH2	pp	CSF2RA	g-g	hsa04630	activation
+CSH2	pp	CSF2RB	g-g	hsa04630	activation
+CSH2	pp	CSF3R	g-g	hsa04630	activation
+CSH2	pp	IL23R	g-g	hsa04630	activation
+CSH2	pp	IFNLR1	g-g	hsa04630	activation
+CSH2	pp	EGFR	g-g	hsa04630	activation
+CSH2	pp	EPOR	g-g	hsa04630	activation
+CSH2	pp	GHR	g-g	hsa04630	activation
+CSH2	pp	IFNAR1	g-g	hsa04630	activation
+CSH2	pp	IFNAR2	g-g	hsa04630	activation
+CSH2	pp	IFNGR1	g-g	hsa04630	activation
+CSH2	pp	IFNGR2	g-g	hsa04630	activation
+CSH2	pp	IL2RA	g-g	hsa04630	activation
+CSH2	pp	IL2RB	g-g	hsa04630	activation
+CSH2	pp	IL2RG	g-g	hsa04630	activation
+CSH2	pp	IL3RA	g-g	hsa04630	activation
+CSH2	pp	IL4R	g-g	hsa04630	activation
+CSH2	pp	IL5RA	g-g	hsa04630	activation
+CSH2	pp	IL6R	g-g	hsa04630	activation
+CSH2	pp	IL6ST	g-g	hsa04630	activation
+CSH2	pp	IL7R	g-g	hsa04630	activation
+CSH2	pp	IL9R	g-g	hsa04630	activation
+CSH2	pp	IL10RA	g-g	hsa04630	activation
+CSH2	pp	IL10RB	g-g	hsa04630	activation
+CSH2	pp	IL11RA	g-g	hsa04630	activation
+CSH2	pp	IL12RB1	g-g	hsa04630	activation
+CSH2	pp	IL12RB2	g-g	hsa04630	activation
+CSH2	pp	IL13RA1	g-g	hsa04630	activation
+CSH2	pp	IL13RA2	g-g	hsa04630	activation
+CSH2	pp	IL15RA	g-g	hsa04630	activation
+CSH2	pp	LEPR	g-g	hsa04630	activation
+CSH2	pp	LIFR	g-g	hsa04630	activation
+CSH2	pp	MPL	g-g	hsa04630	activation
+CSH2	pp	IL21R	g-g	hsa04630	activation
+CSH2	pp	PDGFRA	g-g	hsa04630	activation
+CSH2	pp	PDGFRB	g-g	hsa04630	activation
+CSH2	pp	IL20RA	g-g	hsa04630	activation
+CSH2	pp	IL20RB	g-g	hsa04630	activation
+CSH2	pp	PRLR	g-g	hsa04630	activation
+CSH2	pp	IL22RA1	g-g	hsa04630	activation
+CSH2	pp	CRLF2	g-g	hsa04630	activation
+CSH2	pp	OSMR	g-g	hsa04630	activation
+CSH2	pp	IL27RA	g-g	hsa04630	activation
+EPO	pp	CNTFR	g-g	hsa04630	activation
+EPO	pp	CSF2RA	g-g	hsa04630	activation
+EPO	pp	CSF2RB	g-g	hsa04630	activation
+EPO	pp	CSF3R	g-g	hsa04630	activation
+EPO	pp	IL23R	g-g	hsa04630	activation
+EPO	pp	IFNLR1	g-g	hsa04630	activation
+EPO	pp	EGFR	g-g	hsa04630	activation
+EPO	pp	EPOR	g-g	hsa04630	activation
+EPO	pp	GHR	g-g	hsa04630	activation
+EPO	pp	IFNAR1	g-g	hsa04630	activation
+EPO	pp	IFNAR2	g-g	hsa04630	activation
+EPO	pp	IFNGR1	g-g	hsa04630	activation
+EPO	pp	IFNGR2	g-g	hsa04630	activation
+EPO	pp	IL2RA	g-g	hsa04630	activation
+EPO	pp	IL2RB	g-g	hsa04630	activation
+EPO	pp	IL2RG	g-g	hsa04630	activation
+EPO	pp	IL3RA	g-g	hsa04630	activation
+EPO	pp	IL4R	g-g	hsa04630	activation
+EPO	pp	IL5RA	g-g	hsa04630	activation
+EPO	pp	IL6R	g-g	hsa04630	activation
+EPO	pp	IL6ST	g-g	hsa04630	activation
+EPO	pp	IL7R	g-g	hsa04630	activation
+EPO	pp	IL9R	g-g	hsa04630	activation
+EPO	pp	IL10RA	g-g	hsa04630	activation
+EPO	pp	IL10RB	g-g	hsa04630	activation
+EPO	pp	IL11RA	g-g	hsa04630	activation
+EPO	pp	IL12RB1	g-g	hsa04630	activation
+EPO	pp	IL12RB2	g-g	hsa04630	activation
+EPO	pp	IL13RA1	g-g	hsa04630	activation
+EPO	pp	IL13RA2	g-g	hsa04630	activation
+EPO	pp	IL15RA	g-g	hsa04630	activation
+EPO	pp	LEPR	g-g	hsa04630	activation
+EPO	pp	LIFR	g-g	hsa04630	activation
+EPO	pp	MPL	g-g	hsa04630	activation
+EPO	pp	IL21R	g-g	hsa04630	activation
+EPO	pp	PDGFRA	g-g	hsa04630	activation
+EPO	pp	PDGFRB	g-g	hsa04630	activation
+EPO	pp	IL20RA	g-g	hsa04630	activation
+EPO	pp	IL20RB	g-g	hsa04630	activation
+EPO	pp	PRLR	g-g	hsa04630	activation
+EPO	pp	IL22RA1	g-g	hsa04630	activation
+EPO	pp	CRLF2	g-g	hsa04630	activation
+EPO	pp	OSMR	g-g	hsa04630	activation
+EPO	pp	IL27RA	g-g	hsa04630	activation
+GH1	pp	CNTFR	g-g	hsa04630	activation
+GH1	pp	CSF2RA	g-g	hsa04630	activation
+GH1	pp	CSF2RB	g-g	hsa04630	activation
+GH1	pp	CSF3R	g-g	hsa04630	activation
+GH1	pp	IL23R	g-g	hsa04630	activation
+GH1	pp	IFNLR1	g-g	hsa04630	activation
+GH1	pp	EGFR	g-g	hsa04630	activation
+GH1	pp	EPOR	g-g	hsa04630	activation
+GH1	pp	GHR	g-g	hsa04630	activation
+GH1	pp	IFNAR1	g-g	hsa04630	activation
+GH1	pp	IFNAR2	g-g	hsa04630	activation
+GH1	pp	IFNGR1	g-g	hsa04630	activation
+GH1	pp	IFNGR2	g-g	hsa04630	activation
+GH1	pp	IL2RA	g-g	hsa04630	activation
+GH1	pp	IL2RB	g-g	hsa04630	activation
+GH1	pp	IL2RG	g-g	hsa04630	activation
+GH1	pp	IL3RA	g-g	hsa04630	activation
+GH1	pp	IL4R	g-g	hsa04630	activation
+GH1	pp	IL5RA	g-g	hsa04630	activation
+GH1	pp	IL6R	g-g	hsa04630	activation
+GH1	pp	IL6ST	g-g	hsa04630	activation
+GH1	pp	IL7R	g-g	hsa04630	activation
+GH1	pp	IL9R	g-g	hsa04630	activation
+GH1	pp	IL10RA	g-g	hsa04630	activation
+GH1	pp	IL10RB	g-g	hsa04630	activation
+GH1	pp	IL11RA	g-g	hsa04630	activation
+GH1	pp	IL12RB1	g-g	hsa04630	activation
+GH1	pp	IL12RB2	g-g	hsa04630	activation
+GH1	pp	IL13RA1	g-g	hsa04630	activation
+GH1	pp	IL13RA2	g-g	hsa04630	activation
+GH1	pp	IL15RA	g-g	hsa04630	activation
+GH1	pp	LEPR	g-g	hsa04630	activation
+GH1	pp	LIFR	g-g	hsa04630	activation
+GH1	pp	MPL	g-g	hsa04630	activation
+GH1	pp	IL21R	g-g	hsa04630	activation
+GH1	pp	PDGFRA	g-g	hsa04630	activation
+GH1	pp	PDGFRB	g-g	hsa04630	activation
+GH1	pp	IL20RA	g-g	hsa04630	activation
+GH1	pp	IL20RB	g-g	hsa04630	activation
+GH1	pp	PRLR	g-g	hsa04630	activation
+GH1	pp	IL22RA1	g-g	hsa04630	activation
+GH1	pp	CRLF2	g-g	hsa04630	activation
+GH1	pp	OSMR	g-g	hsa04630	activation
+GH1	pp	IL27RA	g-g	hsa04630	activation
+GH2	pp	CNTFR	g-g	hsa04630	activation
+GH2	pp	CSF2RA	g-g	hsa04630	activation
+GH2	pp	CSF2RB	g-g	hsa04630	activation
+GH2	pp	CSF3R	g-g	hsa04630	activation
+GH2	pp	IL23R	g-g	hsa04630	activation
+GH2	pp	IFNLR1	g-g	hsa04630	activation
+GH2	pp	EGFR	g-g	hsa04630	activation
+GH2	pp	EPOR	g-g	hsa04630	activation
+GH2	pp	GHR	g-g	hsa04630	activation
+GH2	pp	IFNAR1	g-g	hsa04630	activation
+GH2	pp	IFNAR2	g-g	hsa04630	activation
+GH2	pp	IFNGR1	g-g	hsa04630	activation
+GH2	pp	IFNGR2	g-g	hsa04630	activation
+GH2	pp	IL2RA	g-g	hsa04630	activation
+GH2	pp	IL2RB	g-g	hsa04630	activation
+GH2	pp	IL2RG	g-g	hsa04630	activation
+GH2	pp	IL3RA	g-g	hsa04630	activation
+GH2	pp	IL4R	g-g	hsa04630	activation
+GH2	pp	IL5RA	g-g	hsa04630	activation
+GH2	pp	IL6R	g-g	hsa04630	activation
+GH2	pp	IL6ST	g-g	hsa04630	activation
+GH2	pp	IL7R	g-g	hsa04630	activation
+GH2	pp	IL9R	g-g	hsa04630	activation
+GH2	pp	IL10RA	g-g	hsa04630	activation
+GH2	pp	IL10RB	g-g	hsa04630	activation
+GH2	pp	IL11RA	g-g	hsa04630	activation
+GH2	pp	IL12RB1	g-g	hsa04630	activation
+GH2	pp	IL12RB2	g-g	hsa04630	activation
+GH2	pp	IL13RA1	g-g	hsa04630	activation
+GH2	pp	IL13RA2	g-g	hsa04630	activation
+GH2	pp	IL15RA	g-g	hsa04630	activation
+GH2	pp	LEPR	g-g	hsa04630	activation
+GH2	pp	LIFR	g-g	hsa04630	activation
+GH2	pp	MPL	g-g	hsa04630	activation
+GH2	pp	IL21R	g-g	hsa04630	activation
+GH2	pp	PDGFRA	g-g	hsa04630	activation
+GH2	pp	PDGFRB	g-g	hsa04630	activation
+GH2	pp	IL20RA	g-g	hsa04630	activation
+GH2	pp	IL20RB	g-g	hsa04630	activation
+GH2	pp	PRLR	g-g	hsa04630	activation
+GH2	pp	IL22RA1	g-g	hsa04630	activation
+GH2	pp	CRLF2	g-g	hsa04630	activation
+GH2	pp	OSMR	g-g	hsa04630	activation
+GH2	pp	IL27RA	g-g	hsa04630	activation
+LEP	pp	CNTFR	g-g	hsa04630	activation
+LEP	pp	CSF2RA	g-g	hsa04630	activation
+LEP	pp	CSF2RB	g-g	hsa04630	activation
+LEP	pp	CSF3R	g-g	hsa04630	activation
+LEP	pp	IL23R	g-g	hsa04630	activation
+LEP	pp	IFNLR1	g-g	hsa04630	activation
+LEP	pp	EGFR	g-g	hsa04630	activation
+LEP	pp	EPOR	g-g	hsa04630	activation
+LEP	pp	GHR	g-g	hsa04630	activation
+LEP	pp	IFNAR1	g-g	hsa04630	activation
+LEP	pp	IFNAR2	g-g	hsa04630	activation
+LEP	pp	IFNGR1	g-g	hsa04630	activation
+LEP	pp	IFNGR2	g-g	hsa04630	activation
+LEP	pp	IL2RA	g-g	hsa04630	activation
+LEP	pp	IL2RB	g-g	hsa04630	activation
+LEP	pp	IL2RG	g-g	hsa04630	activation
+LEP	pp	IL3RA	g-g	hsa04630	activation
+LEP	pp	IL4R	g-g	hsa04630	activation
+LEP	pp	IL5RA	g-g	hsa04630	activation
+LEP	pp	IL6R	g-g	hsa04630	activation
+LEP	pp	IL6ST	g-g	hsa04630	activation
+LEP	pp	IL7R	g-g	hsa04630	activation
+LEP	pp	IL9R	g-g	hsa04630	activation
+LEP	pp	IL10RA	g-g	hsa04630	activation
+LEP	pp	IL10RB	g-g	hsa04630	activation
+LEP	pp	IL11RA	g-g	hsa04630	activation
+LEP	pp	IL12RB1	g-g	hsa04630	activation
+LEP	pp	IL12RB2	g-g	hsa04630	activation
+LEP	pp	IL13RA1	g-g	hsa04630	activation
+LEP	pp	IL13RA2	g-g	hsa04630	activation
+LEP	pp	IL15RA	g-g	hsa04630	activation
+LEP	pp	LEPR	g-g	hsa04630	activation
+LEP	pp	LIFR	g-g	hsa04630	activation
+LEP	pp	MPL	g-g	hsa04630	activation
+LEP	pp	IL21R	g-g	hsa04630	activation
+LEP	pp	PDGFRA	g-g	hsa04630	activation
+LEP	pp	PDGFRB	g-g	hsa04630	activation
+LEP	pp	IL20RA	g-g	hsa04630	activation
+LEP	pp	IL20RB	g-g	hsa04630	activation
+LEP	pp	PRLR	g-g	hsa04630	activation
+LEP	pp	IL22RA1	g-g	hsa04630	activation
+LEP	pp	CRLF2	g-g	hsa04630	activation
+LEP	pp	OSMR	g-g	hsa04630	activation
+LEP	pp	IL27RA	g-g	hsa04630	activation
+PRL	pp	CNTFR	g-g	hsa04630	activation
+PRL	pp	CSF2RA	g-g	hsa04630	activation
+PRL	pp	CSF2RB	g-g	hsa04630	activation
+PRL	pp	CSF3R	g-g	hsa04630	activation
+PRL	pp	IL23R	g-g	hsa04630	activation
+PRL	pp	IFNLR1	g-g	hsa04630	activation
+PRL	pp	EGFR	g-g	hsa04630	activation
+PRL	pp	EPOR	g-g	hsa04630	activation
+PRL	pp	GHR	g-g	hsa04630	activation
+PRL	pp	IFNAR1	g-g	hsa04630	activation
+PRL	pp	IFNAR2	g-g	hsa04630	activation
+PRL	pp	IFNGR1	g-g	hsa04630	activation
+PRL	pp	IFNGR2	g-g	hsa04630	activation
+PRL	pp	IL2RA	g-g	hsa04630	activation
+PRL	pp	IL2RB	g-g	hsa04630	activation
+PRL	pp	IL2RG	g-g	hsa04630	activation
+PRL	pp	IL3RA	g-g	hsa04630	activation
+PRL	pp	IL4R	g-g	hsa04630	activation
+PRL	pp	IL5RA	g-g	hsa04630	activation
+PRL	pp	IL6R	g-g	hsa04630	activation
+PRL	pp	IL6ST	g-g	hsa04630	activation
+PRL	pp	IL7R	g-g	hsa04630	activation
+PRL	pp	IL9R	g-g	hsa04630	activation
+PRL	pp	IL10RA	g-g	hsa04630	activation
+PRL	pp	IL10RB	g-g	hsa04630	activation
+PRL	pp	IL11RA	g-g	hsa04630	activation
+PRL	pp	IL12RB1	g-g	hsa04630	activation
+PRL	pp	IL12RB2	g-g	hsa04630	activation
+PRL	pp	IL13RA1	g-g	hsa04630	activation
+PRL	pp	IL13RA2	g-g	hsa04630	activation
+PRL	pp	IL15RA	g-g	hsa04630	activation
+PRL	pp	LEPR	g-g	hsa04630	activation
+PRL	pp	LIFR	g-g	hsa04630	activation
+PRL	pp	MPL	g-g	hsa04630	activation
+PRL	pp	IL21R	g-g	hsa04630	activation
+PRL	pp	PDGFRA	g-g	hsa04630	activation
+PRL	pp	PDGFRB	g-g	hsa04630	activation
+PRL	pp	IL20RA	g-g	hsa04630	activation
+PRL	pp	IL20RB	g-g	hsa04630	activation
+PRL	pp	PRLR	g-g	hsa04630	activation
+PRL	pp	IL22RA1	g-g	hsa04630	activation
+PRL	pp	CRLF2	g-g	hsa04630	activation
+PRL	pp	OSMR	g-g	hsa04630	activation
+PRL	pp	IL27RA	g-g	hsa04630	activation
+THPO	pp	CNTFR	g-g	hsa04630	activation
+THPO	pp	CSF2RA	g-g	hsa04630	activation
+THPO	pp	CSF2RB	g-g	hsa04630	activation
+THPO	pp	CSF3R	g-g	hsa04630	activation
+THPO	pp	IL23R	g-g	hsa04630	activation
+THPO	pp	IFNLR1	g-g	hsa04630	activation
+THPO	pp	EGFR	g-g	hsa04630	activation
+THPO	pp	EPOR	g-g	hsa04630	activation
+THPO	pp	GHR	g-g	hsa04630	activation
+THPO	pp	IFNAR1	g-g	hsa04630	activation
+THPO	pp	IFNAR2	g-g	hsa04630	activation
+THPO	pp	IFNGR1	g-g	hsa04630	activation
+THPO	pp	IFNGR2	g-g	hsa04630	activation
+THPO	pp	IL2RA	g-g	hsa04630	activation
+THPO	pp	IL2RB	g-g	hsa04630	activation
+THPO	pp	IL2RG	g-g	hsa04630	activation
+THPO	pp	IL3RA	g-g	hsa04630	activation
+THPO	pp	IL4R	g-g	hsa04630	activation
+THPO	pp	IL5RA	g-g	hsa04630	activation
+THPO	pp	IL6R	g-g	hsa04630	activation
+THPO	pp	IL6ST	g-g	hsa04630	activation
+THPO	pp	IL7R	g-g	hsa04630	activation
+THPO	pp	IL9R	g-g	hsa04630	activation
+THPO	pp	IL10RA	g-g	hsa04630	activation
+THPO	pp	IL10RB	g-g	hsa04630	activation
+THPO	pp	IL11RA	g-g	hsa04630	activation
+THPO	pp	IL12RB1	g-g	hsa04630	activation
+THPO	pp	IL12RB2	g-g	hsa04630	activation
+THPO	pp	IL13RA1	g-g	hsa04630	activation
+THPO	pp	IL13RA2	g-g	hsa04630	activation
+THPO	pp	IL15RA	g-g	hsa04630	activation
+THPO	pp	LEPR	g-g	hsa04630	activation
+THPO	pp	LIFR	g-g	hsa04630	activation
+THPO	pp	MPL	g-g	hsa04630	activation
+THPO	pp	IL21R	g-g	hsa04630	activation
+THPO	pp	PDGFRA	g-g	hsa04630	activation
+THPO	pp	PDGFRB	g-g	hsa04630	activation
+THPO	pp	IL20RA	g-g	hsa04630	activation
+THPO	pp	IL20RB	g-g	hsa04630	activation
+THPO	pp	PRLR	g-g	hsa04630	activation
+THPO	pp	IL22RA1	g-g	hsa04630	activation
+THPO	pp	CRLF2	g-g	hsa04630	activation
+THPO	pp	OSMR	g-g	hsa04630	activation
+THPO	pp	IL27RA	g-g	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT2	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT3	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT4	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT5A	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT5B	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT6	g-gr	hsa04630	activation
+EP300	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	activation
+EP300	pp	STAT2	g-gr	hsa04630	activation
+EP300	pp	STAT3	g-gr	hsa04630	activation
+EP300	pp	STAT4	g-gr	hsa04630	activation
+EP300	pp	STAT5A	g-gr	hsa04630	activation
+EP300	pp	STAT5B	g-gr	hsa04630	activation
+EP300	pp	STAT6	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT2	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT3	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT4	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT5A	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT5B	g-gr	hsa04630	activation
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	STAT6	g-gr	hsa04630	activation
+EP300	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	activation
+EP300	pp	STAT2	g-gr	hsa04630	activation
+EP300	pp	STAT3	g-gr	hsa04630	activation
+EP300	pp	STAT4	g-gr	hsa04630	activation
+EP300	pp	STAT5A	g-gr	hsa04630	activation
+EP300	pp	STAT5B	g-gr	hsa04630	activation
+EP300	pp	STAT6	g-gr	hsa04630	activation
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	pp	SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	gr-g	hsa04630	activation
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	pp	SOS2	gr-g	hsa04630	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	gr-g	hsa04630	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS2	gr-g	hsa04630	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04630	activation
+SOS2	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04630	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT2	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT3	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT4	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT5A	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT5B	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT6	g-g	hsa04630	activation
+JAK2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04630	activation
+JAK3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04630	activation
+TYK2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04630	activation
+JAK2	pp	STAT2	g-g	hsa04630	activation
+JAK2	pp	STAT3	g-g	hsa04630	activation
+JAK2	pp	STAT4	g-g	hsa04630	activation
+JAK2	pp	STAT5A	g-g	hsa04630	activation
+JAK2	pp	STAT5B	g-g	hsa04630	activation
+JAK2	pp	STAT6	g-g	hsa04630	activation
+JAK3	pp	STAT2	g-g	hsa04630	activation
+JAK3	pp	STAT3	g-g	hsa04630	activation
+JAK3	pp	STAT4	g-g	hsa04630	activation
+JAK3	pp	STAT5A	g-g	hsa04630	activation
+JAK3	pp	STAT5B	g-g	hsa04630	activation
+JAK3	pp	STAT6	g-g	hsa04630	activation
+TYK2	pp	STAT2	g-g	hsa04630	activation
+TYK2	pp	STAT3	g-g	hsa04630	activation
+TYK2	pp	STAT4	g-g	hsa04630	activation
+TYK2	pp	STAT5A	g-g	hsa04630	activation
+TYK2	pp	STAT5B	g-g	hsa04630	activation
+TYK2	pp	STAT6	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	g-g	hsa04630	activation
+JAK2	pp	PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	g-g	hsa04630	activation
+JAK3	pp	PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	g-g	hsa04630	activation
+TYK2	pp	PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3CB	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3CD	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3R1	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3R2	g-g	hsa04630	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	PIK3R3	g-g	hsa04630	activation
+JAK2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04630	activation
+JAK3	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04630	activation
+TYK2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04630	activation
+JAK2	pp	PIK3CB	g-g	hsa04630	activation
+JAK2	pp	PIK3CD	g-g	hsa04630	activation
+JAK2	pp	PIK3R1	g-g	hsa04630	activation
+JAK2	pp	PIK3R2	g-g	hsa04630	activation
+JAK2	pp	PIK3R3	g-g	hsa04630	activation
+JAK3	pp	PIK3CB	g-g	hsa04630	activation
+JAK3	pp	PIK3CD	g-g	hsa04630	activation
+JAK3	pp	PIK3R1	g-g	hsa04630	activation
+JAK3	pp	PIK3R2	g-g	hsa04630	activation
+JAK3	pp	PIK3R3	g-g	hsa04630	activation
+TYK2	pp	PIK3CB	g-g	hsa04630	activation
+TYK2	pp	PIK3CD	g-g	hsa04630	activation
+TYK2	pp	PIK3R1	g-g	hsa04630	activation
+TYK2	pp	PIK3R2	g-g	hsa04630	activation
+TYK2	pp	PIK3R3	g-g	hsa04630	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT1	g-g	hsa04630	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT2	g-g	hsa04630	activation
+PIK3CB	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3CD	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3R1	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3R2	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3R3	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04630	activation
+PIK3CB	pp	AKT1	g-g	hsa04630	activation
+PIK3CB	pp	AKT2	g-g	hsa04630	activation
+PIK3CD	pp	AKT1	g-g	hsa04630	activation
+PIK3CD	pp	AKT2	g-g	hsa04630	activation
+PIK3R1	pp	AKT1	g-g	hsa04630	activation
+PIK3R1	pp	AKT2	g-g	hsa04630	activation
+PIK3R2	pp	AKT1	g-g	hsa04630	activation
+PIK3R2	pp	AKT2	g-g	hsa04630	activation
+PIK3R3	pp	AKT1	g-g	hsa04630	activation
+PIK3R3	pp	AKT2	g-g	hsa04630	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04630	activation
+AKT1	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04630	activation
+AKT2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04630	activation
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT2	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT3	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT4	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT5A	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT5B	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT6	g-gr	hsa04630	state change
+STAT2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT4	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT5A	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT5B	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT6	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT2	pp	STAT2	g-gr	hsa04630	state change
+STAT2	pp	STAT3	g-gr	hsa04630	state change
+STAT2	pp	STAT4	g-gr	hsa04630	state change
+STAT2	pp	STAT5A	g-gr	hsa04630	state change
+STAT2	pp	STAT5B	g-gr	hsa04630	state change
+STAT2	pp	STAT6	g-gr	hsa04630	state change
+STAT3	pp	STAT2	g-gr	hsa04630	state change
+STAT3	pp	STAT3	g-gr	hsa04630	state change
+STAT3	pp	STAT4	g-gr	hsa04630	state change
+STAT3	pp	STAT5A	g-gr	hsa04630	state change
+STAT3	pp	STAT5B	g-gr	hsa04630	state change
+STAT3	pp	STAT6	g-gr	hsa04630	state change
+STAT4	pp	STAT2	g-gr	hsa04630	state change
+STAT4	pp	STAT3	g-gr	hsa04630	state change
+STAT4	pp	STAT4	g-gr	hsa04630	state change
+STAT4	pp	STAT5A	g-gr	hsa04630	state change
+STAT4	pp	STAT5B	g-gr	hsa04630	state change
+STAT4	pp	STAT6	g-gr	hsa04630	state change
+STAT5A	pp	STAT2	g-gr	hsa04630	state change
+STAT5A	pp	STAT3	g-gr	hsa04630	state change
+STAT5A	pp	STAT4	g-gr	hsa04630	state change
+STAT5A	pp	STAT5A	g-gr	hsa04630	state change
+STAT5A	pp	STAT5B	g-gr	hsa04630	state change
+STAT5A	pp	STAT6	g-gr	hsa04630	state change
+STAT5B	pp	STAT2	g-gr	hsa04630	state change
+STAT5B	pp	STAT3	g-gr	hsa04630	state change
+STAT5B	pp	STAT4	g-gr	hsa04630	state change
+STAT5B	pp	STAT5A	g-gr	hsa04630	state change
+STAT5B	pp	STAT5B	g-gr	hsa04630	state change
+STAT5B	pp	STAT6	g-gr	hsa04630	state change
+STAT6	pp	STAT2	g-gr	hsa04630	state change
+STAT6	pp	STAT3	g-gr	hsa04630	state change
+STAT6	pp	STAT4	g-gr	hsa04630	state change
+STAT6	pp	STAT5A	g-gr	hsa04630	state change
+STAT6	pp	STAT5B	g-gr	hsa04630	state change
+STAT6	pp	STAT6	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT2	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT3	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT4	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT5A	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT5B	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	STAT6	g-gr	hsa04630	state change
+STAT2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT4	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT5A	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT5B	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT6	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	state change
+STAT2	pp	STAT2	g-gr	hsa04630	state change
+STAT2	pp	STAT3	g-gr	hsa04630	state change
+STAT2	pp	STAT4	g-gr	hsa04630	state change
+STAT2	pp	STAT5A	g-gr	hsa04630	state change
+STAT2	pp	STAT5B	g-gr	hsa04630	state change
+STAT2	pp	STAT6	g-gr	hsa04630	state change
+STAT3	pp	STAT2	g-gr	hsa04630	state change
+STAT3	pp	STAT3	g-gr	hsa04630	state change
+STAT3	pp	STAT4	g-gr	hsa04630	state change
+STAT3	pp	STAT5A	g-gr	hsa04630	state change
+STAT3	pp	STAT5B	g-gr	hsa04630	state change
+STAT3	pp	STAT6	g-gr	hsa04630	state change
+STAT4	pp	STAT2	g-gr	hsa04630	state change
+STAT4	pp	STAT3	g-gr	hsa04630	state change
+STAT4	pp	STAT4	g-gr	hsa04630	state change
+STAT4	pp	STAT5A	g-gr	hsa04630	state change
+STAT4	pp	STAT5B	g-gr	hsa04630	state change
+STAT4	pp	STAT6	g-gr	hsa04630	state change
+STAT5A	pp	STAT2	g-gr	hsa04630	state change
+STAT5A	pp	STAT3	g-gr	hsa04630	state change
+STAT5A	pp	STAT4	g-gr	hsa04630	state change
+STAT5A	pp	STAT5A	g-gr	hsa04630	state change
+STAT5A	pp	STAT5B	g-gr	hsa04630	state change
+STAT5A	pp	STAT6	g-gr	hsa04630	state change
+STAT5B	pp	STAT2	g-gr	hsa04630	state change
+STAT5B	pp	STAT3	g-gr	hsa04630	state change
+STAT5B	pp	STAT4	g-gr	hsa04630	state change
+STAT5B	pp	STAT5A	g-gr	hsa04630	state change
+STAT5B	pp	STAT5B	g-gr	hsa04630	state change
+STAT5B	pp	STAT6	g-gr	hsa04630	state change
+STAT6	pp	STAT2	g-gr	hsa04630	state change
+STAT6	pp	STAT3	g-gr	hsa04630	state change
+STAT6	pp	STAT4	g-gr	hsa04630	state change
+STAT6	pp	STAT5A	g-gr	hsa04630	state change
+STAT6	pp	STAT5B	g-gr	hsa04630	state change
+STAT6	pp	STAT6	g-gr	hsa04630	state change
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT2	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT3	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT4	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT5A	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT5B	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT6	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT2	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT3	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT4	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT5A	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT5B	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT6	pd	CISH, BACTS2, CIS, CIS-1, G18, SOCS	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT2	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT3	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT4	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT5A	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT5B	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT6	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT2	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT3	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT4	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT5A	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT5B	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT6	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT2	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT3	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT4	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT5A	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT5B	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT6	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT2	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT3	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT4	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT5A	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT5B	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT6	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT3	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT4	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT5A	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT5B	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT6	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT3	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT4	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT5A	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT5B	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT6	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT2	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT3	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT4	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT5A	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT5B	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT6	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT2	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT3	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT4	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT5A	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT5B	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT6	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT2	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT3	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT4	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT5A	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT5B	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT6	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT2	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT3	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT4	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT5A	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT5B	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT6	pd	AOX1, AO, AOH1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT2	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT3	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT4	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT5A	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT5B	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT6	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT2	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT3	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT4	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT5A	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT5B	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT6	pd	GFAP, ALXDRD	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS4	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS2	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS3	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS6	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS5	gr-g	hsa04630	expression
+STAT2	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT3	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT4	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT5A	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT5B	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT6	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT2	pd	SOCS4	gr-g	hsa04630	expression
+STAT2	pd	SOCS1	gr-g	hsa04630	expression
+STAT2	pd	SOCS2	gr-g	hsa04630	expression
+STAT2	pd	SOCS3	gr-g	hsa04630	expression
+STAT2	pd	SOCS6	gr-g	hsa04630	expression
+STAT2	pd	SOCS5	gr-g	hsa04630	expression
+STAT3	pd	SOCS4	gr-g	hsa04630	expression
+STAT3	pd	SOCS1	gr-g	hsa04630	expression
+STAT3	pd	SOCS2	gr-g	hsa04630	expression
+STAT3	pd	SOCS3	gr-g	hsa04630	expression
+STAT3	pd	SOCS6	gr-g	hsa04630	expression
+STAT3	pd	SOCS5	gr-g	hsa04630	expression
+STAT4	pd	SOCS4	gr-g	hsa04630	expression
+STAT4	pd	SOCS1	gr-g	hsa04630	expression
+STAT4	pd	SOCS2	gr-g	hsa04630	expression
+STAT4	pd	SOCS3	gr-g	hsa04630	expression
+STAT4	pd	SOCS6	gr-g	hsa04630	expression
+STAT4	pd	SOCS5	gr-g	hsa04630	expression
+STAT5A	pd	SOCS4	gr-g	hsa04630	expression
+STAT5A	pd	SOCS1	gr-g	hsa04630	expression
+STAT5A	pd	SOCS2	gr-g	hsa04630	expression
+STAT5A	pd	SOCS3	gr-g	hsa04630	expression
+STAT5A	pd	SOCS6	gr-g	hsa04630	expression
+STAT5A	pd	SOCS5	gr-g	hsa04630	expression
+STAT5B	pd	SOCS4	gr-g	hsa04630	expression
+STAT5B	pd	SOCS1	gr-g	hsa04630	expression
+STAT5B	pd	SOCS2	gr-g	hsa04630	expression
+STAT5B	pd	SOCS3	gr-g	hsa04630	expression
+STAT5B	pd	SOCS6	gr-g	hsa04630	expression
+STAT5B	pd	SOCS5	gr-g	hsa04630	expression
+STAT6	pd	SOCS4	gr-g	hsa04630	expression
+STAT6	pd	SOCS1	gr-g	hsa04630	expression
+STAT6	pd	SOCS2	gr-g	hsa04630	expression
+STAT6	pd	SOCS3	gr-g	hsa04630	expression
+STAT6	pd	SOCS6	gr-g	hsa04630	expression
+STAT6	pd	SOCS5	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS4	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS1	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS2	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS3	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS6	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	SOCS5	gr-g	hsa04630	expression
+STAT2	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT3	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT4	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT5A	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT5B	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT6	pd	SOCS4, SOCS7	gr-g	hsa04630	expression
+STAT2	pd	SOCS4	gr-g	hsa04630	expression
+STAT2	pd	SOCS1	gr-g	hsa04630	expression
+STAT2	pd	SOCS2	gr-g	hsa04630	expression
+STAT2	pd	SOCS3	gr-g	hsa04630	expression
+STAT2	pd	SOCS6	gr-g	hsa04630	expression
+STAT2	pd	SOCS5	gr-g	hsa04630	expression
+STAT3	pd	SOCS4	gr-g	hsa04630	expression
+STAT3	pd	SOCS1	gr-g	hsa04630	expression
+STAT3	pd	SOCS2	gr-g	hsa04630	expression
+STAT3	pd	SOCS3	gr-g	hsa04630	expression
+STAT3	pd	SOCS6	gr-g	hsa04630	expression
+STAT3	pd	SOCS5	gr-g	hsa04630	expression
+STAT4	pd	SOCS4	gr-g	hsa04630	expression
+STAT4	pd	SOCS1	gr-g	hsa04630	expression
+STAT4	pd	SOCS2	gr-g	hsa04630	expression
+STAT4	pd	SOCS3	gr-g	hsa04630	expression
+STAT4	pd	SOCS6	gr-g	hsa04630	expression
+STAT4	pd	SOCS5	gr-g	hsa04630	expression
+STAT5A	pd	SOCS4	gr-g	hsa04630	expression
+STAT5A	pd	SOCS1	gr-g	hsa04630	expression
+STAT5A	pd	SOCS2	gr-g	hsa04630	expression
+STAT5A	pd	SOCS3	gr-g	hsa04630	expression
+STAT5A	pd	SOCS6	gr-g	hsa04630	expression
+STAT5A	pd	SOCS5	gr-g	hsa04630	expression
+STAT5B	pd	SOCS4	gr-g	hsa04630	expression
+STAT5B	pd	SOCS1	gr-g	hsa04630	expression
+STAT5B	pd	SOCS2	gr-g	hsa04630	expression
+STAT5B	pd	SOCS3	gr-g	hsa04630	expression
+STAT5B	pd	SOCS6	gr-g	hsa04630	expression
+STAT5B	pd	SOCS5	gr-g	hsa04630	expression
+STAT6	pd	SOCS4	gr-g	hsa04630	expression
+STAT6	pd	SOCS1	gr-g	hsa04630	expression
+STAT6	pd	SOCS2	gr-g	hsa04630	expression
+STAT6	pd	SOCS3	gr-g	hsa04630	expression
+STAT6	pd	SOCS6	gr-g	hsa04630	expression
+STAT6	pd	SOCS5	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT2	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT3	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT4	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT5A	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT5B	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT6	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT2	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT3	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT4	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT5A	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT5B	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT6	pd	MCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT2	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT3	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT4	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT5A	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT5B	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT6	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT2	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT3	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT4	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT5A	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT5B	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT6	pd	PIM1, PIM	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND2	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND3	gr-g	hsa04630	expression
+STAT2	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT3	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT4	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT5A	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT5B	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT6	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT2	pd	CCND2	gr-g	hsa04630	expression
+STAT2	pd	CCND3	gr-g	hsa04630	expression
+STAT3	pd	CCND2	gr-g	hsa04630	expression
+STAT3	pd	CCND3	gr-g	hsa04630	expression
+STAT4	pd	CCND2	gr-g	hsa04630	expression
+STAT4	pd	CCND3	gr-g	hsa04630	expression
+STAT5A	pd	CCND2	gr-g	hsa04630	expression
+STAT5A	pd	CCND3	gr-g	hsa04630	expression
+STAT5B	pd	CCND2	gr-g	hsa04630	expression
+STAT5B	pd	CCND3	gr-g	hsa04630	expression
+STAT6	pd	CCND2	gr-g	hsa04630	expression
+STAT6	pd	CCND3	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND2	gr-g	hsa04630	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	CCND3	gr-g	hsa04630	expression
+STAT2	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT3	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT4	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT5A	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT5B	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT6	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04630	expression
+STAT2	pd	CCND2	gr-g	hsa04630	expression
+STAT2	pd	CCND3	gr-g	hsa04630	expression
+STAT3	pd	CCND2	gr-g	hsa04630	expression
+STAT3	pd	CCND3	gr-g	hsa04630	expression
+STAT4	pd	CCND2	gr-g	hsa04630	expression
+STAT4	pd	CCND3	gr-g	hsa04630	expression
+STAT5A	pd	CCND2	gr-g	hsa04630	expression
+STAT5A	pd	CCND3	gr-g	hsa04630	expression
+STAT5B	pd	CCND2	gr-g	hsa04630	expression
+STAT5B	pd	CCND3	gr-g	hsa04630	expression
+STAT6	pd	CCND2	gr-g	hsa04630	expression
+STAT6	pd	CCND3	gr-g	hsa04630	expression
+IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	pp	JAK2	g-g	hsa04630	binding/association
+IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	pp	JAK3	g-g	hsa04630	binding/association
+IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	pp	TYK2	g-g	hsa04630	binding/association
+CNTFR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+CSF2RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+CSF2RB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+CSF3R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL23R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IFNLR1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+EGFR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+EPOR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+GHR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IFNAR1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IFNAR2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IFNGR1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IFNGR2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL2RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL2RB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL2RG	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL3RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL4R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL5RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL6R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL6ST	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL7R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL9R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL10RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL10RB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL11RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL12RB1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL12RB2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL13RA1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL13RA2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL15RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+LEPR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+LIFR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+MPL	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL21R	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+PDGFRA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+PDGFRB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL20RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL20RB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+PRLR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL22RA1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+CRLF2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+OSMR	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+IL27RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	binding/association
+CNTFR	pp	JAK2	g-g	hsa04630	binding/association
+CNTFR	pp	JAK3	g-g	hsa04630	binding/association
+CNTFR	pp	TYK2	g-g	hsa04630	binding/association
+CSF2RA	pp	JAK2	g-g	hsa04630	binding/association
+CSF2RA	pp	JAK3	g-g	hsa04630	binding/association
+CSF2RA	pp	TYK2	g-g	hsa04630	binding/association
+CSF2RB	pp	JAK2	g-g	hsa04630	binding/association
+CSF2RB	pp	JAK3	g-g	hsa04630	binding/association
+CSF2RB	pp	TYK2	g-g	hsa04630	binding/association
+CSF3R	pp	JAK2	g-g	hsa04630	binding/association
+CSF3R	pp	JAK3	g-g	hsa04630	binding/association
+CSF3R	pp	TYK2	g-g	hsa04630	binding/association
+IL23R	pp	JAK2	g-g	hsa04630	binding/association
+IL23R	pp	JAK3	g-g	hsa04630	binding/association
+IL23R	pp	TYK2	g-g	hsa04630	binding/association
+IFNLR1	pp	JAK2	g-g	hsa04630	binding/association
+IFNLR1	pp	JAK3	g-g	hsa04630	binding/association
+IFNLR1	pp	TYK2	g-g	hsa04630	binding/association
+EGFR	pp	JAK2	g-g	hsa04630	binding/association
+EGFR	pp	JAK3	g-g	hsa04630	binding/association
+EGFR	pp	TYK2	g-g	hsa04630	binding/association
+EPOR	pp	JAK2	g-g	hsa04630	binding/association
+EPOR	pp	JAK3	g-g	hsa04630	binding/association
+EPOR	pp	TYK2	g-g	hsa04630	binding/association
+GHR	pp	JAK2	g-g	hsa04630	binding/association
+GHR	pp	JAK3	g-g	hsa04630	binding/association
+GHR	pp	TYK2	g-g	hsa04630	binding/association
+IFNAR1	pp	JAK2	g-g	hsa04630	binding/association
+IFNAR1	pp	JAK3	g-g	hsa04630	binding/association
+IFNAR1	pp	TYK2	g-g	hsa04630	binding/association
+IFNAR2	pp	JAK2	g-g	hsa04630	binding/association
+IFNAR2	pp	JAK3	g-g	hsa04630	binding/association
+IFNAR2	pp	TYK2	g-g	hsa04630	binding/association
+IFNGR1	pp	JAK2	g-g	hsa04630	binding/association
+IFNGR1	pp	JAK3	g-g	hsa04630	binding/association
+IFNGR1	pp	TYK2	g-g	hsa04630	binding/association
+IFNGR2	pp	JAK2	g-g	hsa04630	binding/association
+IFNGR2	pp	JAK3	g-g	hsa04630	binding/association
+IFNGR2	pp	TYK2	g-g	hsa04630	binding/association
+IL2RA	pp	JAK2	g-g	hsa04630	binding/association
+IL2RA	pp	JAK3	g-g	hsa04630	binding/association
+IL2RA	pp	TYK2	g-g	hsa04630	binding/association
+IL2RB	pp	JAK2	g-g	hsa04630	binding/association
+IL2RB	pp	JAK3	g-g	hsa04630	binding/association
+IL2RB	pp	TYK2	g-g	hsa04630	binding/association
+IL2RG	pp	JAK2	g-g	hsa04630	binding/association
+IL2RG	pp	JAK3	g-g	hsa04630	binding/association
+IL2RG	pp	TYK2	g-g	hsa04630	binding/association
+IL3RA	pp	JAK2	g-g	hsa04630	binding/association
+IL3RA	pp	JAK3	g-g	hsa04630	binding/association
+IL3RA	pp	TYK2	g-g	hsa04630	binding/association
+IL4R	pp	JAK2	g-g	hsa04630	binding/association
+IL4R	pp	JAK3	g-g	hsa04630	binding/association
+IL4R	pp	TYK2	g-g	hsa04630	binding/association
+IL5RA	pp	JAK2	g-g	hsa04630	binding/association
+IL5RA	pp	JAK3	g-g	hsa04630	binding/association
+IL5RA	pp	TYK2	g-g	hsa04630	binding/association
+IL6R	pp	JAK2	g-g	hsa04630	binding/association
+IL6R	pp	JAK3	g-g	hsa04630	binding/association
+IL6R	pp	TYK2	g-g	hsa04630	binding/association
+IL6ST	pp	JAK2	g-g	hsa04630	binding/association
+IL6ST	pp	JAK3	g-g	hsa04630	binding/association
+IL6ST	pp	TYK2	g-g	hsa04630	binding/association
+IL7R	pp	JAK2	g-g	hsa04630	binding/association
+IL7R	pp	JAK3	g-g	hsa04630	binding/association
+IL7R	pp	TYK2	g-g	hsa04630	binding/association
+IL9R	pp	JAK2	g-g	hsa04630	binding/association
+IL9R	pp	JAK3	g-g	hsa04630	binding/association
+IL9R	pp	TYK2	g-g	hsa04630	binding/association
+IL10RA	pp	JAK2	g-g	hsa04630	binding/association
+IL10RA	pp	JAK3	g-g	hsa04630	binding/association
+IL10RA	pp	TYK2	g-g	hsa04630	binding/association
+IL10RB	pp	JAK2	g-g	hsa04630	binding/association
+IL10RB	pp	JAK3	g-g	hsa04630	binding/association
+IL10RB	pp	TYK2	g-g	hsa04630	binding/association
+IL11RA	pp	JAK2	g-g	hsa04630	binding/association
+IL11RA	pp	JAK3	g-g	hsa04630	binding/association
+IL11RA	pp	TYK2	g-g	hsa04630	binding/association
+IL12RB1	pp	JAK2	g-g	hsa04630	binding/association
+IL12RB1	pp	JAK3	g-g	hsa04630	binding/association
+IL12RB1	pp	TYK2	g-g	hsa04630	binding/association
+IL12RB2	pp	JAK2	g-g	hsa04630	binding/association
+IL12RB2	pp	JAK3	g-g	hsa04630	binding/association
+IL12RB2	pp	TYK2	g-g	hsa04630	binding/association
+IL13RA1	pp	JAK2	g-g	hsa04630	binding/association
+IL13RA1	pp	JAK3	g-g	hsa04630	binding/association
+IL13RA1	pp	TYK2	g-g	hsa04630	binding/association
+IL13RA2	pp	JAK2	g-g	hsa04630	binding/association
+IL13RA2	pp	JAK3	g-g	hsa04630	binding/association
+IL13RA2	pp	TYK2	g-g	hsa04630	binding/association
+IL15RA	pp	JAK2	g-g	hsa04630	binding/association
+IL15RA	pp	JAK3	g-g	hsa04630	binding/association
+IL15RA	pp	TYK2	g-g	hsa04630	binding/association
+LEPR	pp	JAK2	g-g	hsa04630	binding/association
+LEPR	pp	JAK3	g-g	hsa04630	binding/association
+LEPR	pp	TYK2	g-g	hsa04630	binding/association
+LIFR	pp	JAK2	g-g	hsa04630	binding/association
+LIFR	pp	JAK3	g-g	hsa04630	binding/association
+LIFR	pp	TYK2	g-g	hsa04630	binding/association
+MPL	pp	JAK2	g-g	hsa04630	binding/association
+MPL	pp	JAK3	g-g	hsa04630	binding/association
+MPL	pp	TYK2	g-g	hsa04630	binding/association
+IL21R	pp	JAK2	g-g	hsa04630	binding/association
+IL21R	pp	JAK3	g-g	hsa04630	binding/association
+IL21R	pp	TYK2	g-g	hsa04630	binding/association
+PDGFRA	pp	JAK2	g-g	hsa04630	binding/association
+PDGFRA	pp	JAK3	g-g	hsa04630	binding/association
+PDGFRA	pp	TYK2	g-g	hsa04630	binding/association
+PDGFRB	pp	JAK2	g-g	hsa04630	binding/association
+PDGFRB	pp	JAK3	g-g	hsa04630	binding/association
+PDGFRB	pp	TYK2	g-g	hsa04630	binding/association
+IL20RA	pp	JAK2	g-g	hsa04630	binding/association
+IL20RA	pp	JAK3	g-g	hsa04630	binding/association
+IL20RA	pp	TYK2	g-g	hsa04630	binding/association
+IL20RB	pp	JAK2	g-g	hsa04630	binding/association
+IL20RB	pp	JAK3	g-g	hsa04630	binding/association
+IL20RB	pp	TYK2	g-g	hsa04630	binding/association
+PRLR	pp	JAK2	g-g	hsa04630	binding/association
+PRLR	pp	JAK3	g-g	hsa04630	binding/association
+PRLR	pp	TYK2	g-g	hsa04630	binding/association
+IL22RA1	pp	JAK2	g-g	hsa04630	binding/association
+IL22RA1	pp	JAK3	g-g	hsa04630	binding/association
+IL22RA1	pp	TYK2	g-g	hsa04630	binding/association
+CRLF2	pp	JAK2	g-g	hsa04630	binding/association
+CRLF2	pp	JAK3	g-g	hsa04630	binding/association
+CRLF2	pp	TYK2	g-g	hsa04630	binding/association
+OSMR	pp	JAK2	g-g	hsa04630	binding/association
+OSMR	pp	JAK3	g-g	hsa04630	binding/association
+OSMR	pp	TYK2	g-g	hsa04630	binding/association
+IL27RA	pp	JAK2	g-g	hsa04630	binding/association
+IL27RA	pp	JAK3	g-g	hsa04630	binding/association
+IL27RA	pp	TYK2	g-g	hsa04630	binding/association
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT2	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT3	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT4	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT5A	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT5B	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT6	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT2	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT3	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT4	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT5A	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT5B	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+STAT6	pp	IRF9, IRF-9, ISGF3, ISGF3G, p48	gr-g	hsa04630	binding/association
+PIAS3, ZMIZ5	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS3, ZMIZ5	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS4	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS1	pp	STAT6	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT2	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT3	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT4	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT5A	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT5B	g-gr	hsa04630	inhibition
+PIAS2	pp	STAT6	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT2	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT3	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT4	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT5A	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT5B	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT6	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT2	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT3	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT4	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT5A	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT5B	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	STAT6	g-gr	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	JAK2	g-g	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	JAK3	g-g	hsa04630	inhibition
+PTPN2, PTN2, PTPT, TC-PTP, TCELLPTP, TCPTP	pp	TYK2	g-g	hsa04630	inhibition
+PTPN6, HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+PTPN6, HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	pp	JAK2	g-g	hsa04630	inhibition
+PTPN6, HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	pp	JAK3	g-g	hsa04630	inhibition
+PTPN6, HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	pp	TYK2	g-g	hsa04630	inhibition
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT2	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT3	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT4	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT5A	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT5B	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT6	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT2	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT3	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT4	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT5A	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT5B	g-gr	hsa04630	ubiquitination
+FHL1, FCMSU, FHL-1, FHL1A, FHL1B, FLH1A, KYOT, RBMX1A, RBMX1B, SLIM, SLIM-1, SLIM1, SLIMMER, XMPMA	pp	STAT6	g-gr	hsa04630	ubiquitination
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT2	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT3	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT4	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT5A	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT5B	g-g	hsa04630	inhibition
+CISH, BACTS2, CIS, CIS-1, G18, SOCS	pp	STAT6	g-g	hsa04630	inhibition
+SOCS4, SOCS7	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS4, SOCS7	pp	JAK2	g-g	hsa04630	inhibition
+SOCS4, SOCS7	pp	JAK3	g-g	hsa04630	inhibition
+SOCS4, SOCS7	pp	TYK2	g-g	hsa04630	inhibition
+SOCS4	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS1	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS3	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS6	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS5	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	inhibition
+SOCS4	pp	JAK2	g-g	hsa04630	inhibition
+SOCS4	pp	JAK3	g-g	hsa04630	inhibition
+SOCS4	pp	TYK2	g-g	hsa04630	inhibition
+SOCS1	pp	JAK2	g-g	hsa04630	inhibition
+SOCS1	pp	JAK3	g-g	hsa04630	inhibition
+SOCS1	pp	TYK2	g-g	hsa04630	inhibition
+SOCS2	pp	JAK2	g-g	hsa04630	inhibition
+SOCS2	pp	JAK3	g-g	hsa04630	inhibition
+SOCS2	pp	TYK2	g-g	hsa04630	inhibition
+SOCS3	pp	JAK2	g-g	hsa04630	inhibition
+SOCS3	pp	JAK3	g-g	hsa04630	inhibition
+SOCS3	pp	TYK2	g-g	hsa04630	inhibition
+SOCS6	pp	JAK2	g-g	hsa04630	inhibition
+SOCS6	pp	JAK3	g-g	hsa04630	inhibition
+SOCS6	pp	TYK2	g-g	hsa04630	inhibition
+SOCS5	pp	JAK2	g-g	hsa04630	inhibition
+SOCS5	pp	JAK3	g-g	hsa04630	inhibition
+SOCS5	pp	TYK2	g-g	hsa04630	inhibition
+STAM2, Hbp, STAM2A, STAM2B	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	activation
+STAM2, Hbp, STAM2A, STAM2B	pp	JAK2	g-g	hsa04630	activation
+STAM2, Hbp, STAM2A, STAM2B	pp	JAK3	g-g	hsa04630	activation
+STAM2, Hbp, STAM2A, STAM2B	pp	TYK2	g-g	hsa04630	activation
+STAM	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04630	activation
+STAM	pp	JAK2	g-g	hsa04630	activation
+STAM	pp	JAK3	g-g	hsa04630	activation
+STAM	pp	TYK2	g-g	hsa04630	activation
+EGF, HOMG4, URG	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	CNTFR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	CSF2RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	CSF2RB	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	CSF3R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL23R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IFNLR1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	EGFR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	EPOR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	GHR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IFNAR1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IFNAR2	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IFNGR1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IFNGR2	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL2RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL2RB	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL2RG	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL3RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL4R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL5RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL6R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL6ST	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL7R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL9R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL10RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL10RB	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL11RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL12RB1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL12RB2	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL13RA1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL13RA2	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL15RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	LEPR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	LIFR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	MPL	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL21R	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	PDGFRA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	PDGFRB	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL20RA	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL20RB	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	PRLR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL22RA1	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	CRLF2	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	OSMR	g-g	hsa04630	NA
+EGF, HOMG4, URG	pp	IL27RA	g-g	hsa04630	NA
+PDGFA	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	NA
+PDGFB	pp	IL22RA2, CRF2-10, CRF2-S1, CRF2X, IL-22BP, IL-22R-alpha-2, IL-22RA2, ZCYTOR16	g-g	hsa04630	NA
+PDGFA	pp	CNTFR	g-g	hsa04630	NA
+PDGFA	pp	CSF2RA	g-g	hsa04630	NA
+PDGFA	pp	CSF2RB	g-g	hsa04630	NA
+PDGFA	pp	CSF3R	g-g	hsa04630	NA
+PDGFA	pp	IL23R	g-g	hsa04630	NA
+PDGFA	pp	IFNLR1	g-g	hsa04630	NA
+PDGFA	pp	EGFR	g-g	hsa04630	NA
+PDGFA	pp	EPOR	g-g	hsa04630	NA
+PDGFA	pp	GHR	g-g	hsa04630	NA
+PDGFA	pp	IFNAR1	g-g	hsa04630	NA
+PDGFA	pp	IFNAR2	g-g	hsa04630	NA
+PDGFA	pp	IFNGR1	g-g	hsa04630	NA
+PDGFA	pp	IFNGR2	g-g	hsa04630	NA
+PDGFA	pp	IL2RA	g-g	hsa04630	NA
+PDGFA	pp	IL2RB	g-g	hsa04630	NA
+PDGFA	pp	IL2RG	g-g	hsa04630	NA
+PDGFA	pp	IL3RA	g-g	hsa04630	NA
+PDGFA	pp	IL4R	g-g	hsa04630	NA
+PDGFA	pp	IL5RA	g-g	hsa04630	NA
+PDGFA	pp	IL6R	g-g	hsa04630	NA
+PDGFA	pp	IL6ST	g-g	hsa04630	NA
+PDGFA	pp	IL7R	g-g	hsa04630	NA
+PDGFA	pp	IL9R	g-g	hsa04630	NA
+PDGFA	pp	IL10RA	g-g	hsa04630	NA
+PDGFA	pp	IL10RB	g-g	hsa04630	NA
+PDGFA	pp	IL11RA	g-g	hsa04630	NA
+PDGFA	pp	IL12RB1	g-g	hsa04630	NA
+PDGFA	pp	IL12RB2	g-g	hsa04630	NA
+PDGFA	pp	IL13RA1	g-g	hsa04630	NA
+PDGFA	pp	IL13RA2	g-g	hsa04630	NA
+PDGFA	pp	IL15RA	g-g	hsa04630	NA
+PDGFA	pp	LEPR	g-g	hsa04630	NA
+PDGFA	pp	LIFR	g-g	hsa04630	NA
+PDGFA	pp	MPL	g-g	hsa04630	NA
+PDGFA	pp	IL21R	g-g	hsa04630	NA
+PDGFA	pp	PDGFRA	g-g	hsa04630	NA
+PDGFA	pp	PDGFRB	g-g	hsa04630	NA
+PDGFA	pp	IL20RA	g-g	hsa04630	NA
+PDGFA	pp	IL20RB	g-g	hsa04630	NA
+PDGFA	pp	PRLR	g-g	hsa04630	NA
+PDGFA	pp	IL22RA1	g-g	hsa04630	NA
+PDGFA	pp	CRLF2	g-g	hsa04630	NA
+PDGFA	pp	OSMR	g-g	hsa04630	NA
+PDGFA	pp	IL27RA	g-g	hsa04630	NA
+PDGFB	pp	CNTFR	g-g	hsa04630	NA
+PDGFB	pp	CSF2RA	g-g	hsa04630	NA
+PDGFB	pp	CSF2RB	g-g	hsa04630	NA
+PDGFB	pp	CSF3R	g-g	hsa04630	NA
+PDGFB	pp	IL23R	g-g	hsa04630	NA
+PDGFB	pp	IFNLR1	g-g	hsa04630	NA
+PDGFB	pp	EGFR	g-g	hsa04630	NA
+PDGFB	pp	EPOR	g-g	hsa04630	NA
+PDGFB	pp	GHR	g-g	hsa04630	NA
+PDGFB	pp	IFNAR1	g-g	hsa04630	NA
+PDGFB	pp	IFNAR2	g-g	hsa04630	NA
+PDGFB	pp	IFNGR1	g-g	hsa04630	NA
+PDGFB	pp	IFNGR2	g-g	hsa04630	NA
+PDGFB	pp	IL2RA	g-g	hsa04630	NA
+PDGFB	pp	IL2RB	g-g	hsa04630	NA
+PDGFB	pp	IL2RG	g-g	hsa04630	NA
+PDGFB	pp	IL3RA	g-g	hsa04630	NA
+PDGFB	pp	IL4R	g-g	hsa04630	NA
+PDGFB	pp	IL5RA	g-g	hsa04630	NA
+PDGFB	pp	IL6R	g-g	hsa04630	NA
+PDGFB	pp	IL6ST	g-g	hsa04630	NA
+PDGFB	pp	IL7R	g-g	hsa04630	NA
+PDGFB	pp	IL9R	g-g	hsa04630	NA
+PDGFB	pp	IL10RA	g-g	hsa04630	NA
+PDGFB	pp	IL10RB	g-g	hsa04630	NA
+PDGFB	pp	IL11RA	g-g	hsa04630	NA
+PDGFB	pp	IL12RB1	g-g	hsa04630	NA
+PDGFB	pp	IL12RB2	g-g	hsa04630	NA
+PDGFB	pp	IL13RA1	g-g	hsa04630	NA
+PDGFB	pp	IL13RA2	g-g	hsa04630	NA
+PDGFB	pp	IL15RA	g-g	hsa04630	NA
+PDGFB	pp	LEPR	g-g	hsa04630	NA
+PDGFB	pp	LIFR	g-g	hsa04630	NA
+PDGFB	pp	MPL	g-g	hsa04630	NA
+PDGFB	pp	IL21R	g-g	hsa04630	NA
+PDGFB	pp	PDGFRA	g-g	hsa04630	NA
+PDGFB	pp	PDGFRB	g-g	hsa04630	NA
+PDGFB	pp	IL20RA	g-g	hsa04630	NA
+PDGFB	pp	IL20RB	g-g	hsa04630	NA
+PDGFB	pp	PRLR	g-g	hsa04630	NA
+PDGFB	pp	IL22RA1	g-g	hsa04630	NA
+PDGFB	pp	CRLF2	g-g	hsa04630	NA
+PDGFB	pp	OSMR	g-g	hsa04630	NA
+PDGFB	pp	IL27RA	g-g	hsa04630	NA

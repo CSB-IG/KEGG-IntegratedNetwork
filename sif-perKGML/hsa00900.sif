@@ -1,0 +1,178 @@
+ACAT1, ACAT, MAT, T2, THIL	ec	HMGCS1, HMGCS	g-g	hsa00900	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HMGCS2	g-g	hsa00900	compound
+ACAT2	ec	HMGCS1, HMGCS	g-g	hsa00900	compound
+ACAT2	ec	HMGCS2	g-g	hsa00900	compound
+HMGCS1, HMGCS	ec	HMGCR, LDLCQ3	g-g	hsa00900	compound
+HMGCS2	ec	HMGCR, LDLCQ3	g-g	hsa00900	compound
+HMGCR, LDLCQ3	ec	MVK, LRBP, MK, MVLK, POROK3	g-g	hsa00900	compound
+MVK, LRBP, MK, MVLK, POROK3	ec	PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1	g-g	hsa00900	compound
+PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1	ec	MVD, FP17780, MDDase, MPD, POROK7	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	IDI1, IPP1, IPPI1	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	IDI2	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	GGPS1	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+MVD, FP17780, MDDase, MPD, POROK7	ec	GGPS1	g-g	hsa00900	compound
+IDI1, IPP1, IPPI1	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+IDI1, IPP1, IPPI1	ec	GGPS1	g-g	hsa00900	compound
+IDI2	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+IDI2	ec	GGPS1	g-g	hsa00900	compound
+IDI1, IPP1, IPPI1	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+IDI1, IPP1, IPPI1	ec	GGPS1	g-g	hsa00900	compound
+IDI2	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+IDI2	ec	GGPS1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	GGPS1	g-g	hsa00900	compound
+GGPS1	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+GGPS1	ec	GGPS1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	GGPS1	g-g	hsa00900	compound
+GGPS1	ec	FDPS, FPPS, FPS, POROK9	g-g	hsa00900	compound
+GGPS1	ec	GGPS1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	FDPS	g-g	hsa00900	compound
+GGPS1	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+GGPS1	ec	FDPS	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	DHDDS	g-g	hsa00900	compound
+GGPS1	ec	NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	g-g	hsa00900	compound
+GGPS1	ec	DHDDS	g-g	hsa00900	compound
+NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	ec	FDPS	g-g	hsa00900	compound
+DHDDS	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+DHDDS	ec	FDPS	g-g	hsa00900	compound
+NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	ec	PDSS2	g-g	hsa00900	compound
+DHDDS	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+DHDDS	ec	PDSS2	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	PDSS2	g-g	hsa00900	compound
+GGPS1	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+GGPS1	ec	PDSS2	g-g	hsa00900	compound
+GGPS1, GGPPS, GGPPS1	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+GGPS1, GGPPS, GGPPS1	ec	PDSS2	g-g	hsa00900	compound
+FDPS	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+FDPS	ec	PDSS2	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	FNTA, FPTA, PGGT1A, PTAR2	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	FNTB	g-g	hsa00900	compound
+GGPS1	ec	FNTA, FPTA, PGGT1A, PTAR2	g-g	hsa00900	compound
+GGPS1	ec	FNTB	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	DHDDS	g-g	hsa00900	compound
+FNTB	ec	NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	g-g	hsa00900	compound
+FNTB	ec	DHDDS	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	FDPS	g-g	hsa00900	compound
+FNTB	ec	GGPS1, GGPPS, GGPPS1	g-g	hsa00900	compound
+FNTB	ec	FDPS	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+FNTA, FPTA, PGGT1A, PTAR2	ec	PDSS2	g-g	hsa00900	compound
+FNTB	ec	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	g-g	hsa00900	compound
+FNTB	ec	PDSS2	g-g	hsa00900	compound
+ICMT, HSTE14, MST098, MSTP098, PCCMT, PCMT, PPMT	ec	ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste24p	g-g	hsa00900	compound
+ICMT, HSTE14, MST098, MSTP098, PCCMT, PCMT, PPMT	ec	RCE1, FACE2, RCE1A, RCE1B	g-g	hsa00900	compound
+ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste24p	ec	FNTA, FPTA, PGGT1A, PTAR2	g-g	hsa00900	compound
+ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste24p	ec	FNTB	g-g	hsa00900	compound
+RCE1, FACE2, RCE1A, RCE1B	ec	FNTA, FPTA, PGGT1A, PTAR2	g-g	hsa00900	compound
+RCE1, FACE2, RCE1A, RCE1B	ec	FNTB	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	IDI1, IPP1, IPPI1	g-g	hsa00900	compound
+FDPS, FPPS, FPS, POROK9	ec	IDI2	g-g	hsa00900	compound
+GGPS1	ec	IDI1, IPP1, IPPI1	g-g	hsa00900	compound
+GGPS1	ec	IDI2	g-g	hsa00900	compound
+C00418	rt	MVK, LRBP, MK, MVLK, POROK3	irreversible	hsa00900	se
+MVK, LRBP, MK, MVLK, POROK3	rt	C01107	irreversible	hsa00900	ep
+C00024	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00900	se
+C00024	rt	ACAT2	reversible	hsa00900	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	reversible	hsa00900	ep
+ACAT2	rt	C00024	reversible	hsa00900	ep
+ACAT1, ACAT, MAT, T2, THIL	rt	C00332	reversible	hsa00900	ep
+ACAT2	rt	C00332	reversible	hsa00900	ep
+C00332	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00900	se
+C00332	rt	ACAT2	reversible	hsa00900	se
+C00332	rt	HMGCS1, HMGCS	irreversible	hsa00900	se
+C00332	rt	HMGCS2	irreversible	hsa00900	se
+C00024	rt	HMGCS1, HMGCS	irreversible	hsa00900	se
+C00024	rt	HMGCS2	irreversible	hsa00900	se
+HMGCS1, HMGCS	rt	C00356	irreversible	hsa00900	ep
+HMGCS2	rt	C00356	irreversible	hsa00900	ep
+C00356	rt	HMGCR, LDLCQ3	irreversible	hsa00900	se
+HMGCR, LDLCQ3	rt	C00418	irreversible	hsa00900	ep
+C00129	rt	IDI1, IPP1, IPPI1	reversible	hsa00900	se
+C00129	rt	IDI2	reversible	hsa00900	se
+IDI1, IPP1, IPPI1	rt	C00129	reversible	hsa00900	ep
+IDI2	rt	C00129	reversible	hsa00900	ep
+IDI1, IPP1, IPPI1	rt	C00235	reversible	hsa00900	ep
+IDI2	rt	C00235	reversible	hsa00900	ep
+C00235	rt	IDI1, IPP1, IPPI1	reversible	hsa00900	se
+C00235	rt	IDI2	reversible	hsa00900	se
+C01143	rt	MVD, FP17780, MDDase, MPD, POROK7	irreversible	hsa00900	se
+MVD, FP17780, MDDase, MPD, POROK7	rt	C00129	irreversible	hsa00900	ep
+C01107	rt	PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1	irreversible	hsa00900	se
+PMVK, HUMPMKI, PMK, PMKA, PMKASE, POROK1	rt	C01143	irreversible	hsa00900	ep
+C00235	rt	FDPS, FPPS, FPS, POROK9	irreversible	hsa00900	se
+C00235	rt	GGPS1	irreversible	hsa00900	se
+C00129	rt	FDPS, FPPS, FPS, POROK9	irreversible	hsa00900	se
+C00129	rt	GGPS1	irreversible	hsa00900	se
+FDPS, FPPS, FPS, POROK9	rt	C00341	irreversible	hsa00900	ep
+GGPS1	rt	C00341	irreversible	hsa00900	ep
+C00341	rt	FDPS, FPPS, FPS, POROK9	irreversible	hsa00900	se
+C00341	rt	GGPS1	irreversible	hsa00900	se
+C00129	rt	FDPS, FPPS, FPS, POROK9	irreversible	hsa00900	se
+C00129	rt	GGPS1	irreversible	hsa00900	se
+FDPS, FPPS, FPS, POROK9	rt	C00448	irreversible	hsa00900	ep
+GGPS1	rt	C00448	irreversible	hsa00900	ep
+C00448	rt	GGPS1, GGPPS, GGPPS1	irreversible	hsa00900	se
+C00448	rt	FDPS	irreversible	hsa00900	se
+C00129	rt	GGPS1, GGPPS, GGPPS1	irreversible	hsa00900	se
+C00129	rt	FDPS	irreversible	hsa00900	se
+GGPS1, GGPPS, GGPPS1	rt	C00353	irreversible	hsa00900	ep
+FDPS	rt	C00353	irreversible	hsa00900	ep
+C00448	rt	NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	irreversible	hsa00900	se
+C00448	rt	DHDDS	irreversible	hsa00900	se
+NUS1, C6orf68, CDG1AA, MGC:7199, MRD55, NgBR, TANGO14	rt	C05859	irreversible	hsa00900	ep
+DHDDS	rt	C05859	irreversible	hsa00900	ep
+C00448	rt	PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	irreversible	hsa00900	se
+C00448	rt	PDSS2	irreversible	hsa00900	se
+PDSS1, COQ1, COQ10D2, DPS, SPS, TPRT, TPT, TPT_1, hDPS1	rt	C17432	irreversible	hsa00900	ep
+PDSS2	rt	C17432	irreversible	hsa00900	ep
+C00448	rt	FNTA, FPTA, PGGT1A, PTAR2	irreversible	hsa00900	se
+C00448	rt	FNTB	irreversible	hsa00900	se
+FNTA, FPTA, PGGT1A, PTAR2	rt	C20120	irreversible	hsa00900	ep
+FNTB	rt	C20120	irreversible	hsa00900	ep
+C20120	rt	RCE1, FACE2, RCE1A, RCE1B	irreversible	hsa00900	se
+RCE1, FACE2, RCE1A, RCE1B	rt	C04506	irreversible	hsa00900	ep
+C04506	rt	ICMT, HSTE14, MST098, MSTP098, PCCMT, PCMT, PPMT	irreversible	hsa00900	se
+ICMT, HSTE14, MST098, MSTP098, PCCMT, PCMT, PPMT	rt	C04748	irreversible	hsa00900	ep
+C19691	rt	PCYOX1, PCL1	irreversible	hsa00900	se
+PCYOX1, PCL1	rt	C03461	irreversible	hsa00900	ep
+C19691	rt	PCYOX1, PCL1	irreversible	hsa00900	se
+PCYOX1, PCL1	rt	C03461	irreversible	hsa00900	ep
+C20120	rt	ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste24p	irreversible	hsa00900	se
+ZMPSTE24, FACE-1, FACE1, HGPS, PRO1, STE24, Ste24p	rt	C04506	irreversible	hsa00900	ep
+C00621				hsa00900	
+C00022				hsa00900	
+C00118				hsa00900	
+C11434				hsa00900	
+C11435				hsa00900	
+C11436				hsa00900	
+C11453				hsa00900	
+C11811				hsa00900	
+C02321				hsa00900	
+C16521				hsa00900	
+C11437				hsa00900	
+C16826				hsa00900	
+C04574				hsa00900	
+C04216				hsa00900	
+C04146				hsa00900	
+C04145				hsa00900	
+C01230				hsa00900	
+C05427				hsa00900	
+C18321				hsa00900	
+C19852				hsa00900	
+C19853				hsa00900	
+C19760				hsa00900	
+C01126				hsa00900	
+C20121				hsa00900	
+C20345				hsa00900	
+C20847				hsa00900	
+C20848				hsa00900	

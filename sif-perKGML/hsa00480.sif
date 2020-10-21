@@ -1,0 +1,988 @@
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GGT6	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GGT1	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GGT7	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GGT5	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	OPLAH, 5-Opase, OPLA, OPLAHD	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GGCT, C7orf24, CRF21, GCTG, GGC	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GGT6	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GGT1	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GGT7	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GGT5	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	GCLM	g-g	hsa00480	compound
+GGT6	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GGT6	ec	GCLM	g-g	hsa00480	compound
+GGT1	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GGT7	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GGT5	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GGT1	ec	GCLM	g-g	hsa00480	compound
+GGT7	ec	GCLM	g-g	hsa00480	compound
+GGT5	ec	GCLM	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GCLM	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GGCT, C7orf24, CRF21, GCTG, GGC	g-g	hsa00480	compound
+GCLC, GCL, GCS, GLCL, GLCLC	ec	GGCT, C7orf24, CRF21, GCTG, GGC	g-g	hsa00480	compound
+GCLM	ec	GGCT, C7orf24, CRF21, GCTG, GGC	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	GCLM	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GCLC, GCL, GCS, GLCL, GLCLC	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GCLM	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT6	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT1	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT7	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT5	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT6	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT1	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT7	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	GGT5	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GGT6	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT1	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT7	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT5	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT6	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT1	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT7	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT5	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT6	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT6	ec	GSTA5	g-g	hsa00480	compound
+GGT6	ec	HPGDS	g-g	hsa00480	compound
+GGT6	ec	GSTA1	g-g	hsa00480	compound
+GGT6	ec	GSTA2	g-g	hsa00480	compound
+GGT6	ec	GSTA3	g-g	hsa00480	compound
+GGT6	ec	GSTA4	g-g	hsa00480	compound
+GGT6	ec	GSTM1	g-g	hsa00480	compound
+GGT6	ec	GSTM2	g-g	hsa00480	compound
+GGT6	ec	GSTM3	g-g	hsa00480	compound
+GGT6	ec	GSTM4	g-g	hsa00480	compound
+GGT6	ec	GSTM5	g-g	hsa00480	compound
+GGT6	ec	GSTP1	g-g	hsa00480	compound
+GGT6	ec	GSTT1	g-g	hsa00480	compound
+GGT6	ec	GSTT2	g-g	hsa00480	compound
+GGT6	ec	GSTK1	g-g	hsa00480	compound
+GGT6	ec	MGST1	g-g	hsa00480	compound
+GGT6	ec	MGST2	g-g	hsa00480	compound
+GGT6	ec	MGST3	g-g	hsa00480	compound
+GGT6	ec	GSTT2B	g-g	hsa00480	compound
+GGT6	ec	GSTO1	g-g	hsa00480	compound
+GGT1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT7	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT1	ec	GSTA5	g-g	hsa00480	compound
+GGT1	ec	HPGDS	g-g	hsa00480	compound
+GGT1	ec	GSTA1	g-g	hsa00480	compound
+GGT1	ec	GSTA2	g-g	hsa00480	compound
+GGT1	ec	GSTA3	g-g	hsa00480	compound
+GGT1	ec	GSTA4	g-g	hsa00480	compound
+GGT1	ec	GSTM1	g-g	hsa00480	compound
+GGT1	ec	GSTM2	g-g	hsa00480	compound
+GGT1	ec	GSTM3	g-g	hsa00480	compound
+GGT1	ec	GSTM4	g-g	hsa00480	compound
+GGT1	ec	GSTM5	g-g	hsa00480	compound
+GGT1	ec	GSTP1	g-g	hsa00480	compound
+GGT1	ec	GSTT1	g-g	hsa00480	compound
+GGT1	ec	GSTT2	g-g	hsa00480	compound
+GGT1	ec	GSTK1	g-g	hsa00480	compound
+GGT1	ec	MGST1	g-g	hsa00480	compound
+GGT1	ec	MGST2	g-g	hsa00480	compound
+GGT1	ec	MGST3	g-g	hsa00480	compound
+GGT1	ec	GSTT2B	g-g	hsa00480	compound
+GGT1	ec	GSTO1	g-g	hsa00480	compound
+GGT7	ec	GSTA5	g-g	hsa00480	compound
+GGT7	ec	HPGDS	g-g	hsa00480	compound
+GGT7	ec	GSTA1	g-g	hsa00480	compound
+GGT7	ec	GSTA2	g-g	hsa00480	compound
+GGT7	ec	GSTA3	g-g	hsa00480	compound
+GGT7	ec	GSTA4	g-g	hsa00480	compound
+GGT7	ec	GSTM1	g-g	hsa00480	compound
+GGT7	ec	GSTM2	g-g	hsa00480	compound
+GGT7	ec	GSTM3	g-g	hsa00480	compound
+GGT7	ec	GSTM4	g-g	hsa00480	compound
+GGT7	ec	GSTM5	g-g	hsa00480	compound
+GGT7	ec	GSTP1	g-g	hsa00480	compound
+GGT7	ec	GSTT1	g-g	hsa00480	compound
+GGT7	ec	GSTT2	g-g	hsa00480	compound
+GGT7	ec	GSTK1	g-g	hsa00480	compound
+GGT7	ec	MGST1	g-g	hsa00480	compound
+GGT7	ec	MGST2	g-g	hsa00480	compound
+GGT7	ec	MGST3	g-g	hsa00480	compound
+GGT7	ec	GSTT2B	g-g	hsa00480	compound
+GGT7	ec	GSTO1	g-g	hsa00480	compound
+GGT5	ec	GSTA5	g-g	hsa00480	compound
+GGT5	ec	HPGDS	g-g	hsa00480	compound
+GGT5	ec	GSTA1	g-g	hsa00480	compound
+GGT5	ec	GSTA2	g-g	hsa00480	compound
+GGT5	ec	GSTA3	g-g	hsa00480	compound
+GGT5	ec	GSTA4	g-g	hsa00480	compound
+GGT5	ec	GSTM1	g-g	hsa00480	compound
+GGT5	ec	GSTM2	g-g	hsa00480	compound
+GGT5	ec	GSTM3	g-g	hsa00480	compound
+GGT5	ec	GSTM4	g-g	hsa00480	compound
+GGT5	ec	GSTM5	g-g	hsa00480	compound
+GGT5	ec	GSTP1	g-g	hsa00480	compound
+GGT5	ec	GSTT1	g-g	hsa00480	compound
+GGT5	ec	GSTT2	g-g	hsa00480	compound
+GGT5	ec	GSTK1	g-g	hsa00480	compound
+GGT5	ec	MGST1	g-g	hsa00480	compound
+GGT5	ec	MGST2	g-g	hsa00480	compound
+GGT5	ec	MGST3	g-g	hsa00480	compound
+GGT5	ec	GSTT2B	g-g	hsa00480	compound
+GGT5	ec	GSTO1	g-g	hsa00480	compound
+GGT6	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT7	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT5	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT6	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT6	ec	GPX1	g-g	hsa00480	compound
+GGT6	ec	GPX2	g-g	hsa00480	compound
+GGT6	ec	GPX3	g-g	hsa00480	compound
+GGT6	ec	GPX5	g-g	hsa00480	compound
+GGT6	ec	GPX7	g-g	hsa00480	compound
+GGT6	ec	GPX8	g-g	hsa00480	compound
+GGT1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT7	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT5	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT1	ec	GPX1	g-g	hsa00480	compound
+GGT1	ec	GPX2	g-g	hsa00480	compound
+GGT1	ec	GPX3	g-g	hsa00480	compound
+GGT1	ec	GPX5	g-g	hsa00480	compound
+GGT1	ec	GPX7	g-g	hsa00480	compound
+GGT1	ec	GPX8	g-g	hsa00480	compound
+GGT7	ec	GPX1	g-g	hsa00480	compound
+GGT7	ec	GPX2	g-g	hsa00480	compound
+GGT7	ec	GPX3	g-g	hsa00480	compound
+GGT7	ec	GPX5	g-g	hsa00480	compound
+GGT7	ec	GPX7	g-g	hsa00480	compound
+GGT7	ec	GPX8	g-g	hsa00480	compound
+GGT5	ec	GPX1	g-g	hsa00480	compound
+GGT5	ec	GPX2	g-g	hsa00480	compound
+GGT5	ec	GPX3	g-g	hsa00480	compound
+GGT5	ec	GPX5	g-g	hsa00480	compound
+GGT5	ec	GPX7	g-g	hsa00480	compound
+GGT5	ec	GPX8	g-g	hsa00480	compound
+GGT6	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT7	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT5	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT6	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT1	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT7	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT5	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+GGT6	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT1	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT7	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT5	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT6	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT6	ec	GSTA5	g-g	hsa00480	compound
+GGT6	ec	HPGDS	g-g	hsa00480	compound
+GGT6	ec	GSTA1	g-g	hsa00480	compound
+GGT6	ec	GSTA2	g-g	hsa00480	compound
+GGT6	ec	GSTA3	g-g	hsa00480	compound
+GGT6	ec	GSTA4	g-g	hsa00480	compound
+GGT6	ec	GSTM1	g-g	hsa00480	compound
+GGT6	ec	GSTM2	g-g	hsa00480	compound
+GGT6	ec	GSTM3	g-g	hsa00480	compound
+GGT6	ec	GSTM4	g-g	hsa00480	compound
+GGT6	ec	GSTM5	g-g	hsa00480	compound
+GGT6	ec	GSTP1	g-g	hsa00480	compound
+GGT6	ec	GSTT1	g-g	hsa00480	compound
+GGT6	ec	GSTT2	g-g	hsa00480	compound
+GGT6	ec	GSTK1	g-g	hsa00480	compound
+GGT6	ec	MGST1	g-g	hsa00480	compound
+GGT6	ec	MGST2	g-g	hsa00480	compound
+GGT6	ec	MGST3	g-g	hsa00480	compound
+GGT6	ec	GSTT2B	g-g	hsa00480	compound
+GGT6	ec	GSTO1	g-g	hsa00480	compound
+GGT1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT7	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GGT1	ec	GSTA5	g-g	hsa00480	compound
+GGT1	ec	HPGDS	g-g	hsa00480	compound
+GGT1	ec	GSTA1	g-g	hsa00480	compound
+GGT1	ec	GSTA2	g-g	hsa00480	compound
+GGT1	ec	GSTA3	g-g	hsa00480	compound
+GGT1	ec	GSTA4	g-g	hsa00480	compound
+GGT1	ec	GSTM1	g-g	hsa00480	compound
+GGT1	ec	GSTM2	g-g	hsa00480	compound
+GGT1	ec	GSTM3	g-g	hsa00480	compound
+GGT1	ec	GSTM4	g-g	hsa00480	compound
+GGT1	ec	GSTM5	g-g	hsa00480	compound
+GGT1	ec	GSTP1	g-g	hsa00480	compound
+GGT1	ec	GSTT1	g-g	hsa00480	compound
+GGT1	ec	GSTT2	g-g	hsa00480	compound
+GGT1	ec	GSTK1	g-g	hsa00480	compound
+GGT1	ec	MGST1	g-g	hsa00480	compound
+GGT1	ec	MGST2	g-g	hsa00480	compound
+GGT1	ec	MGST3	g-g	hsa00480	compound
+GGT1	ec	GSTT2B	g-g	hsa00480	compound
+GGT1	ec	GSTO1	g-g	hsa00480	compound
+GGT7	ec	GSTA5	g-g	hsa00480	compound
+GGT7	ec	HPGDS	g-g	hsa00480	compound
+GGT7	ec	GSTA1	g-g	hsa00480	compound
+GGT7	ec	GSTA2	g-g	hsa00480	compound
+GGT7	ec	GSTA3	g-g	hsa00480	compound
+GGT7	ec	GSTA4	g-g	hsa00480	compound
+GGT7	ec	GSTM1	g-g	hsa00480	compound
+GGT7	ec	GSTM2	g-g	hsa00480	compound
+GGT7	ec	GSTM3	g-g	hsa00480	compound
+GGT7	ec	GSTM4	g-g	hsa00480	compound
+GGT7	ec	GSTM5	g-g	hsa00480	compound
+GGT7	ec	GSTP1	g-g	hsa00480	compound
+GGT7	ec	GSTT1	g-g	hsa00480	compound
+GGT7	ec	GSTT2	g-g	hsa00480	compound
+GGT7	ec	GSTK1	g-g	hsa00480	compound
+GGT7	ec	MGST1	g-g	hsa00480	compound
+GGT7	ec	MGST2	g-g	hsa00480	compound
+GGT7	ec	MGST3	g-g	hsa00480	compound
+GGT7	ec	GSTT2B	g-g	hsa00480	compound
+GGT7	ec	GSTO1	g-g	hsa00480	compound
+GGT5	ec	GSTA5	g-g	hsa00480	compound
+GGT5	ec	HPGDS	g-g	hsa00480	compound
+GGT5	ec	GSTA1	g-g	hsa00480	compound
+GGT5	ec	GSTA2	g-g	hsa00480	compound
+GGT5	ec	GSTA3	g-g	hsa00480	compound
+GGT5	ec	GSTA4	g-g	hsa00480	compound
+GGT5	ec	GSTM1	g-g	hsa00480	compound
+GGT5	ec	GSTM2	g-g	hsa00480	compound
+GGT5	ec	GSTM3	g-g	hsa00480	compound
+GGT5	ec	GSTM4	g-g	hsa00480	compound
+GGT5	ec	GSTM5	g-g	hsa00480	compound
+GGT5	ec	GSTP1	g-g	hsa00480	compound
+GGT5	ec	GSTT1	g-g	hsa00480	compound
+GGT5	ec	GSTT2	g-g	hsa00480	compound
+GGT5	ec	GSTK1	g-g	hsa00480	compound
+GGT5	ec	MGST1	g-g	hsa00480	compound
+GGT5	ec	MGST2	g-g	hsa00480	compound
+GGT5	ec	MGST3	g-g	hsa00480	compound
+GGT5	ec	GSTT2B	g-g	hsa00480	compound
+GGT5	ec	GSTO1	g-g	hsa00480	compound
+GGT6	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT7	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT5	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GGT6	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT6	ec	GPX1	g-g	hsa00480	compound
+GGT6	ec	GPX2	g-g	hsa00480	compound
+GGT6	ec	GPX3	g-g	hsa00480	compound
+GGT6	ec	GPX5	g-g	hsa00480	compound
+GGT6	ec	GPX7	g-g	hsa00480	compound
+GGT6	ec	GPX8	g-g	hsa00480	compound
+GGT1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT7	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT5	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GGT1	ec	GPX1	g-g	hsa00480	compound
+GGT1	ec	GPX2	g-g	hsa00480	compound
+GGT1	ec	GPX3	g-g	hsa00480	compound
+GGT1	ec	GPX5	g-g	hsa00480	compound
+GGT1	ec	GPX7	g-g	hsa00480	compound
+GGT1	ec	GPX8	g-g	hsa00480	compound
+GGT7	ec	GPX1	g-g	hsa00480	compound
+GGT7	ec	GPX2	g-g	hsa00480	compound
+GGT7	ec	GPX3	g-g	hsa00480	compound
+GGT7	ec	GPX5	g-g	hsa00480	compound
+GGT7	ec	GPX7	g-g	hsa00480	compound
+GGT7	ec	GPX8	g-g	hsa00480	compound
+GGT5	ec	GPX1	g-g	hsa00480	compound
+GGT5	ec	GPX2	g-g	hsa00480	compound
+GGT5	ec	GPX3	g-g	hsa00480	compound
+GGT5	ec	GPX5	g-g	hsa00480	compound
+GGT5	ec	GPX7	g-g	hsa00480	compound
+GGT5	ec	GPX8	g-g	hsa00480	compound
+GGT6	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT7	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GGT5	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTA5	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	HPGDS	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTA1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTA2	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTA3	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTA4	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTM1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTM2	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTM3	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTM4	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTM5	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTP1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTT1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTT2	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTK1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	MGST1	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	MGST2	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	MGST3	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTT2B	g-g	hsa00480	compound
+GSR, GR, HEL-75, HEL-S-122m	ec	GSTO1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTA5	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	HPGDS	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTA1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTA2	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTA3	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTA4	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTM1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTM2	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTM3	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTM4	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTM5	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTP1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTT1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTT2	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTK1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	MGST1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	MGST2	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	MGST3	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTT2B	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GSTO1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX1	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX2	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX3	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX5	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX7	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	GPX8	g-g	hsa00480	compound
+GSS, GSHS, HEL-S-64p, HEL-S-88n	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTA5	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+HPGDS	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTA1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTA2	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTA3	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTA4	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTM1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTM2	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTM3	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTM4	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTM5	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTP1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTT1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTT2	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTK1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+MGST1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+MGST2	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+MGST3	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTT2B	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTO1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX1	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX2	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX3	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX5	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX7	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GPX8	g-g	hsa00480	compound
+GSTA5	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+HPGDS	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTA1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTA2	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTA3	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTA4	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTM1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTM2	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTM3	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTM4	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTM5	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTP1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTT1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTT2	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTK1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+MGST1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+MGST2	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+MGST3	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTT2B	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTO1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+GSTA5	ec	GPX1	g-g	hsa00480	compound
+GSTA5	ec	GPX2	g-g	hsa00480	compound
+GSTA5	ec	GPX3	g-g	hsa00480	compound
+GSTA5	ec	GPX5	g-g	hsa00480	compound
+GSTA5	ec	GPX7	g-g	hsa00480	compound
+GSTA5	ec	GPX8	g-g	hsa00480	compound
+HPGDS	ec	GPX1	g-g	hsa00480	compound
+HPGDS	ec	GPX2	g-g	hsa00480	compound
+HPGDS	ec	GPX3	g-g	hsa00480	compound
+HPGDS	ec	GPX5	g-g	hsa00480	compound
+HPGDS	ec	GPX7	g-g	hsa00480	compound
+HPGDS	ec	GPX8	g-g	hsa00480	compound
+GSTA1	ec	GPX1	g-g	hsa00480	compound
+GSTA1	ec	GPX2	g-g	hsa00480	compound
+GSTA1	ec	GPX3	g-g	hsa00480	compound
+GSTA1	ec	GPX5	g-g	hsa00480	compound
+GSTA1	ec	GPX7	g-g	hsa00480	compound
+GSTA1	ec	GPX8	g-g	hsa00480	compound
+GSTA2	ec	GPX1	g-g	hsa00480	compound
+GSTA2	ec	GPX2	g-g	hsa00480	compound
+GSTA2	ec	GPX3	g-g	hsa00480	compound
+GSTA2	ec	GPX5	g-g	hsa00480	compound
+GSTA2	ec	GPX7	g-g	hsa00480	compound
+GSTA2	ec	GPX8	g-g	hsa00480	compound
+GSTA3	ec	GPX1	g-g	hsa00480	compound
+GSTA3	ec	GPX2	g-g	hsa00480	compound
+GSTA3	ec	GPX3	g-g	hsa00480	compound
+GSTA3	ec	GPX5	g-g	hsa00480	compound
+GSTA3	ec	GPX7	g-g	hsa00480	compound
+GSTA3	ec	GPX8	g-g	hsa00480	compound
+GSTA4	ec	GPX1	g-g	hsa00480	compound
+GSTA4	ec	GPX2	g-g	hsa00480	compound
+GSTA4	ec	GPX3	g-g	hsa00480	compound
+GSTA4	ec	GPX5	g-g	hsa00480	compound
+GSTA4	ec	GPX7	g-g	hsa00480	compound
+GSTA4	ec	GPX8	g-g	hsa00480	compound
+GSTM1	ec	GPX1	g-g	hsa00480	compound
+GSTM1	ec	GPX2	g-g	hsa00480	compound
+GSTM1	ec	GPX3	g-g	hsa00480	compound
+GSTM1	ec	GPX5	g-g	hsa00480	compound
+GSTM1	ec	GPX7	g-g	hsa00480	compound
+GSTM1	ec	GPX8	g-g	hsa00480	compound
+GSTM2	ec	GPX1	g-g	hsa00480	compound
+GSTM2	ec	GPX2	g-g	hsa00480	compound
+GSTM2	ec	GPX3	g-g	hsa00480	compound
+GSTM2	ec	GPX5	g-g	hsa00480	compound
+GSTM2	ec	GPX7	g-g	hsa00480	compound
+GSTM2	ec	GPX8	g-g	hsa00480	compound
+GSTM3	ec	GPX1	g-g	hsa00480	compound
+GSTM3	ec	GPX2	g-g	hsa00480	compound
+GSTM3	ec	GPX3	g-g	hsa00480	compound
+GSTM3	ec	GPX5	g-g	hsa00480	compound
+GSTM3	ec	GPX7	g-g	hsa00480	compound
+GSTM3	ec	GPX8	g-g	hsa00480	compound
+GSTM4	ec	GPX1	g-g	hsa00480	compound
+GSTM4	ec	GPX2	g-g	hsa00480	compound
+GSTM4	ec	GPX3	g-g	hsa00480	compound
+GSTM4	ec	GPX5	g-g	hsa00480	compound
+GSTM4	ec	GPX7	g-g	hsa00480	compound
+GSTM4	ec	GPX8	g-g	hsa00480	compound
+GSTM5	ec	GPX1	g-g	hsa00480	compound
+GSTM5	ec	GPX2	g-g	hsa00480	compound
+GSTM5	ec	GPX3	g-g	hsa00480	compound
+GSTM5	ec	GPX5	g-g	hsa00480	compound
+GSTM5	ec	GPX7	g-g	hsa00480	compound
+GSTM5	ec	GPX8	g-g	hsa00480	compound
+GSTP1	ec	GPX1	g-g	hsa00480	compound
+GSTP1	ec	GPX2	g-g	hsa00480	compound
+GSTP1	ec	GPX3	g-g	hsa00480	compound
+GSTP1	ec	GPX5	g-g	hsa00480	compound
+GSTP1	ec	GPX7	g-g	hsa00480	compound
+GSTP1	ec	GPX8	g-g	hsa00480	compound
+GSTT1	ec	GPX1	g-g	hsa00480	compound
+GSTT1	ec	GPX2	g-g	hsa00480	compound
+GSTT1	ec	GPX3	g-g	hsa00480	compound
+GSTT1	ec	GPX5	g-g	hsa00480	compound
+GSTT1	ec	GPX7	g-g	hsa00480	compound
+GSTT1	ec	GPX8	g-g	hsa00480	compound
+GSTT2	ec	GPX1	g-g	hsa00480	compound
+GSTT2	ec	GPX2	g-g	hsa00480	compound
+GSTT2	ec	GPX3	g-g	hsa00480	compound
+GSTT2	ec	GPX5	g-g	hsa00480	compound
+GSTT2	ec	GPX7	g-g	hsa00480	compound
+GSTT2	ec	GPX8	g-g	hsa00480	compound
+GSTK1	ec	GPX1	g-g	hsa00480	compound
+GSTK1	ec	GPX2	g-g	hsa00480	compound
+GSTK1	ec	GPX3	g-g	hsa00480	compound
+GSTK1	ec	GPX5	g-g	hsa00480	compound
+GSTK1	ec	GPX7	g-g	hsa00480	compound
+GSTK1	ec	GPX8	g-g	hsa00480	compound
+MGST1	ec	GPX1	g-g	hsa00480	compound
+MGST1	ec	GPX2	g-g	hsa00480	compound
+MGST1	ec	GPX3	g-g	hsa00480	compound
+MGST1	ec	GPX5	g-g	hsa00480	compound
+MGST1	ec	GPX7	g-g	hsa00480	compound
+MGST1	ec	GPX8	g-g	hsa00480	compound
+MGST2	ec	GPX1	g-g	hsa00480	compound
+MGST2	ec	GPX2	g-g	hsa00480	compound
+MGST2	ec	GPX3	g-g	hsa00480	compound
+MGST2	ec	GPX5	g-g	hsa00480	compound
+MGST2	ec	GPX7	g-g	hsa00480	compound
+MGST2	ec	GPX8	g-g	hsa00480	compound
+MGST3	ec	GPX1	g-g	hsa00480	compound
+MGST3	ec	GPX2	g-g	hsa00480	compound
+MGST3	ec	GPX3	g-g	hsa00480	compound
+MGST3	ec	GPX5	g-g	hsa00480	compound
+MGST3	ec	GPX7	g-g	hsa00480	compound
+MGST3	ec	GPX8	g-g	hsa00480	compound
+GSTT2B	ec	GPX1	g-g	hsa00480	compound
+GSTT2B	ec	GPX2	g-g	hsa00480	compound
+GSTT2B	ec	GPX3	g-g	hsa00480	compound
+GSTT2B	ec	GPX5	g-g	hsa00480	compound
+GSTT2B	ec	GPX7	g-g	hsa00480	compound
+GSTT2B	ec	GPX8	g-g	hsa00480	compound
+GSTO1	ec	GPX1	g-g	hsa00480	compound
+GSTO1	ec	GPX2	g-g	hsa00480	compound
+GSTO1	ec	GPX3	g-g	hsa00480	compound
+GSTO1	ec	GPX5	g-g	hsa00480	compound
+GSTO1	ec	GPX7	g-g	hsa00480	compound
+GSTO1	ec	GPX8	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTA5	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+HPGDS	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTA1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTA2	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTA3	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTA4	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTM1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTM2	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTM3	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTM4	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTM5	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTP1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTT1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTT2	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTK1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+MGST1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+MGST2	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+MGST3	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTT2B	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTO1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GGT6	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GGT1	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GGT7	g-g	hsa00480	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GGT5	g-g	hsa00480	compound
+GSTA5	ec	GGT6	g-g	hsa00480	compound
+HPGDS	ec	GGT6	g-g	hsa00480	compound
+GSTA1	ec	GGT6	g-g	hsa00480	compound
+GSTA2	ec	GGT6	g-g	hsa00480	compound
+GSTA3	ec	GGT6	g-g	hsa00480	compound
+GSTA4	ec	GGT6	g-g	hsa00480	compound
+GSTM1	ec	GGT6	g-g	hsa00480	compound
+GSTM2	ec	GGT6	g-g	hsa00480	compound
+GSTM3	ec	GGT6	g-g	hsa00480	compound
+GSTM4	ec	GGT6	g-g	hsa00480	compound
+GSTM5	ec	GGT6	g-g	hsa00480	compound
+GSTP1	ec	GGT6	g-g	hsa00480	compound
+GSTT1	ec	GGT6	g-g	hsa00480	compound
+GSTT2	ec	GGT6	g-g	hsa00480	compound
+GSTK1	ec	GGT6	g-g	hsa00480	compound
+MGST1	ec	GGT6	g-g	hsa00480	compound
+MGST2	ec	GGT6	g-g	hsa00480	compound
+MGST3	ec	GGT6	g-g	hsa00480	compound
+GSTT2B	ec	GGT6	g-g	hsa00480	compound
+GSTO1	ec	GGT6	g-g	hsa00480	compound
+GSTA5	ec	GGT1	g-g	hsa00480	compound
+GSTA5	ec	GGT7	g-g	hsa00480	compound
+GSTA5	ec	GGT5	g-g	hsa00480	compound
+HPGDS	ec	GGT1	g-g	hsa00480	compound
+HPGDS	ec	GGT7	g-g	hsa00480	compound
+HPGDS	ec	GGT5	g-g	hsa00480	compound
+GSTA1	ec	GGT1	g-g	hsa00480	compound
+GSTA1	ec	GGT7	g-g	hsa00480	compound
+GSTA1	ec	GGT5	g-g	hsa00480	compound
+GSTA2	ec	GGT1	g-g	hsa00480	compound
+GSTA2	ec	GGT7	g-g	hsa00480	compound
+GSTA2	ec	GGT5	g-g	hsa00480	compound
+GSTA3	ec	GGT1	g-g	hsa00480	compound
+GSTA3	ec	GGT7	g-g	hsa00480	compound
+GSTA3	ec	GGT5	g-g	hsa00480	compound
+GSTA4	ec	GGT1	g-g	hsa00480	compound
+GSTA4	ec	GGT7	g-g	hsa00480	compound
+GSTA4	ec	GGT5	g-g	hsa00480	compound
+GSTM1	ec	GGT1	g-g	hsa00480	compound
+GSTM1	ec	GGT7	g-g	hsa00480	compound
+GSTM1	ec	GGT5	g-g	hsa00480	compound
+GSTM2	ec	GGT1	g-g	hsa00480	compound
+GSTM2	ec	GGT7	g-g	hsa00480	compound
+GSTM2	ec	GGT5	g-g	hsa00480	compound
+GSTM3	ec	GGT1	g-g	hsa00480	compound
+GSTM3	ec	GGT7	g-g	hsa00480	compound
+GSTM3	ec	GGT5	g-g	hsa00480	compound
+GSTM4	ec	GGT1	g-g	hsa00480	compound
+GSTM4	ec	GGT7	g-g	hsa00480	compound
+GSTM4	ec	GGT5	g-g	hsa00480	compound
+GSTM5	ec	GGT1	g-g	hsa00480	compound
+GSTM5	ec	GGT7	g-g	hsa00480	compound
+GSTM5	ec	GGT5	g-g	hsa00480	compound
+GSTP1	ec	GGT1	g-g	hsa00480	compound
+GSTP1	ec	GGT7	g-g	hsa00480	compound
+GSTP1	ec	GGT5	g-g	hsa00480	compound
+GSTT1	ec	GGT1	g-g	hsa00480	compound
+GSTT1	ec	GGT7	g-g	hsa00480	compound
+GSTT1	ec	GGT5	g-g	hsa00480	compound
+GSTT2	ec	GGT1	g-g	hsa00480	compound
+GSTT2	ec	GGT7	g-g	hsa00480	compound
+GSTT2	ec	GGT5	g-g	hsa00480	compound
+GSTK1	ec	GGT1	g-g	hsa00480	compound
+GSTK1	ec	GGT7	g-g	hsa00480	compound
+GSTK1	ec	GGT5	g-g	hsa00480	compound
+MGST1	ec	GGT1	g-g	hsa00480	compound
+MGST1	ec	GGT7	g-g	hsa00480	compound
+MGST1	ec	GGT5	g-g	hsa00480	compound
+MGST2	ec	GGT1	g-g	hsa00480	compound
+MGST2	ec	GGT7	g-g	hsa00480	compound
+MGST2	ec	GGT5	g-g	hsa00480	compound
+MGST3	ec	GGT1	g-g	hsa00480	compound
+MGST3	ec	GGT7	g-g	hsa00480	compound
+MGST3	ec	GGT5	g-g	hsa00480	compound
+GSTT2B	ec	GGT1	g-g	hsa00480	compound
+GSTT2B	ec	GGT7	g-g	hsa00480	compound
+GSTT2B	ec	GGT5	g-g	hsa00480	compound
+GSTO1	ec	GGT1	g-g	hsa00480	compound
+GSTO1	ec	GGT7	g-g	hsa00480	compound
+GSTO1	ec	GGT5	g-g	hsa00480	compound
+GGT6	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GGT1	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GGT7	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+GGT5	ec	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	NAT8B, CML2, Hcml2, NAT8BP	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	NAT8	g-g	hsa00480	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00480	compound
+ODC1, ODC	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00480	compound
+GGT6	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT1	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT7	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT5	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT6	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT1	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT7	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT5	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	GGCT, C7orf24, CRF21, GCTG, GGC	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	GCLC, GCL, GCS, GLCL, GLCLC	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	GCLM	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+GGT6	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT1	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT7	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+GGT5	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+NAT8B, CML2, Hcml2, NAT8BP	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+NAT8	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	CHAC2, GCG1	g-g	hsa00480	compound
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	ec	CHAC1	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	CHAC2, GCG1	g-g	hsa00480	compound
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	ec	CHAC1	g-g	hsa00480	compound
+GGT6	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT6	ec	CHAC1	g-g	hsa00480	compound
+GGT1	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT7	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT5	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT1	ec	CHAC1	g-g	hsa00480	compound
+GGT7	ec	CHAC1	g-g	hsa00480	compound
+GGT5	ec	CHAC1	g-g	hsa00480	compound
+GGT6	ec	GGT6	g-g	hsa00480	compound
+GGT6	ec	GGT1	g-g	hsa00480	compound
+GGT6	ec	GGT7	g-g	hsa00480	compound
+GGT6	ec	GGT5	g-g	hsa00480	compound
+GGT1	ec	GGT6	g-g	hsa00480	compound
+GGT7	ec	GGT6	g-g	hsa00480	compound
+GGT5	ec	GGT6	g-g	hsa00480	compound
+GGT1	ec	GGT1	g-g	hsa00480	compound
+GGT1	ec	GGT7	g-g	hsa00480	compound
+GGT1	ec	GGT5	g-g	hsa00480	compound
+GGT7	ec	GGT1	g-g	hsa00480	compound
+GGT7	ec	GGT7	g-g	hsa00480	compound
+GGT7	ec	GGT5	g-g	hsa00480	compound
+GGT5	ec	GGT1	g-g	hsa00480	compound
+GGT5	ec	GGT7	g-g	hsa00480	compound
+GGT5	ec	GGT5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT6	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT7	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT5	g-g	hsa00480	compound
+CHAC1	ec	GGT6	g-g	hsa00480	compound
+CHAC1	ec	GGT1	g-g	hsa00480	compound
+CHAC1	ec	GGT7	g-g	hsa00480	compound
+CHAC1	ec	GGT5	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	CHAC1	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	CHAC2, GCG1	g-g	hsa00480	compound
+OPLAH, 5-Opase, OPLA, OPLAHD	ec	CHAC1	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGCT, C7orf24, CRF21, GCTG, GGC	ec	CHAC1	g-g	hsa00480	compound
+GGT6	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT6	ec	CHAC1	g-g	hsa00480	compound
+GGT1	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT7	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT5	ec	CHAC2, GCG1	g-g	hsa00480	compound
+GGT1	ec	CHAC1	g-g	hsa00480	compound
+GGT7	ec	CHAC1	g-g	hsa00480	compound
+GGT5	ec	CHAC1	g-g	hsa00480	compound
+GGT6	ec	GGT6	g-g	hsa00480	compound
+GGT6	ec	GGT1	g-g	hsa00480	compound
+GGT6	ec	GGT7	g-g	hsa00480	compound
+GGT6	ec	GGT5	g-g	hsa00480	compound
+GGT1	ec	GGT6	g-g	hsa00480	compound
+GGT7	ec	GGT6	g-g	hsa00480	compound
+GGT5	ec	GGT6	g-g	hsa00480	compound
+GGT1	ec	GGT1	g-g	hsa00480	compound
+GGT1	ec	GGT7	g-g	hsa00480	compound
+GGT1	ec	GGT5	g-g	hsa00480	compound
+GGT7	ec	GGT1	g-g	hsa00480	compound
+GGT7	ec	GGT7	g-g	hsa00480	compound
+GGT7	ec	GGT5	g-g	hsa00480	compound
+GGT5	ec	GGT1	g-g	hsa00480	compound
+GGT5	ec	GGT7	g-g	hsa00480	compound
+GGT5	ec	GGT5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT6	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT7	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GGT5	g-g	hsa00480	compound
+CHAC1	ec	GGT6	g-g	hsa00480	compound
+CHAC1	ec	GGT1	g-g	hsa00480	compound
+CHAC1	ec	GGT7	g-g	hsa00480	compound
+CHAC1	ec	GGT5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+CHAC1	ec	GSR, GR, HEL-75, HEL-S-122m	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+CHAC1	ec	GSS, GSHS, HEL-S-64p, HEL-S-88n	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTA5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	HPGDS	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTA1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTA2	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTA3	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTA4	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTM1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTM2	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTM3	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTM4	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTM5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTP1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTT1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTT2	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTK1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	MGST1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	MGST2	g-g	hsa00480	compound
+CHAC2, GCG1	ec	MGST3	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTT2B	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GSTO1	g-g	hsa00480	compound
+CHAC1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00480	compound
+CHAC1	ec	GSTA5	g-g	hsa00480	compound
+CHAC1	ec	HPGDS	g-g	hsa00480	compound
+CHAC1	ec	GSTA1	g-g	hsa00480	compound
+CHAC1	ec	GSTA2	g-g	hsa00480	compound
+CHAC1	ec	GSTA3	g-g	hsa00480	compound
+CHAC1	ec	GSTA4	g-g	hsa00480	compound
+CHAC1	ec	GSTM1	g-g	hsa00480	compound
+CHAC1	ec	GSTM2	g-g	hsa00480	compound
+CHAC1	ec	GSTM3	g-g	hsa00480	compound
+CHAC1	ec	GSTM4	g-g	hsa00480	compound
+CHAC1	ec	GSTM5	g-g	hsa00480	compound
+CHAC1	ec	GSTP1	g-g	hsa00480	compound
+CHAC1	ec	GSTT1	g-g	hsa00480	compound
+CHAC1	ec	GSTT2	g-g	hsa00480	compound
+CHAC1	ec	GSTK1	g-g	hsa00480	compound
+CHAC1	ec	MGST1	g-g	hsa00480	compound
+CHAC1	ec	MGST2	g-g	hsa00480	compound
+CHAC1	ec	MGST3	g-g	hsa00480	compound
+CHAC1	ec	GSTT2B	g-g	hsa00480	compound
+CHAC1	ec	GSTO1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+CHAC1	ec	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX1	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX2	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX3	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX5	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX7	g-g	hsa00480	compound
+CHAC2, GCG1	ec	GPX8	g-g	hsa00480	compound
+CHAC1	ec	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	g-g	hsa00480	compound
+CHAC1	ec	GPX1	g-g	hsa00480	compound
+CHAC1	ec	GPX2	g-g	hsa00480	compound
+CHAC1	ec	GPX3	g-g	hsa00480	compound
+CHAC1	ec	GPX5	g-g	hsa00480	compound
+CHAC1	ec	GPX7	g-g	hsa00480	compound
+CHAC1	ec	GPX8	g-g	hsa00480	compound
+CHAC2, GCG1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+CHAC1	ec	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	g-g	hsa00480	compound
+C05729	rt	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	irreversible	hsa00480	se
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	rt	C05726	irreversible	hsa00480	ep
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	rt	C00037	irreversible	hsa00480	ep
+C02320	rt	GGT6	irreversible	hsa00480	se
+C02320	rt	GGT1	irreversible	hsa00480	se
+C02320	rt	GGT7	irreversible	hsa00480	se
+C02320	rt	GGT5	irreversible	hsa00480	se
+GGT6	rt	C00025	irreversible	hsa00480	ep
+GGT1	rt	C00025	irreversible	hsa00480	ep
+GGT7	rt	C00025	irreversible	hsa00480	ep
+GGT5	rt	C00025	irreversible	hsa00480	ep
+GGT6	rt	C05729	irreversible	hsa00480	ep
+GGT1	rt	C05729	irreversible	hsa00480	ep
+GGT7	rt	C05729	irreversible	hsa00480	ep
+GGT5	rt	C05729	irreversible	hsa00480	ep
+C00051	rt	GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	irreversible	hsa00480	se
+C00051	rt	GPX1	irreversible	hsa00480	se
+C00051	rt	GPX2	irreversible	hsa00480	se
+C00051	rt	GPX3	irreversible	hsa00480	se
+C00051	rt	GPX5	irreversible	hsa00480	se
+C00051	rt	GPX7	irreversible	hsa00480	se
+C00051	rt	GPX8	irreversible	hsa00480	se
+GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241	rt	C00127	irreversible	hsa00480	ep
+GPX1	rt	C00127	irreversible	hsa00480	ep
+GPX2	rt	C00127	irreversible	hsa00480	ep
+GPX3	rt	C00127	irreversible	hsa00480	ep
+GPX5	rt	C00127	irreversible	hsa00480	ep
+GPX7	rt	C00127	irreversible	hsa00480	ep
+GPX8	rt	C00127	irreversible	hsa00480	ep
+C00051	rt	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	irreversible	hsa00480	se
+GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	rt	C00127	irreversible	hsa00480	ep
+C00051	rt	TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	irreversible	hsa00480	se
+TXNDC12, AG1, AGR1, ERP16, ERP18, ERP19, PDIA16, TLP19, hAG-1, hTLP19	rt	C00127	irreversible	hsa00480	ep
+C00006	rt	G6PD, G6PD1	irreversible	hsa00480	se
+G6PD, G6PD1	rt	C00005	irreversible	hsa00480	ep
+C00006	rt	IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	irreversible	hsa00480	se
+C00006	rt	IDH2	irreversible	hsa00480	se
+IDH1, HEL-216, HEL-S-26, IDCD, IDH, IDP, IDPC, PICD	rt	C00005	irreversible	hsa00480	ep
+IDH2	rt	C00005	irreversible	hsa00480	ep
+C00127	rt	GSR, GR, HEL-75, HEL-S-122m	irreversible	hsa00480	se
+C00005	rt	GSR, GR, HEL-75, HEL-S-122m	irreversible	hsa00480	se
+GSR, GR, HEL-75, HEL-S-122m	rt	C00051	irreversible	hsa00480	ep
+GSR, GR, HEL-75, HEL-S-122m	rt	C00006	irreversible	hsa00480	ep
+C00037	rt	GSS, GSHS, HEL-S-64p, HEL-S-88n	irreversible	hsa00480	se
+C00669	rt	GSS, GSHS, HEL-S-64p, HEL-S-88n	irreversible	hsa00480	se
+GSS, GSHS, HEL-S-64p, HEL-S-88n	rt	C00051	irreversible	hsa00480	ep
+C00025	rt	GCLC, GCL, GCS, GLCL, GLCLC	irreversible	hsa00480	se
+C00025	rt	GCLM	irreversible	hsa00480	se
+C00097	rt	GCLC, GCL, GCS, GLCL, GLCLC	irreversible	hsa00480	se
+C00097	rt	GCLM	irreversible	hsa00480	se
+GCLC, GCL, GCS, GLCL, GLCLC	rt	C00669	irreversible	hsa00480	ep
+GCLM	rt	C00669	irreversible	hsa00480	ep
+C00051	rt	GGT6	irreversible	hsa00480	se
+C00051	rt	GGT1	irreversible	hsa00480	se
+C00051	rt	GGT7	irreversible	hsa00480	se
+C00051	rt	GGT5	irreversible	hsa00480	se
+GGT6	rt	C00025	irreversible	hsa00480	ep
+GGT1	rt	C00025	irreversible	hsa00480	ep
+GGT7	rt	C00025	irreversible	hsa00480	ep
+GGT5	rt	C00025	irreversible	hsa00480	ep
+GGT6	rt	C01419	irreversible	hsa00480	ep
+GGT1	rt	C01419	irreversible	hsa00480	ep
+GGT7	rt	C01419	irreversible	hsa00480	ep
+GGT5	rt	C01419	irreversible	hsa00480	ep
+C01419	rt	ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	irreversible	hsa00480	se
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	rt	C00037	irreversible	hsa00480	ep
+ANPEP, APN, CD13, GP150, LAP1, P150, PEPN	rt	C00097	irreversible	hsa00480	ep
+C01879	rt	OPLAH, 5-Opase, OPLA, OPLAHD	irreversible	hsa00480	se
+OPLAH, 5-Opase, OPLA, OPLAHD	rt	C00025	irreversible	hsa00480	ep
+C00669	rt	GGCT, C7orf24, CRF21, GCTG, GGC	irreversible	hsa00480	se
+GGCT, C7orf24, CRF21, GCTG, GGC	rt	C01879	irreversible	hsa00480	ep
+GGCT, C7orf24, CRF21, GCTG, GGC	rt	C00097	irreversible	hsa00480	ep
+C00051	rt	GGT6	irreversible	hsa00480	se
+C00051	rt	GGT1	irreversible	hsa00480	se
+C00051	rt	GGT7	irreversible	hsa00480	se
+C00051	rt	GGT5	irreversible	hsa00480	se
+C00151	rt	GGT6	irreversible	hsa00480	se
+C00151	rt	GGT1	irreversible	hsa00480	se
+C00151	rt	GGT7	irreversible	hsa00480	se
+C00151	rt	GGT5	irreversible	hsa00480	se
+GGT6	rt	C03740	irreversible	hsa00480	ep
+GGT1	rt	C03740	irreversible	hsa00480	ep
+GGT7	rt	C03740	irreversible	hsa00480	ep
+GGT5	rt	C03740	irreversible	hsa00480	ep
+GGT6	rt	C01419	irreversible	hsa00480	ep
+GGT1	rt	C01419	irreversible	hsa00480	ep
+GGT7	rt	C01419	irreversible	hsa00480	ep
+GGT5	rt	C01419	irreversible	hsa00480	ep
+C03740	rt	GGCT, C7orf24, CRF21, GCTG, GGC	irreversible	hsa00480	se
+GGCT, C7orf24, CRF21, GCTG, GGC	rt	C01879	irreversible	hsa00480	ep
+GGCT, C7orf24, CRF21, GCTG, GGC	rt	C00151	irreversible	hsa00480	ep
+C05726	rt	NAT8B, CML2, Hcml2, NAT8BP	irreversible	hsa00480	se
+C05726	rt	NAT8	irreversible	hsa00480	se
+C00024	rt	NAT8B, CML2, Hcml2, NAT8BP	irreversible	hsa00480	se
+C00024	rt	NAT8	irreversible	hsa00480	se
+NAT8B, CML2, Hcml2, NAT8BP	rt	C05727	irreversible	hsa00480	ep
+NAT8	rt	C05727	irreversible	hsa00480	ep
+C01322	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00480	se
+C01322	rt	GSTA5	irreversible	hsa00480	se
+C01322	rt	HPGDS	irreversible	hsa00480	se
+C01322	rt	GSTA1	irreversible	hsa00480	se
+C01322	rt	GSTA2	irreversible	hsa00480	se
+C01322	rt	GSTA3	irreversible	hsa00480	se
+C01322	rt	GSTA4	irreversible	hsa00480	se
+C01322	rt	GSTM1	irreversible	hsa00480	se
+C01322	rt	GSTM2	irreversible	hsa00480	se
+C01322	rt	GSTM3	irreversible	hsa00480	se
+C01322	rt	GSTM4	irreversible	hsa00480	se
+C01322	rt	GSTM5	irreversible	hsa00480	se
+C01322	rt	GSTP1	irreversible	hsa00480	se
+C01322	rt	GSTT1	irreversible	hsa00480	se
+C01322	rt	GSTT2	irreversible	hsa00480	se
+C01322	rt	GSTK1	irreversible	hsa00480	se
+C01322	rt	MGST1	irreversible	hsa00480	se
+C01322	rt	MGST2	irreversible	hsa00480	se
+C01322	rt	MGST3	irreversible	hsa00480	se
+C01322	rt	GSTT2B	irreversible	hsa00480	se
+C01322	rt	GSTO1	irreversible	hsa00480	se
+C00051	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00480	se
+C00051	rt	GSTA5	irreversible	hsa00480	se
+C00051	rt	HPGDS	irreversible	hsa00480	se
+C00051	rt	GSTA1	irreversible	hsa00480	se
+C00051	rt	GSTA2	irreversible	hsa00480	se
+C00051	rt	GSTA3	irreversible	hsa00480	se
+C00051	rt	GSTA4	irreversible	hsa00480	se
+C00051	rt	GSTM1	irreversible	hsa00480	se
+C00051	rt	GSTM2	irreversible	hsa00480	se
+C00051	rt	GSTM3	irreversible	hsa00480	se
+C00051	rt	GSTM4	irreversible	hsa00480	se
+C00051	rt	GSTM5	irreversible	hsa00480	se
+C00051	rt	GSTP1	irreversible	hsa00480	se
+C00051	rt	GSTT1	irreversible	hsa00480	se
+C00051	rt	GSTT2	irreversible	hsa00480	se
+C00051	rt	GSTK1	irreversible	hsa00480	se
+C00051	rt	MGST1	irreversible	hsa00480	se
+C00051	rt	MGST2	irreversible	hsa00480	se
+C00051	rt	MGST3	irreversible	hsa00480	se
+C00051	rt	GSTT2B	irreversible	hsa00480	se
+C00051	rt	GSTO1	irreversible	hsa00480	se
+GSTO2, GSTO_2-2, bA127L201	rt	C02320	irreversible	hsa00480	ep
+GSTA5	rt	C02320	irreversible	hsa00480	ep
+HPGDS	rt	C02320	irreversible	hsa00480	ep
+GSTA1	rt	C02320	irreversible	hsa00480	ep
+GSTA2	rt	C02320	irreversible	hsa00480	ep
+GSTA3	rt	C02320	irreversible	hsa00480	ep
+GSTA4	rt	C02320	irreversible	hsa00480	ep
+GSTM1	rt	C02320	irreversible	hsa00480	ep
+GSTM2	rt	C02320	irreversible	hsa00480	ep
+GSTM3	rt	C02320	irreversible	hsa00480	ep
+GSTM4	rt	C02320	irreversible	hsa00480	ep
+GSTM5	rt	C02320	irreversible	hsa00480	ep
+GSTP1	rt	C02320	irreversible	hsa00480	ep
+GSTT1	rt	C02320	irreversible	hsa00480	ep
+GSTT2	rt	C02320	irreversible	hsa00480	ep
+GSTK1	rt	C02320	irreversible	hsa00480	ep
+MGST1	rt	C02320	irreversible	hsa00480	ep
+MGST2	rt	C02320	irreversible	hsa00480	ep
+MGST3	rt	C02320	irreversible	hsa00480	ep
+GSTT2B	rt	C02320	irreversible	hsa00480	ep
+GSTO1	rt	C02320	irreversible	hsa00480	ep
+C00006	rt	PGD, 6PGD	irreversible	hsa00480	se
+PGD, 6PGD	rt	C00005	irreversible	hsa00480	ep
+C00077	rt	ODC1, ODC	irreversible	hsa00480	se
+ODC1, ODC	rt	C00134	irreversible	hsa00480	ep
+C00134	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00480	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C00315	irreversible	hsa00480	ep
+C00315	rt	SMS, MRSR, SPMSY, SRS, SpS	irreversible	hsa00480	se
+SMS, MRSR, SPMSY, SRS, SpS	rt	C00750	irreversible	hsa00480	ep
+C01672	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00480	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C16565	irreversible	hsa00480	ep
+C16663	rt	RRM2B, MTDPS8A, MTDPS8B, P53R2	irreversible	hsa00480	se
+C16663	rt	RRM1	irreversible	hsa00480	se
+C16663	rt	RRM2	irreversible	hsa00480	se
+RRM2B, MTDPS8A, MTDPS8B, P53R2	rt	C16664	irreversible	hsa00480	ep
+RRM1	rt	C16664	irreversible	hsa00480	ep
+RRM2	rt	C16664	irreversible	hsa00480	ep
+C02090	rt	RRM2B, MTDPS8A, MTDPS8B, P53R2	irreversible	hsa00480	se
+C02090	rt	RRM1	irreversible	hsa00480	se
+C02090	rt	RRM2	irreversible	hsa00480	se
+RRM2B, MTDPS8A, MTDPS8B, P53R2	rt	C03170	irreversible	hsa00480	ep
+RRM1	rt	C03170	irreversible	hsa00480	ep
+RRM2	rt	C03170	irreversible	hsa00480	ep
+C01419	rt	LAP3, HEL-S-106, LAP, LAPEP, PEPS	irreversible	hsa00480	se
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	rt	C00037	irreversible	hsa00480	ep
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	rt	C00097	irreversible	hsa00480	ep
+C05729	rt	LAP3, HEL-S-106, LAP, LAPEP, PEPS	irreversible	hsa00480	se
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	rt	C05726	irreversible	hsa00480	ep
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	rt	C00037	irreversible	hsa00480	ep
+C00051	rt	CHAC2, GCG1	irreversible	hsa00480	se
+C00051	rt	CHAC1	irreversible	hsa00480	se
+CHAC2, GCG1	rt	C01879	irreversible	hsa00480	ep
+CHAC1	rt	C01879	irreversible	hsa00480	ep
+CHAC2, GCG1	rt	C01419	irreversible	hsa00480	ep
+CHAC1	rt	C01419	irreversible	hsa00480	ep
+C03646				hsa00480	
+C05730				hsa00480	
+C05422				hsa00480	
+C00072				hsa00480	
+C16562				hsa00480	
+C16563				hsa00480	
+C16564				hsa00480	
+C16566				hsa00480	
+C16567				hsa00480	
+C16568				hsa00480	

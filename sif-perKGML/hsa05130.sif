@@ -1,0 +1,72 @@
+CD14	pp	TLR4, ARMD10, CD284, TLR-4, TOLL	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC4	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC3	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1B	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC2	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1A	g-g	hsa05130	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5L	g-g	hsa05130	activation
+WASL	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05130	activation
+WASL	pp	ARPC4	g-g	hsa05130	activation
+WASL	pp	ARPC3	g-g	hsa05130	activation
+WASL	pp	ARPC1B	g-g	hsa05130	activation
+WASL	pp	ARPC2	g-g	hsa05130	activation
+WASL	pp	ARPC1A	g-g	hsa05130	activation
+WASL	pp	ARPC5L	g-g	hsa05130	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTG1	g-g	hsa05130	activation
+ARPC4	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC3	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC1B	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC1A	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC5L	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05130	activation
+ARPC4	pp	ACTG1	g-g	hsa05130	activation
+ARPC3	pp	ACTG1	g-g	hsa05130	activation
+ARPC1B	pp	ACTG1	g-g	hsa05130	activation
+ARPC2	pp	ACTG1	g-g	hsa05130	activation
+ARPC1A	pp	ACTG1	g-g	hsa05130	activation
+ARPC5L	pp	ACTG1	g-g	hsa05130	activation
+TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB4A	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB4B	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB8	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB2B	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB2A	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB1	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBB6	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA1B, K-ALPHA-1	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA3E	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA3D	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA8	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA4A	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA3C	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA1A	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBAL3	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+TUBA1C	pp	ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	g-g	hsa05130	activation
+ARHGEF2, GEF, GEF-H1, GEFH1, LFP40, P40	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa05130	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK1, P160ROCK, ROCK-I	g-g	hsa05130	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK2	g-g	hsa05130	activation
+NCK1, NCK, NCKalpha, nck-1	pp	WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	g-g	hsa05130	activation
+NCK1, NCK, NCKalpha, nck-1	pp	WASL	g-g	hsa05130	activation
+NCK2	pp	WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	g-g	hsa05130	activation
+NCK2	pp	WASL	g-g	hsa05130	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa05130	binding/association
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa05130	dissociation
+LY96, ESOP-1, MD-2, MD2, ly-96				hsa05130	
+TLR5, MELIOS, SLE1, SLEB1, TIL3				hsa05130	
+YWHAQ, 14-3-3, 1C5, HS1				hsa05130	
+C00350				hsa05130	
+YWHAZ, 14-3-3-zeta, HEL-S-3, HEL-S-93, HEL4, KCIP-1, YWHAD				hsa05130	
+KRT18, CK-18, CYK18, K18				hsa05130	
+CTTN, EMS1				hsa05130	
+HCLS1				hsa05130	
+OCLN, BLCPMG, PPP1R115, PTORCH1				hsa05130	
+EZR, CVIL, CVL, HEL-S-105, VIL2				hsa05130	
+CDC42, CDC42Hs, G25K, TKS				hsa05130	
+ABL1, ABL, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl				hsa05130	
+FYN				hsa05130	
+CLDN1, CLD1, ILVASC, SEMP1				hsa05130	
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB				hsa05130	
+NCL, C23				hsa05130	

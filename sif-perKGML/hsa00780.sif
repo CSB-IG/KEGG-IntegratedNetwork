@@ -1,0 +1,59 @@
+HLCS, HCS	ec	BTD	g-g	hsa00780	compound
+HLCS, HCS	ec	BTD	g-g	hsa00780	compound
+HLCS, HCS	ec	BTD	g-g	hsa00780	compound
+HLCS, HCS	ec	BTD	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+HLCS, HCS	ec	HLCS, HCS	g-g	hsa00780	compound
+C00120	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C05921	irreversible	hsa00780	ep
+C05921	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C06250	irreversible	hsa00780	ep
+C05921	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C06250	irreversible	hsa00780	ep
+C05921	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C06250	irreversible	hsa00780	ep
+C00120	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C05921	irreversible	hsa00780	ep
+C00120	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C05921	irreversible	hsa00780	ep
+C05552	rt	BTD	irreversible	hsa00780	se
+BTD	rt	C00120	irreversible	hsa00780	ep
+BTD	rt	C00047	irreversible	hsa00780	ep
+C05921	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C06250	irreversible	hsa00780	ep
+C00120	rt	HLCS, HCS	irreversible	hsa00780	se
+HLCS, HCS	rt	C05921	irreversible	hsa00780	ep
+C20375	rt	OXSM, CEM1, FASN2D, KASI, KS	irreversible	hsa00780	se
+C01209	rt	OXSM, CEM1, FASN2D, KASI, KS	irreversible	hsa00780	se
+OXSM, CEM1, FASN2D, KASI, KS	rt	C20376	irreversible	hsa00780	ep
+C01209	rt	OXSM, CEM1, FASN2D, KASI, KS	irreversible	hsa00780	se
+C19673	rt	OXSM, CEM1, FASN2D, KASI, KS	irreversible	hsa00780	se
+OXSM, CEM1, FASN2D, KASI, KS	rt	C20372	irreversible	hsa00780	ep
+C02656				hsa00780	
+C01063				hsa00780	
+C01092				hsa00780	
+C01909				hsa00780	
+C01037				hsa00780	
+C01894				hsa00780	
+C19845				hsa00780	
+C19846				hsa00780	
+C20373				hsa00780	
+C20374				hsa00780	
+C20377				hsa00780	
+C20378				hsa00780	
+C20683				hsa00780	
+C20384				hsa00780	
+C20385				hsa00780	
+C20386				hsa00780	
+C20387				hsa00780	
+C00086				hsa00780	

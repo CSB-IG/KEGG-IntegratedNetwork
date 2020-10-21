@@ -1,0 +1,161 @@
+XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I	ec	B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	g-g	hsa00532	compound
+XYLT2	ec	B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	g-g	hsa00532	compound
+B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	ec	B3GALT6, EDSP2, SEMDJL1, beta3GalT6	g-g	hsa00532	compound
+B3GAT3, GLCATI, JDSCD, glcUAT-I	ec	B3GALT6, EDSP2, SEMDJL1, beta3GalT6	g-g	hsa00532	compound
+CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	ec	B3GAT3, GLCATI, JDSCD, glcUAT-I	g-g	hsa00532	compound
+CHSY1	ec	B3GAT3, GLCATI, JDSCD, glcUAT-I	g-g	hsa00532	compound
+CHSY3	ec	B3GAT3, GLCATI, JDSCD, glcUAT-I	g-g	hsa00532	compound
+CSGALNACT1	ec	B3GAT3, GLCATI, JDSCD, glcUAT-I	g-g	hsa00532	compound
+CHPF	ec	B3GAT3, GLCATI, JDSCD, glcUAT-I	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHSY1	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHSY3	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CSGALNACT1	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHPF	g-g	hsa00532	compound
+CHSY3	ec	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	g-g	hsa00532	compound
+CSGALNACT2	ec	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	g-g	hsa00532	compound
+CSGALNACT1	ec	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	g-g	hsa00532	compound
+CHPF	ec	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	g-g	hsa00532	compound
+CHSY3	ec	CHSY1	g-g	hsa00532	compound
+CHSY3	ec	CHSY3	g-g	hsa00532	compound
+CHSY3	ec	CSGALNACT1	g-g	hsa00532	compound
+CHSY3	ec	CHPF	g-g	hsa00532	compound
+CSGALNACT2	ec	CHSY1	g-g	hsa00532	compound
+CSGALNACT2	ec	CHSY3	g-g	hsa00532	compound
+CSGALNACT2	ec	CSGALNACT1	g-g	hsa00532	compound
+CSGALNACT2	ec	CHPF	g-g	hsa00532	compound
+CSGALNACT1	ec	CHSY1	g-g	hsa00532	compound
+CSGALNACT1	ec	CHSY3	g-g	hsa00532	compound
+CSGALNACT1	ec	CSGALNACT1	g-g	hsa00532	compound
+CSGALNACT1	ec	CHPF	g-g	hsa00532	compound
+CHPF	ec	CHSY1	g-g	hsa00532	compound
+CHPF	ec	CHSY3	g-g	hsa00532	compound
+CHPF	ec	CSGALNACT1	g-g	hsa00532	compound
+CHPF	ec	CHPF	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHSY1, CHSY, CSS1, ChSy-1, TPBS	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHSY3	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CSGALNACT2	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CSGALNACT1	g-g	hsa00532	compound
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	ec	CHPF	g-g	hsa00532	compound
+CHSY3	ec	CHSY1, CHSY, CSS1, ChSy-1, TPBS	g-g	hsa00532	compound
+CSGALNACT2	ec	CHSY1, CHSY, CSS1, ChSy-1, TPBS	g-g	hsa00532	compound
+CSGALNACT1	ec	CHSY1, CHSY, CSS1, ChSy-1, TPBS	g-g	hsa00532	compound
+CHPF	ec	CHSY1, CHSY, CSS1, ChSy-1, TPBS	g-g	hsa00532	compound
+CHSY3	ec	CHSY3	g-g	hsa00532	compound
+CHSY3	ec	CSGALNACT2	g-g	hsa00532	compound
+CHSY3	ec	CSGALNACT1	g-g	hsa00532	compound
+CHSY3	ec	CHPF	g-g	hsa00532	compound
+CSGALNACT2	ec	CHSY3	g-g	hsa00532	compound
+CSGALNACT2	ec	CSGALNACT2	g-g	hsa00532	compound
+CSGALNACT2	ec	CSGALNACT1	g-g	hsa00532	compound
+CSGALNACT2	ec	CHPF	g-g	hsa00532	compound
+CSGALNACT1	ec	CHSY3	g-g	hsa00532	compound
+CSGALNACT1	ec	CSGALNACT2	g-g	hsa00532	compound
+CSGALNACT1	ec	CSGALNACT1	g-g	hsa00532	compound
+CSGALNACT1	ec	CHPF	g-g	hsa00532	compound
+CHPF	ec	CHSY3	g-g	hsa00532	compound
+CHPF	ec	CSGALNACT2	g-g	hsa00532	compound
+CHPF	ec	CSGALNACT1	g-g	hsa00532	compound
+CHPF	ec	CHPF	g-g	hsa00532	compound
+G00159	rt	CHSY1, CHSY, CSS1, ChSy-1, TPBS	irreversible	hsa00532	se
+G00159	rt	CHSY3	irreversible	hsa00532	se
+G00159	rt	CSGALNACT2	irreversible	hsa00532	se
+G00159	rt	CSGALNACT1	irreversible	hsa00532	se
+G00159	rt	CHPF	irreversible	hsa00532	se
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	rt	G00160	irreversible	hsa00532	ep
+CHSY3	rt	G00160	irreversible	hsa00532	ep
+CSGALNACT2	rt	G00160	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00160	irreversible	hsa00532	ep
+CHPF	rt	G00160	irreversible	hsa00532	ep
+G00158	rt	CHSY1, CHSY, CSS1, ChSy-1, TPBS	irreversible	hsa00532	se
+G00158	rt	CHSY3	irreversible	hsa00532	se
+G00158	rt	CSGALNACT2	irreversible	hsa00532	se
+G00158	rt	CSGALNACT1	irreversible	hsa00532	se
+G00158	rt	CHPF	irreversible	hsa00532	se
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	rt	G00159	irreversible	hsa00532	ep
+CHSY3	rt	G00159	irreversible	hsa00532	ep
+CSGALNACT2	rt	G00159	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00159	irreversible	hsa00532	ep
+CHPF	rt	G00159	irreversible	hsa00532	ep
+G00157	rt	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	irreversible	hsa00532	se
+G00157	rt	CHSY1	irreversible	hsa00532	se
+G00157	rt	CHSY3	irreversible	hsa00532	se
+G00157	rt	CSGALNACT1	irreversible	hsa00532	se
+G00157	rt	CHPF	irreversible	hsa00532	se
+CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	rt	G00158	irreversible	hsa00532	ep
+CHSY1	rt	G00158	irreversible	hsa00532	ep
+CHSY3	rt	G00158	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00158	irreversible	hsa00532	ep
+CHPF	rt	G00158	irreversible	hsa00532	ep
+G00156	rt	B3GAT3, GLCATI, JDSCD, glcUAT-I	irreversible	hsa00532	se
+B3GAT3, GLCATI, JDSCD, glcUAT-I	rt	G00157	irreversible	hsa00532	ep
+C02189	rt	XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I	irreversible	hsa00532	se
+C02189	rt	XYLT2	irreversible	hsa00532	se
+XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I	rt	G00154	irreversible	hsa00532	ep
+XYLT2	rt	G00154	irreversible	hsa00532	ep
+G00154	rt	B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	irreversible	hsa00532	se
+B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	rt	G00155	irreversible	hsa00532	ep
+G00155	rt	B3GALT6, EDSP2, SEMDJL1, beta3GalT6	irreversible	hsa00532	se
+B3GALT6, EDSP2, SEMDJL1, beta3GalT6	rt	G00156	irreversible	hsa00532	ep
+G00159	rt	CHSY1, CHSY, CSS1, ChSy-1, TPBS	irreversible	hsa00532	se
+G00159	rt	CHSY3	irreversible	hsa00532	se
+G00159	rt	CSGALNACT2	irreversible	hsa00532	se
+G00159	rt	CSGALNACT1	irreversible	hsa00532	se
+G00159	rt	CHPF	irreversible	hsa00532	se
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	rt	G00160	irreversible	hsa00532	ep
+CHSY3	rt	G00160	irreversible	hsa00532	ep
+CSGALNACT2	rt	G00160	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00160	irreversible	hsa00532	ep
+CHPF	rt	G00160	irreversible	hsa00532	ep
+G00158	rt	CHSY1, CHSY, CSS1, ChSy-1, TPBS	irreversible	hsa00532	se
+G00158	rt	CHSY3	irreversible	hsa00532	se
+G00158	rt	CSGALNACT2	irreversible	hsa00532	se
+G00158	rt	CSGALNACT1	irreversible	hsa00532	se
+G00158	rt	CHPF	irreversible	hsa00532	se
+CHSY1, CHSY, CSS1, ChSy-1, TPBS	rt	G00159	irreversible	hsa00532	ep
+CHSY3	rt	G00159	irreversible	hsa00532	ep
+CSGALNACT2	rt	G00159	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00159	irreversible	hsa00532	ep
+CHPF	rt	G00159	irreversible	hsa00532	ep
+G00157	rt	CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	irreversible	hsa00532	se
+G00157	rt	CHSY1	irreversible	hsa00532	se
+G00157	rt	CHSY3	irreversible	hsa00532	se
+G00157	rt	CSGALNACT1	irreversible	hsa00532	se
+G00157	rt	CHPF	irreversible	hsa00532	se
+CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT	rt	G00158	irreversible	hsa00532	ep
+CHSY1	rt	G00158	irreversible	hsa00532	ep
+CHSY3	rt	G00158	irreversible	hsa00532	ep
+CSGALNACT1	rt	G00158	irreversible	hsa00532	ep
+CHPF	rt	G00158	irreversible	hsa00532	ep
+G00156	rt	B3GAT3, GLCATI, JDSCD, glcUAT-I	irreversible	hsa00532	se
+B3GAT3, GLCATI, JDSCD, glcUAT-I	rt	G00157	irreversible	hsa00532	ep
+G00155	rt	B3GALT6, EDSP2, SEMDJL1, beta3GalT6	irreversible	hsa00532	se
+B3GALT6, EDSP2, SEMDJL1, beta3GalT6	rt	G00156	irreversible	hsa00532	ep
+G00154	rt	B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	irreversible	hsa00532	se
+B4GALT7, EDSP1, EDSSLA, XGALT1, XGPT1	rt	G00155	irreversible	hsa00532	ep
+C02189	rt	XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I	irreversible	hsa00532	se
+C02189	rt	XYLT2	irreversible	hsa00532	se
+XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I	rt	G00154	irreversible	hsa00532	ep
+XYLT2	rt	G00154	irreversible	hsa00532	ep
+C00401	rt	DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2	irreversible	hsa00532	se
+DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2	rt	C01490	irreversible	hsa00532	ep
+C00054				hsa00532	
+C00053				hsa00532	
+CHST13, C4ST3				hsa00532	
+CHST11				hsa00532	
+CHST12				hsa00532	
+CHST7, C6ST-2, GST-5				hsa00532	
+CHST3				hsa00532	
+CHST15, BRAG, GALNAC4S-6ST				hsa00532	
+UST, 2OST				hsa00532	
+UST, 2OST				hsa00532	
+UST, 2OST				hsa00532	
+CHST15, BRAG, GALNAC4S-6ST				hsa00532	
+CHST14, ATCS, D4ST1, EDSMC1, HNK1ST				hsa00532	
+CHST7, C6ST-2, GST-5				hsa00532	
+CHST3				hsa00532	
+C00054				hsa00532	
+C00053				hsa00532	
+CHST12, C4S-2, C4ST-2, C4ST2				hsa00532	
+CHST13				hsa00532	
+CHST11				hsa00532	

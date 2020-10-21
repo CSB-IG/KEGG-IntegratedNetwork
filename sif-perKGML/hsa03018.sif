@@ -1,0 +1,143 @@
+PABPC4L	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC4L	pc	TOB2	g-g	hsa03018	binding/association
+PABPC4L	pc	BTG3	g-g	hsa03018	binding/association
+PABPC4L	pc	BTG4	g-g	hsa03018	binding/association
+PABPC4L	pc	BTG1	g-g	hsa03018	binding/association
+PABPC4L	pc	BTG2	g-g	hsa03018	binding/association
+PABPC5	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC1	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC1L2A	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC3	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC1L2B	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC1L	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC4	pc	TOB1, APRO5, APRO6, PIG49, TOB, TROB, TROB1	g-g	hsa03018	binding/association
+PABPC5	pc	TOB2	g-g	hsa03018	binding/association
+PABPC5	pc	BTG3	g-g	hsa03018	binding/association
+PABPC5	pc	BTG4	g-g	hsa03018	binding/association
+PABPC5	pc	BTG1	g-g	hsa03018	binding/association
+PABPC5	pc	BTG2	g-g	hsa03018	binding/association
+PABPC1	pc	TOB2	g-g	hsa03018	binding/association
+PABPC1	pc	BTG3	g-g	hsa03018	binding/association
+PABPC1	pc	BTG4	g-g	hsa03018	binding/association
+PABPC1	pc	BTG1	g-g	hsa03018	binding/association
+PABPC1	pc	BTG2	g-g	hsa03018	binding/association
+PABPC1L2A	pc	TOB2	g-g	hsa03018	binding/association
+PABPC1L2A	pc	BTG3	g-g	hsa03018	binding/association
+PABPC1L2A	pc	BTG4	g-g	hsa03018	binding/association
+PABPC1L2A	pc	BTG1	g-g	hsa03018	binding/association
+PABPC1L2A	pc	BTG2	g-g	hsa03018	binding/association
+PABPC3	pc	TOB2	g-g	hsa03018	binding/association
+PABPC3	pc	BTG3	g-g	hsa03018	binding/association
+PABPC3	pc	BTG4	g-g	hsa03018	binding/association
+PABPC3	pc	BTG1	g-g	hsa03018	binding/association
+PABPC3	pc	BTG2	g-g	hsa03018	binding/association
+PABPC1L2B	pc	TOB2	g-g	hsa03018	binding/association
+PABPC1L2B	pc	BTG3	g-g	hsa03018	binding/association
+PABPC1L2B	pc	BTG4	g-g	hsa03018	binding/association
+PABPC1L2B	pc	BTG1	g-g	hsa03018	binding/association
+PABPC1L2B	pc	BTG2	g-g	hsa03018	binding/association
+PABPC1L	pc	TOB2	g-g	hsa03018	binding/association
+PABPC1L	pc	BTG3	g-g	hsa03018	binding/association
+PABPC1L	pc	BTG4	g-g	hsa03018	binding/association
+PABPC1L	pc	BTG1	g-g	hsa03018	binding/association
+PABPC1L	pc	BTG2	g-g	hsa03018	binding/association
+PABPC4	pc	TOB2	g-g	hsa03018	binding/association
+PABPC4	pc	BTG3	g-g	hsa03018	binding/association
+PABPC4	pc	BTG4	g-g	hsa03018	binding/association
+PABPC4	pc	BTG1	g-g	hsa03018	binding/association
+PABPC4	pc	BTG2	g-g	hsa03018	binding/association
+PABPC4L	pc	PAN3	g-g	hsa03018	activation
+PABPC5	pc	PAN3	g-g	hsa03018	activation
+PABPC1	pc	PAN3	g-g	hsa03018	activation
+PABPC1L2A	pc	PAN3	g-g	hsa03018	activation
+PABPC3	pc	PAN3	g-g	hsa03018	activation
+PABPC1L2B	pc	PAN3	g-g	hsa03018	activation
+PABPC1L	pc	PAN3	g-g	hsa03018	activation
+PABPC4	pc	PAN3	g-g	hsa03018	activation
+PABPC4L	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC4L	pc	CNOT8	g-g	hsa03018	activation
+PABPC5	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC1	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC1L2A	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC3	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC1L2B	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC1L	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC4	pc	CNOT7, CAF-1, CAF1, Caf1a, hCAF-1	g-g	hsa03018	activation
+PABPC5	pc	CNOT8	g-g	hsa03018	activation
+PABPC1	pc	CNOT8	g-g	hsa03018	activation
+PABPC1L2A	pc	CNOT8	g-g	hsa03018	activation
+PABPC3	pc	CNOT8	g-g	hsa03018	activation
+PABPC1L2B	pc	CNOT8	g-g	hsa03018	activation
+PABPC1L	pc	CNOT8	g-g	hsa03018	activation
+PABPC4	pc	CNOT8	g-g	hsa03018	activation
+PAN2, USP52	pp	PAN3	g-g	hsa03018	binding/association
+ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH				hsa03018	
+ENO2				hsa03018	
+ENO3				hsa03018	
+ENO4				hsa03018	
+PNPT1, COXPD13, DFNB70, OLD35, PNPASE, old-35				hsa03018	
+EXOSC4, RRP41, RRP41A, Rrp41p, SKI6, Ski6p, hRrp41p, p12A				hsa03018	
+EXOSC7, EAP1, RRP42, Rrp42p, hRrp42p, p8				hsa03018	
+EXOSC1, CGI-108, CSL4, Csl4p, SKI4, Ski4p, p13				hsa03018	
+EXOSC2, RRP4, Rrp4p, SHRF, hRrp4p, p7				hsa03018	
+TTC37, KIAA0372, Ski3, THES				hsa03018	
+WDR61, REC14, SKI8				hsa03018	
+EXOSC1, CGI-108, CSL4, Csl4p, SKI4, Ski4p, p13				hsa03018	
+EXOSC4, RRP41, RRP41A, Rrp41p, SKI6, Ski6p, hRrp41p, p12A				hsa03018	
+DIS3, 2810028N01Rik, EXOSC11, KIAA1008, RRP44, dis3p				hsa03018	
+SKIV2L, 170A, DDX13, HLP, SKI2, SKI2W, SKIV2, SKIV2L1, THES2				hsa03018	
+EXOSC2, RRP4, Rrp4p, SHRF, hRrp4p, p7				hsa03018	
+EXOSC7, EAP1, RRP42, Rrp42p, hRrp42p, p8				hsa03018	
+EXOSC9, PM/Scl-75, PMSCL1, RRP45, Rrp45p, p5, p6				hsa03018	
+EXOSC6, EAP4, MTR3, Mtr3p, hMtr3p, p11				hsa03018	
+EXOSC8, CIP3, EAP2, OIP2, PCH1C, RRP43, Rrp43p, bA421P113, p9				hsa03018	
+EXOSC5, RRP41B, RRP46, Rrp46p, hRrp46p, p12B				hsa03018	
+EXOSC3, CGI-102, PCH1B, RRP40, Rrp40p, bA3J107, hRrp-40, p10				hsa03018	
+C1D, LRP1, Rrp47, SUN-CoR, SUNCOR, hC1D				hsa03018	
+EXOSC10, PM-Scl, PM/Scl-100, PMSCL, PMSCL2, RRP6, Rrp6p, p2, p3, p4				hsa03018	
+MPHOSPH6, MPP, MPP-6, MPP6				hsa03018	
+PAPD7, LAK-1, LAK1, POLK, POLS, TRF4, TRF4-1, TRF41, TUTASE5				hsa03018	
+PAPD5				hsa03018	
+ZCCHC7, AIR1, HSPC086				hsa03018	
+MTREX, Dob1, KIAA0052, Mtr4, SKIV2L2, fSAP118				hsa03018	
+CNOT1, AD-005, CDC39, NOT1, NOT1H				hsa03018	
+CNOT2, CDC36, HSPC131, NOT2, NOT2H				hsa03018	
+CNOT3, LENG2, NOT3, NOT3H				hsa03018	
+CNOT4, CLONE243, NOT4, NOT4H				hsa03018	
+CNOT6L, CCR4b				hsa03018	
+CNOT6				hsa03018	
+CNOT9, CAF40, CT129, RCD-1, RCD1, RQCD1				hsa03018	
+CNOT10				hsa03018	
+DCPS, ARS, DCS1, HINT-5, HINT5, HSL1, HSPC015				hsa03018	
+DCP1B, DCP1				hsa03018	
+DCP1A				hsa03018	
+DCP2, NUDT20				hsa03018	
+LSM1, CASM, YJL124C				hsa03018	
+LSM2, C6orf28, G7B, YBL026W, snRNP				hsa03018	
+LSM3, SMX4, USS2, YLR438C				hsa03018	
+LSM4, GRP, YER112W				hsa03018	
+LSM5, YER146W				hsa03018	
+LSM6, YDR378C				hsa03018	
+LSM7, YNL147W				hsa03018	
+LSM8, NAA38				hsa03018	
+XRN1, SEP1				hsa03018	
+XRN2				hsa03018	
+DDX6, HLR2, P54, RCK				hsa03018	
+EDC3, LSM16, MRT50, YJDC, YJEFN2, hYjeF_N2-15q23				hsa03018	
+EDC4, GE1, Ge-1, HEDL5, HEDLS, RCD-8, RCD8				hsa03018	
+PATL1, Pat1b, hPat1b				hsa03018	
+PNLDC1, HsPNLDC1				hsa03018	
+PARN				hsa03018	
+HSPA9, CRP40, CSA, EVPLS, GRP-75, GRP75, HEL-S-124m, HSPA9B, MOT, MOT2, MTHSP75, PBP74, SAAN, SIDBA4				hsa03018	
+HSPD1, CPN60, GROEL, HLD4, HSP-60, HSP60, HSP65, HuCHA60, SPG13				hsa03018	
+PNPT1, COXPD13, DFNB70, OLD35, PNPASE, old-35				hsa03018	
+DHX36, DDX36, G4R1, MLEL1, RHAU				hsa03018	
+NUDT16				hsa03018	
+DIS3L, DIS3L1				hsa03018	
+PFKL, ATP-PFK, PFK-B, PFK-L				hsa03018	
+PFKM				hsa03018	
+PFKP				hsa03018	
+ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH				hsa03018	
+ENO2				hsa03018	
+ENO3				hsa03018	
+ENO4				hsa03018	

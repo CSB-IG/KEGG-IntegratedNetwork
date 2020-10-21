@@ -1,0 +1,249 @@
+DPM1, CDGIE, MPDS	gr	DPM3, CDG1O	group	hsa00510	group
+DPM1, CDGIE, MPDS	gr	DPM2, CDG1U	group	hsa00510	group
+DPM3, CDG1O	gr	DPM2, CDG1U	group	hsa00510	group
+DAD1, OST2	gr	STT3B, CDG1X, SIMP, STT3-B	group	hsa00510	group
+DAD1, OST2	gr	STT3A	group	hsa00510	group
+DDOST	gr	STT3B, CDG1X, SIMP, STT3-B	group	hsa00510	group
+RPN1	gr	STT3B, CDG1X, SIMP, STT3-B	group	hsa00510	group
+RPN2	gr	STT3B, CDG1X, SIMP, STT3-B	group	hsa00510	group
+TUSC3	gr	STT3B, CDG1X, SIMP, STT3-B	group	hsa00510	group
+DDOST	gr	STT3A	group	hsa00510	group
+RPN1	gr	STT3A	group	hsa00510	group
+RPN2	gr	STT3A	group	hsa00510	group
+TUSC3	gr	STT3A	group	hsa00510	group
+ALG14, CMS15	gr	ALG13, CDG1S, CXorf45, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W	group	hsa00510	group
+DOLPP1, LSFR2	ec	DOLK, CDG1M, DK, DK1, SEC59, TMEM15	g-g	hsa00510	compound
+ALG5, bA421P112	ec	DOLK, CDG1M, DK, DK1, SEC59, TMEM15	g-g	hsa00510	compound
+DOLK, CDG1M, DK, DK1, SEC59, TMEM15	ec	DPM1, CDGIE, MPDS	gr-g	hsa00510	compound
+DOLK, CDG1M, DK, DK1, SEC59, TMEM15	ec	DPM3, CDG1O	gr-g	hsa00510	compound
+DOLK, CDG1M, DK, DK1, SEC59, TMEM15	ec	DPM2, CDG1U	gr-g	hsa00510	compound
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	DOLK, CDG1M, DK, DK1, SEC59, TMEM15	g-g	hsa00510	compound
+DOLPP1, LSFR2	ec	ALG5, bA421P112	g-g	hsa00510	compound
+DOLPP1, LSFR2	ec	DPM1, CDGIE, MPDS	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	DPM3, CDG1O	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	DPM2, CDG1U	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	g-g	hsa00510	compound
+ALG5, bA421P112	ec	DPM1, CDGIE, MPDS	g-gr	hsa00510	compound
+ALG5, bA421P112	ec	DPM3, CDG1O	g-gr	hsa00510	compound
+ALG5, bA421P112	ec	DPM2, CDG1U	g-gr	hsa00510	compound
+ALG5, bA421P112	ec	DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	g-g	hsa00510	compound
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	DPM1, CDGIE, MPDS	gr-g	hsa00510	compound
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	DPM3, CDG1O	gr-g	hsa00510	compound
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	DPM2, CDG1U	gr-g	hsa00510	compound
+ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	ec	DPM1, CDGIE, MPDS	g-gr	hsa00510	compound
+ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	ec	DPM3, CDG1O	g-gr	hsa00510	compound
+ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	ec	DPM2, CDG1U	g-gr	hsa00510	compound
+ALG6, CDG1C	ec	ALG5, bA421P112	g-g	hsa00510	compound
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	ec	DPM1, CDGIE, MPDS	g-gr	hsa00510	compound
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	ec	DPM3, CDG1O	g-gr	hsa00510	compound
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	ec	DPM2, CDG1U	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	DAD1, OST2	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	DDOST	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	RPN1	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	RPN2	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	TUSC3	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	STT3B, CDG1X, SIMP, STT3-B	g-gr	hsa00510	compound
+DOLPP1, LSFR2	ec	STT3A	g-gr	hsa00510	compound
+ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	ec	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	g-g	hsa00510	compound
+ALG11, CDG1P, GT8	ec	ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	g-g	hsa00510	compound
+ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	ec	ALG11, CDG1P, GT8	g-g	hsa00510	compound
+ALG12, CDG1G, ECM39, PP14673, hALG12	ec	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	g-g	hsa00510	compound
+ALG6, CDG1C	ec	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	g-g	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	DAD1, OST2	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	DDOST	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	RPN1	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	RPN2	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	TUSC3	g-gr	hsa00510	compound
+ALG10B	ec	DAD1, OST2	g-gr	hsa00510	compound
+ALG10B	ec	DDOST	g-gr	hsa00510	compound
+ALG10B	ec	RPN1	g-gr	hsa00510	compound
+ALG10B	ec	RPN2	g-gr	hsa00510	compound
+ALG10B	ec	TUSC3	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	STT3B, CDG1X, SIMP, STT3-B	g-gr	hsa00510	compound
+ALG10B, ALG10, KCR1	ec	STT3A	g-gr	hsa00510	compound
+ALG10B	ec	STT3B, CDG1X, SIMP, STT3-B	g-gr	hsa00510	compound
+ALG10B	ec	STT3A	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	DAD1, OST2	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	DDOST	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	RPN1	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	RPN2	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	TUSC3	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	STT3B, CDG1X, SIMP, STT3-B	g-gr	hsa00510	compound
+MOGS, CDG2B, CWH41, DER7, GCS1	ec	STT3A	g-gr	hsa00510	compound
+GANAB, G2AN, GIIA, GLUII, PKD3	ec	MOGS, CDG2B, CWH41, DER7, GCS1	g-g	hsa00510	compound
+MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	ec	MAN1A2, MAN1B	g-g	hsa00510	compound
+MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	ec	MAN1B1	g-g	hsa00510	compound
+MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	ec	MAN1A1	g-g	hsa00510	compound
+MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	ec	MAN1C1	g-g	hsa00510	compound
+MAN2A2, MANA2X	ec	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	g-g	hsa00510	compound
+MAN2A1	ec	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	g-g	hsa00510	compound
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	ec	MAN2A2, MANA2X	g-g	hsa00510	compound
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	ec	MAN2A1	g-g	hsa00510	compound
+MGAT3, GNT-III, GNT3	ec	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	g-g	hsa00510	compound
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	ec	MGAT4B, GNT-IV, GNT-IVB	g-g	hsa00510	compound
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	ec	MGAT4A	g-g	hsa00510	compound
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	ec	MGAT4D	g-g	hsa00510	compound
+FUT8	ec	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	g-g	hsa00510	compound
+MGAT3, GNT-III, GNT3	ec	MGAT4B, GNT-IV, GNT-IVB	g-g	hsa00510	compound
+MGAT3, GNT-III, GNT3	ec	MGAT4A	g-g	hsa00510	compound
+MGAT3, GNT-III, GNT3	ec	MGAT4D	g-g	hsa00510	compound
+FUT8	ec	MGAT3, GNT-III, GNT3	g-g	hsa00510	compound
+FUT8	ec	MGAT4B, GNT-IV, GNT-IVB	g-g	hsa00510	compound
+FUT8	ec	MGAT4A	g-g	hsa00510	compound
+FUT8	ec	MGAT4D	g-g	hsa00510	compound
+FUT8	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00510	compound
+FUT8	ec	B4GALT3	g-g	hsa00510	compound
+FUT8	ec	B4GALT2	g-g	hsa00510	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	ST6GAL1, SIAT1, ST6GalI, ST6N	g-g	hsa00510	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	ST6GAL2	g-g	hsa00510	compound
+B4GALT3	ec	ST6GAL1, SIAT1, ST6GalI, ST6N	g-g	hsa00510	compound
+B4GALT2	ec	ST6GAL1, SIAT1, ST6GalI, ST6N	g-g	hsa00510	compound
+B4GALT3	ec	ST6GAL2	g-g	hsa00510	compound
+B4GALT2	ec	ST6GAL2	g-g	hsa00510	compound
+MGAT5B, GnT-IX, GnT-VB	ec	MGAT4B, GNT-IV, GNT-IVB	g-g	hsa00510	compound
+MGAT5B, GnT-IX, GnT-VB	ec	MGAT4A	g-g	hsa00510	compound
+MGAT5B, GnT-IX, GnT-VB	ec	MGAT4D	g-g	hsa00510	compound
+MGAT5	ec	MGAT4B, GNT-IV, GNT-IVB	g-g	hsa00510	compound
+MGAT5	ec	MGAT4A	g-g	hsa00510	compound
+MGAT5	ec	MGAT4D	g-g	hsa00510	compound
+MGAT5B, GnT-IX, GnT-VB	ec	MGAT4C, GNTIVH, HGNT-IV-H	g-g	hsa00510	compound
+MGAT5	ec	MGAT4C, GNTIVH, HGNT-IV-H	g-g	hsa00510	compound
+ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	ec	ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	g-g	hsa00510	NA
+ALG12, CDG1G, ECM39, PP14673, hALG12	ec	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	g-g	hsa00510	NA
+ALG8, CDG1H	ec	ALG6, CDG1C	g-g	hsa00510	NA
+ALG10B, ALG10, KCR1	ec	ALG8, CDG1H	g-g	hsa00510	NA
+ALG10B	ec	ALG8, CDG1H	g-g	hsa00510	NA
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	ALG14, CMS15	g-gr	hsa00510	compound
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	ec	ALG13, CDG1S, CXorf45, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W	g-gr	hsa00510	compound
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	ec	ALG14, CMS15	g-gr	hsa00510	compound
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	ec	ALG13, CDG1S, CXorf45, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W	g-gr	hsa00510	compound
+GANAB, G2AN, GIIA, GLUII, PKD3	ec	MAN1A2, MAN1B	g-g	hsa00510	compound
+GANAB, G2AN, GIIA, GLUII, PKD3	ec	MAN1B1	g-g	hsa00510	compound
+GANAB, G2AN, GIIA, GLUII, PKD3	ec	MAN1A1	g-g	hsa00510	compound
+GANAB, G2AN, GIIA, GLUII, PKD3	ec	MAN1C1	g-g	hsa00510	compound
+G00001	rt	ALG14, CMS15	irreversible	hsa00510	se
+ALG14, CMS15	rt	G00002	irreversible	hsa00510	ep
+C00110	rt	DPM3, CDG1O	irreversible	hsa00510	se
+C00096	rt	DPM3, CDG1O	irreversible	hsa00510	se
+DPM3, CDG1O	rt	C03862	irreversible	hsa00510	ep
+C00110	rt	DPM2, CDG1U	irreversible	hsa00510	se
+C00096	rt	DPM2, CDG1U	irreversible	hsa00510	se
+DPM2, CDG1U	rt	C03862	irreversible	hsa00510	ep
+G10599	rt	ALG10B, ALG10, KCR1	irreversible	hsa00510	se
+G10599	rt	ALG10B	irreversible	hsa00510	se
+ALG10B, ALG10, KCR1	rt	G00008	irreversible	hsa00510	ep
+ALG10B	rt	G00008	irreversible	hsa00510	ep
+G10598	rt	ALG8, CDG1H	irreversible	hsa00510	se
+ALG8, CDG1H	rt	G10599	irreversible	hsa00510	ep
+C01246	rt	ALG6, CDG1C	irreversible	hsa00510	se
+G00007	rt	ALG6, CDG1C	irreversible	hsa00510	se
+ALG6, CDG1C	rt	G10598	irreversible	hsa00510	ep
+G10596	rt	ALG12, CDG1G, ECM39, PP14673, hALG12	irreversible	hsa00510	se
+ALG12, CDG1G, ECM39, PP14673, hALG12	rt	G10597	irreversible	hsa00510	ep
+G10595	rt	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	irreversible	hsa00510	se
+ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	rt	G10596	irreversible	hsa00510	ep
+G00006	rt	ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	irreversible	hsa00510	se
+C03862	rt	ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	irreversible	hsa00510	se
+ALG3, CDG1D, CDGS4, CDGS6, D16Ertd36e, NOT56L, Not56, not	rt	G10595	irreversible	hsa00510	ep
+G00020	rt	MGAT5B, GnT-IX, GnT-VB	irreversible	hsa00510	se
+G00020	rt	MGAT5	irreversible	hsa00510	se
+MGAT5B, GnT-IX, GnT-VB	rt	G00021	irreversible	hsa00510	ep
+MGAT5	rt	G00021	irreversible	hsa00510	ep
+C00621	rt	DOLPP1, LSFR2	irreversible	hsa00510	se
+DOLPP1, LSFR2	rt	C00110	irreversible	hsa00510	ep
+G00015	rt	FUT8	irreversible	hsa00510	se
+FUT8	rt	G00016	irreversible	hsa00510	ep
+G00021	rt	MGAT4C, GNTIVH, HGNT-IV-H	irreversible	hsa00510	se
+MGAT4C, GNTIVH, HGNT-IV-H	rt	G00022	irreversible	hsa00510	ep
+G00016	rt	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	irreversible	hsa00510	se
+G00016	rt	B4GALT3	irreversible	hsa00510	se
+G00016	rt	B4GALT2	irreversible	hsa00510	se
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	rt	G00017	irreversible	hsa00510	ep
+B4GALT3	rt	G00017	irreversible	hsa00510	ep
+B4GALT2	rt	G00017	irreversible	hsa00510	ep
+G00017	rt	ST6GAL1, SIAT1, ST6GalI, ST6N	irreversible	hsa00510	se
+G00017	rt	ST6GAL2	irreversible	hsa00510	se
+ST6GAL1, SIAT1, ST6GalI, ST6N	rt	G00018	irreversible	hsa00510	ep
+ST6GAL2	rt	G00018	irreversible	hsa00510	ep
+G00015	rt	MGAT3, GNT-III, GNT3	irreversible	hsa00510	se
+MGAT3, GNT-III, GNT3	rt	G00019	irreversible	hsa00510	ep
+G00014	rt	MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	irreversible	hsa00510	se
+MGAT2, CDG2A, CDGS2, GLCNACTII, GNT-II, GNT2	rt	G00015	irreversible	hsa00510	ep
+G00013	rt	MAN2A2, MANA2X	irreversible	hsa00510	se
+G00013	rt	MAN2A1	irreversible	hsa00510	se
+MAN2A2, MANA2X	rt	G00014	irreversible	hsa00510	ep
+MAN2A1	rt	G00014	irreversible	hsa00510	ep
+G00012	rt	MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	irreversible	hsa00510	se
+MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT	rt	G00013	irreversible	hsa00510	ep
+G00011	rt	MAN1A2, MAN1B	irreversible	hsa00510	se
+G00011	rt	MAN1B1	irreversible	hsa00510	se
+G00011	rt	MAN1A1	irreversible	hsa00510	se
+G00011	rt	MAN1C1	irreversible	hsa00510	se
+MAN1A2, MAN1B	rt	G00012	irreversible	hsa00510	ep
+MAN1B1	rt	G00012	irreversible	hsa00510	ep
+MAN1A1	rt	G00012	irreversible	hsa00510	ep
+MAN1C1	rt	G00012	irreversible	hsa00510	ep
+G00015	rt	MGAT4B, GNT-IV, GNT-IVB	irreversible	hsa00510	se
+G00015	rt	MGAT4A	irreversible	hsa00510	se
+G00015	rt	MGAT4D	irreversible	hsa00510	se
+MGAT4B, GNT-IV, GNT-IVB	rt	G00020	irreversible	hsa00510	ep
+MGAT4A	rt	G00020	irreversible	hsa00510	ep
+MGAT4D	rt	G00020	irreversible	hsa00510	ep
+G00171	rt	GANAB, G2AN, GIIA, GLUII, PKD3	irreversible	hsa00510	se
+GANAB, G2AN, GIIA, GLUII, PKD3	rt	G00010	irreversible	hsa00510	ep
+G00009	rt	MOGS, CDG2B, CWH41, DER7, GCS1	irreversible	hsa00510	se
+MOGS, CDG2B, CWH41, DER7, GCS1	rt	G00171	irreversible	hsa00510	ep
+G10526	rt	ALG11, CDG1P, GT8	irreversible	hsa00510	se
+ALG11, CDG1P, GT8	rt	G00006	irreversible	hsa00510	ep
+G00008	rt	STT3B, CDG1X, SIMP, STT3-B	irreversible	hsa00510	se
+G00008	rt	STT3A	irreversible	hsa00510	se
+C03021	rt	STT3B, CDG1X, SIMP, STT3-B	irreversible	hsa00510	se
+C03021	rt	STT3A	irreversible	hsa00510	se
+STT3B, CDG1X, SIMP, STT3-B	rt	G00009	irreversible	hsa00510	ep
+STT3A	rt	G00009	irreversible	hsa00510	ep
+STT3B, CDG1X, SIMP, STT3-B	rt	C00621	irreversible	hsa00510	ep
+STT3A	rt	C00621	irreversible	hsa00510	ep
+C00110	rt	ALG5, bA421P112	irreversible	hsa00510	se
+ALG5, bA421P112	rt	C01246	irreversible	hsa00510	ep
+G10597	rt	ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	irreversible	hsa00510	se
+ALG9, CDG1L, DIBD1, GIKANIS, LOH11CR1J	rt	G00007	irreversible	hsa00510	ep
+G00005	rt	ALG11, CDG1P, GT8	irreversible	hsa00510	se
+ALG11, CDG1P, GT8	rt	G10526	irreversible	hsa00510	ep
+G00004	rt	ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	irreversible	hsa00510	se
+ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	rt	G00005	irreversible	hsa00510	ep
+G00003	rt	ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	irreversible	hsa00510	se
+ALG2, CDGIi, CMS14, CMSTA3, NET38, hALPG2	rt	G00004	irreversible	hsa00510	ep
+C00096	rt	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	irreversible	hsa00510	se
+G00002	rt	ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	irreversible	hsa00510	se
+ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1	rt	G00003	irreversible	hsa00510	ep
+G00001	rt	ALG13, CDG1S, CXorf45, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W	irreversible	hsa00510	se
+ALG13, CDG1S, CXorf45, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W	rt	G00002	irreversible	hsa00510	ep
+C00110	rt	DPM1, CDGIE, MPDS	irreversible	hsa00510	se
+C00096	rt	DPM1, CDGIE, MPDS	irreversible	hsa00510	se
+DPM1, CDGIE, MPDS	rt	C03862	irreversible	hsa00510	ep
+C00110	rt	DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	irreversible	hsa00510	se
+DPAGT1, ALG7, CDG-Ij, CDG1J, CMS13, CMSTA2, D11S366, DGPT, DPAGT, DPAGT2, G1PT, GPT, UAGT, UGAT	rt	G00001	irreversible	hsa00510	ep
+C00381	rt	DOLK, CDG1M, DK, DK1, SEC59, TMEM15	irreversible	hsa00510	se
+DOLK, CDG1M, DK, DK1, SEC59, TMEM15	rt	C00110	irreversible	hsa00510	ep
+G00008	rt	DAD1, OST2	irreversible	hsa00510	se
+G00008	rt	DDOST	irreversible	hsa00510	se
+G00008	rt	RPN1	irreversible	hsa00510	se
+G00008	rt	RPN2	irreversible	hsa00510	se
+G00008	rt	TUSC3	irreversible	hsa00510	se
+C03021	rt	DAD1, OST2	irreversible	hsa00510	se
+C03021	rt	DDOST	irreversible	hsa00510	se
+C03021	rt	RPN1	irreversible	hsa00510	se
+C03021	rt	RPN2	irreversible	hsa00510	se
+C03021	rt	TUSC3	irreversible	hsa00510	se
+DAD1, OST2	rt	G00009	irreversible	hsa00510	ep
+DDOST	rt	G00009	irreversible	hsa00510	ep
+RPN1	rt	G00009	irreversible	hsa00510	ep
+RPN2	rt	G00009	irreversible	hsa00510	ep
+TUSC3	rt	G00009	irreversible	hsa00510	ep
+DAD1, OST2	rt	C00621	irreversible	hsa00510	ep
+DDOST	rt	C00621	irreversible	hsa00510	ep
+RPN1	rt	C00621	irreversible	hsa00510	ep
+RPN2	rt	C00621	irreversible	hsa00510	ep
+TUSC3	rt	C00621	irreversible	hsa00510	ep
+G00010	rt	GANAB, G2AN, GIIA, GLUII, PKD3	irreversible	hsa00510	se
+GANAB, G2AN, GIIA, GLUII, PKD3	rt	G00011	irreversible	hsa00510	ep

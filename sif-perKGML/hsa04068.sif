@@ -1,0 +1,468 @@
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04068	activation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD3	g-g	hsa04068	activation
+TGFBR2	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04068	activation
+TGFBR2	pp	SMAD3	g-g	hsa04068	activation
+SMAD4, DPC4, JIP, MADH4, MYHRS	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04068	activation
+SMAD4, DPC4, JIP, MADH4, MYHRS	pp	SMAD3	g-g	hsa04068	activation
+C00008	pc	STK11, LKB1, PJS, hLKB1	c-g	hsa04068	activation
+C00020	pc	STK11, LKB1, PJS, hLKB1	c-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAG3	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAA1	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAA2	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAB1	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAB2	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	PRKAG1	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	FOXO6	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	FOXO1	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	FOXO3	g-g	hsa04068	activation
+STK11, LKB1, PJS, hLKB1	pp	FOXO4	g-g	hsa04068	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-g	hsa04068	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR2	g-g	hsa04068	activation
+TGFB2	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-g	hsa04068	activation
+TGFB3	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	g-g	hsa04068	activation
+TGFB2	pp	TGFBR2	g-g	hsa04068	activation
+TGFB3	pp	TGFBR2	g-g	hsa04068	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	FOXO6	g-g	hsa04068	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	FOXO1	g-g	hsa04068	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	FOXO3	g-g	hsa04068	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	FOXO4	g-g	hsa04068	activation
+PRKAG3	pp	FOXO6	g-g	hsa04068	activation
+PRKAA1	pp	FOXO6	g-g	hsa04068	activation
+PRKAA2	pp	FOXO6	g-g	hsa04068	activation
+PRKAB1	pp	FOXO6	g-g	hsa04068	activation
+PRKAB2	pp	FOXO6	g-g	hsa04068	activation
+PRKAG1	pp	FOXO6	g-g	hsa04068	activation
+PRKAG3	pp	FOXO1	g-g	hsa04068	activation
+PRKAG3	pp	FOXO3	g-g	hsa04068	activation
+PRKAG3	pp	FOXO4	g-g	hsa04068	activation
+PRKAA1	pp	FOXO1	g-g	hsa04068	activation
+PRKAA1	pp	FOXO3	g-g	hsa04068	activation
+PRKAA1	pp	FOXO4	g-g	hsa04068	activation
+PRKAA2	pp	FOXO1	g-g	hsa04068	activation
+PRKAA2	pp	FOXO3	g-g	hsa04068	activation
+PRKAA2	pp	FOXO4	g-g	hsa04068	activation
+PRKAB1	pp	FOXO1	g-g	hsa04068	activation
+PRKAB1	pp	FOXO3	g-g	hsa04068	activation
+PRKAB1	pp	FOXO4	g-g	hsa04068	activation
+PRKAB2	pp	FOXO1	g-g	hsa04068	activation
+PRKAB2	pp	FOXO3	g-g	hsa04068	activation
+PRKAB2	pp	FOXO4	g-g	hsa04068	activation
+PRKAG1	pp	FOXO1	g-g	hsa04068	activation
+PRKAG1	pp	FOXO3	g-g	hsa04068	activation
+PRKAG1	pp	FOXO4	g-g	hsa04068	activation
+IGF1, IGF-I, IGFI, MGF	pp	IGF1R, CD221, IGFIR, IGFR, JTK13	g-g	hsa04068	activation
+INS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	pp	INSR, CD220, HHF5	g-g	hsa04068	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS1, HIRS-1	g-g	hsa04068	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS4	g-g	hsa04068	activation
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	IRS2	g-g	hsa04068	activation
+INSR, CD220, HHF5	pp	IRS1, HIRS-1	g-g	hsa04068	activation
+INSR, CD220, HHF5	pp	IRS4	g-g	hsa04068	activation
+INSR, CD220, HHF5	pp	IRS2	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3CB	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3CD	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3R1	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3R2	g-g	hsa04068	activation
+IRS1, HIRS-1	pp	PIK3R3	g-g	hsa04068	activation
+IRS4	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+IRS2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+IRS4	pp	PIK3CB	g-g	hsa04068	activation
+IRS4	pp	PIK3CD	g-g	hsa04068	activation
+IRS4	pp	PIK3R1	g-g	hsa04068	activation
+IRS4	pp	PIK3R2	g-g	hsa04068	activation
+IRS4	pp	PIK3R3	g-g	hsa04068	activation
+IRS2	pp	PIK3CB	g-g	hsa04068	activation
+IRS2	pp	PIK3CD	g-g	hsa04068	activation
+IRS2	pp	PIK3R1	g-g	hsa04068	activation
+IRS2	pp	PIK3R2	g-g	hsa04068	activation
+IRS2	pp	PIK3R3	g-g	hsa04068	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pc	C05981	g-c	hsa04068	activation
+PIK3CB	pc	C05981	g-c	hsa04068	activation
+PIK3CD	pc	C05981	g-c	hsa04068	activation
+PIK3R1	pc	C05981	g-c	hsa04068	activation
+PIK3R2	pc	C05981	g-c	hsa04068	activation
+PIK3R3	pc	C05981	g-c	hsa04068	activation
+C05981	pc	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	c-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	IKBKB	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT1	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT2	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	C8orf44-SGK3	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	SGK2	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	SGK3	g-g	hsa04068	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	SGK1	g-g	hsa04068	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04068	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	IKBKB	g-g	hsa04068	activation
+AKT1	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04068	activation
+AKT2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04068	activation
+AKT1	pp	IKBKB	g-g	hsa04068	activation
+AKT2	pp	IKBKB	g-g	hsa04068	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	FOXO6	g-g	hsa04068	inhibition
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	FOXO1	g-g	hsa04068	inhibition
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	FOXO3	g-g	hsa04068	inhibition
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	FOXO4	g-g	hsa04068	inhibition
+IKBKB	pp	FOXO6	g-g	hsa04068	inhibition
+IKBKB	pp	FOXO1	g-g	hsa04068	inhibition
+IKBKB	pp	FOXO3	g-g	hsa04068	inhibition
+IKBKB	pp	FOXO4	g-g	hsa04068	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	FOXO6	g-g	hsa04068	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	FOXO1	g-g	hsa04068	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	FOXO3	g-g	hsa04068	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	FOXO4	g-g	hsa04068	inhibition
+AKT1	pp	FOXO6	g-g	hsa04068	inhibition
+AKT2	pp	FOXO6	g-g	hsa04068	inhibition
+AKT1	pp	FOXO1	g-g	hsa04068	inhibition
+AKT1	pp	FOXO3	g-g	hsa04068	inhibition
+AKT1	pp	FOXO4	g-g	hsa04068	inhibition
+AKT2	pp	FOXO1	g-g	hsa04068	inhibition
+AKT2	pp	FOXO3	g-g	hsa04068	inhibition
+AKT2	pp	FOXO4	g-g	hsa04068	inhibition
+C8orf44-SGK3	pp	FOXO6	g-g	hsa04068	inhibition
+C8orf44-SGK3	pp	FOXO1	g-g	hsa04068	inhibition
+C8orf44-SGK3	pp	FOXO3	g-g	hsa04068	inhibition
+C8orf44-SGK3	pp	FOXO4	g-g	hsa04068	inhibition
+SGK2	pp	FOXO6	g-g	hsa04068	inhibition
+SGK3	pp	FOXO6	g-g	hsa04068	inhibition
+SGK1	pp	FOXO6	g-g	hsa04068	inhibition
+SGK2	pp	FOXO1	g-g	hsa04068	inhibition
+SGK2	pp	FOXO3	g-g	hsa04068	inhibition
+SGK2	pp	FOXO4	g-g	hsa04068	inhibition
+SGK3	pp	FOXO1	g-g	hsa04068	inhibition
+SGK3	pp	FOXO3	g-g	hsa04068	inhibition
+SGK3	pp	FOXO4	g-g	hsa04068	inhibition
+SGK1	pp	FOXO1	g-g	hsa04068	inhibition
+SGK1	pp	FOXO3	g-g	hsa04068	inhibition
+SGK1	pp	FOXO4	g-g	hsa04068	inhibition
+NLK	pp	FOXO6	g-g	hsa04068	inhibition
+NLK	pp	FOXO1	g-g	hsa04068	inhibition
+NLK	pp	FOXO3	g-g	hsa04068	inhibition
+NLK	pp	FOXO4	g-g	hsa04068	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	FOXO6	g-g	hsa04068	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	FOXO1	g-g	hsa04068	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	FOXO3	g-g	hsa04068	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	FOXO4	g-g	hsa04068	inhibition
+TPTEP2-CSNK1E, LOC400927-CSNK1E	pp	FOXO6	g-g	hsa04068	activation
+TPTEP2-CSNK1E, LOC400927-CSNK1E	pp	FOXO1	g-g	hsa04068	activation
+TPTEP2-CSNK1E, LOC400927-CSNK1E	pp	FOXO3	g-g	hsa04068	activation
+TPTEP2-CSNK1E, LOC400927-CSNK1E	pp	FOXO4	g-g	hsa04068	activation
+CSNK1E	pp	FOXO6	g-g	hsa04068	activation
+CSNK1E	pp	FOXO1	g-g	hsa04068	activation
+CSNK1E	pp	FOXO3	g-g	hsa04068	activation
+CSNK1E	pp	FOXO4	g-g	hsa04068	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	FOXO6	g-g	hsa04068	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	FOXO1	g-g	hsa04068	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	FOXO3	g-g	hsa04068	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	FOXO4	g-g	hsa04068	activation
+MAPK11	pp	FOXO6	g-g	hsa04068	activation
+MAPK13	pp	FOXO6	g-g	hsa04068	activation
+MAPK12	pp	FOXO6	g-g	hsa04068	activation
+MAPK11	pp	FOXO1	g-g	hsa04068	activation
+MAPK11	pp	FOXO3	g-g	hsa04068	activation
+MAPK11	pp	FOXO4	g-g	hsa04068	activation
+MAPK13	pp	FOXO1	g-g	hsa04068	activation
+MAPK13	pp	FOXO3	g-g	hsa04068	activation
+MAPK13	pp	FOXO4	g-g	hsa04068	activation
+MAPK12	pp	FOXO1	g-g	hsa04068	activation
+MAPK12	pp	FOXO3	g-g	hsa04068	activation
+MAPK12	pp	FOXO4	g-g	hsa04068	activation
+C00025	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13	c-g	hsa04068	activation
+EGF, HOMG4, URG	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04068	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa04068	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	g-g	hsa04068	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS2	g-g	hsa04068	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04068	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	pp	KRAS	g-g	hsa04068	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	pp	NRAS	g-g	hsa04068	activation
+SOS2	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04068	activation
+SOS2	pp	KRAS	g-g	hsa04068	activation
+SOS2	pp	NRAS	g-g	hsa04068	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	ARAF, A-RAF, ARAF1, PKS2, RAFA1	g-g	hsa04068	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	RAF1	g-g	hsa04068	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	BRAF	g-g	hsa04068	activation
+KRAS	pp	ARAF, A-RAF, ARAF1, PKS2, RAFA1	g-g	hsa04068	activation
+NRAS	pp	ARAF, A-RAF, ARAF1, PKS2, RAFA1	g-g	hsa04068	activation
+KRAS	pp	RAF1	g-g	hsa04068	activation
+KRAS	pp	BRAF	g-g	hsa04068	activation
+NRAS	pp	RAF1	g-g	hsa04068	activation
+NRAS	pp	BRAF	g-g	hsa04068	activation
+ARAF, A-RAF, ARAF1, PKS2, RAFA1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04068	activation
+ARAF, A-RAF, ARAF1, PKS2, RAFA1	pp	MAP2K2	g-g	hsa04068	activation
+RAF1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04068	activation
+BRAF	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04068	activation
+RAF1	pp	MAP2K2	g-g	hsa04068	activation
+BRAF	pp	MAP2K2	g-g	hsa04068	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04068	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04068	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04068	activation
+MAP2K2	pp	MAPK3	g-g	hsa04068	activation
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	FOXO6	g-g	hsa04068	activation
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	FOXO1	g-g	hsa04068	activation
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	FOXO3	g-g	hsa04068	activation
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	FOXO4	g-g	hsa04068	activation
+MAPK9	pp	FOXO6	g-g	hsa04068	activation
+MAPK10	pp	FOXO6	g-g	hsa04068	activation
+MAPK9	pp	FOXO1	g-g	hsa04068	activation
+MAPK9	pp	FOXO3	g-g	hsa04068	activation
+MAPK9	pp	FOXO4	g-g	hsa04068	activation
+MAPK10	pp	FOXO1	g-g	hsa04068	activation
+MAPK10	pp	FOXO3	g-g	hsa04068	activation
+MAPK10	pp	FOXO4	g-g	hsa04068	activation
+STK4, KRS2, MST1, YSK3	pp	FOXO6	g-g	hsa04068	activation
+STK4, KRS2, MST1, YSK3	pp	FOXO1	g-g	hsa04068	activation
+STK4, KRS2, MST1, YSK3	pp	FOXO3	g-g	hsa04068	activation
+STK4, KRS2, MST1, YSK3	pp	FOXO4	g-g	hsa04068	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04068	inhibition
+IKBKB	pp	PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	g-g	hsa04068	inhibition
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	pc	C05981	g-c	hsa04068	inhibition
+FOXO6	pd	CCNB3	g-g	hsa04068	expression
+FOXO6	pd	CCNB1	g-g	hsa04068	expression
+FOXO6	pd	CCNB2	g-g	hsa04068	expression
+FOXO1	pd	CCNB3	g-g	hsa04068	expression
+FOXO3	pd	CCNB3	g-g	hsa04068	expression
+FOXO4	pd	CCNB3	g-g	hsa04068	expression
+FOXO1	pd	CCNB1	g-g	hsa04068	expression
+FOXO1	pd	CCNB2	g-g	hsa04068	expression
+FOXO3	pd	CCNB1	g-g	hsa04068	expression
+FOXO3	pd	CCNB2	g-g	hsa04068	expression
+FOXO4	pd	CCNB1	g-g	hsa04068	expression
+FOXO4	pd	CCNB2	g-g	hsa04068	expression
+FOXO6	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04068	expression
+FOXO6	pd	CCND2	g-g	hsa04068	expression
+FOXO1	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04068	expression
+FOXO3	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04068	expression
+FOXO4	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04068	expression
+FOXO1	pd	CCND2	g-g	hsa04068	expression
+FOXO3	pd	CCND2	g-g	hsa04068	expression
+FOXO4	pd	CCND2	g-g	hsa04068	expression
+FOXO6	pd	CCNG2	g-g	hsa04068	expression
+FOXO1	pd	CCNG2	g-g	hsa04068	expression
+FOXO3	pd	CCNG2	g-g	hsa04068	expression
+FOXO4	pd	CCNG2	g-g	hsa04068	expression
+FOXO6	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04068	expression
+FOXO1	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04068	expression
+FOXO3	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04068	expression
+FOXO4	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04068	expression
+FOXO6	pd	CDKN2D, INK4D, p19, p19-INK4D	g-g	hsa04068	expression
+FOXO1	pd	CDKN2D, INK4D, p19, p19-INK4D	g-g	hsa04068	expression
+FOXO3	pd	CDKN2D, INK4D, p19, p19-INK4D	g-g	hsa04068	expression
+FOXO4	pd	CDKN2D, INK4D, p19, p19-INK4D	g-g	hsa04068	expression
+FOXO6	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa04068	expression
+FOXO1	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa04068	expression
+FOXO3	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa04068	expression
+FOXO4	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa04068	expression
+FOXO6	pd	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	g-g	hsa04068	expression
+FOXO1	pd	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	g-g	hsa04068	expression
+FOXO3	pd	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	g-g	hsa04068	expression
+FOXO4	pd	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	g-g	hsa04068	expression
+FOXO6	pd	RBL2, P130, Rb2	g-g	hsa04068	expression
+FOXO1	pd	RBL2, P130, Rb2	g-g	hsa04068	expression
+FOXO3	pd	RBL2, P130, Rb2	g-g	hsa04068	expression
+FOXO4	pd	RBL2, P130, Rb2	g-g	hsa04068	expression
+FOXO6	pd	PLK4, MCCRP2, SAK, STK18	g-g	hsa04068	expression
+FOXO6	pd	PLK2	g-g	hsa04068	expression
+FOXO6	pd	PLK3	g-g	hsa04068	expression
+FOXO6	pd	PLK1	g-g	hsa04068	expression
+FOXO1	pd	PLK4, MCCRP2, SAK, STK18	g-g	hsa04068	expression
+FOXO3	pd	PLK4, MCCRP2, SAK, STK18	g-g	hsa04068	expression
+FOXO4	pd	PLK4, MCCRP2, SAK, STK18	g-g	hsa04068	expression
+FOXO1	pd	PLK2	g-g	hsa04068	expression
+FOXO1	pd	PLK3	g-g	hsa04068	expression
+FOXO1	pd	PLK1	g-g	hsa04068	expression
+FOXO3	pd	PLK2	g-g	hsa04068	expression
+FOXO3	pd	PLK3	g-g	hsa04068	expression
+FOXO3	pd	PLK1	g-g	hsa04068	expression
+FOXO4	pd	PLK2	g-g	hsa04068	expression
+FOXO4	pd	PLK3	g-g	hsa04068	expression
+FOXO4	pd	PLK1	g-g	hsa04068	expression
+FOXO6	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO6	pd	GADD45A	g-g	hsa04068	expression
+FOXO6	pd	GADD45B	g-g	hsa04068	expression
+FOXO1	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO3	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO4	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO1	pd	GADD45A	g-g	hsa04068	expression
+FOXO1	pd	GADD45B	g-g	hsa04068	expression
+FOXO3	pd	GADD45A	g-g	hsa04068	expression
+FOXO3	pd	GADD45B	g-g	hsa04068	expression
+FOXO4	pd	GADD45A	g-g	hsa04068	expression
+FOXO4	pd	GADD45B	g-g	hsa04068	expression
+FOXO6	pd	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	g-g	hsa04068	expression
+FOXO1	pd	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	g-g	hsa04068	expression
+FOXO3	pd	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	g-g	hsa04068	expression
+FOXO4	pd	FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	g-g	hsa04068	expression
+FOXO6	pd	BCL2L11, BAM, BIM, BOD	g-g	hsa04068	expression
+FOXO1	pd	BCL2L11, BAM, BIM, BOD	g-g	hsa04068	expression
+FOXO3	pd	BCL2L11, BAM, BIM, BOD	g-g	hsa04068	expression
+FOXO4	pd	BCL2L11, BAM, BIM, BOD	g-g	hsa04068	expression
+FOXO6	pd	TNFSF10, APO2L, Apo-2L, CD253, TL2, TNLG6A, TRAIL	g-g	hsa04068	expression
+FOXO1	pd	TNFSF10, APO2L, Apo-2L, CD253, TL2, TNLG6A, TRAIL	g-g	hsa04068	expression
+FOXO3	pd	TNFSF10, APO2L, Apo-2L, CD253, TL2, TNLG6A, TRAIL	g-g	hsa04068	expression
+FOXO4	pd	TNFSF10, APO2L, Apo-2L, CD253, TL2, TNLG6A, TRAIL	g-g	hsa04068	expression
+FOXO6	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO1	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO3	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO4	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO6	pd	BNIP3, NIP3	g-g	hsa04068	expression
+FOXO1	pd	BNIP3, NIP3	g-g	hsa04068	expression
+FOXO3	pd	BNIP3, NIP3	g-g	hsa04068	expression
+FOXO4	pd	BNIP3, NIP3	g-g	hsa04068	expression
+FOXO6	pd	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04068	expression
+FOXO1	pd	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04068	expression
+FOXO3	pd	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04068	expression
+FOXO4	pd	ATG12, APG12, APG12L, FBR93, HAPG12	g-g	hsa04068	expression
+FOXO6	pd	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04068	expression
+FOXO6	pd	GABARAPL2	g-g	hsa04068	expression
+FOXO6	pd	GABARAPL1	g-g	hsa04068	expression
+FOXO1	pd	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04068	expression
+FOXO3	pd	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04068	expression
+FOXO4	pd	GABARAP, ATG8A, GABARAP-a, MM46	g-g	hsa04068	expression
+FOXO1	pd	GABARAPL2	g-g	hsa04068	expression
+FOXO1	pd	GABARAPL1	g-g	hsa04068	expression
+FOXO3	pd	GABARAPL2	g-g	hsa04068	expression
+FOXO3	pd	GABARAPL1	g-g	hsa04068	expression
+FOXO4	pd	GABARAPL2	g-g	hsa04068	expression
+FOXO4	pd	GABARAPL1	g-g	hsa04068	expression
+FOXO6	pd	CAT	g-g	hsa04068	expression
+FOXO1	pd	CAT	g-g	hsa04068	expression
+FOXO3	pd	CAT	g-g	hsa04068	expression
+FOXO4	pd	CAT	g-g	hsa04068	expression
+FOXO6	pd	SOD2, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD	g-g	hsa04068	expression
+FOXO1	pd	SOD2, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD	g-g	hsa04068	expression
+FOXO3	pd	SOD2, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD	g-g	hsa04068	expression
+FOXO4	pd	SOD2, IPO-B, IPOB, MNSOD, MVCD6, Mn-SOD	g-g	hsa04068	expression
+FOXO6	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO6	pd	GADD45A	g-g	hsa04068	expression
+FOXO6	pd	GADD45B	g-g	hsa04068	expression
+FOXO1	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO3	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO4	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04068	expression
+FOXO1	pd	GADD45A	g-g	hsa04068	expression
+FOXO1	pd	GADD45B	g-g	hsa04068	expression
+FOXO3	pd	GADD45A	g-g	hsa04068	expression
+FOXO3	pd	GADD45B	g-g	hsa04068	expression
+FOXO4	pd	GADD45A	g-g	hsa04068	expression
+FOXO4	pd	GADD45B	g-g	hsa04068	expression
+FOXO6	pd	ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	g-g	hsa04068	expression
+FOXO1	pd	ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	g-g	hsa04068	expression
+FOXO3	pd	ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	g-g	hsa04068	expression
+FOXO4	pd	ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	g-g	hsa04068	expression
+FOXO6	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	g-g	hsa04068	expression
+FOXO6	pd	PCK2	g-g	hsa04068	expression
+FOXO1	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	g-g	hsa04068	expression
+FOXO3	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	g-g	hsa04068	expression
+FOXO4	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	g-g	hsa04068	expression
+FOXO1	pd	PCK2	g-g	hsa04068	expression
+FOXO3	pd	PCK2	g-g	hsa04068	expression
+FOXO4	pd	PCK2	g-g	hsa04068	expression
+FOXO6	pd	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa04068	expression
+FOXO6	pd	G6PC2	g-g	hsa04068	expression
+FOXO6	pd	G6PC3	g-g	hsa04068	expression
+FOXO1	pd	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa04068	expression
+FOXO3	pd	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa04068	expression
+FOXO4	pd	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa04068	expression
+FOXO1	pd	G6PC2	g-g	hsa04068	expression
+FOXO1	pd	G6PC3	g-g	hsa04068	expression
+FOXO3	pd	G6PC2	g-g	hsa04068	expression
+FOXO3	pd	G6PC3	g-g	hsa04068	expression
+FOXO4	pd	G6PC2	g-g	hsa04068	expression
+FOXO4	pd	G6PC3	g-g	hsa04068	expression
+FOXO6	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO1	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO3	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO4	pd	BCL6, BCL5, BCL6A, LAZ3, ZBTB27, ZNF51	g-g	hsa04068	expression
+FOXO6	pd	IL7R, CD127, CDW127, IL-7R-alpha, IL7RA, ILRA	g-g	hsa04068	expression
+FOXO1	pd	IL7R, CD127, CDW127, IL-7R-alpha, IL7RA, ILRA	g-g	hsa04068	expression
+FOXO3	pd	IL7R, CD127, CDW127, IL-7R-alpha, IL7RA, ILRA	g-g	hsa04068	expression
+FOXO4	pd	IL7R, CD127, CDW127, IL-7R-alpha, IL7RA, ILRA	g-g	hsa04068	expression
+FOXO6	pd	KLF2, LKLF	g-g	hsa04068	expression
+FOXO1	pd	KLF2, LKLF	g-g	hsa04068	expression
+FOXO3	pd	KLF2, LKLF	g-g	hsa04068	expression
+FOXO4	pd	KLF2, LKLF	g-g	hsa04068	expression
+FOXO6	pd	S1PR1, CD363, CHEDG1, D1S3362, ECGF1, EDG-1, EDG1, S1P1	g-g	hsa04068	expression
+FOXO6	pd	S1PR4	g-g	hsa04068	expression
+FOXO1	pd	S1PR1, CD363, CHEDG1, D1S3362, ECGF1, EDG-1, EDG1, S1P1	g-g	hsa04068	expression
+FOXO3	pd	S1PR1, CD363, CHEDG1, D1S3362, ECGF1, EDG-1, EDG1, S1P1	g-g	hsa04068	expression
+FOXO4	pd	S1PR1, CD363, CHEDG1, D1S3362, ECGF1, EDG-1, EDG1, S1P1	g-g	hsa04068	expression
+FOXO1	pd	S1PR4	g-g	hsa04068	expression
+FOXO3	pd	S1PR4	g-g	hsa04068	expression
+FOXO4	pd	S1PR4	g-g	hsa04068	expression
+FOXO6	pd	RAG1, RAG-1, RNF74	g-g	hsa04068	expression
+FOXO6	pd	RAG2	g-g	hsa04068	expression
+FOXO1	pd	RAG1, RAG-1, RNF74	g-g	hsa04068	expression
+FOXO3	pd	RAG1, RAG-1, RNF74	g-g	hsa04068	expression
+FOXO4	pd	RAG1, RAG-1, RNF74	g-g	hsa04068	expression
+FOXO1	pd	RAG2	g-g	hsa04068	expression
+FOXO3	pd	RAG2	g-g	hsa04068	expression
+FOXO4	pd	RAG2	g-g	hsa04068	expression
+FOXO6	pd	FBXO32, Fbx32, MAFbx	g-g	hsa04068	expression
+FOXO6	pd	FBXO25	g-g	hsa04068	expression
+FOXO1	pd	FBXO32, Fbx32, MAFbx	g-g	hsa04068	expression
+FOXO3	pd	FBXO32, Fbx32, MAFbx	g-g	hsa04068	expression
+FOXO4	pd	FBXO32, Fbx32, MAFbx	g-g	hsa04068	expression
+FOXO1	pd	FBXO25	g-g	hsa04068	expression
+FOXO3	pd	FBXO25	g-g	hsa04068	expression
+FOXO4	pd	FBXO25	g-g	hsa04068	expression
+IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	pp	STAT3, ADMIO, ADMIO1, APRF, HIES	g-g	hsa04068	activation
+IL10, CSIF, GVHDS, IL-10, IL10A, TGIF	pp	STAT3, ADMIO, ADMIO1, APRF, HIES	g-g	hsa04068	activation
+STAT3, ADMIO, ADMIO1, APRF, HIES	pp	FOXO6	g-g	hsa04068	activation
+STAT3, ADMIO, ADMIO1, APRF, HIES	pp	FOXO1	g-g	hsa04068	activation
+STAT3, ADMIO, ADMIO1, APRF, HIES	pp	FOXO3	g-g	hsa04068	activation
+STAT3, ADMIO, ADMIO1, APRF, HIES	pp	FOXO4	g-g	hsa04068	activation
+PRMT1, ANM1, HCP1, HRMT1L2, IR1B4	pp	FOXO6	g-g	hsa04068	activation
+PRMT1, ANM1, HCP1, HRMT1L2, IR1B4	pp	FOXO1	g-g	hsa04068	activation
+PRMT1, ANM1, HCP1, HRMT1L2, IR1B4	pp	FOXO3	g-g	hsa04068	activation
+PRMT1, ANM1, HCP1, HRMT1L2, IR1B4	pp	FOXO4	g-g	hsa04068	activation
+SETD7, KMT7, SET7, SET7/9, SET9	pp	FOXO6	g-g	hsa04068	inhibition
+SETD7, KMT7, SET7, SET7/9, SET9	pp	FOXO1	g-g	hsa04068	inhibition
+SETD7, KMT7, SET7, SET7/9, SET9	pp	FOXO3	g-g	hsa04068	inhibition
+SETD7, KMT7, SET7, SET7/9, SET9	pp	FOXO4	g-g	hsa04068	inhibition
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13	pp	HOMER3, HOMER-3, VESL3	g-g	hsa04068	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13	pp	HOMER2	g-g	hsa04068	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13	pp	HOMER1	g-g	hsa04068	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13	pp	AGAP2, CENTG1, GGAP2, PIKE	g-g	hsa04068	binding/association
+HOMER3, HOMER-3, VESL3	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+HOMER3, HOMER-3, VESL3	pp	PIK3CB	g-g	hsa04068	activation
+HOMER3, HOMER-3, VESL3	pp	PIK3CD	g-g	hsa04068	activation
+HOMER3, HOMER-3, VESL3	pp	PIK3R1	g-g	hsa04068	activation
+HOMER3, HOMER-3, VESL3	pp	PIK3R2	g-g	hsa04068	activation
+HOMER3, HOMER-3, VESL3	pp	PIK3R3	g-g	hsa04068	activation
+HOMER2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+HOMER1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+HOMER2	pp	PIK3CB	g-g	hsa04068	activation
+HOMER2	pp	PIK3CD	g-g	hsa04068	activation
+HOMER2	pp	PIK3R1	g-g	hsa04068	activation
+HOMER2	pp	PIK3R2	g-g	hsa04068	activation
+HOMER2	pp	PIK3R3	g-g	hsa04068	activation
+HOMER1	pp	PIK3CB	g-g	hsa04068	activation
+HOMER1	pp	PIK3CD	g-g	hsa04068	activation
+HOMER1	pp	PIK3R1	g-g	hsa04068	activation
+HOMER1	pp	PIK3R2	g-g	hsa04068	activation
+HOMER1	pp	PIK3R3	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3CB	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3CD	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3R1	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3R2	g-g	hsa04068	activation
+AGAP2, CENTG1, GGAP2, PIKE	pp	PIK3R3	g-g	hsa04068	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FOXO6	g-g	hsa04068	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FOXO1	g-g	hsa04068	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FOXO3	g-g	hsa04068	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FOXO4	g-g	hsa04068	inhibition
+MAPK3	pp	FOXO6	g-g	hsa04068	inhibition
+MAPK3	pp	FOXO1	g-g	hsa04068	inhibition
+MAPK3	pp	FOXO3	g-g	hsa04068	inhibition
+MAPK3	pp	FOXO4	g-g	hsa04068	inhibition
+USP7, HAUSP, TEF1	pp	FOXO6	g-g	hsa04068	inhibition
+USP7, HAUSP, TEF1	pp	FOXO1	g-g	hsa04068	inhibition
+USP7, HAUSP, TEF1	pp	FOXO3	g-g	hsa04068	inhibition
+USP7, HAUSP, TEF1	pp	FOXO4	g-g	hsa04068	inhibition
+C00031				hsa04068	
+SKP2, FBL1, FBXL1, FLB1, p45				hsa04068	
+MDM2, ACTFS, HDMX, hdm2				hsa04068	
+CREBBP, CBP, KAT3A, RSTS, RSTS1				hsa04068	
+EP300				hsa04068	
+SIRT1, SIR2, SIR2L1, SIR2alpha				hsa04068	
+FOXG1, BF1, BF2, FHKL3, FKH2, FKHL1, FKHL2, FKHL3, FKHL4, FOXG1A, FOXG1B, FOXG1C, HBF-1, HBF-2, HBF-3, HBF-G2, HBF2, HFK1, HFK2, HFK3, KHL2, QIN				hsa04068	
+SLC2A4, GLUT4				hsa04068	

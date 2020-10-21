@@ -1,0 +1,483 @@
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	gr	RXRA, NR2B1	group	hsa03320	group
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	gr	RXRB	group	hsa03320	group
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	gr	RXRG	group	hsa03320	group
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	gr	RXRA, NR2B1	group	hsa03320	group
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	gr	RXRB	group	hsa03320	group
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	gr	RXRG	group	hsa03320	group
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	gr	RXRA, NR2B1	group	hsa03320	group
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	gr	RXRB	group	hsa03320	group
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	gr	RXRG	group	hsa03320	group
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	HMGCS2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	HMGCS1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	HMGCS2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	HMGCS1	gr-g	hsa03320	expression
+RXRB	pd	HMGCS2	gr-g	hsa03320	expression
+RXRG	pd	HMGCS2	gr-g	hsa03320	expression
+RXRB	pd	HMGCS1	gr-g	hsa03320	expression
+RXRG	pd	HMGCS1	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	APOA1, apo(a)	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	APOA1, apo(a)	gr-g	hsa03320	expression
+RXRB	pd	APOA1, apo(a)	gr-g	hsa03320	expression
+RXRG	pd	APOA1, apo(a)	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	APOA2, Apo-AII, ApoA-II, apoAII	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	APOA2, Apo-AII, ApoA-II, apoAII	gr-g	hsa03320	expression
+RXRB	pd	APOA2, Apo-AII, ApoA-II, apoAII	gr-g	hsa03320	expression
+RXRG	pd	APOA2, Apo-AII, ApoA-II, apoAII	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	APOC3, APOCIII	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	APOC3, APOCIII	gr-g	hsa03320	expression
+RXRB	pd	APOC3, APOCIII	gr-g	hsa03320	expression
+RXRG	pd	APOC3, APOCIII	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	APOA5, APOAV, RAP3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	APOA5, APOAV, RAP3	gr-g	hsa03320	expression
+RXRB	pd	APOA5, APOAV, RAP3	gr-g	hsa03320	expression
+RXRG	pd	APOA5, APOAV, RAP3	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	PLTP, BPIFE, HDLCQ9	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PLTP, BPIFE, HDLCQ9	gr-g	hsa03320	expression
+RXRB	pd	PLTP, BPIFE, HDLCQ9	gr-g	hsa03320	expression
+RXRG	pd	PLTP, BPIFE, HDLCQ9	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ME1, HUMNDME, MES	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ME3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ME1, HUMNDME, MES	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ME3	gr-g	hsa03320	expression
+RXRB	pd	ME1, HUMNDME, MES	gr-g	hsa03320	expression
+RXRG	pd	ME1, HUMNDME, MES	gr-g	hsa03320	expression
+RXRB	pd	ME3	gr-g	hsa03320	expression
+RXRG	pd	ME3	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SCD5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SCD5	gr-g	hsa03320	expression
+RXRB	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRG	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRB	pd	SCD5	gr-g	hsa03320	expression
+RXRG	pd	SCD5	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	gr-g	hsa03320	expression
+RXRB	pd	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	gr-g	hsa03320	expression
+RXRG	pd	FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CYP7A1, CP7A, CYP7, CYPVII	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CYP7A1, CP7A, CYP7, CYPVII	gr-g	hsa03320	expression
+RXRB	pd	CYP7A1, CP7A, CYP7, CYPVII	gr-g	hsa03320	expression
+RXRG	pd	CYP7A1, CP7A, CYP7, CYPVII	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CYP8B1, CP8B, CYP12	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CYP8B1, CP8B, CYP12	gr-g	hsa03320	expression
+RXRB	pd	CYP8B1, CP8B, CYP12	gr-g	hsa03320	expression
+RXRG	pd	CYP8B1, CP8B, CYP12	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRB	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRG	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	DBI, ACBD1, ACBP, CCK-RP, EP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	DBI, ACBD1, ACBP, CCK-RP, EP	gr-g	hsa03320	expression
+RXRB	pd	DBI, ACBD1, ACBP, CCK-RP, EP	gr-g	hsa03320	expression
+RXRG	pd	DBI, ACBD1, ACBP, CCK-RP, EP	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP1, FABPL, L-FABP	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP4	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP3	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP5	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP6	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	FABP7	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP1, FABPL, L-FABP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP7	gr-g	hsa03320	expression
+RXRB	pd	FABP1, FABPL, L-FABP	gr-g	hsa03320	expression
+RXRG	pd	FABP1, FABPL, L-FABP	gr-g	hsa03320	expression
+RXRB	pd	FABP4	gr-g	hsa03320	expression
+RXRB	pd	FABP2	gr-g	hsa03320	expression
+RXRB	pd	FABP3	gr-g	hsa03320	expression
+RXRB	pd	FABP5	gr-g	hsa03320	expression
+RXRB	pd	FABP6	gr-g	hsa03320	expression
+RXRB	pd	FABP7	gr-g	hsa03320	expression
+RXRG	pd	FABP4	gr-g	hsa03320	expression
+RXRG	pd	FABP2	gr-g	hsa03320	expression
+RXRG	pd	FABP3	gr-g	hsa03320	expression
+RXRG	pd	FABP5	gr-g	hsa03320	expression
+RXRG	pd	FABP6	gr-g	hsa03320	expression
+RXRG	pd	FABP7	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SLC27A5	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SLC27A2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SLC27A6	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SLC27A1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A1	gr-g	hsa03320	expression
+RXRB	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRG	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRB	pd	SLC27A5	gr-g	hsa03320	expression
+RXRB	pd	SLC27A2	gr-g	hsa03320	expression
+RXRB	pd	SLC27A6	gr-g	hsa03320	expression
+RXRB	pd	SLC27A1	gr-g	hsa03320	expression
+RXRG	pd	SLC27A5	gr-g	hsa03320	expression
+RXRG	pd	SLC27A2	gr-g	hsa03320	expression
+RXRG	pd	SLC27A6	gr-g	hsa03320	expression
+RXRG	pd	SLC27A1	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRB	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRG	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSL3	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSL4	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSBG1	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSL6	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSL5	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACSBG2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSBG1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSBG2	gr-g	hsa03320	expression
+RXRB	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRG	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRB	pd	ACSL3	gr-g	hsa03320	expression
+RXRB	pd	ACSL4	gr-g	hsa03320	expression
+RXRB	pd	ACSBG1	gr-g	hsa03320	expression
+RXRB	pd	ACSL6	gr-g	hsa03320	expression
+RXRB	pd	ACSL5	gr-g	hsa03320	expression
+RXRB	pd	ACSBG2	gr-g	hsa03320	expression
+RXRG	pd	ACSL3	gr-g	hsa03320	expression
+RXRG	pd	ACSL4	gr-g	hsa03320	expression
+RXRG	pd	ACSBG1	gr-g	hsa03320	expression
+RXRG	pd	ACSL6	gr-g	hsa03320	expression
+RXRG	pd	ACSL5	gr-g	hsa03320	expression
+RXRG	pd	ACSBG2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	gr-g	hsa03320	expression
+RXRB	pd	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	gr-g	hsa03320	expression
+RXRG	pd	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CYP4A22	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CYP4A22	gr-g	hsa03320	expression
+RXRB	pd	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	gr-g	hsa03320	expression
+RXRG	pd	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	gr-g	hsa03320	expression
+RXRB	pd	CYP4A22	gr-g	hsa03320	expression
+RXRG	pd	CYP4A22	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACAA1, ACAA, PTHIO, THIO	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACAA1, ACAA, PTHIO, THIO	gr-g	hsa03320	expression
+RXRB	pd	ACAA1, ACAA, PTHIO, THIO	gr-g	hsa03320	expression
+RXRG	pd	ACAA1, ACAA, PTHIO, THIO	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX	gr-g	hsa03320	expression
+RXRB	pd	SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX	gr-g	hsa03320	expression
+RXRG	pd	SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACOX2	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACOX3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX3	gr-g	hsa03320	expression
+RXRB	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRG	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRB	pd	ACOX2	gr-g	hsa03320	expression
+RXRB	pd	ACOX3	gr-g	hsa03320	expression
+RXRG	pd	ACOX2	gr-g	hsa03320	expression
+RXRG	pd	ACOX3	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CPT1A	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CPT1B	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1A	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1B	gr-g	hsa03320	expression
+RXRB	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRG	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRB	pd	CPT1A	gr-g	hsa03320	expression
+RXRB	pd	CPT1B	gr-g	hsa03320	expression
+RXRG	pd	CPT1A	gr-g	hsa03320	expression
+RXRG	pd	CPT1B	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	CPT2, CPT1, CPTASE, IIAE4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT2, CPT1, CPTASE, IIAE4	gr-g	hsa03320	expression
+RXRB	pd	CPT2, CPT1, CPTASE, IIAE4	gr-g	hsa03320	expression
+RXRG	pd	CPT2, CPT1, CPTASE, IIAE4	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ACADM, ACAD1, MCAD, MCADH	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACADM, ACAD1, MCAD, MCADH	gr-g	hsa03320	expression
+RXRB	pd	ACADM, ACAD1, MCAD, MCADH	gr-g	hsa03320	expression
+RXRG	pd	ACADM, ACAD1, MCAD, MCADH	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRB	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRG	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+PPARA, NR1C1, PPAR, PPARalpha, hPPAR	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRB	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRG	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP3, FABP11, H-FABP, M-FABP, MDGI, O-FABP	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP4	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP1	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP2	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP5	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP6	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	FABP7	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP3, FABP11, H-FABP, M-FABP, MDGI, O-FABP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP7	gr-g	hsa03320	expression
+RXRB	pd	FABP3, FABP11, H-FABP, M-FABP, MDGI, O-FABP	gr-g	hsa03320	expression
+RXRG	pd	FABP3, FABP11, H-FABP, M-FABP, MDGI, O-FABP	gr-g	hsa03320	expression
+RXRB	pd	FABP4	gr-g	hsa03320	expression
+RXRB	pd	FABP1	gr-g	hsa03320	expression
+RXRB	pd	FABP2	gr-g	hsa03320	expression
+RXRB	pd	FABP5	gr-g	hsa03320	expression
+RXRB	pd	FABP6	gr-g	hsa03320	expression
+RXRB	pd	FABP7	gr-g	hsa03320	expression
+RXRG	pd	FABP4	gr-g	hsa03320	expression
+RXRG	pd	FABP1	gr-g	hsa03320	expression
+RXRG	pd	FABP2	gr-g	hsa03320	expression
+RXRG	pd	FABP5	gr-g	hsa03320	expression
+RXRG	pd	FABP6	gr-g	hsa03320	expression
+RXRG	pd	FABP7	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	CPT1A	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	CPT1B	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1A	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1B	gr-g	hsa03320	expression
+RXRB	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRG	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRB	pd	CPT1A	gr-g	hsa03320	expression
+RXRB	pd	CPT1B	gr-g	hsa03320	expression
+RXRG	pd	CPT1A	gr-g	hsa03320	expression
+RXRG	pd	CPT1B	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ACADL, ACAD4, LCAD	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACADL, ACAD4, LCAD	gr-g	hsa03320	expression
+RXRB	pd	ACADL, ACAD4, LCAD	gr-g	hsa03320	expression
+RXRG	pd	ACADL, ACAD4, LCAD	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRB	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRG	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ACOX2	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ACOX3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACOX3	gr-g	hsa03320	expression
+RXRB	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRG	pd	ACOX1, ACOX, PALMCOX, SCOX	gr-g	hsa03320	expression
+RXRB	pd	ACOX2	gr-g	hsa03320	expression
+RXRB	pd	ACOX3	gr-g	hsa03320	expression
+RXRG	pd	ACOX2	gr-g	hsa03320	expression
+RXRG	pd	ACOX3	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRB	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRG	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRB	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRG	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	gr-g	hsa03320	expression
+RXRB	pd	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	gr-g	hsa03320	expression
+RXRG	pd	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	gr-g	hsa03320	expression
+RXRB	pd	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	gr-g	hsa03320	expression
+RXRG	pd	PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	gr-g	hsa03320	expression
+PPARD, FAAR, NR1C2, NUC1, NUCI, NUCII, PPARB	pd	UBC, HMG20	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	UBC, HMG20	gr-g	hsa03320	expression
+RXRB	pd	UBC, HMG20	gr-g	hsa03320	expression
+RXRG	pd	UBC, HMG20	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SCD5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SCD5	gr-g	hsa03320	expression
+RXRB	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRG	pd	SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1	gr-g	hsa03320	expression
+RXRB	pd	SCD5	gr-g	hsa03320	expression
+RXRG	pd	SCD5	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRB	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+RXRG	pd	NR1H3, LXR-a, LXRA, RLD-1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	CYP27A1, CP27, CTX, CYP27	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CYP27A1, CP27, CTX, CYP27	gr-g	hsa03320	expression
+RXRB	pd	CYP27A1, CP27, CTX, CYP27	gr-g	hsa03320	expression
+RXRG	pd	CYP27A1, CP27, CTX, CYP27	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SLC27A5	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SLC27A2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SLC27A6	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SLC27A1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SLC27A1	gr-g	hsa03320	expression
+RXRB	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRG	pd	SLC27A4, ACSVL4, FATP4, IPS	gr-g	hsa03320	expression
+RXRB	pd	SLC27A5	gr-g	hsa03320	expression
+RXRB	pd	SLC27A2	gr-g	hsa03320	expression
+RXRB	pd	SLC27A6	gr-g	hsa03320	expression
+RXRB	pd	SLC27A1	gr-g	hsa03320	expression
+RXRG	pd	SLC27A5	gr-g	hsa03320	expression
+RXRG	pd	SLC27A2	gr-g	hsa03320	expression
+RXRG	pd	SLC27A6	gr-g	hsa03320	expression
+RXRG	pd	SLC27A1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3	gr-g	hsa03320	expression
+RXRB	pd	CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3	gr-g	hsa03320	expression
+RXRG	pd	CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRB	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+RXRG	pd	LPL, HDLCQ11, LIPD	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1	gr-g	hsa03320	expression
+RXRB	pd	OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1	gr-g	hsa03320	expression
+RXRG	pd	OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSL3	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSL4	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSBG1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSL6	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSL5	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ACSBG2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSBG1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSL5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ACSBG2	gr-g	hsa03320	expression
+RXRB	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRG	pd	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	gr-g	hsa03320	expression
+RXRB	pd	ACSL3	gr-g	hsa03320	expression
+RXRB	pd	ACSL4	gr-g	hsa03320	expression
+RXRB	pd	ACSBG1	gr-g	hsa03320	expression
+RXRB	pd	ACSL6	gr-g	hsa03320	expression
+RXRB	pd	ACSL5	gr-g	hsa03320	expression
+RXRB	pd	ACSBG2	gr-g	hsa03320	expression
+RXRG	pd	ACSL3	gr-g	hsa03320	expression
+RXRG	pd	ACSL4	gr-g	hsa03320	expression
+RXRG	pd	ACSBG1	gr-g	hsa03320	expression
+RXRG	pd	ACSL6	gr-g	hsa03320	expression
+RXRG	pd	ACSL5	gr-g	hsa03320	expression
+RXRG	pd	ACSBG2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	CPT1A	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	CPT1B	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1A	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	CPT1B	gr-g	hsa03320	expression
+RXRB	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRG	pd	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	gr-g	hsa03320	expression
+RXRB	pd	CPT1A	gr-g	hsa03320	expression
+RXRB	pd	CPT1B	gr-g	hsa03320	expression
+RXRG	pd	CPT1A	gr-g	hsa03320	expression
+RXRG	pd	CPT1B	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRB	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+RXRG	pd	ANGPTL4, ARP4, FIAF, HARP, HFARP, NL2, PGAR, TGQTL, UNQ171, pp1158	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PLIN2, ADFP, ADRP	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PLIN5	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PLIN1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PLIN4	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PLIN2, ADFP, ADRP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PLIN5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PLIN1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PLIN4	gr-g	hsa03320	expression
+RXRB	pd	PLIN2, ADFP, ADRP	gr-g	hsa03320	expression
+RXRG	pd	PLIN2, ADFP, ADRP	gr-g	hsa03320	expression
+RXRB	pd	PLIN5	gr-g	hsa03320	expression
+RXRB	pd	PLIN1	gr-g	hsa03320	expression
+RXRB	pd	PLIN4	gr-g	hsa03320	expression
+RXRG	pd	PLIN5	gr-g	hsa03320	expression
+RXRG	pd	PLIN1	gr-g	hsa03320	expression
+RXRG	pd	PLIN4	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP3	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP5	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP6	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	FABP7	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP3	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP5	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP6	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	FABP7	gr-g	hsa03320	expression
+RXRB	pd	FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2	gr-g	hsa03320	expression
+RXRG	pd	FABP4, A-FABP, AFABP, ALBP, HEL-S-104, aP2	gr-g	hsa03320	expression
+RXRB	pd	FABP1	gr-g	hsa03320	expression
+RXRB	pd	FABP2	gr-g	hsa03320	expression
+RXRB	pd	FABP3	gr-g	hsa03320	expression
+RXRB	pd	FABP5	gr-g	hsa03320	expression
+RXRB	pd	FABP6	gr-g	hsa03320	expression
+RXRB	pd	FABP7	gr-g	hsa03320	expression
+RXRG	pd	FABP1	gr-g	hsa03320	expression
+RXRG	pd	FABP2	gr-g	hsa03320	expression
+RXRG	pd	FABP3	gr-g	hsa03320	expression
+RXRG	pd	FABP5	gr-g	hsa03320	expression
+RXRG	pd	FABP6	gr-g	hsa03320	expression
+RXRG	pd	FABP7	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28	gr-g	hsa03320	expression
+RXRB	pd	ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28	gr-g	hsa03320	expression
+RXRG	pd	ADIPOQ, ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	gr-g	hsa03320	expression
+RXRB	pd	SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	gr-g	hsa03320	expression
+RXRG	pd	SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	MMP1, CLG, CLGN	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	MMP1, CLG, CLGN	gr-g	hsa03320	expression
+RXRB	pd	MMP1, CLG, CLGN	gr-g	hsa03320	expression
+RXRG	pd	MMP1, CLG, CLGN	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRB	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+RXRG	pd	UCP1, SLC25A7, UCP	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	PCK2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	PCK2	gr-g	hsa03320	expression
+RXRB	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	gr-g	hsa03320	expression
+RXRG	pd	PCK1, PCKDC, PEPCK-C, PEPCK1, PEPCKC	gr-g	hsa03320	expression
+RXRB	pd	PCK2	gr-g	hsa03320	expression
+RXRG	pd	PCK2	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	AQP7, AQP7L, AQPap, GLYCQTL	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	AQP7, AQP7L, AQPap, GLYCQTL	gr-g	hsa03320	expression
+RXRB	pd	AQP7, AQP7L, AQPap, GLYCQTL	gr-g	hsa03320	expression
+RXRG	pd	AQP7, AQP7L, AQPap, GLYCQTL	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	GK, GK1, GKD	gr-g	hsa03320	expression
+PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	pd	GK2	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	GK, GK1, GKD	gr-g	hsa03320	expression
+RXRA, NR2B1	pd	GK2	gr-g	hsa03320	expression
+RXRB	pd	GK, GK1, GKD	gr-g	hsa03320	expression
+RXRG	pd	GK, GK1, GKD	gr-g	hsa03320	expression
+RXRB	pd	GK2	gr-g	hsa03320	expression
+RXRG	pd	GK2	gr-g	hsa03320	expression
+C02165	pc	PPARA, NR1C1, PPAR, PPARalpha, hPPAR	c-g	hsa03320	activation
+C14776	pc	PPARA, NR1C1, PPAR, PPARalpha, hPPAR	c-g	hsa03320	activation
+C15493	pc	RXRA, NR2B1	c-g	hsa03320	activation
+C15493	pc	RXRB	c-g	hsa03320	activation
+C15493	pc	RXRG	c-g	hsa03320	activation
+C15493	pc	RXRA, NR2B1	c-g	hsa03320	activation
+C15493	pc	RXRB	c-g	hsa03320	activation
+C15493	pc	RXRG	c-g	hsa03320	activation
+C14767	pc	PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	c-g	hsa03320	activation
+C14762	pc	PPARG, CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARgamma	c-g	hsa03320	activation
+C15493	pc	RXRA, NR2B1	c-g	hsa03320	activation
+C15493	pc	RXRB	c-g	hsa03320	activation
+C15493	pc	RXRG	c-g	hsa03320	activation
+SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2				hsa03320	
+SLC27A4				hsa03320	
+SLC27A2				hsa03320	
+SLC27A6				hsa03320	
+SLC27A1				hsa03320	

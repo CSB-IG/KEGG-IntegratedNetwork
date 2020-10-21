@@ -1,0 +1,35 @@
+C00188	rt	SDS, SDH	irreversible	hsa00290	se
+C00188	rt	SDSL	irreversible	hsa00290	se
+SDS, SDH	rt	C00109	irreversible	hsa00290	ep
+SDSL	rt	C00109	irreversible	hsa00290	ep
+C00671	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	irreversible	hsa00290	se
+C00671	rt	BCAT2	irreversible	hsa00290	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00407	irreversible	hsa00290	ep
+BCAT2	rt	C00407	irreversible	hsa00290	ep
+C00123	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00290	se
+C00123	rt	BCAT2	reversible	hsa00290	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00123	reversible	hsa00290	ep
+BCAT2	rt	C00123	reversible	hsa00290	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00233	reversible	hsa00290	ep
+BCAT2	rt	C00233	reversible	hsa00290	ep
+C00233	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00290	se
+C00233	rt	BCAT2	reversible	hsa00290	se
+C00141	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	irreversible	hsa00290	se
+C00141	rt	BCAT2	irreversible	hsa00290	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00183	irreversible	hsa00290	ep
+BCAT2	rt	C00183	irreversible	hsa00290	ep
+C06032				hsa00290	
+C02226				hsa00290	
+C02612				hsa00290	
+C00024				hsa00290	
+C00022				hsa00290	
+C06006				hsa00290	
+C14463				hsa00290	
+C06007				hsa00290	
+C04272				hsa00290	
+C04181				hsa00290	
+C06010				hsa00290	
+C02504				hsa00290	
+C02631				hsa00290	
+C04411				hsa00290	
+C04236				hsa00290	

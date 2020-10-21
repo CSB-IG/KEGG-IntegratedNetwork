@@ -1,0 +1,147 @@
+C00547	pc	ADRB1, ADRB1R, B1AR, BETA1AR, RHR	c-g	hsa04970	activation
+C00547	pc	ADRB2	c-g	hsa04970	activation
+C00547	pc	ADRB3	c-g	hsa04970	activation
+ADRB1, ADRB1R, B1AR, BETA1AR, RHR	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04970	activation
+ADRB2	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04970	activation
+ADRB3	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04970	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa04970	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa04970	activation
+ADCY2	pc	C00575	g-c	hsa04970	activation
+ADCY3	pc	C00575	g-c	hsa04970	activation
+ADCY5	pc	C00575	g-c	hsa04970	activation
+ADCY6	pc	C00575	g-c	hsa04970	activation
+ADCY7	pc	C00575	g-c	hsa04970	activation
+ADCY8	pc	C00575	g-c	hsa04970	activation
+ADCY9	pc	C00575	g-c	hsa04970	activation
+ADCY4	pc	C00575	g-c	hsa04970	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04970	activation
+C00575	pc	PRKACB	c-g	hsa04970	activation
+C00575	pc	PRKACG	c-g	hsa04970	activation
+C00547	pc	ADRA1D, ADRA1, ADRA1A, ADRA1R, ALPHA1, DAR, dJ779E112	c-g	hsa04970	activation
+C00547	pc	ADRA1D	c-g	hsa04970	activation
+C00547	pc	ADRA1B	c-g	hsa04970	activation
+ADRA1D, ADRA1, ADRA1A, ADRA1R, ALPHA1, DAR, dJ779E112	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04970	activation
+ADRA1D	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04970	activation
+ADRA1B	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04970	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04970	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa04970	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa04970	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa04970	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04970	activation
+PLCB2	pc	C00165	g-c	hsa04970	activation
+PLCB3	pc	C00165	g-c	hsa04970	activation
+PLCB4	pc	C00165	g-c	hsa04970	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04970	activation
+C00165	pc	PRKACB	c-g	hsa04970	activation
+C00165	pc	PRKACG	c-g	hsa04970	activation
+C01996	pc	CHRM3, EGBRS, HM3, PBS	c-g	hsa04970	activation
+CHRM3, EGBRS, HM3, PBS	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04970	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04970	activation
+PLCB2	pc	C01245	g-c	hsa04970	activation
+PLCB3	pc	C01245	g-c	hsa04970	activation
+PLCB4	pc	C01245	g-c	hsa04970	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04970	activation
+C01245	pc	ITPR2	c-g	hsa04970	activation
+C01245	pc	ITPR3	c-g	hsa04970	activation
+C00076	pc	CALML6, CAGLP	c-g	hsa04970	activation
+C00076	pc	CALML5	c-g	hsa04970	activation
+C00076	pc	CALM1	c-g	hsa04970	activation
+C00076	pc	CALM2	c-g	hsa04970	activation
+C00076	pc	CALM3	c-g	hsa04970	activation
+C00076	pc	CALML3	c-g	hsa04970	activation
+C00076	pc	CALML4	c-g	hsa04970	activation
+CALML6, CAGLP	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALML5	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALM1	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALM2	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALM3	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALML3	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+CALML4	pp	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa04970	activation
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	pc	C00533	g-c	hsa04970	activation
+C00533	pc	GUCY1A2, GC-SA2, GUC1A2	c-g	hsa04970	activation
+C00533	pc	GUCY1A3	c-g	hsa04970	activation
+C00533	pc	GUCY1B3	c-g	hsa04970	activation
+GUCY1A2, GC-SA2, GUC1A2	pc	C00942	g-c	hsa04970	activation
+GUCY1A3	pc	C00942	g-c	hsa04970	activation
+GUCY1B3	pc	C00942	g-c	hsa04970	activation
+C00942	pc	PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	c-g	hsa04970	activation
+C00942	pc	PRKG2	c-g	hsa04970	activation
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	BST1, CD157	g-g	hsa04970	activation
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	CD38	g-g	hsa04970	activation
+PRKG2	pp	BST1, CD157	g-g	hsa04970	activation
+PRKG2	pp	CD38	g-g	hsa04970	activation
+BST1, CD157	pc	C13050	g-c	hsa04970	activation
+CD38	pc	C13050	g-c	hsa04970	activation
+C13050	pc	RYR3, RYR-3	c-g	hsa04970	activation
+C00076	pc	KCNN4, DHS2, IK, IK1, IKCA1, KCA4, KCa31, SK4, hIKCa1, hKCa4, hSK4	c-g	hsa04970	indirect effect
+C00076	pc	KCNMA1, BKTM, KCa11, MaxiK, SAKCA, SLO, SLO-ALPHA, SLO1, bA205K101, hSlo, mSLO1	c-g	hsa04970	indirect effect
+C00076	pc	BEST2, VMD2L1	c-g	hsa04970	indirect effect
+C00076	pc	AQP5, AQP-5, PPKB	c-g	hsa04970	indirect effect
+AQP5, AQP-5, PPKB	pp	AQP5, AQP-5, PPKB	g-g	hsa04970	state change
+PRKACA, PKACA, PPNAD4	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04970	indirect effect
+PRKACB	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04970	indirect effect
+PRKACG	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04970	indirect effect
+C00001				hsa04970	
+C01330				hsa04970	
+C00698				hsa04970	
+C00698				hsa04970	
+C00238				hsa04970	
+C01330				hsa04970	
+SLC12A2, BSC, BSC2, NKCC1, PPP1R141				hsa04970	
+ATP2B1, PMCA1, PMCA1kb				hsa04970	
+ATP2B2				hsa04970	
+ATP2B3				hsa04970	
+ATP2B4				hsa04970	
+C00001				hsa04970	
+C00238				hsa04970	
+TRPV6, ABP/ZF, CAT1, CATL, ECAC2, HSA277909, LP6728, ZFAB				hsa04970	
+MUC5B, MG1, MUC-5B, MUC5, MUC9				hsa04970	
+MUC7, MG2				hsa04970	
+C00238				hsa04970	
+PRH1, Db-s, PA, PIF-S, PRH2, Pr1/Pr2				hsa04970	
+PRH2				hsa04970	
+PRB1, PM, PMF, PMS, PRB1L, PRB1M				hsa04970	
+PRB2				hsa04970	
+AMY1A, AMY1				hsa04970	
+AMY1B				hsa04970	
+AMY1C				hsa04970	
+CST1				hsa04970	
+CST2				hsa04970	
+CST3				hsa04970	
+CST4				hsa04970	
+CST5				hsa04970	
+HTN1, HIS1				hsa04970	
+HTN3				hsa04970	
+DMBT1, GP340, SAG, muclin				hsa04970	
+STATH, STR				hsa04970	
+ATP1B4				hsa04970	
+ATP1A1				hsa04970	
+ATP1A2				hsa04970	
+ATP1A3				hsa04970	
+ATP1A4				hsa04970	
+ATP1B1				hsa04970	
+ATP1B2				hsa04970	
+ATP1B3				hsa04970	
+FXYD2				hsa04970	
+C01330				hsa04970	
+C00238				hsa04970	
+SLC4A2, AE2, BND3L, EPB3L1, HKB3, NBND3				hsa04970	
+SLC9A1, APNH, LIKNS, NHE-1, NHE1, PPP1R143				hsa04970	
+C01330				hsa04970	
+C00080				hsa04970	
+C00698				hsa04970	
+C00288				hsa04970	
+C01353				hsa04970	
+C00001				hsa04970	
+C00011				hsa04970	
+LYZ, LYZF1, LZM				hsa04970	
+LPO, SPO				hsa04970	
+CAMP, CAP-18, CAP18, CRAMP, FALL-39, FALL39, HSD26, LL37				hsa04970	

@@ -1,0 +1,9 @@
+
+
+results/edges_rep_%.final.txt:  data/%.ok
+	mkdir -p `dirname $target`
+	python bin/Analisis-Percolation.py \
+		--edges ../AllKEGG.ncbi.filter.header.BigComponent.edges.csv \
+		--out results \
+		--k $stem \
+	&& mv 'results/edges_rep_'$stem'.txt' $target

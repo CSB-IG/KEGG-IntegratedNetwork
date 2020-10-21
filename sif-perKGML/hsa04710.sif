@@ -1,0 +1,132 @@
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr	NPAS2, MOP4, PASD4, bHLHe9	group	hsa04710	group
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr	CLOCK	group	hsa04710	group
+102800317	gr	CRY1, PHLL1	group	hsa04710	group
+102800317	gr	CRY2	group	hsa04710	group
+CSNK1D	gr	CRY1, PHLL1	group	hsa04710	group
+CSNK1E	gr	CRY1, PHLL1	group	hsa04710	group
+CSNK1D	gr	CRY2	group	hsa04710	group
+CSNK1E	gr	CRY2	group	hsa04710	group
+102800317	gr	PER2, FASPS, FASPS1	group	hsa04710	group
+102800317	gr	PER1	group	hsa04710	group
+102800317	gr	PER3	group	hsa04710	group
+CSNK1D	gr	PER2, FASPS, FASPS1	group	hsa04710	group
+CSNK1E	gr	PER2, FASPS, FASPS1	group	hsa04710	group
+CSNK1D	gr	PER1	group	hsa04710	group
+CSNK1D	gr	PER3	group	hsa04710	group
+CSNK1E	gr	PER1	group	hsa04710	group
+CSNK1E	gr	PER3	group	hsa04710	group
+CRY1, PHLL1	gr	PER2, FASPS, FASPS1	group	hsa04710	group
+CRY1, PHLL1	gr	PER1	group	hsa04710	group
+CRY1, PHLL1	gr	PER3	group	hsa04710	group
+CRY2	gr	PER2, FASPS, FASPS1	group	hsa04710	group
+CRY2	gr	PER1	group	hsa04710	group
+CRY2	gr	PER3	group	hsa04710	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04710	group
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	gr	BTRC	group	hsa04710	group
+CUL1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04710	group
+RBX1	gr	FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	group	hsa04710	group
+CUL1	gr	BTRC	group	hsa04710	group
+RBX1	gr	BTRC	group	hsa04710	group
+CREB1, CREB, CREB-1	pd	PER1, PER, RIGUI, hPER	g-g	hsa04710	expression
+CREB1, CREB, CREB-1	pd	PER3	g-g	hsa04710	expression
+CREB1, CREB, CREB-1	pd	PER2	g-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	PER1, PER, RIGUI, hPER	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	PER3	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	PER2	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	PER1, PER, RIGUI, hPER	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	PER3	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	PER2	gr-g	hsa04710	expression
+CLOCK	pd	PER1, PER, RIGUI, hPER	gr-g	hsa04710	expression
+CLOCK	pd	PER3	gr-g	hsa04710	expression
+CLOCK	pd	PER2	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	CRY1, PHLL1	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	CRY2	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	CRY1, PHLL1	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	CRY2	gr-g	hsa04710	expression
+CLOCK	pd	CRY1, PHLL1	gr-g	hsa04710	expression
+CLOCK	pd	CRY2	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	BHLHE41, BHLHB3, DEC2, SHARP1, hDEC2	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	BHLHE40	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	BHLHE41, BHLHB3, DEC2, SHARP1, hDEC2	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	BHLHE40	gr-g	hsa04710	expression
+CLOCK	pd	BHLHE41, BHLHB3, DEC2, SHARP1, hDEC2	gr-g	hsa04710	expression
+CLOCK	pd	BHLHE40	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	NR1D1, EAR1, THRA1, THRAL, ear-1, hRev	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	NR1D1, EAR1, THRA1, THRAL, ear-1, hRev	gr-g	hsa04710	expression
+CLOCK	pd	NR1D1, EAR1, THRA1, THRAL, ear-1, hRev	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	RORA, NR1F1, ROR1, ROR2, ROR3, RZR-ALPHA, RZRA	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	RORB	gr-g	hsa04710	expression
+ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	pd	RORC	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	RORA, NR1F1, ROR1, ROR2, ROR3, RZR-ALPHA, RZRA	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	RORB	gr-g	hsa04710	expression
+NPAS2, MOP4, PASD4, bHLHe9	pd	RORC	gr-g	hsa04710	expression
+CLOCK	pd	RORA, NR1F1, ROR1, ROR2, ROR3, RZR-ALPHA, RZRA	gr-g	hsa04710	expression
+CLOCK	pd	RORB	gr-g	hsa04710	expression
+CLOCK	pd	RORC	gr-g	hsa04710	expression
+NR1D1, EAR1, THRA1, THRAL, ear-1, hRev	pd	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	g-g	hsa04710	repression
+102800317	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+CSNK1D	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+CSNK1E	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+102800317	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+102800317	pp	CLOCK	gr-gr	hsa04710	inhibition
+CSNK1D	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+CSNK1E	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+CSNK1D	pp	CLOCK	gr-gr	hsa04710	inhibition
+CSNK1E	pp	CLOCK	gr-gr	hsa04710	inhibition
+CRY1, PHLL1	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+CRY2	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+CRY1, PHLL1	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+CRY1, PHLL1	pp	CLOCK	gr-gr	hsa04710	inhibition
+CRY2	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+CRY2	pp	CLOCK	gr-gr	hsa04710	inhibition
+PER2, FASPS, FASPS1	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+PER1	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+PER3	pp	ARNTL, BMAL1, BMAL1c, JAP3, MOP3, PASD3, TIC, bHLHe5	gr-gr	hsa04710	inhibition
+PER2, FASPS, FASPS1	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+PER2, FASPS, FASPS1	pp	CLOCK	gr-gr	hsa04710	inhibition
+PER1	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+PER3	pp	NPAS2, MOP4, PASD4, bHLHe9	gr-gr	hsa04710	inhibition
+PER1	pp	CLOCK	gr-gr	hsa04710	inhibition
+PER3	pp	CLOCK	gr-gr	hsa04710	inhibition
+102800317	pp	PER1, PER, RIGUI, hPER	g-g	hsa04710	activation
+102800317	pp	PER3	g-g	hsa04710	activation
+102800317	pp	PER2	g-g	hsa04710	activation
+CSNK1D	pp	PER1, PER, RIGUI, hPER	g-g	hsa04710	activation
+CSNK1E	pp	PER1, PER, RIGUI, hPER	g-g	hsa04710	activation
+CSNK1D	pp	PER3	g-g	hsa04710	activation
+CSNK1D	pp	PER2	g-g	hsa04710	activation
+CSNK1E	pp	PER3	g-g	hsa04710	activation
+CSNK1E	pp	PER2	g-g	hsa04710	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAG2, AAKG, AAKG2, CMH6, H91620p, WPWS	pp	CRY2	g-g	hsa04710	activation
+PRKAG3	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAA1	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAA2	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAB1	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAB2	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAG1	pp	CRY1, PHLL1	g-g	hsa04710	activation
+PRKAG3	pp	CRY2	g-g	hsa04710	activation
+PRKAA1	pp	CRY2	g-g	hsa04710	activation
+PRKAA2	pp	CRY2	g-g	hsa04710	activation
+PRKAB1	pp	CRY2	g-g	hsa04710	activation
+PRKAB2	pp	CRY2	g-g	hsa04710	activation
+PRKAG1	pp	CRY2	g-g	hsa04710	activation
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	PER1, PER, RIGUI, hPER	gr-g	hsa04710	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	PER3	gr-g	hsa04710	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	PER2	gr-g	hsa04710	inhibition
+CUL1	pp	PER1, PER, RIGUI, hPER	gr-g	hsa04710	inhibition
+RBX1	pp	PER1, PER, RIGUI, hPER	gr-g	hsa04710	inhibition
+CUL1	pp	PER3	gr-g	hsa04710	inhibition
+CUL1	pp	PER2	gr-g	hsa04710	inhibition
+RBX1	pp	PER3	gr-g	hsa04710	inhibition
+RBX1	pp	PER2	gr-g	hsa04710	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	PER1, PER, RIGUI, hPER	gr-g	hsa04710	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	PER3	gr-g	hsa04710	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	PER2	gr-g	hsa04710	inhibition
+BTRC	pp	PER1, PER, RIGUI, hPER	gr-g	hsa04710	inhibition
+BTRC	pp	PER3	gr-g	hsa04710	inhibition
+BTRC	pp	PER2	gr-g	hsa04710	inhibition
+FBXL3, FBL3, FBL3A, FBXL3A	pp	CRY1, PHLL1	g-g	hsa04710	inhibition
+FBXL3, FBL3, FBL3A, FBXL3A	pp	CRY2	g-g	hsa04710	inhibition
+C00076	pc	CREB1, CREB, CREB-1	c-g	hsa04710	NA
+C00575	pc	CREB1, CREB, CREB-1	c-g	hsa04710	NA

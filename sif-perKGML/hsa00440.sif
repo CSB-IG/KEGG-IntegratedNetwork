@@ -1,0 +1,71 @@
+PCYT2, ET	ec	CEPT1	g-g	hsa00440	compound
+PCYT2, ET	ec	SELENOI	g-g	hsa00440	compound
+PCYT1A, CCTA, CT, CTA, CTPCT, PCYT1, SMDCRD	ec	CEPT1	g-g	hsa00440	compound
+PCYT1A, CCTA, CT, CTA, CTPCT, PCYT1, SMDCRD	ec	SELENOI	g-g	hsa00440	compound
+PCYT1B	ec	CEPT1	g-g	hsa00440	compound
+PCYT1B	ec	SELENOI	g-g	hsa00440	compound
+C03557	rt	PCYT2, ET	irreversible	hsa00440	se
+PCYT2, ET	rt	C05673	irreversible	hsa00440	ep
+C06459	rt	PCYT1A, CCTA, CT, CTA, CTPCT, PCYT1, SMDCRD	irreversible	hsa00440	se
+C06459	rt	PCYT1B	irreversible	hsa00440	se
+PCYT1A, CCTA, CT, CTA, CTPCT, PCYT1, SMDCRD	rt	C05674	irreversible	hsa00440	ep
+PCYT1B	rt	C05674	irreversible	hsa00440	ep
+C05674	rt	CEPT1	irreversible	hsa00440	se
+C05674	rt	SELENOI	irreversible	hsa00440	se
+CEPT1	rt	C05676	irreversible	hsa00440	ep
+SELENOI	rt	C05676	irreversible	hsa00440	ep
+C05673	rt	CEPT1	irreversible	hsa00440	se
+C05673	rt	SELENOI	irreversible	hsa00440	se
+CEPT1	rt	C05675	irreversible	hsa00440	ep
+SELENOI	rt	C05675	irreversible	hsa00440	ep
+C00074				hsa00440	
+C02798				hsa00440	
+C05672				hsa00440	
+C17942				hsa00440	
+C03167				hsa00440	
+C06452				hsa00440	
+C06454				hsa00440	
+C05682				hsa00440	
+C00033				hsa00440	
+C17940				hsa00440	
+C17944				hsa00440	
+C17960				hsa00440	
+C17961				hsa00440	
+C06455				hsa00440	
+C17943				hsa00440	
+C05679				hsa00440	
+C05683				hsa00440	
+C05678				hsa00440	
+C05677				hsa00440	
+C05681				hsa00440	
+C05680				hsa00440	
+C06456				hsa00440	
+C17945				hsa00440	
+C06367				hsa00440	
+C06368				hsa00440	
+C17947				hsa00440	
+C17948				hsa00440	
+C17949				hsa00440	
+C17950				hsa00440	
+C17952				hsa00440	
+C17951				hsa00440	
+C04650				hsa00440	
+C06457				hsa00440	
+C17962				hsa00440	
+C17941				hsa00440	
+C00084				hsa00440	
+C06451				hsa00440	
+C20396				hsa00440	
+C20422				hsa00440	
+C20423				hsa00440	
+C20440				hsa00440	
+C00022				hsa00440	
+C01151				hsa00440	
+C20986				hsa00440	
+C00117				hsa00440	
+C21372				hsa00440	
+C00037				hsa00440	
+C21403				hsa00440	
+C21404				hsa00440	
+C01438				hsa00440	
+C21613				hsa00440	

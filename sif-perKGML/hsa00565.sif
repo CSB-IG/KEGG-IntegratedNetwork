@@ -1,0 +1,716 @@
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	CEPT1	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	CHPT1	g-g	hsa00565	compound
+PAFAH1B2	ec	CEPT1	g-g	hsa00565	compound
+PAFAH1B3	ec	CEPT1	g-g	hsa00565	compound
+PAFAH2	ec	CEPT1	g-g	hsa00565	compound
+PLA2G7	ec	CEPT1	g-g	hsa00565	compound
+PAFAH1B2	ec	CHPT1	g-g	hsa00565	compound
+PAFAH1B3	ec	CHPT1	g-g	hsa00565	compound
+PAFAH2	ec	CHPT1	g-g	hsa00565	compound
+PLA2G7	ec	CHPT1	g-g	hsa00565	compound
+CEPT1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+CEPT1	ec	LPCAT2	g-g	hsa00565	compound
+CEPT1	ec	LPCAT1	g-g	hsa00565	compound
+CHPT1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+CHPT1	ec	LPCAT2	g-g	hsa00565	compound
+CHPT1	ec	LPCAT1	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G16	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4E	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLB1	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4F	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G2D	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4D	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G2E	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G2C	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G3	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G1B	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G2A	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4A	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G5	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G2F	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G12A	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G6	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G10	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G12B	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	PLA2G4C	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G16	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4E	g-g	hsa00565	compound
+PAFAH1B2	ec	PLB1	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4F	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G2D	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4D	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G2E	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G2C	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G3	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G1B	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G2A	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4A	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G5	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G2F	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G12A	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G6	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G10	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G12B	g-g	hsa00565	compound
+PAFAH1B2	ec	PLA2G4C	g-g	hsa00565	compound
+PAFAH1B2	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G16	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4E	g-g	hsa00565	compound
+PAFAH1B3	ec	PLB1	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4F	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G2D	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4D	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G2E	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G2C	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G3	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G1B	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G2A	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4A	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G5	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G2F	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G12A	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G6	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G10	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G12B	g-g	hsa00565	compound
+PAFAH1B3	ec	PLA2G4C	g-g	hsa00565	compound
+PAFAH1B3	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G16	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4E	g-g	hsa00565	compound
+PAFAH2	ec	PLB1	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4F	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G2D	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4D	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G2E	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G2C	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G3	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G1B	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G2A	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4A	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G5	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G2F	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G12A	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G6	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G10	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G12B	g-g	hsa00565	compound
+PAFAH2	ec	PLA2G4C	g-g	hsa00565	compound
+PAFAH2	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G16	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4E	g-g	hsa00565	compound
+PLA2G7	ec	PLB1	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4F	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G2D	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4D	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G2E	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G2C	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G3	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G1B	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G2A	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4A	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G5	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G2F	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G12A	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G6	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G10	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G12B	g-g	hsa00565	compound
+PLA2G7	ec	PLA2G4C	g-g	hsa00565	compound
+PLA2G7	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	g-g	hsa00565	compound
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	ec	LPCAT1	g-g	hsa00565	compound
+PAFAH1B2	ec	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	g-g	hsa00565	compound
+PAFAH1B3	ec	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	g-g	hsa00565	compound
+PAFAH2	ec	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	g-g	hsa00565	compound
+PLA2G7	ec	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	g-g	hsa00565	compound
+PAFAH1B2	ec	LPCAT1	g-g	hsa00565	compound
+PAFAH1B3	ec	LPCAT1	g-g	hsa00565	compound
+PAFAH2	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G7	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G16	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4E	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLB1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4F	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G2D	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4D	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G2E	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G2C	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G3	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G1B	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G2A	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4A	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G5	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G2F	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G12A	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G6	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G10	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G12B	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G4C	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLA2G16	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G16	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4E	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4E	ec	LPCAT1	g-g	hsa00565	compound
+PLB1	ec	LPCAT2	g-g	hsa00565	compound
+PLB1	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4F	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4F	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G2D	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G2D	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4D	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4D	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G2E	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G2E	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G2C	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G2C	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G3	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G3	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G1B	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G1B	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G2A	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G2A	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4A	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4A	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G5	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G5	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G2F	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G2F	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G12A	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G12A	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G6	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G6	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G10	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G10	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G12B	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G12B	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4C	ec	LPCAT2	g-g	hsa00565	compound
+PLA2G4C	ec	LPCAT1	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	LPCAT2	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	LPCAT1	g-g	hsa00565	compound
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	ec	LPCAT2	g-g	hsa00565	compound
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	ec	LPCAT1	g-g	hsa00565	compound
+LPCAT1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+LPCAT1	ec	LPCAT2	g-g	hsa00565	compound
+LPCAT1	ec	LPCAT1	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	CHPT1	g-g	hsa00565	compound
+PLA2G16	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4E	ec	CEPT1	g-g	hsa00565	compound
+PLB1	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4F	ec	CEPT1	g-g	hsa00565	compound
+PLA2G2D	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4D	ec	CEPT1	g-g	hsa00565	compound
+PLA2G2E	ec	CEPT1	g-g	hsa00565	compound
+PLA2G2C	ec	CEPT1	g-g	hsa00565	compound
+PLA2G3	ec	CEPT1	g-g	hsa00565	compound
+PLA2G1B	ec	CEPT1	g-g	hsa00565	compound
+PLA2G2A	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4A	ec	CEPT1	g-g	hsa00565	compound
+PLA2G5	ec	CEPT1	g-g	hsa00565	compound
+PLA2G2F	ec	CEPT1	g-g	hsa00565	compound
+PLA2G12A	ec	CEPT1	g-g	hsa00565	compound
+PLA2G6	ec	CEPT1	g-g	hsa00565	compound
+PLA2G10	ec	CEPT1	g-g	hsa00565	compound
+PLA2G12B	ec	CEPT1	g-g	hsa00565	compound
+PLA2G4C	ec	CEPT1	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	CEPT1	g-g	hsa00565	compound
+PLA2G16	ec	CHPT1	g-g	hsa00565	compound
+PLA2G4E	ec	CHPT1	g-g	hsa00565	compound
+PLB1	ec	CHPT1	g-g	hsa00565	compound
+PLA2G4F	ec	CHPT1	g-g	hsa00565	compound
+PLA2G2D	ec	CHPT1	g-g	hsa00565	compound
+PLA2G4D	ec	CHPT1	g-g	hsa00565	compound
+PLA2G2E	ec	CHPT1	g-g	hsa00565	compound
+PLA2G2C	ec	CHPT1	g-g	hsa00565	compound
+PLA2G3	ec	CHPT1	g-g	hsa00565	compound
+PLA2G1B	ec	CHPT1	g-g	hsa00565	compound
+PLA2G2A	ec	CHPT1	g-g	hsa00565	compound
+PLA2G4A	ec	CHPT1	g-g	hsa00565	compound
+PLA2G5	ec	CHPT1	g-g	hsa00565	compound
+PLA2G2F	ec	CHPT1	g-g	hsa00565	compound
+PLA2G12A	ec	CHPT1	g-g	hsa00565	compound
+PLA2G6	ec	CHPT1	g-g	hsa00565	compound
+PLA2G10	ec	CHPT1	g-g	hsa00565	compound
+PLA2G12B	ec	CHPT1	g-g	hsa00565	compound
+PLA2G4C	ec	CHPT1	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	CHPT1	g-g	hsa00565	compound
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	ec	CEPT1	g-g	hsa00565	compound
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	ec	CHPT1	g-g	hsa00565	compound
+LPCAT1	ec	CEPT1	g-g	hsa00565	compound
+LPCAT1	ec	CHPT1	g-g	hsa00565	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	CEPT1	g-g	hsa00565	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	CHPT1	g-g	hsa00565	compound
+PLPP2	ec	CEPT1	g-g	hsa00565	compound
+PLPP3	ec	CEPT1	g-g	hsa00565	compound
+PLPP2	ec	CHPT1	g-g	hsa00565	compound
+PLPP3	ec	CHPT1	g-g	hsa00565	compound
+CEPT1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00565	compound
+CEPT1	ec	PLPP2	g-g	hsa00565	compound
+CEPT1	ec	PLPP3	g-g	hsa00565	compound
+CHPT1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00565	compound
+CHPT1	ec	PLPP2	g-g	hsa00565	compound
+CHPT1	ec	PLPP3	g-g	hsa00565	compound
+CEPT1	ec	CEPT1	g-g	hsa00565	compound
+CEPT1	ec	CHPT1	g-g	hsa00565	compound
+CHPT1	ec	CEPT1	g-g	hsa00565	compound
+CHPT1	ec	CHPT1	g-g	hsa00565	compound
+PLD4, C14orf175	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLD4, C14orf175	ec	LPCAT2	g-g	hsa00565	compound
+PLD4, C14orf175	ec	LPCAT1	g-g	hsa00565	compound
+PLD3	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLD1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLD2	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+PLD3	ec	LPCAT2	g-g	hsa00565	compound
+PLD3	ec	LPCAT1	g-g	hsa00565	compound
+PLD1	ec	LPCAT2	g-g	hsa00565	compound
+PLD1	ec	LPCAT1	g-g	hsa00565	compound
+PLD2	ec	LPCAT2	g-g	hsa00565	compound
+PLD2	ec	LPCAT1	g-g	hsa00565	compound
+CEPT1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+CEPT1	ec	LPCAT2	g-g	hsa00565	compound
+CEPT1	ec	LPCAT1	g-g	hsa00565	compound
+CHPT1	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+CHPT1	ec	LPCAT2	g-g	hsa00565	compound
+CHPT1	ec	LPCAT1	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G16	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4E	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLB1	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4F	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G2D	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4D	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G2E	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G2C	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G3	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G1B	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G2A	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4A	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G5	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G2F	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G12A	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G6	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G10	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G12B	g-g	hsa00565	compound
+PLD4, C14orf175	ec	PLA2G4C	g-g	hsa00565	compound
+PLD4, C14orf175	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PLD3	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PLD1	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PLD2	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+PLD3	ec	PLA2G16	g-g	hsa00565	compound
+PLD3	ec	PLA2G4E	g-g	hsa00565	compound
+PLD3	ec	PLB1	g-g	hsa00565	compound
+PLD3	ec	PLA2G4F	g-g	hsa00565	compound
+PLD3	ec	PLA2G2D	g-g	hsa00565	compound
+PLD3	ec	PLA2G4D	g-g	hsa00565	compound
+PLD3	ec	PLA2G2E	g-g	hsa00565	compound
+PLD3	ec	PLA2G2C	g-g	hsa00565	compound
+PLD3	ec	PLA2G3	g-g	hsa00565	compound
+PLD3	ec	PLA2G1B	g-g	hsa00565	compound
+PLD3	ec	PLA2G2A	g-g	hsa00565	compound
+PLD3	ec	PLA2G4A	g-g	hsa00565	compound
+PLD3	ec	PLA2G5	g-g	hsa00565	compound
+PLD3	ec	PLA2G2F	g-g	hsa00565	compound
+PLD3	ec	PLA2G12A	g-g	hsa00565	compound
+PLD3	ec	PLA2G6	g-g	hsa00565	compound
+PLD3	ec	PLA2G10	g-g	hsa00565	compound
+PLD3	ec	PLA2G12B	g-g	hsa00565	compound
+PLD3	ec	PLA2G4C	g-g	hsa00565	compound
+PLD3	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PLD1	ec	PLA2G16	g-g	hsa00565	compound
+PLD1	ec	PLA2G4E	g-g	hsa00565	compound
+PLD1	ec	PLB1	g-g	hsa00565	compound
+PLD1	ec	PLA2G4F	g-g	hsa00565	compound
+PLD1	ec	PLA2G2D	g-g	hsa00565	compound
+PLD1	ec	PLA2G4D	g-g	hsa00565	compound
+PLD1	ec	PLA2G2E	g-g	hsa00565	compound
+PLD1	ec	PLA2G2C	g-g	hsa00565	compound
+PLD1	ec	PLA2G3	g-g	hsa00565	compound
+PLD1	ec	PLA2G1B	g-g	hsa00565	compound
+PLD1	ec	PLA2G2A	g-g	hsa00565	compound
+PLD1	ec	PLA2G4A	g-g	hsa00565	compound
+PLD1	ec	PLA2G5	g-g	hsa00565	compound
+PLD1	ec	PLA2G2F	g-g	hsa00565	compound
+PLD1	ec	PLA2G12A	g-g	hsa00565	compound
+PLD1	ec	PLA2G6	g-g	hsa00565	compound
+PLD1	ec	PLA2G10	g-g	hsa00565	compound
+PLD1	ec	PLA2G12B	g-g	hsa00565	compound
+PLD1	ec	PLA2G4C	g-g	hsa00565	compound
+PLD1	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+PLD2	ec	PLA2G16	g-g	hsa00565	compound
+PLD2	ec	PLA2G4E	g-g	hsa00565	compound
+PLD2	ec	PLB1	g-g	hsa00565	compound
+PLD2	ec	PLA2G4F	g-g	hsa00565	compound
+PLD2	ec	PLA2G2D	g-g	hsa00565	compound
+PLD2	ec	PLA2G4D	g-g	hsa00565	compound
+PLD2	ec	PLA2G2E	g-g	hsa00565	compound
+PLD2	ec	PLA2G2C	g-g	hsa00565	compound
+PLD2	ec	PLA2G3	g-g	hsa00565	compound
+PLD2	ec	PLA2G1B	g-g	hsa00565	compound
+PLD2	ec	PLA2G2A	g-g	hsa00565	compound
+PLD2	ec	PLA2G4A	g-g	hsa00565	compound
+PLD2	ec	PLA2G5	g-g	hsa00565	compound
+PLD2	ec	PLA2G2F	g-g	hsa00565	compound
+PLD2	ec	PLA2G12A	g-g	hsa00565	compound
+PLD2	ec	PLA2G6	g-g	hsa00565	compound
+PLD2	ec	PLA2G10	g-g	hsa00565	compound
+PLD2	ec	PLA2G12B	g-g	hsa00565	compound
+PLD2	ec	PLA2G4C	g-g	hsa00565	compound
+PLD2	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+CEPT1	ec	PLA2G16	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4E	g-g	hsa00565	compound
+CEPT1	ec	PLB1	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4F	g-g	hsa00565	compound
+CEPT1	ec	PLA2G2D	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4D	g-g	hsa00565	compound
+CEPT1	ec	PLA2G2E	g-g	hsa00565	compound
+CEPT1	ec	PLA2G2C	g-g	hsa00565	compound
+CEPT1	ec	PLA2G3	g-g	hsa00565	compound
+CEPT1	ec	PLA2G1B	g-g	hsa00565	compound
+CEPT1	ec	PLA2G2A	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4A	g-g	hsa00565	compound
+CEPT1	ec	PLA2G5	g-g	hsa00565	compound
+CEPT1	ec	PLA2G2F	g-g	hsa00565	compound
+CEPT1	ec	PLA2G12A	g-g	hsa00565	compound
+CEPT1	ec	PLA2G6	g-g	hsa00565	compound
+CEPT1	ec	PLA2G10	g-g	hsa00565	compound
+CEPT1	ec	PLA2G12B	g-g	hsa00565	compound
+CEPT1	ec	PLA2G4C	g-g	hsa00565	compound
+CEPT1	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+CHPT1	ec	PLA2G16	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4E	g-g	hsa00565	compound
+CHPT1	ec	PLB1	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4F	g-g	hsa00565	compound
+CHPT1	ec	PLA2G2D	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4D	g-g	hsa00565	compound
+CHPT1	ec	PLA2G2E	g-g	hsa00565	compound
+CHPT1	ec	PLA2G2C	g-g	hsa00565	compound
+CHPT1	ec	PLA2G3	g-g	hsa00565	compound
+CHPT1	ec	PLA2G1B	g-g	hsa00565	compound
+CHPT1	ec	PLA2G2A	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4A	g-g	hsa00565	compound
+CHPT1	ec	PLA2G5	g-g	hsa00565	compound
+CHPT1	ec	PLA2G2F	g-g	hsa00565	compound
+CHPT1	ec	PLA2G12A	g-g	hsa00565	compound
+CHPT1	ec	PLA2G6	g-g	hsa00565	compound
+CHPT1	ec	PLA2G10	g-g	hsa00565	compound
+CHPT1	ec	PLA2G12B	g-g	hsa00565	compound
+CHPT1	ec	PLA2G4C	g-g	hsa00565	compound
+CHPT1	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+CEPT1	ec	PLD4, C14orf175	g-g	hsa00565	compound
+CEPT1	ec	PLD3	g-g	hsa00565	compound
+CEPT1	ec	PLD1	g-g	hsa00565	compound
+CEPT1	ec	PLD2	g-g	hsa00565	compound
+CHPT1	ec	PLD4, C14orf175	g-g	hsa00565	compound
+CHPT1	ec	PLD3	g-g	hsa00565	compound
+CHPT1	ec	PLD1	g-g	hsa00565	compound
+CHPT1	ec	PLD2	g-g	hsa00565	compound
+TMEM86B	ec	ENPP6, NPP6	g-g	hsa00565	compound
+GDPD1, GDE4	ec	TMEM86B	g-g	hsa00565	compound
+ENPP2	ec	TMEM86B	g-g	hsa00565	compound
+GDPD3	ec	TMEM86B	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G16	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4E	g-g	hsa00565	compound
+TMEM86B	ec	PLB1	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4F	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G2D	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4D	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G2E	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G2C	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G3	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G1B	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G2A	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4A	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G5	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G2F	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G12A	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G6	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G10	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G12B	g-g	hsa00565	compound
+TMEM86B	ec	PLA2G4C	g-g	hsa00565	compound
+TMEM86B	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+TMEM86B	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+TMEM86B	ec	LPCAT2	g-g	hsa00565	compound
+TMEM86B	ec	LPCAT1	g-g	hsa00565	compound
+GDPD1, GDE4	ec	ENPP6, NPP6	g-g	hsa00565	compound
+ENPP2	ec	ENPP6, NPP6	g-g	hsa00565	compound
+GDPD3	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4B, HsT16992, cPLA2-beta	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G16	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4E	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLB1	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4F	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G2D	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4D	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G2E	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G2C	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G3	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G1B	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G2A	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4A	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G5	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G2F	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G12A	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G6	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G10	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G12B	ec	ENPP6, NPP6	g-g	hsa00565	compound
+PLA2G4C	ec	ENPP6, NPP6	g-g	hsa00565	compound
+JMJD7-PLA2G4B	ec	ENPP6, NPP6	g-g	hsa00565	compound
+ENPP6, NPP6	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+ENPP6, NPP6	ec	LPCAT2	g-g	hsa00565	compound
+ENPP6, NPP6	ec	LPCAT1	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G16	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4E	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLB1	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4F	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G2D	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4D	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G2E	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G2C	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G3	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G1B	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G2A	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4A	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G5	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G2F	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G12A	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G6	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G10	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G12B	g-g	hsa00565	compound
+GDPD1, GDE4	ec	PLA2G4C	g-g	hsa00565	compound
+GDPD1, GDE4	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa00565	compound
+ENPP2	ec	PLA2G16	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4E	g-g	hsa00565	compound
+ENPP2	ec	PLB1	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4F	g-g	hsa00565	compound
+ENPP2	ec	PLA2G2D	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4D	g-g	hsa00565	compound
+ENPP2	ec	PLA2G2E	g-g	hsa00565	compound
+ENPP2	ec	PLA2G2C	g-g	hsa00565	compound
+ENPP2	ec	PLA2G3	g-g	hsa00565	compound
+ENPP2	ec	PLA2G1B	g-g	hsa00565	compound
+ENPP2	ec	PLA2G2A	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4A	g-g	hsa00565	compound
+ENPP2	ec	PLA2G5	g-g	hsa00565	compound
+ENPP2	ec	PLA2G2F	g-g	hsa00565	compound
+ENPP2	ec	PLA2G12A	g-g	hsa00565	compound
+ENPP2	ec	PLA2G6	g-g	hsa00565	compound
+ENPP2	ec	PLA2G10	g-g	hsa00565	compound
+ENPP2	ec	PLA2G12B	g-g	hsa00565	compound
+ENPP2	ec	PLA2G4C	g-g	hsa00565	compound
+ENPP2	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+GDPD3	ec	PLA2G16	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4E	g-g	hsa00565	compound
+GDPD3	ec	PLB1	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4F	g-g	hsa00565	compound
+GDPD3	ec	PLA2G2D	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4D	g-g	hsa00565	compound
+GDPD3	ec	PLA2G2E	g-g	hsa00565	compound
+GDPD3	ec	PLA2G2C	g-g	hsa00565	compound
+GDPD3	ec	PLA2G3	g-g	hsa00565	compound
+GDPD3	ec	PLA2G1B	g-g	hsa00565	compound
+GDPD3	ec	PLA2G2A	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4A	g-g	hsa00565	compound
+GDPD3	ec	PLA2G5	g-g	hsa00565	compound
+GDPD3	ec	PLA2G2F	g-g	hsa00565	compound
+GDPD3	ec	PLA2G12A	g-g	hsa00565	compound
+GDPD3	ec	PLA2G6	g-g	hsa00565	compound
+GDPD3	ec	PLA2G10	g-g	hsa00565	compound
+GDPD3	ec	PLA2G12B	g-g	hsa00565	compound
+GDPD3	ec	PLA2G4C	g-g	hsa00565	compound
+GDPD3	ec	JMJD7-PLA2G4B	g-g	hsa00565	compound
+GDPD1, GDE4	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+GDPD1, GDE4	ec	LPCAT2	g-g	hsa00565	compound
+GDPD1, GDE4	ec	LPCAT1	g-g	hsa00565	compound
+ENPP2	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+GDPD3	ec	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	g-g	hsa00565	compound
+ENPP2	ec	LPCAT2	g-g	hsa00565	compound
+ENPP2	ec	LPCAT1	g-g	hsa00565	compound
+GDPD3	ec	LPCAT2	g-g	hsa00565	compound
+GDPD3	ec	LPCAT1	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	PLPP2	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	PLPP3	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	CEPT1	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	CHPT1	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	CEPT1	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	CHPT1	g-g	hsa00565	compound
+UGT8, CGT, UGT4	ec	GAL3ST1, CST	g-g	hsa00565	compound
+C03372	rt	AGPS, ADAP-S, ADAS, ADHAPS, ADPS, ALDHPSY, RCDP3	irreversible	hsa00565	se
+AGPS, ADAP-S, ADAS, ADHAPS, ADPS, ALDHPSY, RCDP3	rt	C03715	irreversible	hsa00565	ep
+C04598	rt	PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	irreversible	hsa00565	se
+C04598	rt	PAFAH1B2	irreversible	hsa00565	se
+C04598	rt	PAFAH1B3	irreversible	hsa00565	se
+C04598	rt	PAFAH2	irreversible	hsa00565	se
+C04598	rt	PLA2G7	irreversible	hsa00565	se
+PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH	rt	C04317	irreversible	hsa00565	ep
+PAFAH1B2	rt	C04317	irreversible	hsa00565	ep
+PAFAH1B3	rt	C04317	irreversible	hsa00565	ep
+PAFAH2	rt	C04317	irreversible	hsa00565	ep
+PLA2G7	rt	C04317	irreversible	hsa00565	ep
+C03820	rt	CEPT1	irreversible	hsa00565	se
+C03820	rt	CHPT1	irreversible	hsa00565	se
+CEPT1	rt	C04598	irreversible	hsa00565	ep
+CHPT1	rt	C04598	irreversible	hsa00565	ep
+C03201	rt	CEPT1	irreversible	hsa00565	se
+C03201	rt	CHPT1	irreversible	hsa00565	se
+CEPT1	rt	C04475	irreversible	hsa00565	ep
+CHPT1	rt	C04475	irreversible	hsa00565	ep
+C04635	rt	GDPD1, GDE4	irreversible	hsa00565	se
+C04635	rt	ENPP2	irreversible	hsa00565	se
+C04635	rt	GDPD3	irreversible	hsa00565	se
+GDPD1, GDE4	rt	C15646	irreversible	hsa00565	ep
+ENPP2	rt	C15646	irreversible	hsa00565	ep
+GDPD3	rt	C15646	irreversible	hsa00565	ep
+C05977	rt	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	irreversible	hsa00565	se
+C05977	rt	PLPP2	irreversible	hsa00565	se
+C05977	rt	PLPP3	irreversible	hsa00565	se
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	rt	C03201	irreversible	hsa00565	ep
+PLPP2	rt	C03201	irreversible	hsa00565	ep
+PLPP3	rt	C03201	irreversible	hsa00565	ep
+C01233	rt	TMEM86B	irreversible	hsa00565	se
+TMEM86B	rt	C04635	irreversible	hsa00565	ep
+C05212	rt	PLA2G4B, HsT16992, cPLA2-beta	irreversible	hsa00565	se
+C05212	rt	PLA2G16	irreversible	hsa00565	se
+C05212	rt	PLA2G4E	irreversible	hsa00565	se
+C05212	rt	PLB1	irreversible	hsa00565	se
+C05212	rt	PLA2G4F	irreversible	hsa00565	se
+C05212	rt	PLA2G2D	irreversible	hsa00565	se
+C05212	rt	PLA2G4D	irreversible	hsa00565	se
+C05212	rt	PLA2G2E	irreversible	hsa00565	se
+C05212	rt	PLA2G2C	irreversible	hsa00565	se
+C05212	rt	PLA2G3	irreversible	hsa00565	se
+C05212	rt	PLA2G1B	irreversible	hsa00565	se
+C05212	rt	PLA2G2A	irreversible	hsa00565	se
+C05212	rt	PLA2G4A	irreversible	hsa00565	se
+C05212	rt	PLA2G5	irreversible	hsa00565	se
+C05212	rt	PLA2G2F	irreversible	hsa00565	se
+C05212	rt	PLA2G12A	irreversible	hsa00565	se
+C05212	rt	PLA2G6	irreversible	hsa00565	se
+C05212	rt	PLA2G10	irreversible	hsa00565	se
+C05212	rt	PLA2G12B	irreversible	hsa00565	se
+C05212	rt	PLA2G4C	irreversible	hsa00565	se
+C05212	rt	JMJD7-PLA2G4B	irreversible	hsa00565	se
+PLA2G4B, HsT16992, cPLA2-beta	rt	C04317	irreversible	hsa00565	ep
+PLA2G16	rt	C04317	irreversible	hsa00565	ep
+PLA2G4E	rt	C04317	irreversible	hsa00565	ep
+PLB1	rt	C04317	irreversible	hsa00565	ep
+PLA2G4F	rt	C04317	irreversible	hsa00565	ep
+PLA2G2D	rt	C04317	irreversible	hsa00565	ep
+PLA2G4D	rt	C04317	irreversible	hsa00565	ep
+PLA2G2E	rt	C04317	irreversible	hsa00565	ep
+PLA2G2C	rt	C04317	irreversible	hsa00565	ep
+PLA2G3	rt	C04317	irreversible	hsa00565	ep
+PLA2G1B	rt	C04317	irreversible	hsa00565	ep
+PLA2G2A	rt	C04317	irreversible	hsa00565	ep
+PLA2G4A	rt	C04317	irreversible	hsa00565	ep
+PLA2G5	rt	C04317	irreversible	hsa00565	ep
+PLA2G2F	rt	C04317	irreversible	hsa00565	ep
+PLA2G12A	rt	C04317	irreversible	hsa00565	ep
+PLA2G6	rt	C04317	irreversible	hsa00565	ep
+PLA2G10	rt	C04317	irreversible	hsa00565	ep
+PLA2G12B	rt	C04317	irreversible	hsa00565	ep
+PLA2G4C	rt	C04317	irreversible	hsa00565	ep
+JMJD7-PLA2G4B	rt	C04317	irreversible	hsa00565	ep
+C04756	rt	CEPT1	reversible	hsa00565	se
+C04756	rt	CHPT1	reversible	hsa00565	se
+CEPT1	rt	C04756	reversible	hsa00565	ep
+CHPT1	rt	C04756	reversible	hsa00565	ep
+CEPT1	rt	C03454	reversible	hsa00565	ep
+CHPT1	rt	C03454	reversible	hsa00565	ep
+C03454	rt	CEPT1	reversible	hsa00565	se
+C03454	rt	CHPT1	reversible	hsa00565	se
+C04756	rt	PLD4, C14orf175	irreversible	hsa00565	se
+C04756	rt	PLD3	irreversible	hsa00565	se
+C04756	rt	PLD1	irreversible	hsa00565	se
+C04756	rt	PLD2	irreversible	hsa00565	se
+PLD4, C14orf175	rt	C15647	irreversible	hsa00565	ep
+PLD3	rt	C15647	irreversible	hsa00565	ep
+PLD1	rt	C15647	irreversible	hsa00565	ep
+PLD2	rt	C15647	irreversible	hsa00565	ep
+C04756	rt	PLA2G4B, HsT16992, cPLA2-beta	irreversible	hsa00565	se
+C04756	rt	PLA2G16	irreversible	hsa00565	se
+C04756	rt	PLA2G4E	irreversible	hsa00565	se
+C04756	rt	PLB1	irreversible	hsa00565	se
+C04756	rt	PLA2G4F	irreversible	hsa00565	se
+C04756	rt	PLA2G2D	irreversible	hsa00565	se
+C04756	rt	PLA2G4D	irreversible	hsa00565	se
+C04756	rt	PLA2G2E	irreversible	hsa00565	se
+C04756	rt	PLA2G2C	irreversible	hsa00565	se
+C04756	rt	PLA2G3	irreversible	hsa00565	se
+C04756	rt	PLA2G1B	irreversible	hsa00565	se
+C04756	rt	PLA2G2A	irreversible	hsa00565	se
+C04756	rt	PLA2G4A	irreversible	hsa00565	se
+C04756	rt	PLA2G5	irreversible	hsa00565	se
+C04756	rt	PLA2G2F	irreversible	hsa00565	se
+C04756	rt	PLA2G12A	irreversible	hsa00565	se
+C04756	rt	PLA2G6	irreversible	hsa00565	se
+C04756	rt	PLA2G10	irreversible	hsa00565	se
+C04756	rt	PLA2G12B	irreversible	hsa00565	se
+C04756	rt	PLA2G4C	irreversible	hsa00565	se
+C04756	rt	JMJD7-PLA2G4B	irreversible	hsa00565	se
+PLA2G4B, HsT16992, cPLA2-beta	rt	C04635	irreversible	hsa00565	ep
+PLA2G16	rt	C04635	irreversible	hsa00565	ep
+PLA2G4E	rt	C04635	irreversible	hsa00565	ep
+PLB1	rt	C04635	irreversible	hsa00565	ep
+PLA2G4F	rt	C04635	irreversible	hsa00565	ep
+PLA2G2D	rt	C04635	irreversible	hsa00565	ep
+PLA2G4D	rt	C04635	irreversible	hsa00565	ep
+PLA2G2E	rt	C04635	irreversible	hsa00565	ep
+PLA2G2C	rt	C04635	irreversible	hsa00565	ep
+PLA2G3	rt	C04635	irreversible	hsa00565	ep
+PLA2G1B	rt	C04635	irreversible	hsa00565	ep
+PLA2G2A	rt	C04635	irreversible	hsa00565	ep
+PLA2G4A	rt	C04635	irreversible	hsa00565	ep
+PLA2G5	rt	C04635	irreversible	hsa00565	ep
+PLA2G2F	rt	C04635	irreversible	hsa00565	ep
+PLA2G12A	rt	C04635	irreversible	hsa00565	ep
+PLA2G6	rt	C04635	irreversible	hsa00565	ep
+PLA2G10	rt	C04635	irreversible	hsa00565	ep
+PLA2G12B	rt	C04635	irreversible	hsa00565	ep
+PLA2G4C	rt	C04635	irreversible	hsa00565	ep
+JMJD7-PLA2G4B	rt	C04635	irreversible	hsa00565	ep
+C04317	rt	LPCAT2, AGPAT11, AYTL1, LysoPAFAT	irreversible	hsa00565	se
+C04317	rt	LPCAT1	irreversible	hsa00565	se
+LPCAT2, AGPAT11, AYTL1, LysoPAFAT	rt	C05212	irreversible	hsa00565	ep
+LPCAT1	rt	C05212	irreversible	hsa00565	ep
+C04317	rt	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	irreversible	hsa00565	se
+C04317	rt	LPCAT2	irreversible	hsa00565	se
+C04317	rt	LPCAT1	irreversible	hsa00565	se
+LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	rt	C04598	irreversible	hsa00565	ep
+LPCAT2	rt	C04598	irreversible	hsa00565	ep
+LPCAT1	rt	C04598	irreversible	hsa00565	ep
+C03201	rt	CEPT1	irreversible	hsa00565	se
+C03201	rt	CHPT1	irreversible	hsa00565	se
+CEPT1	rt	C05212	irreversible	hsa00565	ep
+CHPT1	rt	C05212	irreversible	hsa00565	ep
+C04517	rt	TMEM86B	irreversible	hsa00565	se
+TMEM86B	rt	C00670	irreversible	hsa00565	ep
+C04635	rt	ENPP6, NPP6	irreversible	hsa00565	se
+ENPP6, NPP6	rt	C15645	irreversible	hsa00565	ep
+C04635	rt	LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	irreversible	hsa00565	se
+C04635	rt	LPCAT2	irreversible	hsa00565	se
+C04635	rt	LPCAT1	irreversible	hsa00565	se
+LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2	rt	C04756	irreversible	hsa00565	ep
+LPCAT2	rt	C04756	irreversible	hsa00565	ep
+LPCAT1	rt	C04756	irreversible	hsa00565	ep
+C03201	rt	UGT8, CGT, UGT4	irreversible	hsa00565	se
+UGT8, CGT, UGT4	rt	C20859	irreversible	hsa00565	ep
+C20859	rt	GAL3ST1, CST	irreversible	hsa00565	se
+GAL3ST1, CST	rt	C20825	irreversible	hsa00565	ep
+C02773				hsa00565	
+C01264				hsa00565	
+C03968				hsa00565	
+C04361				hsa00565	
+C00958				hsa00565	

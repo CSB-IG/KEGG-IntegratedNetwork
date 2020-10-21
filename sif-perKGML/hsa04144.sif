@@ -1,0 +1,613 @@
+GRK7, GPRK7	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK7, GPRK7	gr	ARRB2	group	hsa04144	group
+GRK2	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK3	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK4	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK5	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK6	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK1	gr	ARRB1, ARB1, ARR1	group	hsa04144	group
+GRK2	gr	ARRB2	group	hsa04144	group
+GRK3	gr	ARRB2	group	hsa04144	group
+GRK4	gr	ARRB2	group	hsa04144	group
+GRK5	gr	ARRB2	group	hsa04144	group
+GRK6	gr	ARRB2	group	hsa04144	group
+GRK1	gr	ARRB2	group	hsa04144	group
+EPN2, EHB21	gr	EPS15, AF-1P, AF1P, MLLT5	group	hsa04144	group
+EPN2, EHB21	gr	EPS15L1	group	hsa04144	group
+EPN1	gr	EPS15, AF-1P, AF1P, MLLT5	group	hsa04144	group
+EPN3	gr	EPS15, AF-1P, AF1P, MLLT5	group	hsa04144	group
+EPN1	gr	EPS15L1	group	hsa04144	group
+EPN3	gr	EPS15L1	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SH3GLB2	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SH3GL1	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SH3GL2	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SH3GL3	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	RNF41	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	WWP1	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	NEDD4L	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	MDM2	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	NEDD4	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SMURF1	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	SMURF2	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	TRAF6	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	ITCH	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	CBL	group	hsa04144	group
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	gr	CBLB	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	RNF41	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	WWP1	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	NEDD4L	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	MDM2	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	NEDD4	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	SMURF1	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	SMURF2	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	TRAF6	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	ITCH	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	CBL	group	hsa04144	group
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	gr	CBLB	group	hsa04144	group
+SH3GLB2	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3GL1	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3GL2	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3GL3	gr	CBLC, CBL-3, CBL-SL, RNF57	group	hsa04144	group
+SH3GLB2	gr	RNF41	group	hsa04144	group
+SH3GLB2	gr	WWP1	group	hsa04144	group
+SH3GLB2	gr	NEDD4L	group	hsa04144	group
+SH3GLB2	gr	MDM2	group	hsa04144	group
+SH3GLB2	gr	NEDD4	group	hsa04144	group
+SH3GLB2	gr	SMURF1	group	hsa04144	group
+SH3GLB2	gr	SMURF2	group	hsa04144	group
+SH3GLB2	gr	TRAF6	group	hsa04144	group
+SH3GLB2	gr	ITCH	group	hsa04144	group
+SH3GLB2	gr	CBL	group	hsa04144	group
+SH3GLB2	gr	CBLB	group	hsa04144	group
+SH3GL1	gr	RNF41	group	hsa04144	group
+SH3GL1	gr	WWP1	group	hsa04144	group
+SH3GL1	gr	NEDD4L	group	hsa04144	group
+SH3GL1	gr	MDM2	group	hsa04144	group
+SH3GL1	gr	NEDD4	group	hsa04144	group
+SH3GL1	gr	SMURF1	group	hsa04144	group
+SH3GL1	gr	SMURF2	group	hsa04144	group
+SH3GL1	gr	TRAF6	group	hsa04144	group
+SH3GL1	gr	ITCH	group	hsa04144	group
+SH3GL1	gr	CBL	group	hsa04144	group
+SH3GL1	gr	CBLB	group	hsa04144	group
+SH3GL2	gr	RNF41	group	hsa04144	group
+SH3GL2	gr	WWP1	group	hsa04144	group
+SH3GL2	gr	NEDD4L	group	hsa04144	group
+SH3GL2	gr	MDM2	group	hsa04144	group
+SH3GL2	gr	NEDD4	group	hsa04144	group
+SH3GL2	gr	SMURF1	group	hsa04144	group
+SH3GL2	gr	SMURF2	group	hsa04144	group
+SH3GL2	gr	TRAF6	group	hsa04144	group
+SH3GL2	gr	ITCH	group	hsa04144	group
+SH3GL2	gr	CBL	group	hsa04144	group
+SH3GL2	gr	CBLB	group	hsa04144	group
+SH3GL3	gr	RNF41	group	hsa04144	group
+SH3GL3	gr	WWP1	group	hsa04144	group
+SH3GL3	gr	NEDD4L	group	hsa04144	group
+SH3GL3	gr	MDM2	group	hsa04144	group
+SH3GL3	gr	NEDD4	group	hsa04144	group
+SH3GL3	gr	SMURF1	group	hsa04144	group
+SH3GL3	gr	SMURF2	group	hsa04144	group
+SH3GL3	gr	TRAF6	group	hsa04144	group
+SH3GL3	gr	ITCH	group	hsa04144	group
+SH3GL3	gr	CBL	group	hsa04144	group
+SH3GL3	gr	CBLB	group	hsa04144	group
+LDLRAP1, ARH, ARH1, ARH2, FHCB1, FHCB2	gr	DAB2, DOC-2, DOC2	group	hsa04144	group
+VPS4A, SKD1, SKD1A, SKD2, VPS4, VPS4-1	gr	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	group	hsa04144	group
+VPS4B	gr	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	group	hsa04144	group
+CLTA, LCA	gr	AP2M1, AP50, CLAPM1, mu2	group	hsa04144	group
+CLTA, LCA	gr	AP2S1	group	hsa04144	group
+CLTA, LCA	gr	AP2A1	group	hsa04144	group
+CLTA, LCA	gr	AP2A2	group	hsa04144	group
+CLTA, LCA	gr	AP2B1	group	hsa04144	group
+CLTB	gr	AP2M1, AP50, CLAPM1, mu2	group	hsa04144	group
+CLTC	gr	AP2M1, AP50, CLAPM1, mu2	group	hsa04144	group
+CLTCL1	gr	AP2M1, AP50, CLAPM1, mu2	group	hsa04144	group
+CLTB	gr	AP2S1	group	hsa04144	group
+CLTB	gr	AP2A1	group	hsa04144	group
+CLTB	gr	AP2A2	group	hsa04144	group
+CLTB	gr	AP2B1	group	hsa04144	group
+CLTC	gr	AP2S1	group	hsa04144	group
+CLTC	gr	AP2A1	group	hsa04144	group
+CLTC	gr	AP2A2	group	hsa04144	group
+CLTC	gr	AP2B1	group	hsa04144	group
+CLTCL1	gr	AP2S1	group	hsa04144	group
+CLTCL1	gr	AP2A1	group	hsa04144	group
+CLTCL1	gr	AP2A2	group	hsa04144	group
+CLTCL1	gr	AP2B1	group	hsa04144	group
+RNF41, FLRF, NRDP1, SBBI03	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+RNF41, FLRF, NRDP1, SBBI03	pp	FGFR3	g-g	hsa04144	ubiquitination
+RNF41, FLRF, NRDP1, SBBI03	pp	FGFR2	g-g	hsa04144	ubiquitination
+RNF41, FLRF, NRDP1, SBBI03	pp	FGFR4	g-g	hsa04144	ubiquitination
+RNF41, FLRF, NRDP1, SBBI03	pp	IGF1R	g-g	hsa04144	ubiquitination
+RNF41, FLRF, NRDP1, SBBI03	pp	PDGFRA	g-g	hsa04144	ubiquitination
+WWP1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+NEDD4L	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+CBLC	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+MDM2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+NEDD4	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+SMURF1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+SMURF2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+TRAF6	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+ITCH	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+CBL	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+CBLB	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04144	ubiquitination
+WWP1	pp	FGFR3	g-g	hsa04144	ubiquitination
+WWP1	pp	FGFR2	g-g	hsa04144	ubiquitination
+WWP1	pp	FGFR4	g-g	hsa04144	ubiquitination
+WWP1	pp	IGF1R	g-g	hsa04144	ubiquitination
+WWP1	pp	PDGFRA	g-g	hsa04144	ubiquitination
+NEDD4L	pp	FGFR3	g-g	hsa04144	ubiquitination
+NEDD4L	pp	FGFR2	g-g	hsa04144	ubiquitination
+NEDD4L	pp	FGFR4	g-g	hsa04144	ubiquitination
+NEDD4L	pp	IGF1R	g-g	hsa04144	ubiquitination
+NEDD4L	pp	PDGFRA	g-g	hsa04144	ubiquitination
+CBLC	pp	FGFR3	g-g	hsa04144	ubiquitination
+CBLC	pp	FGFR2	g-g	hsa04144	ubiquitination
+CBLC	pp	FGFR4	g-g	hsa04144	ubiquitination
+CBLC	pp	IGF1R	g-g	hsa04144	ubiquitination
+CBLC	pp	PDGFRA	g-g	hsa04144	ubiquitination
+MDM2	pp	FGFR3	g-g	hsa04144	ubiquitination
+MDM2	pp	FGFR2	g-g	hsa04144	ubiquitination
+MDM2	pp	FGFR4	g-g	hsa04144	ubiquitination
+MDM2	pp	IGF1R	g-g	hsa04144	ubiquitination
+MDM2	pp	PDGFRA	g-g	hsa04144	ubiquitination
+NEDD4	pp	FGFR3	g-g	hsa04144	ubiquitination
+NEDD4	pp	FGFR2	g-g	hsa04144	ubiquitination
+NEDD4	pp	FGFR4	g-g	hsa04144	ubiquitination
+NEDD4	pp	IGF1R	g-g	hsa04144	ubiquitination
+NEDD4	pp	PDGFRA	g-g	hsa04144	ubiquitination
+SMURF1	pp	FGFR3	g-g	hsa04144	ubiquitination
+SMURF1	pp	FGFR2	g-g	hsa04144	ubiquitination
+SMURF1	pp	FGFR4	g-g	hsa04144	ubiquitination
+SMURF1	pp	IGF1R	g-g	hsa04144	ubiquitination
+SMURF1	pp	PDGFRA	g-g	hsa04144	ubiquitination
+SMURF2	pp	FGFR3	g-g	hsa04144	ubiquitination
+SMURF2	pp	FGFR2	g-g	hsa04144	ubiquitination
+SMURF2	pp	FGFR4	g-g	hsa04144	ubiquitination
+SMURF2	pp	IGF1R	g-g	hsa04144	ubiquitination
+SMURF2	pp	PDGFRA	g-g	hsa04144	ubiquitination
+TRAF6	pp	FGFR3	g-g	hsa04144	ubiquitination
+TRAF6	pp	FGFR2	g-g	hsa04144	ubiquitination
+TRAF6	pp	FGFR4	g-g	hsa04144	ubiquitination
+TRAF6	pp	IGF1R	g-g	hsa04144	ubiquitination
+TRAF6	pp	PDGFRA	g-g	hsa04144	ubiquitination
+ITCH	pp	FGFR3	g-g	hsa04144	ubiquitination
+ITCH	pp	FGFR2	g-g	hsa04144	ubiquitination
+ITCH	pp	FGFR4	g-g	hsa04144	ubiquitination
+ITCH	pp	IGF1R	g-g	hsa04144	ubiquitination
+ITCH	pp	PDGFRA	g-g	hsa04144	ubiquitination
+CBL	pp	FGFR3	g-g	hsa04144	ubiquitination
+CBL	pp	FGFR2	g-g	hsa04144	ubiquitination
+CBL	pp	FGFR4	g-g	hsa04144	ubiquitination
+CBL	pp	IGF1R	g-g	hsa04144	ubiquitination
+CBL	pp	PDGFRA	g-g	hsa04144	ubiquitination
+CBLB	pp	FGFR3	g-g	hsa04144	ubiquitination
+CBLB	pp	FGFR2	g-g	hsa04144	ubiquitination
+CBLB	pp	FGFR4	g-g	hsa04144	ubiquitination
+CBLB	pp	IGF1R	g-g	hsa04144	ubiquitination
+CBLB	pp	PDGFRA	g-g	hsa04144	ubiquitination
+GRK7, GPRK7	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK7, GPRK7	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK7, GPRK7	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK7, GPRK7	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK2	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK3	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK4	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK5	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK6	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK1	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+GRK2	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK2	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK2	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK3	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK3	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK3	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK4	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK4	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK4	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK5	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK5	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK5	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK6	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK6	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK6	pp	CXCR4	gr-g	hsa04144	phosphorylation
+GRK1	pp	CXCR1	gr-g	hsa04144	phosphorylation
+GRK1	pp	CXCR2	gr-g	hsa04144	phosphorylation
+GRK1	pp	CXCR4	gr-g	hsa04144	phosphorylation
+ARRB1, ARB1, ARR1	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+ARRB1, ARB1, ARR1	pp	CXCR1	gr-g	hsa04144	phosphorylation
+ARRB1, ARB1, ARR1	pp	CXCR2	gr-g	hsa04144	phosphorylation
+ARRB1, ARB1, ARR1	pp	CXCR4	gr-g	hsa04144	phosphorylation
+ARRB2	pp	CCR5, CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22	gr-g	hsa04144	phosphorylation
+ARRB2	pp	CXCR1	gr-g	hsa04144	phosphorylation
+ARRB2	pp	CXCR2	gr-g	hsa04144	phosphorylation
+ARRB2	pp	CXCR4	gr-g	hsa04144	phosphorylation
+EPN2, EHB21	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+EPN2, EHB21	pp	FGFR3	gr-g	hsa04144	binding/association
+EPN2, EHB21	pp	FGFR2	gr-g	hsa04144	binding/association
+EPN2, EHB21	pp	FGFR4	gr-g	hsa04144	binding/association
+EPN2, EHB21	pp	IGF1R	gr-g	hsa04144	binding/association
+EPN2, EHB21	pp	PDGFRA	gr-g	hsa04144	binding/association
+EPN1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+EPN3	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+EPN1	pp	FGFR3	gr-g	hsa04144	binding/association
+EPN1	pp	FGFR2	gr-g	hsa04144	binding/association
+EPN1	pp	FGFR4	gr-g	hsa04144	binding/association
+EPN1	pp	IGF1R	gr-g	hsa04144	binding/association
+EPN1	pp	PDGFRA	gr-g	hsa04144	binding/association
+EPN3	pp	FGFR3	gr-g	hsa04144	binding/association
+EPN3	pp	FGFR2	gr-g	hsa04144	binding/association
+EPN3	pp	FGFR4	gr-g	hsa04144	binding/association
+EPN3	pp	IGF1R	gr-g	hsa04144	binding/association
+EPN3	pp	PDGFRA	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	FGFR3	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	FGFR2	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	FGFR4	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	IGF1R	gr-g	hsa04144	binding/association
+EPS15, AF-1P, AF1P, MLLT5	pp	PDGFRA	gr-g	hsa04144	binding/association
+EPS15L1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+EPS15L1	pp	FGFR3	gr-g	hsa04144	binding/association
+EPS15L1	pp	FGFR2	gr-g	hsa04144	binding/association
+EPS15L1	pp	FGFR4	gr-g	hsa04144	binding/association
+EPS15L1	pp	IGF1R	gr-g	hsa04144	binding/association
+EPS15L1	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3KBP1, CD2BP3, CIN85, GIG10, HSB-1, HSB1, MIG18	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3GLB1, Bif-1, CGI-61, PPP1R70, dJ612B152	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3GLB2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3GL1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3GL2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3GL3	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SH3GLB2	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3GLB2	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3GLB2	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3GLB2	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3GLB2	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3GL1	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3GL1	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3GL1	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3GL1	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3GL1	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3GL2	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3GL2	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3GL2	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3GL2	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3GL2	pp	PDGFRA	gr-g	hsa04144	binding/association
+SH3GL3	pp	FGFR3	gr-g	hsa04144	binding/association
+SH3GL3	pp	FGFR2	gr-g	hsa04144	binding/association
+SH3GL3	pp	FGFR4	gr-g	hsa04144	binding/association
+SH3GL3	pp	IGF1R	gr-g	hsa04144	binding/association
+SH3GL3	pp	PDGFRA	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	FGFR3	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	FGFR2	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	FGFR4	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	IGF1R	gr-g	hsa04144	binding/association
+CBLC, CBL-3, CBL-SL, RNF57	pp	PDGFRA	gr-g	hsa04144	binding/association
+RNF41	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+WWP1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+NEDD4L	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+MDM2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+NEDD4	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SMURF1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+SMURF2	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+TRAF6	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+ITCH	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+CBL	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+CBLB	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	gr-g	hsa04144	binding/association
+RNF41	pp	FGFR3	gr-g	hsa04144	binding/association
+RNF41	pp	FGFR2	gr-g	hsa04144	binding/association
+RNF41	pp	FGFR4	gr-g	hsa04144	binding/association
+RNF41	pp	IGF1R	gr-g	hsa04144	binding/association
+RNF41	pp	PDGFRA	gr-g	hsa04144	binding/association
+WWP1	pp	FGFR3	gr-g	hsa04144	binding/association
+WWP1	pp	FGFR2	gr-g	hsa04144	binding/association
+WWP1	pp	FGFR4	gr-g	hsa04144	binding/association
+WWP1	pp	IGF1R	gr-g	hsa04144	binding/association
+WWP1	pp	PDGFRA	gr-g	hsa04144	binding/association
+NEDD4L	pp	FGFR3	gr-g	hsa04144	binding/association
+NEDD4L	pp	FGFR2	gr-g	hsa04144	binding/association
+NEDD4L	pp	FGFR4	gr-g	hsa04144	binding/association
+NEDD4L	pp	IGF1R	gr-g	hsa04144	binding/association
+NEDD4L	pp	PDGFRA	gr-g	hsa04144	binding/association
+MDM2	pp	FGFR3	gr-g	hsa04144	binding/association
+MDM2	pp	FGFR2	gr-g	hsa04144	binding/association
+MDM2	pp	FGFR4	gr-g	hsa04144	binding/association
+MDM2	pp	IGF1R	gr-g	hsa04144	binding/association
+MDM2	pp	PDGFRA	gr-g	hsa04144	binding/association
+NEDD4	pp	FGFR3	gr-g	hsa04144	binding/association
+NEDD4	pp	FGFR2	gr-g	hsa04144	binding/association
+NEDD4	pp	FGFR4	gr-g	hsa04144	binding/association
+NEDD4	pp	IGF1R	gr-g	hsa04144	binding/association
+NEDD4	pp	PDGFRA	gr-g	hsa04144	binding/association
+SMURF1	pp	FGFR3	gr-g	hsa04144	binding/association
+SMURF1	pp	FGFR2	gr-g	hsa04144	binding/association
+SMURF1	pp	FGFR4	gr-g	hsa04144	binding/association
+SMURF1	pp	IGF1R	gr-g	hsa04144	binding/association
+SMURF1	pp	PDGFRA	gr-g	hsa04144	binding/association
+SMURF2	pp	FGFR3	gr-g	hsa04144	binding/association
+SMURF2	pp	FGFR2	gr-g	hsa04144	binding/association
+SMURF2	pp	FGFR4	gr-g	hsa04144	binding/association
+SMURF2	pp	IGF1R	gr-g	hsa04144	binding/association
+SMURF2	pp	PDGFRA	gr-g	hsa04144	binding/association
+TRAF6	pp	FGFR3	gr-g	hsa04144	binding/association
+TRAF6	pp	FGFR2	gr-g	hsa04144	binding/association
+TRAF6	pp	FGFR4	gr-g	hsa04144	binding/association
+TRAF6	pp	IGF1R	gr-g	hsa04144	binding/association
+TRAF6	pp	PDGFRA	gr-g	hsa04144	binding/association
+ITCH	pp	FGFR3	gr-g	hsa04144	binding/association
+ITCH	pp	FGFR2	gr-g	hsa04144	binding/association
+ITCH	pp	FGFR4	gr-g	hsa04144	binding/association
+ITCH	pp	IGF1R	gr-g	hsa04144	binding/association
+ITCH	pp	PDGFRA	gr-g	hsa04144	binding/association
+CBL	pp	FGFR3	gr-g	hsa04144	binding/association
+CBL	pp	FGFR2	gr-g	hsa04144	binding/association
+CBL	pp	FGFR4	gr-g	hsa04144	binding/association
+CBL	pp	IGF1R	gr-g	hsa04144	binding/association
+CBL	pp	PDGFRA	gr-g	hsa04144	binding/association
+CBLB	pp	FGFR3	gr-g	hsa04144	binding/association
+CBLB	pp	FGFR2	gr-g	hsa04144	binding/association
+CBLB	pp	FGFR4	gr-g	hsa04144	binding/association
+CBLB	pp	IGF1R	gr-g	hsa04144	binding/association
+CBLB	pp	PDGFRA	gr-g	hsa04144	binding/association
+LDLRAP1, ARH, ARH1, ARH2, FHCB1, FHCB2	pp	LDLR, FH, FHC, LDLCQ2	gr-g	hsa04144	binding/association
+DAB2, DOC-2, DOC2	pp	LDLR, FH, FHC, LDLCQ2	gr-g	hsa04144	binding/association
+RBSN, Rabenosyn-5, ZFYVE20	pp	RAB4A, HRES-1, HRES-1/RAB4, HRES1, RAB4	g-g	hsa04144	binding/association
+RAB4A, HRES-1, HRES-1/RAB4, HRES1, RAB4	pp	RUFY1, RABIP4, ZFYVE12	g-g	hsa04144	binding/association
+EHD3, PAST3	pp	RBSN, Rabenosyn-5, ZFYVE20	g-g	hsa04144	binding/association
+RBSN, Rabenosyn-5, ZFYVE20	pp	EHD1, H-PAST, HPAST1, PAST, PAST1	g-g	hsa04144	binding/association
+EHD1, H-PAST, HPAST1, PAST, PAST1	pp	RAB11FIP2, Rab11-FIP2, nRip11	g-g	hsa04144	binding/association
+EHD1, H-PAST, HPAST1, PAST, PAST1	pp	RAB11FIP5	g-g	hsa04144	binding/association
+EHD1, H-PAST, HPAST1, PAST, PAST1	pp	RAB11FIP1	g-g	hsa04144	binding/association
+RAB11FIP2, Rab11-FIP2, nRip11	pp	RAB11A, YL8	g-g	hsa04144	binding/association
+RAB11FIP2, Rab11-FIP2, nRip11	pp	RAB11B	g-g	hsa04144	binding/association
+RAB11FIP5	pp	RAB11A, YL8	g-g	hsa04144	binding/association
+RAB11FIP1	pp	RAB11A, YL8	g-g	hsa04144	binding/association
+RAB11FIP5	pp	RAB11B	g-g	hsa04144	binding/association
+RAB11FIP1	pp	RAB11B	g-g	hsa04144	binding/association
+MVB12B, C9orf28, FAM125B	pp	PDCD6IP, AIP1, ALIX, DRIP4, HP95	g-g	hsa04144	binding/association
+MVB12A	pp	PDCD6IP, AIP1, ALIX, DRIP4, HP95	g-g	hsa04144	binding/association
+CHMP4B, C20orf178, CHMP4A, CTPP3, CTRCT31, SNF7, SNF7-2, Shax1, VPS32B, Vps32-2, dJ553F44	pp	PDCD6IP, AIP1, ALIX, DRIP4, HP95	g-g	hsa04144	binding/association
+CHMP4B	pp	PDCD6IP, AIP1, ALIX, DRIP4, HP95	g-g	hsa04144	binding/association
+CHMP4C	pp	PDCD6IP, AIP1, ALIX, DRIP4, HP95	g-g	hsa04144	binding/association
+HGS, HRS	pp	STAM2, Hbp, STAM2A, STAM2B	g-g	hsa04144	binding/association
+HGS, HRS	pp	STAM	g-g	hsa04144	binding/association
+VPS4A, SKD1, SKD1A, SKD2, VPS4, VPS4-1	pp	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	g-g	hsa04144	binding/association
+VPS4B	pp	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	g-g	hsa04144	binding/association
+CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, VPS46A	pp	VPS4A, SKD1, SKD1A, SKD2, VPS4, VPS4-1	g-gr	hsa04144	binding/association
+CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, VPS46A	pp	VPS4B	g-gr	hsa04144	binding/association
+CHMP1B	pp	VPS4A, SKD1, SKD1A, SKD2, VPS4, VPS4-1	g-gr	hsa04144	binding/association
+CHMP1B	pp	VPS4B	g-gr	hsa04144	binding/association
+CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, VPS46A	pp	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	g-gr	hsa04144	binding/association
+CHMP1B	pp	VTA1, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1	g-gr	hsa04144	binding/association
+CHMP5, C9orf83, CGI-34, HSPC177, PNAS-2, SNF7DC2, Vps60	pp	VPS4A, SKD1, SKD1A, SKD2, VPS4, VPS4-1	g-g	hsa04144	binding/association
+CHMP5, C9orf83, CGI-34, HSPC177, PNAS-2, SNF7DC2, Vps60	pp	VPS4B	g-g	hsa04144	binding/association
+CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, VPS46A	pp	CHMP2B, ALS17, CHMP25, DMT1, VPS2-2, VPS2B	g-g	hsa04144	binding/association
+CHMP1A, CHMP1, PCH8, PCOLN3, PRSM1, VPS46-1, VPS46A	pp	CHMP2A	g-g	hsa04144	binding/association
+CHMP1B	pp	CHMP2B, ALS17, CHMP25, DMT1, VPS2-2, VPS2B	g-g	hsa04144	binding/association
+CHMP1B	pp	CHMP2A	g-g	hsa04144	binding/association
+CHMP7	pp	CHMP4B, C20orf178, CHMP4A, CTPP3, CTRCT31, SNF7, SNF7-2, Shax1, VPS32B, Vps32-2, dJ553F44	g-g	hsa04144	binding/association
+CHMP7	pp	CHMP4B	g-g	hsa04144	binding/association
+CHMP7	pp	CHMP4C	g-g	hsa04144	binding/association
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04144	phosphorylation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TBR-i, TBRI, TGFR-1, tbetaR-I	pp	SMAD3	g-g	hsa04144	phosphorylation
+TGFBR2	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04144	phosphorylation
+TGFBR2	pp	SMAD3	g-g	hsa04144	phosphorylation
+CLTA, LCA	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+CLTB	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+CLTC	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+CLTCL1	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+AP2M1, AP50, CLAPM1, mu2	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+AP2S1	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+AP2A1	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+AP2A2	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+AP2B1	pp	EHD2, PAST2	gr-g	hsa04144	binding/association
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	CAV1, BSCL3, CGL3, LCCNS, MSTP085, PPH3, VIP21, CAV	g-g	hsa04144	phosphorylation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	CAV2	g-g	hsa04144	phosphorylation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	CAV3	g-g	hsa04144	phosphorylation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04144	binding/association
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	IL2RB	g-g	hsa04144	binding/association
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	IL2RG	g-g	hsa04144	binding/association
+VPS45, H1, H1VPS45, SCN5, VPS45A, VPS45B, VPS54A, VSP45, VSP45A	pp	RBSN, Rabenosyn-5, ZFYVE20	g-g	hsa04144	binding/association
+C04549				hsa04144	
+C04549				hsa04144	
+STAMBP, AMSH, MICCAP				hsa04144	
+USP8, HumORF8, PITA4, SPG59, UBPY				hsa04144	
+DNM1, DNM, EIEE31				hsa04144	
+DNM2				hsa04144	
+DNM3				hsa04144	
+VPS37A, HCRP1, PQBP2, SPG53				hsa04144	
+VPS37D				hsa04144	
+VPS37C				hsa04144	
+VPS37B				hsa04144	
+VPS28				hsa04144	
+HSPA1A, HEL-S-103, HSP70-1, HSP70-1A, HSP701, HSP70I, HSP72, HSPA1				hsa04144	
+HSPA1B				hsa04144	
+HSPA1L				hsa04144	
+HSPA2				hsa04144	
+HSPA6				hsa04144	
+HSPA8				hsa04144	
+DNAJC6, DJC6, PARK19				hsa04144	
+VPS36, C13orf9, CGI-145, EAP45				hsa04144	
+TSG101, TSG10, VPS23				hsa04144	
+VPS25, DERP9, EAP20, FAP20				hsa04144	
+SNF8, Dot3, EAP30, VPS22				hsa04144	
+CHMP6, VPS20				hsa04144	
+RNF103-CHMP3, RNF103-VPS24				hsa04144	
+CHMP3				hsa04144	
+CDC42, CDC42Hs, G25K, TKS				hsa04144	
+PRKCI, DXS1179E, PKCI, nPKC-iota				hsa04144	
+PRKCZ				hsa04144	
+PARD6A, PAR-6A, PAR6, PAR6C, PAR6alpha, TAX40, TIP-40				hsa04144	
+PARD6G				hsa04144	
+PARD6B				hsa04144	
+PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2				hsa04144	
+ARF6				hsa04144	
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras				hsa04144	
+C05981				hsa04144	
+TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90				hsa04144	
+USP8, HumORF8, PITA4, SPG59, UBPY				hsa04144	
+RAB5A, RAB5				hsa04144	
+RAB5B				hsa04144	
+RAB5C				hsa04144	
+ARF6				hsa04144	
+STAMBP, AMSH, MICCAP				hsa04144	
+ARF6				hsa04144	
+PLD1, CVDD				hsa04144	
+PLD2				hsa04144	
+PLD1, CVDD				hsa04144	
+PLD2				hsa04144	
+PIP5KL1, PIPKH				hsa04144	
+PIP5K1C				hsa04144	
+PIP5K1A				hsa04144	
+PIP5K1B				hsa04144	
+PIP5KL1, PIPKH				hsa04144	
+PIP5K1C				hsa04144	
+PIP5K1A				hsa04144	
+PIP5K1B				hsa04144	
+C04549				hsa04144	
+EEA1, MST105, MSTP105, ZFYVE2				hsa04144	
+RABEP1, RAB5EP, RABPT5				hsa04144	
+ARFGEF2, BIG2, PVNH2, dJ1164I101				hsa04144	
+ARFGEF1				hsa04144	
+IQSEC2				hsa04144	
+PSD3				hsa04144	
+PSD4				hsa04144	
+CYTH4				hsa04144	
+IQSEC3				hsa04144	
+PSD				hsa04144	
+PSD2				hsa04144	
+GBF1				hsa04144	
+CYTH3				hsa04144	
+CYTH2				hsa04144	
+CYTH1				hsa04144	
+IQSEC1				hsa04144	
+ACAP3, CENTB5				hsa04144	
+ARAP2				hsa04144	
+ARAP1				hsa04144	
+AGAP2				hsa04144	
+AGAP1				hsa04144	
+AGAP3				hsa04144	
+ACAP2				hsa04144	
+ARFGAP3				hsa04144	
+GIT1				hsa04144	
+ASAP1				hsa04144	
+ASAP3				hsa04144	
+ARFGAP1				hsa04144	
+SMAP1				hsa04144	
+ARAP3				hsa04144	
+SMAP2				hsa04144	
+ARFGAP2				hsa04144	
+ASAP2				hsa04144	
+ACAP1				hsa04144	
+GIT2				hsa04144	
+EHD4, PAST4				hsa04144	
+HLA-A, HLAA				hsa04144	
+HLA-B				hsa04144	
+HLA-C				hsa04144	
+HLA-E				hsa04144	
+HLA-F				hsa04144	
+HLA-G				hsa04144	
+RAB7A, PRO2706, RAB7				hsa04144	
+RAB7A, PRO2706, RAB7				hsa04144	
+ZFYVE9, MADHIP, NSP, PPP1R173, SARA, SMADIP				hsa04144	
+ZFYVE16				hsa04144	
+PML, MYL, PP8675, RNF71, TRIM19				hsa04144	
+PLD1, CVDD				hsa04144	
+PLD2				hsa04144	
+RAB5A, RAB5				hsa04144	
+RAB5B				hsa04144	
+RAB5C				hsa04144	
+FOLR1, FBP, FOLR				hsa04144	
+FOLR2				hsa04144	
+FOLR3				hsa04144	
+IZUMO1R				hsa04144	
+C05981				hsa04144	
+C11556				hsa04144	
+C04637				hsa04144	
+C04637				hsa04144	
+C04637				hsa04144	
+ARF1				hsa04144	
+ARF3				hsa04144	
+ARF5				hsa04144	
+ARF6				hsa04144	
+ARF1				hsa04144	
+ARF3				hsa04144	
+ARF5				hsa04144	
+ARF6				hsa04144	
+C00035				hsa04144	
+C00044				hsa04144	
+ZFYVE27, PROTRUDIN, SPG33				hsa04144	
+KIF5A, D12S1889, MY050, NEIMY, NKHC, SPG10				hsa04144	
+KIF5B				hsa04144	
+KIF5C				hsa04144	
+WASHC1, FAM39E, WASH, WASH1				hsa04144	
+WASHC2C, FAM21A, FAM21C, VPEF				hsa04144	
+WASHC2A				hsa04144	
+WASHC3, CCDC53, CGI-116				hsa04144	
+WASHC4, KIAA1033, MRT43, SWIP				hsa04144	
+WASHC5, KIAA0196, RTSC, RTSC1, SPG8				hsa04144	
+CAPZA1, CAPPA1, CAPZ, CAZ1				hsa04144	
+CAPZA2				hsa04144	
+CAPZA3				hsa04144	
+SPART, SPG20, TAHCCP1				hsa04144	
+CAPZB, CAPB, CAPPB, CAPZ				hsa04144	
+RAB35, H-ray, RAB1C, RAY				hsa04144	
+RAB10				hsa04144	
+SNX4, ATG24B				hsa04144	
+VPS26B, Pep8b				hsa04144	
+VPS26A				hsa04144	
+RAB31, Rab22B				hsa04144	
+RAB22A				hsa04144	
+VPS29, DC15, DC7, PEP11				hsa04144	
+VPS35, MEM3, PARK17				hsa04144	
+RAB8A, MEL, RAB8				hsa04144	
+RAB11FIP4, FIP4-Rab11, RAB11-FIP4				hsa04144	
+RAB11FIP3				hsa04144	
+RAB35, H-ray, RAB1C, RAY				hsa04144	
+AMPH, AMPH1				hsa04144	
+BIN1				hsa04144	
+SPG21, ACP33, BM-019, GL010, MAST				hsa04144	
+ARPC5, ARC16, dJ127C73, p16-Arc				hsa04144	
+ARPC4				hsa04144	
+ARPC3				hsa04144	
+ARPC1B				hsa04144	
+ARPC2				hsa04144	
+ARPC1A				hsa04144	
+ARPC5L				hsa04144	
+SNX12				hsa04144	
+SNX3				hsa04144	
+SNX1, HsT17379, VPS5				hsa04144	
+SNX2				hsa04144	
+SNX32, SNX6B				hsa04144	
+SNX5				hsa04144	
+SNX6				hsa04144	
+IGF2R, CD222, CI-M6PR, CIMPR, M6P-R, M6P/IGF2R, MPR_300, MPR1, MPR300, MPRI				hsa04144	
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA				hsa04144	
+WASL				hsa04144	
+WIPF2, WICH, WIRE				hsa04144	
+WIPF3				hsa04144	
+WIPF1				hsa04144	
+ARPC5, ARC16, dJ127C73, p16-Arc				hsa04144	
+ARPC4				hsa04144	
+ARPC3				hsa04144	
+ARPC1B				hsa04144	
+ARPC2				hsa04144	
+ARPC1A				hsa04144	
+ARPC5L				hsa04144	
+IST1, OLC1, KIAA0174				hsa04144	
+UBB, HEL-S-50				hsa04144	

@@ -1,0 +1,17 @@
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	ec	LIPT2	g-g	hsa00785	compound
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	ec	LIPT2	g-g	hsa00785	compound
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	ec	LIPT2	g-g	hsa00785	compound
+LIPT2	ec	LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	g-g	hsa00785	compound
+LIPT2	ec	LIPT1, LIPT1D	g-g	hsa00785	compound
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	ec	LIPT1, LIPT1D	g-g	hsa00785	compound
+C05752	rt	LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	irreversible	hsa00785	se
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	rt	C16239	irreversible	hsa00785	ep
+C16239	rt	LIPT2	irreversible	hsa00785	se
+LIPT2	rt	C16237	irreversible	hsa00785	ep
+C16236	rt	LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	irreversible	hsa00785	se
+LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD	rt	C16237	irreversible	hsa00785	ep
+C05752	rt	LIPT2	irreversible	hsa00785	se
+LIPT2	rt	C16236	irreversible	hsa00785	ep
+C16238	rt	LIPT1, LIPT1D	irreversible	hsa00785	se
+LIPT1, LIPT1D	rt	C16237	irreversible	hsa00785	ep
+C16241				hsa00785	

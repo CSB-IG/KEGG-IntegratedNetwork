@@ -1,0 +1,204 @@
+CGA, CG-ALPHA, FSHA, GPHA1, GPHa, HCG, LHA, TSHA	pp	TSHR, CHNG1, LGR3, hTSHR-I	g-g	hsa04918	activation
+TSHB	pp	TSHR, CHNG1, LGR3, hTSHR-I	g-g	hsa04918	activation
+TSHR, CHNG1, LGR3, hTSHR-I	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04918	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa04918	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa04918	activation
+ADCY2	pc	C00575	g-c	hsa04918	activation
+ADCY3	pc	C00575	g-c	hsa04918	activation
+ADCY5	pc	C00575	g-c	hsa04918	activation
+ADCY6	pc	C00575	g-c	hsa04918	activation
+ADCY7	pc	C00575	g-c	hsa04918	activation
+ADCY8	pc	C00575	g-c	hsa04918	activation
+ADCY9	pc	C00575	g-c	hsa04918	activation
+ADCY4	pc	C00575	g-c	hsa04918	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04918	activation
+C00575	pc	PRKACB	c-g	hsa04918	activation
+C00575	pc	PRKACG	c-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKACB	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKACG	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKACB	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKACG	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	PAX8	g-g	hsa04918	activation
+PRKACB	pp	PAX8	g-g	hsa04918	activation
+PRKACG	pp	PAX8	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB1	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	ATF2	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	ATF6B	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L4	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	ATF4	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L2	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L3	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L1	g-g	hsa04918	activation
+PRKACA, PKACA, PPNAD4	pp	CREB5	g-g	hsa04918	activation
+PRKACB	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKACG	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKACB	pp	CREB1	g-g	hsa04918	activation
+PRKACB	pp	ATF2	g-g	hsa04918	activation
+PRKACB	pp	ATF6B	g-g	hsa04918	activation
+PRKACB	pp	CREB3L4	g-g	hsa04918	activation
+PRKACB	pp	ATF4	g-g	hsa04918	activation
+PRKACB	pp	CREB3L2	g-g	hsa04918	activation
+PRKACB	pp	CREB3L3	g-g	hsa04918	activation
+PRKACB	pp	CREB3L1	g-g	hsa04918	activation
+PRKACB	pp	CREB5	g-g	hsa04918	activation
+PRKACG	pp	CREB1	g-g	hsa04918	activation
+PRKACG	pp	ATF2	g-g	hsa04918	activation
+PRKACG	pp	ATF6B	g-g	hsa04918	activation
+PRKACG	pp	CREB3L4	g-g	hsa04918	activation
+PRKACG	pp	ATF4	g-g	hsa04918	activation
+PRKACG	pp	CREB3L2	g-g	hsa04918	activation
+PRKACG	pp	CREB3L3	g-g	hsa04918	activation
+PRKACG	pp	CREB3L1	g-g	hsa04918	activation
+PRKACG	pp	CREB5	g-g	hsa04918	activation
+TSHR, CHNG1, LGR3, hTSHR-I	pp	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04918	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04918	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB2	g-g	hsa04918	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB3	g-g	hsa04918	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pp	PLCB4	g-g	hsa04918	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04918	activation
+PLCB2	pc	C00165	g-c	hsa04918	activation
+PLCB3	pc	C00165	g-c	hsa04918	activation
+PLCB4	pc	C00165	g-c	hsa04918	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04918	activation
+C00165	pc	PRKACB	c-g	hsa04918	activation
+C00165	pc	PRKACG	c-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKACB	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKACG	pp	TTF1, TTF-1, TTF-I	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKACB	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKACG	pp	TTF2, HuF2, ZGRF6	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	PAX8	g-g	hsa04918	activation
+PRKACB	pp	PAX8	g-g	hsa04918	activation
+PRKACG	pp	PAX8	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB1	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ATF2	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ATF6B	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB3L4	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ATF4	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB3L2	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB3L3	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB3L1	g-g	hsa04918	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	CREB5	g-g	hsa04918	activation
+PRKACB	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKACG	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04918	activation
+PRKACB	pp	CREB1	g-g	hsa04918	activation
+PRKACB	pp	ATF2	g-g	hsa04918	activation
+PRKACB	pp	ATF6B	g-g	hsa04918	activation
+PRKACB	pp	CREB3L4	g-g	hsa04918	activation
+PRKACB	pp	ATF4	g-g	hsa04918	activation
+PRKACB	pp	CREB3L2	g-g	hsa04918	activation
+PRKACB	pp	CREB3L3	g-g	hsa04918	activation
+PRKACB	pp	CREB3L1	g-g	hsa04918	activation
+PRKACB	pp	CREB5	g-g	hsa04918	activation
+PRKACG	pp	CREB1	g-g	hsa04918	activation
+PRKACG	pp	ATF2	g-g	hsa04918	activation
+PRKACG	pp	ATF6B	g-g	hsa04918	activation
+PRKACG	pp	CREB3L4	g-g	hsa04918	activation
+PRKACG	pp	ATF4	g-g	hsa04918	activation
+PRKACG	pp	CREB3L2	g-g	hsa04918	activation
+PRKACG	pp	CREB3L3	g-g	hsa04918	activation
+PRKACG	pp	CREB3L1	g-g	hsa04918	activation
+PRKACG	pp	CREB5	g-g	hsa04918	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04918	activation
+PLCB2	pc	C01245	g-c	hsa04918	activation
+PLCB3	pc	C01245	g-c	hsa04918	activation
+PLCB4	pc	C01245	g-c	hsa04918	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04918	activation
+C01245	pc	ITPR2	c-g	hsa04918	activation
+C01245	pc	ITPR3	c-g	hsa04918	activation
+TTF1, TTF-1, TTF-I	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+TTF2, HuF2, ZGRF6	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+PAX8	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB3, LUMAN, LZIP, sLZIP	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB1	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+ATF2	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+ATF6B	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB3L4	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+ATF4	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB3L2	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB3L3	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB3L1	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+CREB5	pd	TG, AITD3, TGN	g-g	hsa04918	expression
+ASGR1, ASGPR, ASGPR1, CLEC4H1, HL-1	pp	TG, AITD3, TGN	g-g	hsa04918	binding/association
+ASGR2	pp	TG, AITD3, TGN	g-g	hsa04918	binding/association
+DUOXA2, SIMNIPHOM, TDH5	pp	DUOX2, LNOX2, NOXEF2, P138-TOX, TDH6, THOX2	g-g	hsa04918	activation
+C02515	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C01060	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C02515	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C01060	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C02465	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C01829	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C02515	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C01060	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C02465	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+C01829	pc	TG, AITD3, TGN	c-g	hsa04918	binding/association
+LRP2, DBS, GP330	pp	TG, AITD3, TGN	g-g	hsa04918	binding/association
+SLC5A5, NIS, TDH1				hsa04918	
+ATP1B4				hsa04918	
+ATP1A1				hsa04918	
+ATP1A2				hsa04918	
+ATP1A3				hsa04918	
+ATP1A4				hsa04918	
+ATP1B1				hsa04918	
+ATP1B2				hsa04918	
+ATP1B3				hsa04918	
+FXYD2				hsa04918	
+SLC26A4, DFNB4, EVA, PDS, TDH2B				hsa04918	
+TPO, MSA, TDH2A, TPX				hsa04918	
+IYD, C6orf71, DEHAL1, IYD-1, TDH4				hsa04918	
+C01330				hsa04918	
+C00708				hsa04918	
+C00708				hsa04918	
+C01330				hsa04918	
+C00238				hsa04918	
+C00708				hsa04918	
+C00005				hsa04918	
+C00006				hsa04918	
+C00007				hsa04918	
+C00027				hsa04918	
+TPO, MSA, TDH2A, TPX				hsa04918	
+C00027				hsa04918	
+C00076				hsa04918	
+TPO, MSA, TDH2A, TPX				hsa04918	
+C00027				hsa04918	
+HSPA5, BIP, GRP78, HEL-S-89n, MIF2				hsa04918	
+HSP90B1, ECGP, GP96, GRP94, HEL-S-125m, HEL35, TRA1				hsa04918	
+CANX, CNX, IP90, P90				hsa04918	
+PDIA4, ERP70, ERP72, ERp-72				hsa04918	
+C00027				hsa04918	
+C00001				hsa04918	
+C00051				hsa04918	
+C00127				hsa04918	
+C00005				hsa04918	
+C00006				hsa04918	
+C00092				hsa04918	
+C00117				hsa04918	
+C00231				hsa04918	
+GPX6, GPX5p, GPXP3, GPx-6, GSHPx-6, dJ1186N24, dJ1186N241				hsa04918	
+GPX1				hsa04918	
+GPX2				hsa04918	
+GPX3				hsa04918	
+GPX5				hsa04918	
+GPX7				hsa04918	
+GPX8				hsa04918	
+GSR, HEL-75, HEL-S-122m				hsa04918	
+C00708				hsa04918	
+ALB, ANALBA, FDAH, PRO0883, PRO0903, PRO1341				hsa04918	
+TTR, CTS, CTS1, HEL111, HsT2651, PALB, TBPA				hsa04918	
+SERPINA7, TBG				hsa04918	
+ALB, ANALBA, FDAH, PRO0883, PRO0903, PRO1341				hsa04918	
+TTR, CTS, CTS1, HEL111, HsT2651, PALB, TBPA				hsa04918	
+SERPINA7, TBG				hsa04918	

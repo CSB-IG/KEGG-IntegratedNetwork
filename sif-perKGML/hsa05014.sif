@@ -1,0 +1,103 @@
+APAF1, APAF-1, CED4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05014	activation
+CYCS, CYC, HCS, THC4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05014	activation
+CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	pp	CASP3, CPP32, CPP32B, SCA-1	g-g	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C00704	g-c	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C00027	g-c	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C16845	g-c	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C16844	g-c	hsa05014	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	TNFRSF1A, CD120a, FPF, MS5, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR1-d2, TNFR55, TNFR60, p55, p55-R, p60	g-g	hsa05014	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	TNFRSF1B	g-g	hsa05014	activation
+TNFRSF1A, CD120a, FPF, MS5, TBP1, TNF-R, TNF-R-I, TNF-R55, TNFAR, TNFR1, TNFR1-d2, TNFR55, TNFR60, p55, p55-R, p60	pp	DAXX, BING2, DAP6, EAP1	g-g	hsa05014	activation
+TNFRSF1B	pp	DAXX, BING2, DAP6, EAP1	g-g	hsa05014	activation
+DAXX, BING2, DAP6, EAP1	pp	MAP3K5, ASK1, MAPKKK5, MEKK5	g-g	hsa05014	activation
+MAP3K5, ASK1, MAPKKK5, MEKK5	pp	MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	g-g	hsa05014	activation
+MAP3K5, ASK1, MAPKKK5, MEKK5	pp	MAP2K6, MAPKK6, MEK6, MKK6, PRKMK6, SAPKK-3, SAPKK3	g-g	hsa05014	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	g-g	hsa05014	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK11	g-g	hsa05014	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK13	g-g	hsa05014	activation
+MAP2K3, MAPKK3, MEK3, MKK3, PRKMK3, SAPKK-2, SAPKK2	pp	MAPK12	g-g	hsa05014	activation
+MAP2K6, MAPKK6, MEK6, MKK6, PRKMK6, SAPKK-3, SAPKK3	pp	MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	g-g	hsa05014	activation
+MAP2K6, MAPKK6, MEK6, MKK6, PRKMK6, SAPKK-3, SAPKK3	pp	MAPK11	g-g	hsa05014	activation
+MAP2K6, MAPKK6, MEK6, MKK6, PRKMK6, SAPKK-3, SAPKK3	pp	MAPK13	g-g	hsa05014	activation
+MAP2K6, MAPKK6, MEK6, MKK6, PRKMK6, SAPKK-3, SAPKK3	pp	MAPK12	g-g	hsa05014	activation
+ALS2, ALS2CR6, ALSJ, IAHSP, PLSJ	pp	RAB5A, RAB5	g-g	hsa05014	activation
+ALS2, ALS2CR6, ALSJ, IAHSP, PLSJ	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa05014	binding/association
+C00704	pc	SLC1A2, EAAT2, GLT-1, HBGT	c-g	hsa05014	inhibition
+C00027	pc	SLC1A2, EAAT2, GLT-1, HBGT	c-g	hsa05014	inhibition
+C16845	pc	SLC1A2, EAAT2, GLT-1, HBGT	c-g	hsa05014	inhibition
+C16844	pc	SLC1A2, EAAT2, GLT-1, HBGT	c-g	hsa05014	inhibition
+C00704	pc	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	c-g	hsa05014	inhibition
+C00704	pc	PPP3CB	c-g	hsa05014	inhibition
+C00704	pc	PPP3CC	c-g	hsa05014	inhibition
+C00704	pc	PPP3R1	c-g	hsa05014	inhibition
+C00704	pc	PPP3R2	c-g	hsa05014	inhibition
+C00027	pc	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	c-g	hsa05014	inhibition
+C16845	pc	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	c-g	hsa05014	inhibition
+C16844	pc	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	c-g	hsa05014	inhibition
+C00027	pc	PPP3CB	c-g	hsa05014	inhibition
+C00027	pc	PPP3CC	c-g	hsa05014	inhibition
+C00027	pc	PPP3R1	c-g	hsa05014	inhibition
+C00027	pc	PPP3R2	c-g	hsa05014	inhibition
+C16845	pc	PPP3CB	c-g	hsa05014	inhibition
+C16845	pc	PPP3CC	c-g	hsa05014	inhibition
+C16845	pc	PPP3R1	c-g	hsa05014	inhibition
+C16845	pc	PPP3R2	c-g	hsa05014	inhibition
+C16844	pc	PPP3CB	c-g	hsa05014	inhibition
+C16844	pc	PPP3CC	c-g	hsa05014	inhibition
+C16844	pc	PPP3R1	c-g	hsa05014	inhibition
+C16844	pc	PPP3R2	c-g	hsa05014	inhibition
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	BCL2, Bcl-2, PPP1R50	g-g	hsa05014	inhibition
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	TOMM40, C19orf1, D19S1177E, PER-EC1, PEREC1, TOM40	g-g	hsa05014	inhibition
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	TOMM40L	g-g	hsa05014	inhibition
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	DERL1, DER-1, DER1	g-g	hsa05014	inhibition
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	g-g	hsa05014	missing interaction
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	PPP3CB	g-g	hsa05014	missing interaction
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	PPP3CC	g-g	hsa05014	missing interaction
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	PPP3R1	g-g	hsa05014	missing interaction
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	PPP3R2	g-g	hsa05014	missing interaction
+BCL2, Bcl-2, PPP1R50	pp	CYCS, CYC, HCS, THC4	g-g	hsa05014	missing interaction
+BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	pp	CYCS, CYC, HCS, THC4	g-g	hsa05014	missing interaction
+BAX, BCL2L4	pp	CYCS, CYC, HCS, THC4	g-g	hsa05014	indirect effect
+BAD, BBC2, BCL2L8	pp	CYCS, CYC, HCS, THC4	g-g	hsa05014	indirect effect
+C00025	pc	GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1	c-g	hsa05014	activation
+C00025	pc	GRIA2	c-g	hsa05014	activation
+C00025	pc	GRIN1	c-g	hsa05014	activation
+C00025	pc	GRIN2A	c-g	hsa05014	activation
+C00025	pc	GRIN2B	c-g	hsa05014	activation
+C00025	pc	GRIN2C	c-g	hsa05014	activation
+C00025	pc	GRIN2D	c-g	hsa05014	activation
+C00070	pc	SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	c-g	hsa05014	activation
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	pc	C00533	g-c	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C00027	g-c	hsa05014	activation
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pc	C16844	g-c	hsa05014	activation
+GPX1, GPXD, GSHPX1	pc	C00001	g-c	hsa05014	activation
+CAT	pc	C00001	g-c	hsa05014	activation
+PRPH, NEF4, PRPH1	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	binding/association
+PRPH, NEF4, PRPH1	pp	NEFM, NEF3, NF-M, NFM	g-g	hsa05014	binding/association
+PRPH, NEF4, PRPH1	pp	NEFH, CMT2CC, NFH	g-g	hsa05014	binding/association
+SOD1, ALS, ALS1, HEL-S-44, IPOA, SOD, hSod1, homodimer	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	inhibition
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	phosphorylation
+MAPK11	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	phosphorylation
+MAPK13	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	phosphorylation
+MAPK12	pp	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	g-g	hsa05014	phosphorylation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	NEFM, NEF3, NF-M, NFM	g-g	hsa05014	phosphorylation
+MAPK11	pp	NEFM, NEF3, NF-M, NFM	g-g	hsa05014	phosphorylation
+MAPK13	pp	NEFM, NEF3, NF-M, NFM	g-g	hsa05014	phosphorylation
+MAPK12	pp	NEFM, NEF3, NF-M, NFM	g-g	hsa05014	phosphorylation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	NEFH, CMT2CC, NFH	g-g	hsa05014	phosphorylation
+MAPK11	pp	NEFH, CMT2CC, NFH	g-g	hsa05014	phosphorylation
+MAPK13	pp	NEFH, CMT2CC, NFH	g-g	hsa05014	phosphorylation
+MAPK12	pp	NEFH, CMT2CC, NFH	g-g	hsa05014	phosphorylation
+C16844	pc	NEFL, CMT1F, CMT2E, NF-L, NF68, NFL, PPP1R110	c-g	hsa05014	inhibition
+C16844	pc	NEFM, NEF3, NF-M, NFM	c-g	hsa05014	inhibition
+C16844	pc	NEFH, CMT2CC, NFH	c-g	hsa05014	inhibition
+CASP1, ICE, IL1BC, P45				hsa05014	
+C00076				hsa05014	
+BID, FP497				hsa05014	
+CCS				hsa05014	
+C00062				hsa05014	
+C16845				hsa05014	
+TP53, BCC7, LFS1, P53, TRP53				hsa05014	
+C00076				hsa05014	
+C00076				hsa05014	
+CASP12, CASP-12, CASP12P1				hsa05014	

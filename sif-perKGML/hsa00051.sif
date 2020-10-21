@@ -1,0 +1,293 @@
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	SORD, HEL-S-95n, SORD1	g-g	hsa00051	compound
+AKR1B10	ec	SORD, HEL-S-95n, SORD1	g-g	hsa00051	compound
+SORD, HEL-S-95n, SORD1	ec	KHK	g-g	hsa00051	compound
+SORD, HEL-S-95n, SORD1	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00051	compound
+SORD, HEL-S-95n, SORD1	ec	HK2	g-g	hsa00051	compound
+SORD, HEL-S-95n, SORD1	ec	HK3	g-g	hsa00051	compound
+SORD, HEL-S-95n, SORD1	ec	HKDC1	g-g	hsa00051	compound
+KHK	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00051	compound
+KHK	ec	HK2	g-g	hsa00051	compound
+KHK	ec	HK3	g-g	hsa00051	compound
+KHK	ec	HKDC1	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	PFKM	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	PFKP	g-g	hsa00051	compound
+PFKFB2	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+PFKFB3	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+PFKFB4	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+TIGAR	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+PFKFB2	ec	PFKM	g-g	hsa00051	compound
+PFKFB2	ec	PFKP	g-g	hsa00051	compound
+PFKFB3	ec	PFKM	g-g	hsa00051	compound
+PFKFB3	ec	PFKP	g-g	hsa00051	compound
+PFKFB4	ec	PFKM	g-g	hsa00051	compound
+PFKFB4	ec	PFKP	g-g	hsa00051	compound
+TIGAR	ec	PFKM	g-g	hsa00051	compound
+TIGAR	ec	PFKP	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	FBP1, FBP	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	FBP2	g-g	hsa00051	compound
+PFKFB2	ec	FBP1, FBP	g-g	hsa00051	compound
+PFKFB3	ec	FBP1, FBP	g-g	hsa00051	compound
+PFKFB4	ec	FBP1, FBP	g-g	hsa00051	compound
+TIGAR	ec	FBP1, FBP	g-g	hsa00051	compound
+PFKFB2	ec	FBP2	g-g	hsa00051	compound
+PFKFB3	ec	FBP2	g-g	hsa00051	compound
+PFKFB4	ec	FBP2	g-g	hsa00051	compound
+TIGAR	ec	FBP2	g-g	hsa00051	compound
+PFKFB1, F6PK, HL2K, PFRX	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+PFKFB2	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+PFKFB3	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+PFKFB4	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+TIGAR	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKFB1, F6PK, HL2K, PFRX	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKFB2	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKFB3	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKFB4	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	TIGAR	g-g	hsa00051	compound
+HK2	ec	PFKFB1, F6PK, HL2K, PFRX	g-g	hsa00051	compound
+HK3	ec	PFKFB1, F6PK, HL2K, PFRX	g-g	hsa00051	compound
+HKDC1	ec	PFKFB1, F6PK, HL2K, PFRX	g-g	hsa00051	compound
+HK2	ec	PFKFB2	g-g	hsa00051	compound
+HK2	ec	PFKFB3	g-g	hsa00051	compound
+HK2	ec	PFKFB4	g-g	hsa00051	compound
+HK2	ec	TIGAR	g-g	hsa00051	compound
+HK3	ec	PFKFB2	g-g	hsa00051	compound
+HK3	ec	PFKFB3	g-g	hsa00051	compound
+HK3	ec	PFKFB4	g-g	hsa00051	compound
+HK3	ec	TIGAR	g-g	hsa00051	compound
+HKDC1	ec	PFKFB2	g-g	hsa00051	compound
+HKDC1	ec	PFKFB3	g-g	hsa00051	compound
+HKDC1	ec	PFKFB4	g-g	hsa00051	compound
+HKDC1	ec	TIGAR	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	PFKM	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	PFKP	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKM	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PFKP	g-g	hsa00051	compound
+HK2	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+HK3	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+HKDC1	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00051	compound
+HK2	ec	PFKM	g-g	hsa00051	compound
+HK2	ec	PFKP	g-g	hsa00051	compound
+HK3	ec	PFKM	g-g	hsa00051	compound
+HK3	ec	PFKP	g-g	hsa00051	compound
+HKDC1	ec	PFKM	g-g	hsa00051	compound
+HKDC1	ec	PFKP	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	FBP1, FBP	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	FBP2	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	FBP1, FBP	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	FBP2	g-g	hsa00051	compound
+HK2	ec	FBP1, FBP	g-g	hsa00051	compound
+HK3	ec	FBP1, FBP	g-g	hsa00051	compound
+HKDC1	ec	FBP1, FBP	g-g	hsa00051	compound
+HK2	ec	FBP2	g-g	hsa00051	compound
+HK3	ec	FBP2	g-g	hsa00051	compound
+HKDC1	ec	FBP2	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK2	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK3	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HKDC1	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	FBP1, FBP	g-g	hsa00051	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	FBP2	g-g	hsa00051	compound
+ALDOB	ec	FBP1, FBP	g-g	hsa00051	compound
+ALDOC	ec	FBP1, FBP	g-g	hsa00051	compound
+ALDOB	ec	FBP2	g-g	hsa00051	compound
+ALDOC	ec	FBP2	g-g	hsa00051	compound
+PFKL, ATP-PFK, PFK-B, PFK-L	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+PFKL, ATP-PFK, PFK-B, PFK-L	ec	ALDOB	g-g	hsa00051	compound
+PFKL, ATP-PFK, PFK-B, PFK-L	ec	ALDOC	g-g	hsa00051	compound
+PFKM	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+PFKP	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+PFKM	ec	ALDOB	g-g	hsa00051	compound
+PFKM	ec	ALDOC	g-g	hsa00051	compound
+PFKP	ec	ALDOB	g-g	hsa00051	compound
+PFKP	ec	ALDOC	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	PMM1, Sec53	g-g	hsa00051	compound
+MPI, CDG1B, PMI, PMI1	ec	PMM2	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK2	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK3	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HKDC1	ec	MPI, CDG1B, PMI, PMI1	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PMM1, Sec53	g-g	hsa00051	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PMM2	g-g	hsa00051	compound
+HK2	ec	PMM1, Sec53	g-g	hsa00051	compound
+HK3	ec	PMM1, Sec53	g-g	hsa00051	compound
+HKDC1	ec	PMM1, Sec53	g-g	hsa00051	compound
+HK2	ec	PMM2	g-g	hsa00051	compound
+HK3	ec	PMM2	g-g	hsa00051	compound
+HKDC1	ec	PMM2	g-g	hsa00051	compound
+PMM1, Sec53	ec	GMPPB, MDDGA14, MDDGB14, MDDGC14	g-g	hsa00051	compound
+PMM1, Sec53	ec	GMPPA	g-g	hsa00051	compound
+PMM2	ec	GMPPB, MDDGA14, MDDGB14, MDDGC14	g-g	hsa00051	compound
+PMM2	ec	GMPPA	g-g	hsa00051	compound
+GMDS, GMD, SDR3E1	ec	GMPPB, MDDGA14, MDDGB14, MDDGC14	g-g	hsa00051	compound
+GMDS, GMD, SDR3E1	ec	GMPPA	g-g	hsa00051	compound
+TSTA3, FX, P35B, SDR4E1	ec	GMDS, GMD, SDR3E1	g-g	hsa00051	compound
+FPGT, GFPP	ec	TSTA3, FX, P35B, SDR4E1	g-g	hsa00051	compound
+FPGT, GFPP	ec	FUK, 1110046B12Rik	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOB	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOC	g-g	hsa00051	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	TKFC, DAK, NET45	g-g	hsa00051	compound
+ALDOB	ec	TKFC, DAK, NET45	g-g	hsa00051	compound
+ALDOC	ec	TKFC, DAK, NET45	g-g	hsa00051	compound
+TKFC, DAK, NET45	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+TKFC, DAK, NET45	ec	ALDOB	g-g	hsa00051	compound
+TKFC, DAK, NET45	ec	ALDOC	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOB	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	ALDOC	g-g	hsa00051	compound
+TPI1, HEL-S-49, TIM, TPI, TPID	ec	TKFC, DAK, NET45	g-g	hsa00051	compound
+KHK	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00051	compound
+KHK	ec	ALDOB	g-g	hsa00051	compound
+KHK	ec	ALDOC	g-g	hsa00051	compound
+C00794	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00051	se
+C00794	rt	AKR1B10	reversible	hsa00051	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00794	reversible	hsa00051	ep
+AKR1B10	rt	C00794	reversible	hsa00051	ep
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00267	reversible	hsa00051	ep
+AKR1B10	rt	C00267	reversible	hsa00051	ep
+C00267	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00051	se
+C00267	rt	AKR1B10	reversible	hsa00051	se
+C00794	rt	SORD, HEL-S-95n, SORD1	reversible	hsa00051	se
+SORD, HEL-S-95n, SORD1	rt	C00794	reversible	hsa00051	ep
+SORD, HEL-S-95n, SORD1	rt	C00095	reversible	hsa00051	ep
+C00095	rt	SORD, HEL-S-95n, SORD1	reversible	hsa00051	se
+C00095	rt	KHK	irreversible	hsa00051	se
+KHK	rt	C01094	irreversible	hsa00051	ep
+C00159	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	irreversible	hsa00051	se
+C00159	rt	HK2	irreversible	hsa00051	se
+C00159	rt	HK3	irreversible	hsa00051	se
+C00159	rt	HKDC1	irreversible	hsa00051	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00275	irreversible	hsa00051	ep
+HK2	rt	C00275	irreversible	hsa00051	ep
+HK3	rt	C00275	irreversible	hsa00051	ep
+HKDC1	rt	C00275	irreversible	hsa00051	ep
+C00095	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	irreversible	hsa00051	se
+C00095	rt	HK2	irreversible	hsa00051	se
+C00095	rt	HK3	irreversible	hsa00051	se
+C00095	rt	HKDC1	irreversible	hsa00051	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C05345	irreversible	hsa00051	ep
+HK2	rt	C05345	irreversible	hsa00051	ep
+HK3	rt	C05345	irreversible	hsa00051	ep
+HKDC1	rt	C05345	irreversible	hsa00051	ep
+C00665	rt	PFKFB1, F6PK, HL2K, PFRX	irreversible	hsa00051	se
+C00665	rt	PFKFB2	irreversible	hsa00051	se
+C00665	rt	PFKFB3	irreversible	hsa00051	se
+C00665	rt	PFKFB4	irreversible	hsa00051	se
+C00665	rt	TIGAR	irreversible	hsa00051	se
+PFKFB1, F6PK, HL2K, PFRX	rt	C05345	irreversible	hsa00051	ep
+PFKFB2	rt	C05345	irreversible	hsa00051	ep
+PFKFB3	rt	C05345	irreversible	hsa00051	ep
+PFKFB4	rt	C05345	irreversible	hsa00051	ep
+TIGAR	rt	C05345	irreversible	hsa00051	ep
+C00275	rt	MPI, CDG1B, PMI, PMI1	reversible	hsa00051	se
+MPI, CDG1B, PMI, PMI1	rt	C00275	reversible	hsa00051	ep
+MPI, CDG1B, PMI, PMI1	rt	C05345	reversible	hsa00051	ep
+C05345	rt	MPI, CDG1B, PMI, PMI1	reversible	hsa00051	se
+C00275	rt	PMM1, Sec53	reversible	hsa00051	se
+C00275	rt	PMM2	reversible	hsa00051	se
+PMM1, Sec53	rt	C00275	reversible	hsa00051	ep
+PMM2	rt	C00275	reversible	hsa00051	ep
+PMM1, Sec53	rt	C00636	reversible	hsa00051	ep
+PMM2	rt	C00636	reversible	hsa00051	ep
+C00636	rt	PMM1, Sec53	reversible	hsa00051	se
+C00636	rt	PMM2	reversible	hsa00051	se
+C02985	rt	FPGT, GFPP	reversible	hsa00051	se
+FPGT, GFPP	rt	C02985	reversible	hsa00051	ep
+FPGT, GFPP	rt	C00325	reversible	hsa00051	ep
+C00325	rt	FPGT, GFPP	reversible	hsa00051	se
+C01222	rt	TSTA3, FX, P35B, SDR4E1	irreversible	hsa00051	se
+TSTA3, FX, P35B, SDR4E1	rt	C00325	irreversible	hsa00051	ep
+C00096	rt	GMDS, GMD, SDR3E1	irreversible	hsa00051	se
+GMDS, GMD, SDR3E1	rt	C01222	irreversible	hsa00051	ep
+C00636	rt	GMPPB, MDDGA14, MDDGB14, MDDGC14	irreversible	hsa00051	se
+C00636	rt	GMPPA	irreversible	hsa00051	se
+GMPPB, MDDGA14, MDDGB14, MDDGC14	rt	C00096	irreversible	hsa00051	ep
+GMPPA	rt	C00096	irreversible	hsa00051	ep
+C05345	rt	PFKL, ATP-PFK, PFK-B, PFK-L	irreversible	hsa00051	se
+C05345	rt	PFKM	irreversible	hsa00051	se
+C05345	rt	PFKP	irreversible	hsa00051	se
+PFKL, ATP-PFK, PFK-B, PFK-L	rt	C05378	irreversible	hsa00051	ep
+PFKM	rt	C05378	irreversible	hsa00051	ep
+PFKP	rt	C05378	irreversible	hsa00051	ep
+C00118	rt	TPI1, HEL-S-49, TIM, TPI, TPID	reversible	hsa00051	se
+TPI1, HEL-S-49, TIM, TPI, TPID	rt	C00118	reversible	hsa00051	ep
+TPI1, HEL-S-49, TIM, TPI, TPID	rt	C00111	reversible	hsa00051	ep
+C00111	rt	TPI1, HEL-S-49, TIM, TPI, TPID	reversible	hsa00051	se
+C01094	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00051	se
+C01094	rt	ALDOB	reversible	hsa00051	se
+C01094	rt	ALDOC	reversible	hsa00051	se
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C01094	reversible	hsa00051	ep
+ALDOB	rt	C01094	reversible	hsa00051	ep
+ALDOC	rt	C01094	reversible	hsa00051	ep
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C00577	reversible	hsa00051	ep
+ALDOB	rt	C00577	reversible	hsa00051	ep
+ALDOC	rt	C00577	reversible	hsa00051	ep
+C00577	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00051	se
+C00577	rt	ALDOB	reversible	hsa00051	se
+C00577	rt	ALDOC	reversible	hsa00051	se
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C00111	reversible	hsa00051	ep
+ALDOB	rt	C00111	reversible	hsa00051	ep
+ALDOC	rt	C00111	reversible	hsa00051	ep
+C00111	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00051	se
+C00111	rt	ALDOB	reversible	hsa00051	se
+C00111	rt	ALDOC	reversible	hsa00051	se
+C00577	rt	TKFC, DAK, NET45	irreversible	hsa00051	se
+TKFC, DAK, NET45	rt	C00118	irreversible	hsa00051	ep
+C05378	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00051	se
+C05378	rt	ALDOB	reversible	hsa00051	se
+C05378	rt	ALDOC	reversible	hsa00051	se
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C05378	reversible	hsa00051	ep
+ALDOB	rt	C05378	reversible	hsa00051	ep
+ALDOC	rt	C05378	reversible	hsa00051	ep
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C00118	reversible	hsa00051	ep
+ALDOB	rt	C00118	reversible	hsa00051	ep
+ALDOC	rt	C00118	reversible	hsa00051	ep
+C00118	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00051	se
+C00118	rt	ALDOB	reversible	hsa00051	se
+C00118	rt	ALDOC	reversible	hsa00051	se
+C05378	rt	FBP1, FBP	irreversible	hsa00051	se
+C05378	rt	FBP2	irreversible	hsa00051	se
+FBP1, FBP	rt	C05345	irreversible	hsa00051	ep
+FBP2	rt	C05345	irreversible	hsa00051	ep
+C01019	rt	FUK, 1110046B12Rik	irreversible	hsa00051	se
+FUK, 1110046B12Rik	rt	C02985	irreversible	hsa00051	ep
+C01720	rt	ENOSF1, RTS, TYMSAS	irreversible	hsa00051	se
+ENOSF1, RTS, TYMSAS	rt	C03827	irreversible	hsa00051	ep
+C00247				hsa00051	
+C00392				hsa00051	
+C00644				hsa00051	
+C03267				hsa00051	
+C00464				hsa00051	
+C02492				hsa00051	
+C01096				hsa00051	
+C01768				hsa00051	
+C00507				hsa00051	
+C00861				hsa00051	
+C01131				hsa00051	
+C02431				hsa00051	
+C01934				hsa00051	
+C03979				hsa00051	
+C00976				hsa00051	
+C05392				hsa00051	
+C02977				hsa00051	
+C03117				hsa00051	
+C02991				hsa00051	
+C01355				hsa00051	
+C01099				hsa00051	
+C01721				hsa00051	
+C06192				hsa00051	
+C02888				hsa00051	
+C00247				hsa00051	
+C18096				hsa00051	
+C02962				hsa00051	
+C01487				hsa00051	
+C18028				hsa00051	
+C20781				hsa00051	
+C00424				hsa00051	
+C00186				hsa00051	
+C11544				hsa00051	
+C11516				hsa00051	
+C05144				hsa00051	

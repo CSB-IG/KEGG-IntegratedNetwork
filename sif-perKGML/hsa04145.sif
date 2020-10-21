@@ -1,0 +1,560 @@
+EEA1, MST105, MSTP105, ZFYVE2	gr	RAB5A, RAB5	group	hsa04145	group
+EEA1, MST105, MSTP105, ZFYVE2	gr	RAB5B	group	hsa04145	group
+EEA1, MST105, MSTP105, ZFYVE2	gr	RAB5C	group	hsa04145	group
+RAB7B, RAB7	gr	RILP, PP10141	group	hsa04145	group
+RAB7A	gr	RILP, PP10141	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC1I1	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC1I2	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC1LI2	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC1LI1	group	hsa04145	group
+RAB7B, RAB7	gr	DYNC2H1	group	hsa04145	group
+RAB7A	gr	DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	group	hsa04145	group
+RAB7A	gr	DYNC1I1	group	hsa04145	group
+RAB7A	gr	DYNC1I2	group	hsa04145	group
+RAB7A	gr	DYNC1LI2	group	hsa04145	group
+RAB7A	gr	DYNC1LI1	group	hsa04145	group
+RAB7A	gr	DYNC2H1	group	hsa04145	group
+RILP, PP10141	gr	DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	group	hsa04145	group
+RILP, PP10141	gr	DYNC1I1	group	hsa04145	group
+RILP, PP10141	gr	DYNC1I2	group	hsa04145	group
+RILP, PP10141	gr	DYNC1LI2	group	hsa04145	group
+RILP, PP10141	gr	DYNC1LI1	group	hsa04145	group
+RILP, PP10141	gr	DYNC2H1	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB4A	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB4B	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB8	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB2B	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB2A	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB1	group	hsa04145	group
+TUBA1B, K-ALPHA-1	gr	TUBB6	group	hsa04145	group
+TUBA3E	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA3D	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA8	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA4A	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA3C	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA1A	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBAL3	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA1C	gr	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	group	hsa04145	group
+TUBA3E	gr	TUBB4A	group	hsa04145	group
+TUBA3E	gr	TUBB4B	group	hsa04145	group
+TUBA3E	gr	TUBB	group	hsa04145	group
+TUBA3E	gr	TUBB8	group	hsa04145	group
+TUBA3E	gr	TUBB2B	group	hsa04145	group
+TUBA3E	gr	TUBB2A	group	hsa04145	group
+TUBA3E	gr	TUBB1	group	hsa04145	group
+TUBA3E	gr	TUBB6	group	hsa04145	group
+TUBA3D	gr	TUBB4A	group	hsa04145	group
+TUBA3D	gr	TUBB4B	group	hsa04145	group
+TUBA3D	gr	TUBB	group	hsa04145	group
+TUBA3D	gr	TUBB8	group	hsa04145	group
+TUBA3D	gr	TUBB2B	group	hsa04145	group
+TUBA3D	gr	TUBB2A	group	hsa04145	group
+TUBA3D	gr	TUBB1	group	hsa04145	group
+TUBA3D	gr	TUBB6	group	hsa04145	group
+TUBA8	gr	TUBB4A	group	hsa04145	group
+TUBA8	gr	TUBB4B	group	hsa04145	group
+TUBA8	gr	TUBB	group	hsa04145	group
+TUBA8	gr	TUBB8	group	hsa04145	group
+TUBA8	gr	TUBB2B	group	hsa04145	group
+TUBA8	gr	TUBB2A	group	hsa04145	group
+TUBA8	gr	TUBB1	group	hsa04145	group
+TUBA8	gr	TUBB6	group	hsa04145	group
+TUBA4A	gr	TUBB4A	group	hsa04145	group
+TUBA4A	gr	TUBB4B	group	hsa04145	group
+TUBA4A	gr	TUBB	group	hsa04145	group
+TUBA4A	gr	TUBB8	group	hsa04145	group
+TUBA4A	gr	TUBB2B	group	hsa04145	group
+TUBA4A	gr	TUBB2A	group	hsa04145	group
+TUBA4A	gr	TUBB1	group	hsa04145	group
+TUBA4A	gr	TUBB6	group	hsa04145	group
+TUBA3C	gr	TUBB4A	group	hsa04145	group
+TUBA3C	gr	TUBB4B	group	hsa04145	group
+TUBA3C	gr	TUBB	group	hsa04145	group
+TUBA3C	gr	TUBB8	group	hsa04145	group
+TUBA3C	gr	TUBB2B	group	hsa04145	group
+TUBA3C	gr	TUBB2A	group	hsa04145	group
+TUBA3C	gr	TUBB1	group	hsa04145	group
+TUBA3C	gr	TUBB6	group	hsa04145	group
+TUBA1A	gr	TUBB4A	group	hsa04145	group
+TUBA1A	gr	TUBB4B	group	hsa04145	group
+TUBA1A	gr	TUBB	group	hsa04145	group
+TUBA1A	gr	TUBB8	group	hsa04145	group
+TUBA1A	gr	TUBB2B	group	hsa04145	group
+TUBA1A	gr	TUBB2A	group	hsa04145	group
+TUBA1A	gr	TUBB1	group	hsa04145	group
+TUBA1A	gr	TUBB6	group	hsa04145	group
+TUBAL3	gr	TUBB4A	group	hsa04145	group
+TUBAL3	gr	TUBB4B	group	hsa04145	group
+TUBAL3	gr	TUBB	group	hsa04145	group
+TUBAL3	gr	TUBB8	group	hsa04145	group
+TUBAL3	gr	TUBB2B	group	hsa04145	group
+TUBAL3	gr	TUBB2A	group	hsa04145	group
+TUBAL3	gr	TUBB1	group	hsa04145	group
+TUBAL3	gr	TUBB6	group	hsa04145	group
+TUBA1C	gr	TUBB4A	group	hsa04145	group
+TUBA1C	gr	TUBB4B	group	hsa04145	group
+TUBA1C	gr	TUBB	group	hsa04145	group
+TUBA1C	gr	TUBB8	group	hsa04145	group
+TUBA1C	gr	TUBB2B	group	hsa04145	group
+TUBA1C	gr	TUBB2A	group	hsa04145	group
+TUBA1C	gr	TUBB1	group	hsa04145	group
+TUBA1C	gr	TUBB6	group	hsa04145	group
+EEA1, MST105, MSTP105, ZFYVE2	pp	PIK3C3, VPS34, hVps34	gr-g	hsa04145	binding/association
+RAB5A, RAB5	pp	PIK3C3, VPS34, hVps34	gr-g	hsa04145	binding/association
+RAB5B	pp	PIK3C3, VPS34, hVps34	gr-g	hsa04145	binding/association
+RAB5C	pp	PIK3C3, VPS34, hVps34	gr-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA1B, K-ALPHA-1	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA3E	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA3D	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA8	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA4A	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA3C	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA1A	pp	TUBB6	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB8	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB1	g-g	hsa04145	binding/association
+TUBAL3	pp	TUBB6	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB4A	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB4B	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB8	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB2B	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB2A	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB1	g-g	hsa04145	binding/association
+TUBA1C	pp	TUBB6	g-g	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA3E	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA3D	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA8	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA4A	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA3C	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA1A	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBAL3	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBA1C	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA3E	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA3D	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA8	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA4A	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA3C	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA1A	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBAL3	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBA1C	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB4A	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB4B	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB8	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB2B	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB2A	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB1	gr-gr	hsa04145	binding/association
+RAB7B, RAB7	pp	TUBB6	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB4A	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB4B	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB8	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB2B	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB2A	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB1	gr-gr	hsa04145	binding/association
+RAB7A	pp	TUBB6	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA3E	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA3D	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA8	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA4A	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA3C	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA1A	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBAL3	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBA1C	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB4A	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB4B	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB8	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB2B	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB2A	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB1	gr-gr	hsa04145	binding/association
+RILP, PP10141	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA1B, K-ALPHA-1	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA3E	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA3D	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA8	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA4A	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA3C	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA1A	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBAL3	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBA1C	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC1H1, CMT2O, DHC1, DHC1a, DNCH1, DNCL, DNECL, DYHC, Dnchc1, HL-3, SMALED1, p22	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC1I1	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC1I2	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC1LI2	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC1LI1	pp	TUBB6	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB4A	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB4B	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB8	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB2B	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB2A	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB1	gr-gr	hsa04145	binding/association
+DYNC2H1	pp	TUBB6	gr-gr	hsa04145	binding/association
+SEC22B, ERS-24, SEC22L1				hsa04145	
+STX18, Ufe1				hsa04145	
+VAMP3, CEB				hsa04145	
+FCAR, CD89, CTB-61M72, FcalphaRI				hsa04145	
+FCGR1A, CD64, CD64A, FCRI, IGFR1				hsa04145	
+FCGR2A				hsa04145	
+FCGR2B				hsa04145	
+FCGR3A				hsa04145	
+FCGR3B				hsa04145	
+FCGR2C				hsa04145	
+C1R, EDSPD1				hsa04145	
+ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6				hsa04145	
+ITGB2				hsa04145	
+ITGAV, CD51, MSK8, VNRA, VTNR				hsa04145	
+ITGB3				hsa04145	
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB				hsa04145	
+PLA2R1, CLEC13C, PLA2-R, PLA2G1R, PLA2IR, PLA2R				hsa04145	
+MRC1				hsa04145	
+MRC2				hsa04145	
+MSR1, CD204, SCARA1, SR-A, SRA, phSR1, phSR2				hsa04145	
+ITGAV, CD51, MSK8, VNRA, VTNR				hsa04145	
+ITGB3				hsa04145	
+ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6				hsa04145	
+ITGB2				hsa04145	
+ITGA2, BR, CD49B, GPIa, HPA-5, VLA-2, VLAA2				hsa04145	
+ITGB1				hsa04145	
+ITGA5, CD49e, FNRA, VLA-5, VLA5A				hsa04145	
+ITGB1				hsa04145	
+ACTB, BRWS1, PS1TP5BP1				hsa04145	
+ACTG1				hsa04145	
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX				hsa04145	
+CYBA, p22-PHOX				hsa04145	
+NCF4, CGD3, NCF, P40PHOX, SH3PXD4				hsa04145	
+NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox				hsa04145	
+NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX				hsa04145	
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1				hsa04145	
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX				hsa04145	
+CYBA, p22-PHOX				hsa04145	
+NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox				hsa04145	
+NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX				hsa04145	
+NCF4, CGD3, NCF, P40PHOX, SH3PXD4				hsa04145	
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1				hsa04145	
+HGS, HRS				hsa04145	
+M6PR, CD-M6PR, CD-MPR, MPR_46, MPR-46, MPR46, SMPR				hsa04145	
+TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3				hsa04145	
+ATP6V1G3				hsa04145	
+ATP6V0E2				hsa04145	
+ATP6V0A2				hsa04145	
+ATP6V0D2				hsa04145	
+ATP6V1C2				hsa04145	
+ATP6V0A4				hsa04145	
+ATP6V1D				hsa04145	
+ATP6V1H				hsa04145	
+ATP6V1A				hsa04145	
+ATP6V1B1				hsa04145	
+ATP6V1B2				hsa04145	
+ATP6V0C				hsa04145	
+ATP6V1C1				hsa04145	
+ATP6V1E1				hsa04145	
+ATP6V0B				hsa04145	
+ATP6V1G2				hsa04145	
+ATP6V0A1				hsa04145	
+ATP6AP1				hsa04145	
+ATP6V0E1				hsa04145	
+ATP6V1E2				hsa04145	
+ATP6V0D1				hsa04145	
+ATP6V1F				hsa04145	
+ATP6V1G1				hsa04145	
+LAMP1, CD107a, LAMPA, LGP120				hsa04145	
+LAMP2				hsa04145	
+TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3				hsa04145	
+ATP6V1G3				hsa04145	
+ATP6V0E2				hsa04145	
+ATP6V0A2				hsa04145	
+ATP6V0D2				hsa04145	
+ATP6V1C2				hsa04145	
+ATP6V0A4				hsa04145	
+ATP6V1D				hsa04145	
+ATP6V1H				hsa04145	
+ATP6V1A				hsa04145	
+ATP6V1B1				hsa04145	
+ATP6V1B2				hsa04145	
+ATP6V0C				hsa04145	
+ATP6V1C1				hsa04145	
+ATP6V1E1				hsa04145	
+ATP6V0B				hsa04145	
+ATP6V1G2				hsa04145	
+ATP6V0A1				hsa04145	
+ATP6AP1				hsa04145	
+ATP6V0E1				hsa04145	
+ATP6V1E2				hsa04145	
+ATP6V0D1				hsa04145	
+ATP6V1F				hsa04145	
+ATP6V1G1				hsa04145	
+MPO				hsa04145	
+PIKFYVE, CFD, FAB1, HEL37, PIP5K, PIP5K3, ZFYVE29				hsa04145	
+STX12, STX13, STX14				hsa04145	
+STX7				hsa04145	
+CD36, BDPLT10, CHDS7, FAT, GP3B, GP4, GPIV, PASIV, SCARB3				hsa04145	
+MARCO, SCARA2				hsa04145	
+OLR1, CLEC8A, LOX1, LOXIN, SCARE1, SLOX1				hsa04145	
+CD14				hsa04145	
+TLR2, CD282, TIL4				hsa04145	
+TLR6, CD286				hsa04145	
+TLR4, ARMD10, CD284, TLR-4, TOLL				hsa04145	
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS				hsa04145	
+SCARB1, CD36L1, CLA-1, CLA1, HDLQTL6, SR-BI, SRB1				hsa04145	
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv				hsa04145	
+C3, AHUS5, ARMD9, ASP, C3a, C3b, CPAMD1, HEL-S-62p				hsa04145	
+COMP, EDM1, EPD1, MED, PSACH, THBS5, TSP5				hsa04145	
+THBS1				hsa04145	
+THBS2				hsa04145	
+THBS3				hsa04145	
+THBS4				hsa04145	
+MBL2, COLEC1, HSMBPC, MBL, MBL2D, MBP, MBP-C, MBP1, MBPD				hsa04145	
+SFTPD				hsa04145	
+SFTPA1				hsa04145	
+SFTPA2				hsa04145	
+COLEC11				hsa04145	
+COLEC12				hsa04145	
+SEC61B				hsa04145	
+SEC61G				hsa04145	
+SEC61A1				hsa04145	
+SEC61A2				hsa04145	
+CALR, CRT, HEL-S-99n, RO, SSA, cC1qR				hsa04145	
+CANX, CNX, IP90, P90				hsa04145	
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa04145	
+HLA-DMB				hsa04145	
+HLA-DOA				hsa04145	
+HLA-DOB				hsa04145	
+HLA-DPA1				hsa04145	
+HLA-DPB1				hsa04145	
+HLA-DQA1				hsa04145	
+HLA-DQA2				hsa04145	
+HLA-DQB1				hsa04145	
+HLA-DRA				hsa04145	
+HLA-DRB1				hsa04145	
+HLA-DRB3				hsa04145	
+HLA-DRB4				hsa04145	
+HLA-DRB5				hsa04145	
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa04145	
+HLA-DMB				hsa04145	
+HLA-DOA				hsa04145	
+HLA-DOB				hsa04145	
+HLA-DPA1				hsa04145	
+HLA-DPB1				hsa04145	
+HLA-DQA1				hsa04145	
+HLA-DQA2				hsa04145	
+HLA-DQB1				hsa04145	
+HLA-DRA				hsa04145	
+HLA-DRB1				hsa04145	
+HLA-DRB3				hsa04145	
+HLA-DRB4				hsa04145	
+HLA-DRB5				hsa04145	
+CLEC4M, CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN				hsa04145	
+CD209				hsa04145	
+CLEC7A, BGR, CANDF4, CD369, CLECSF12, DECTIN1, SCARE2				hsa04145	
+TAP1, ABC17, ABCB2, APT1, D6S114E, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N				hsa04145	
+TAP2				hsa04145	
+CTSL, CATL, CTSL1, MEP				hsa04145	
+CTSS				hsa04145	
+HLA-A, HLAA				hsa04145	
+HLA-B				hsa04145	
+HLA-C				hsa04145	
+HLA-E				hsa04145	
+HLA-F				hsa04145	
+HLA-G				hsa04145	
+TAP1, ABC17, ABCB2, APT1, D6S114E, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N				hsa04145	
+TAP2				hsa04145	
+HLA-A, HLAA				hsa04145	
+HLA-B				hsa04145	
+HLA-C				hsa04145	
+HLA-E				hsa04145	
+HLA-F				hsa04145	
+HLA-G				hsa04145	
+HLA-A, HLAA				hsa04145	
+HLA-B				hsa04145	
+HLA-C				hsa04145	
+HLA-E				hsa04145	
+HLA-F				hsa04145	
+HLA-G				hsa04145	
+TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90				hsa04145	
+CORO1A, CLABP, CLIPINA, HCORO1, IMD8, TACO, p57				hsa04145	
+TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3				hsa04145	
+ATP6V1G3				hsa04145	
+ATP6V0E2				hsa04145	
+ATP6V0A2				hsa04145	
+ATP6V0D2				hsa04145	
+ATP6V1C2				hsa04145	
+ATP6V0A4				hsa04145	
+ATP6V1D				hsa04145	
+ATP6V1H				hsa04145	
+ATP6V1A				hsa04145	
+ATP6V1B1				hsa04145	
+ATP6V1B2				hsa04145	
+ATP6V0C				hsa04145	
+ATP6V1C1				hsa04145	
+ATP6V1E1				hsa04145	
+ATP6V0B				hsa04145	
+ATP6V1G2				hsa04145	
+ATP6V0A1				hsa04145	
+ATP6AP1				hsa04145	
+ATP6V0E1				hsa04145	
+ATP6V1E2				hsa04145	
+ATP6V0D1				hsa04145	
+ATP6V1F				hsa04145	
+ATP6V1G1				hsa04145	
+C04549				hsa04145	
+C04549				hsa04145	

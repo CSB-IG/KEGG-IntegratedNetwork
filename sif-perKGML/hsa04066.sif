@@ -1,0 +1,375 @@
+RBX1, BA554C121, RNF75, ROC1	gr	ELOB, SIII, TCEB2	group	hsa04066	group
+RBX1, BA554C121, RNF75, ROC1	gr	ELOC, SIII, TCEB1	group	hsa04066	group
+RBX1, BA554C121, RNF75, ROC1	gr	VHL, HRCA1, RCA1, VHL1, pVHL	group	hsa04066	group
+ELOB, SIII, TCEB2	gr	ELOC, SIII, TCEB1	group	hsa04066	group
+ELOB, SIII, TCEB2	gr	VHL, HRCA1, RCA1, VHL1, pVHL	group	hsa04066	group
+ELOC, SIII, TCEB1	gr	VHL, HRCA1, RCA1, VHL1, pVHL	group	hsa04066	group
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr	ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	group	hsa04066	group
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr	CREBBP, CBP, KAT3A, RSTS, RSTS1	group	hsa04066	group
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr	EP300	group	hsa04066	group
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	gr	CREBBP, CBP, KAT3A, RSTS, RSTS1	group	hsa04066	group
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	gr	EP300	group	hsa04066	group
+IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	pp	IL6R, CD126, IL-6R-1, IL-6RA, IL6Q, IL6RA, IL6RQ, gp80	g-g	hsa04066	activation
+C00338	pc	TLR4, ARMD10, CD284, TLR-4, TOLL	c-g	hsa04066	activation
+IFNG, IFG, IFI	pp	IFNGR1, CD119, IFNGR, IMD27A, IMD27B	g-g	hsa04066	activation
+IFNG, IFG, IFI	pp	IFNGR2	g-g	hsa04066	activation
+EGF, HOMG4, URG	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04066	activation
+EGF, HOMG4, URG	pp	ERBB2	g-g	hsa04066	activation
+EGF, HOMG4, URG	pp	IGF1R	g-g	hsa04066	activation
+EGF, HOMG4, URG	pp	INSR	g-g	hsa04066	activation
+IGF1	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04066	activation
+INS	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04066	activation
+IGF1	pp	ERBB2	g-g	hsa04066	activation
+IGF1	pp	IGF1R	g-g	hsa04066	activation
+IGF1	pp	INSR	g-g	hsa04066	activation
+INS	pp	ERBB2	g-g	hsa04066	activation
+INS	pp	IGF1R	g-g	hsa04066	activation
+INS	pp	INSR	g-g	hsa04066	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04066	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04066	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04066	activation
+MAP2K2	pp	MAPK3	g-g	hsa04066	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	MKNK2, GPRK7, MNK2	g-g	hsa04066	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	MKNK1	g-g	hsa04066	activation
+MAPK3	pp	MKNK2, GPRK7, MNK2	g-g	hsa04066	activation
+MAPK3	pp	MKNK1	g-g	hsa04066	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT1	g-g	hsa04066	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT2	g-g	hsa04066	activation
+PIK3CB	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3CD	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3R1	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3R2	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3R3	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04066	activation
+PIK3CB	pp	AKT1	g-g	hsa04066	activation
+PIK3CB	pp	AKT2	g-g	hsa04066	activation
+PIK3CD	pp	AKT1	g-g	hsa04066	activation
+PIK3CD	pp	AKT2	g-g	hsa04066	activation
+PIK3R1	pp	AKT1	g-g	hsa04066	activation
+PIK3R1	pp	AKT2	g-g	hsa04066	activation
+PIK3R2	pp	AKT1	g-g	hsa04066	activation
+PIK3R2	pp	AKT2	g-g	hsa04066	activation
+PIK3R3	pp	AKT1	g-g	hsa04066	activation
+PIK3R3	pp	AKT2	g-g	hsa04066	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa04066	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB2	g-g	hsa04066	activation
+RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	pp	RPS6, S6	g-g	hsa04066	activation
+RPS6KB2	pp	RPS6, S6	g-g	hsa04066	activation
+MKNK2, GPRK7, MNK2	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa04066	activation
+MKNK2, GPRK7, MNK2	pp	EIF4E1B	g-g	hsa04066	activation
+MKNK2, GPRK7, MNK2	pp	EIF4E2	g-g	hsa04066	activation
+MKNK1	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa04066	activation
+MKNK1	pp	EIF4E1B	g-g	hsa04066	activation
+MKNK1	pp	EIF4E2	g-g	hsa04066	activation
+C00704	pc	PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	c-g	hsa04066	activation
+C00704	pc	PLCG2	c-g	hsa04066	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04066	activation
+C00165	pc	PRKCB	c-g	hsa04066	activation
+C00165	pc	PRKCG	c-g	hsa04066	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+PRKCB	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+PRKCG	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+C00007	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa04066	activation
+C00007	pc	EGLN3	c-g	hsa04066	activation
+C00007	pc	EGLN1	c-g	hsa04066	activation
+C14818	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa04066	activation
+C14818	pc	EGLN3	c-g	hsa04066	activation
+C14818	pc	EGLN1	c-g	hsa04066	activation
+C00072	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa04066	activation
+C00072	pc	EGLN3	c-g	hsa04066	activation
+C00072	pc	EGLN1	c-g	hsa04066	activation
+C00026	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa04066	activation
+C00026	pc	EGLN3	c-g	hsa04066	activation
+C00026	pc	EGLN1	c-g	hsa04066	activation
+C00076	pc	CAMK2A, CAMKA, MRD53	c-g	hsa04066	activation
+C00076	pc	CAMK2B	c-g	hsa04066	activation
+C00076	pc	CAMK2D	c-g	hsa04066	activation
+C00076	pc	CAMK2G	c-g	hsa04066	activation
+CAMK2A, CAMKA, MRD53	pp	CREBBP, CBP, KAT3A, RSTS, RSTS1	g-g	hsa04066	activation
+CAMK2A, CAMKA, MRD53	pp	EP300	g-g	hsa04066	activation
+CAMK2B	pp	CREBBP, CBP, KAT3A, RSTS, RSTS1	g-g	hsa04066	activation
+CAMK2D	pp	CREBBP, CBP, KAT3A, RSTS, RSTS1	g-g	hsa04066	activation
+CAMK2G	pp	CREBBP, CBP, KAT3A, RSTS, RSTS1	g-g	hsa04066	activation
+CAMK2B	pp	EP300	g-g	hsa04066	activation
+CAMK2D	pp	EP300	g-g	hsa04066	activation
+CAMK2G	pp	EP300	g-g	hsa04066	activation
+EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	activation
+EGLN3	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	activation
+EGLN1	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	activation
+RBX1, BA554C121, RNF75, ROC1	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr-g	hsa04066	inhibition
+ELOB, SIII, TCEB2	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr-g	hsa04066	inhibition
+ELOC, SIII, TCEB1	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr-g	hsa04066	inhibition
+VHL, HRCA1, RCA1, VHL1, pVHL	pp	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	gr-g	hsa04066	inhibition
+IL6R, CD126, IL-6R-1, IL-6RA, IL6Q, IL6RA, IL6RQ, gp80	pp	STAT3, ADMIO, ADMIO1, APRF, HIES	g-g	hsa04066	activation
+TLR4, ARMD10, CD284, TLR-4, TOLL	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04066	activation
+TLR4, ARMD10, CD284, TLR-4, TOLL	pp	RELA	g-g	hsa04066	activation
+IFNGR1, CD119, IFNGR, IMD27A, IMD27B	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04066	activation
+IFNGR1, CD119, IFNGR, IMD27A, IMD27B	pp	RELA	g-g	hsa04066	activation
+IFNGR2	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04066	activation
+IFNGR2	pp	RELA	g-g	hsa04066	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	g-g	hsa04066	inhibition
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	EGLN3	g-g	hsa04066	inhibition
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	EGLN1	g-g	hsa04066	inhibition
+PRKCB	pp	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	g-g	hsa04066	inhibition
+PRKCG	pp	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	g-g	hsa04066	inhibition
+PRKCB	pp	EGLN3	g-g	hsa04066	inhibition
+PRKCB	pp	EGLN1	g-g	hsa04066	inhibition
+PRKCG	pp	EGLN3	g-g	hsa04066	inhibition
+PRKCG	pp	EGLN1	g-g	hsa04066	inhibition
+C00533	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa04066	inhibition
+C00533	pc	EGLN3	c-g	hsa04066	inhibition
+C00533	pc	EGLN1	c-g	hsa04066	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	g-g	hsa04066	inhibition
+MAPK3	pp	EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	g-g	hsa04066	inhibition
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	g-g	hsa04066	inhibition
+PDK1	pp	PDHA1, PDHA, PDHAD, PDHCE1A, PHE1A	g-g	hsa04066	inhibition
+PDK1	pp	PDHA2	g-g	hsa04066	inhibition
+PDK1	pp	PDHB	g-g	hsa04066	inhibition
+STAT3, ADMIO, ADMIO1, APRF, HIES	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	expression
+RELA	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+EP300	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LTBR, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LTBR, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LTBR, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3	gr-g	hsa04066	expression
+EP300	pd	LTBR, D12S370, LT-BETA-R, TNF-R-III, TNFCR, TNFR-RP, TNFR2-RP, TNFR3, TNFRSF3	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	EPO, DBAL, ECYT5, EP, MVCD2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	EPO, DBAL, ECYT5, EP, MVCD2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	EPO, DBAL, ECYT5, EP, MVCD2	gr-g	hsa04066	expression
+EP300	pd	EPO, DBAL, ECYT5, EP, MVCD2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	gr-g	hsa04066	expression
+EP300	pd	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	gr-g	hsa04066	expression
+EP300	pd	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	VEGFA, MVCD1, VEGF, VPF	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	VEGFA, MVCD1, VEGF, VPF	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	VEGFA, MVCD1, VEGF, VPF	gr-g	hsa04066	expression
+EP300	pd	VEGFA, MVCD1, VEGF, VPF	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	FLT1, FLT, FLT-1, VEGFR-1, VEGFR1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	FLT1, FLT, FLT-1, VEGFR-1, VEGFR1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	FLT1, FLT, FLT-1, VEGFR-1, VEGFR1	gr-g	hsa04066	expression
+EP300	pd	FLT1, FLT, FLT-1, VEGFR-1, VEGFR1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	EGF, HOMG4, URG	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	IGF1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	INS	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	EGF, HOMG4, URG	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	IGF1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	INS	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	EGF, HOMG4, URG	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	IGF1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	INS	gr-g	hsa04066	expression
+EP300	pd	EGF, HOMG4, URG	gr-g	hsa04066	expression
+EP300	pd	IGF1	gr-g	hsa04066	expression
+EP300	pd	INS	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04066	expression
+EP300	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ANGPT1, AGP1, AGPT, ANG1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ANGPT2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ANGPT4	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ANGPT1, AGP1, AGPT, ANG1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ANGPT2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ANGPT4	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ANGPT1, AGP1, AGPT, ANG1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ANGPT2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ANGPT4	gr-g	hsa04066	expression
+EP300	pd	ANGPT1, AGP1, AGPT, ANG1	gr-g	hsa04066	expression
+EP300	pd	ANGPT2	gr-g	hsa04066	expression
+EP300	pd	ANGPT4	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1	gr-g	hsa04066	expression
+EP300	pd	TEK, CD202B, GLC3E, TIE-2, TIE2, VMCM, VMCM1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+EP300	pd	TIMP1, CLGI, EPA, EPO, HCI, TIMP, TIMP-1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME	gr-g	hsa04066	expression
+EP300	pd	EDN1, ARCND3, ET1, HDLCQ7, PPET1, QME	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	gr-g	hsa04066	expression
+EP300	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	NOS3, ECNOS, eNOS	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	NOS3, ECNOS, eNOS	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	NOS3, ECNOS, eNOS	gr-g	hsa04066	expression
+EP300	pd	NOS3, ECNOS, eNOS	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	gr-g	hsa04066	expression
+EP300	pd	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	gr-g	hsa04066	expression
+EP300	pd	NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	gr-g	hsa04066	expression
+EP300	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PDK1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PDK1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PDK1	gr-g	hsa04066	expression
+EP300	pd	PDK1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	HK2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	HK3	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	HKDC1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	HK2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	HK3	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	HKDC1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	HK2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	HK3	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	HKDC1	gr-g	hsa04066	expression
+EP300	pd	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	gr-g	hsa04066	expression
+EP300	pd	HK2	gr-g	hsa04066	expression
+EP300	pd	HK3	gr-g	hsa04066	expression
+EP300	pd	HKDC1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PFKL, ATP-PFK, PFK-B, PFK-L	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PFKM	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PFKP	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PFKL, ATP-PFK, PFK-B, PFK-L	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PFKM	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PFKP	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PFKL, ATP-PFK, PFK-B, PFK-L	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PFKM	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PFKP	gr-g	hsa04066	expression
+EP300	pd	PFKL, ATP-PFK, PFK-B, PFK-L	gr-g	hsa04066	expression
+EP300	pd	PFKM	gr-g	hsa04066	expression
+EP300	pd	PFKP	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	GAPDH, G3PD, GAPD, HEL-S-162eP	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	GAPDH, G3PD, GAPD, HEL-S-162eP	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	GAPDH, G3PD, GAPD, HEL-S-162eP	gr-g	hsa04066	expression
+EP300	pd	GAPDH, G3PD, GAPD, HEL-S-162eP	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ALDOA, ALDA, GSD12, HEL-S-87p	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ALDOB	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ALDOC	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ALDOA, ALDA, GSD12, HEL-S-87p	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ALDOB	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ALDOC	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ALDOA, ALDA, GSD12, HEL-S-87p	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ALDOB	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ALDOC	gr-g	hsa04066	expression
+EP300	pd	ALDOA, ALDA, GSD12, HEL-S-87p	gr-g	hsa04066	expression
+EP300	pd	ALDOB	gr-g	hsa04066	expression
+EP300	pd	ALDOC	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PGK1, HEL-S-68p, MIG10, PGKA	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PGK2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PGK1, HEL-S-68p, MIG10, PGKA	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PGK2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PGK1, HEL-S-68p, MIG10, PGKA	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PGK2	gr-g	hsa04066	expression
+EP300	pd	PGK1, HEL-S-68p, MIG10, PGKA	gr-g	hsa04066	expression
+EP300	pd	PGK2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PFKFB3, IPFK2, PFK2, iPFK-2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	PFKFB3, IPFK2, PFK2, iPFK-2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	PFKFB3, IPFK2, PFK2, iPFK-2	gr-g	hsa04066	expression
+EP300	pd	PFKFB3, IPFK2, PFK2, iPFK-2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LDHA, GSD11, HEL-S-133P, LDHM, PIG19	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LDHAL6A	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LDHB	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LDHC	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	LDHAL6B	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LDHA, GSD11, HEL-S-133P, LDHM, PIG19	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LDHAL6A	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LDHB	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LDHC	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	LDHAL6B	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LDHA, GSD11, HEL-S-133P, LDHM, PIG19	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LDHAL6A	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LDHB	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LDHC	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	LDHAL6B	gr-g	hsa04066	expression
+EP300	pd	LDHA, GSD11, HEL-S-133P, LDHM, PIG19	gr-g	hsa04066	expression
+EP300	pd	LDHAL6A	gr-g	hsa04066	expression
+EP300	pd	LDHB	gr-g	hsa04066	expression
+EP300	pd	LDHC	gr-g	hsa04066	expression
+EP300	pd	LDHAL6B	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04066	expression
+EP300	pd	BCL2, Bcl-2, PPP1R50	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	CDKN1B	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	CDKN1B	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	CDKN1B	gr-g	hsa04066	expression
+EP300	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04066	expression
+EP300	pd	CDKN1B	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ENO2	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ENO3	gr-g	hsa04066	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	ENO4	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ENO2	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ENO3	gr-g	hsa04066	expression
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pd	ENO4	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ENO2	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ENO3	gr-g	hsa04066	expression
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pd	ENO4	gr-g	hsa04066	expression
+EP300	pd	ENO1, ENO1L1, HEL-S-17, MPB1, NNE, PPH	gr-g	hsa04066	expression
+EP300	pd	ENO2	gr-g	hsa04066	expression
+EP300	pd	ENO3	gr-g	hsa04066	expression
+EP300	pd	ENO4	gr-g	hsa04066	expression
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	MAP2K2	g-g	hsa04066	activation
+ERBB2	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04066	activation
+IGF1R	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04066	activation
+INSR	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04066	activation
+ERBB2	pp	MAP2K2	g-g	hsa04066	activation
+IGF1R	pp	MAP2K2	g-g	hsa04066	activation
+INSR	pp	MAP2K2	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CB	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CD	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R1	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R2	g-g	hsa04066	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R3	g-g	hsa04066	activation
+ERBB2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04066	activation
+IGF1R	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04066	activation
+INSR	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04066	activation
+ERBB2	pp	PIK3CB	g-g	hsa04066	activation
+ERBB2	pp	PIK3CD	g-g	hsa04066	activation
+ERBB2	pp	PIK3R1	g-g	hsa04066	activation
+ERBB2	pp	PIK3R2	g-g	hsa04066	activation
+ERBB2	pp	PIK3R3	g-g	hsa04066	activation
+IGF1R	pp	PIK3CB	g-g	hsa04066	activation
+IGF1R	pp	PIK3CD	g-g	hsa04066	activation
+IGF1R	pp	PIK3R1	g-g	hsa04066	activation
+IGF1R	pp	PIK3R2	g-g	hsa04066	activation
+IGF1R	pp	PIK3R3	g-g	hsa04066	activation
+INSR	pp	PIK3CB	g-g	hsa04066	activation
+INSR	pp	PIK3CD	g-g	hsa04066	activation
+INSR	pp	PIK3R1	g-g	hsa04066	activation
+INSR	pp	PIK3R2	g-g	hsa04066	activation
+INSR	pp	PIK3R3	g-g	hsa04066	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+AKT1	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+AKT2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04066	activation
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	pc	C00704	g-c	hsa04066	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C00165	g-c	hsa04066	activation
+PLCG2	pc	C00165	g-c	hsa04066	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C01245	g-c	hsa04066	activation
+PLCG2	pc	C01245	g-c	hsa04066	activation
+EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa04066	inhibition
+EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	pp	EIF4E1B	g-g	hsa04066	inhibition
+EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I	pp	EIF4E2	g-g	hsa04066	inhibition
+CUL2				hsa04066	
+C00031				hsa04066	
+C00022				hsa04066	
+C00186				hsa04066	
+C00024				hsa04066	
+C00002				hsa04066	

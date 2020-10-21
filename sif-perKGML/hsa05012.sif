@@ -1,0 +1,171 @@
+UBA1, A1S9, A1S9T, A1ST, AMCX1, CFAP124, GXP1, POC20, SMAX2, UBA1A, UBE1, UBE1X	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBA7	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBE2L3, E2-F1, L-UBC, UBCH7, UbcM4	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBE2L6	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBB, HEL-S-50	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBB, HEL-S-50	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBB, HEL-S-50	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+UBB, HEL-S-50	pp	UBB, HEL-S-50	g-g	hsa05012	binding/association
+HTRA2, MGCA8, OMI, PARK13, PRSS25	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+PPIF, CYP3, CyP-M, Cyp-D, CypD	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+SLC25A4	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+SLC25A5	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+SLC25A6	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+VDAC1	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+VDAC2	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+VDAC3	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+SLC25A31	pp	CYCS, CYC, HCS, THC4	g-g	hsa05012	activation
+CYCS, CYC, HCS, THC4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05012	activation
+APAF1, APAF-1, CED4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05012	activation
+CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	pp	CASP3, CPP32, CPP32B, SCA-1	g-g	hsa05012	activation
+C00212	pc	ADORA2A, A2aR, ADORA2, RDC8	c-g	hsa05012	activation
+ADORA2A, A2aR, ADORA2, RDC8	pp	GNAL, DYT25	g-g	hsa05012	activation
+GNAL, DYT25	pp	ADCY5, AC5, FDFM	g-g	hsa05012	activation
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa05012	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05012	activation
+C00575	pc	PRKACB	c-g	hsa05012	activation
+C00575	pc	PRKACG	c-g	hsa05012	activation
+C03758	pc	DRD2, D2DR, D2R	c-g	hsa05012	missing interaction
+DRD2, D2DR, D2R	pp	GNAI1, Gi	g-g	hsa05012	missing interaction
+DRD2, D2DR, D2R	pp	GNAI2	g-g	hsa05012	missing interaction
+DRD2, D2DR, D2R	pp	GNAI3	g-g	hsa05012	missing interaction
+GNAI1, Gi	pp	ADCY5, AC5, FDFM	g-g	hsa05012	missing interaction
+GNAI2	pp	ADCY5, AC5, FDFM	g-g	hsa05012	missing interaction
+GNAI3	pp	ADCY5, AC5, FDFM	g-g	hsa05012	missing interaction
+C03758	pc	DRD1, DADR, DRD1A	c-g	hsa05012	missing interaction
+DRD1, DADR, DRD1A	pp	GNAL, DYT25	g-g	hsa05012	missing interaction
+GNAL, DYT25	pp	ADCY5, AC5, FDFM	g-g	hsa05012	missing interaction
+ADCY5, AC5, FDFM	pc	C00575	g-c	hsa05012	missing interaction
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05012	missing interaction
+C00575	pc	PRKACB	c-g	hsa05012	missing interaction
+C00575	pc	PRKACG	c-g	hsa05012	missing interaction
+LRRK2, AURA17, DARDARIN, PARK8, RIPK7, ROCO2				hsa05012	
+PRKN, AR-JP, LPRS2, PARK2, PDJ				hsa05012	
+SEPT5, CDCREL, CDCREL-1, CDCREL1, H5, HCDCREL-1, PNUTL1				hsa05012	
+SNCAIP, SYPH1, Sph1				hsa05012	
+GPR37, EDNRBL, PAELR, hET(B)R-LP				hsa05012	
+PARK7, DJ-1, DJ1, GATD2, HEL-S-67p				hsa05012	
+PINK1, BRPK, PARK6				hsa05012	
+SNCA, NACP, PARK1, PARK4, PD1				hsa05012	
+UCHL1, HEL-117, HEL-S-53, NDGOA, PARK5, PGP_95, PGP95, PGP95, SPG79, Uch-L1				hsa05012	
+C04599				hsa05012	
+C07593				hsa05012	
+NDUFC2-KCTD14				hsa05012	
+NDUFA11				hsa05012	
+NDUFS7				hsa05012	
+ND1				hsa05012	
+ND2				hsa05012	
+ND3				hsa05012	
+ND4				hsa05012	
+ND4L				hsa05012	
+ND5				hsa05012	
+ND6				hsa05012	
+NDUFA1				hsa05012	
+NDUFA2				hsa05012	
+NDUFA3				hsa05012	
+NDUFA4				hsa05012	
+NDUFA5				hsa05012	
+NDUFA6				hsa05012	
+NDUFA7				hsa05012	
+NDUFA8				hsa05012	
+NDUFA9				hsa05012	
+NDUFA10				hsa05012	
+NDUFAB1				hsa05012	
+NDUFB1				hsa05012	
+NDUFB2				hsa05012	
+NDUFB3				hsa05012	
+NDUFB4				hsa05012	
+NDUFB5				hsa05012	
+NDUFB6				hsa05012	
+NDUFB7				hsa05012	
+NDUFB8				hsa05012	
+NDUFB9				hsa05012	
+NDUFB10				hsa05012	
+NDUFC1				hsa05012	
+NDUFC2				hsa05012	
+NDUFS1				hsa05012	
+NDUFS2				hsa05012	
+NDUFS3				hsa05012	
+NDUFV1				hsa05012	
+NDUFS4				hsa05012	
+NDUFS5				hsa05012	
+NDUFS6				hsa05012	
+NDUFS8				hsa05012	
+NDUFV2				hsa05012	
+NDUFV3				hsa05012	
+NDUFA13				hsa05012	
+NDUFB11				hsa05012	
+NDUFA12				hsa05012	
+NDUFA4L2				hsa05012	
+SDHA, CMD1GG, FP, PGL5, SDH1, SDH2, SDHF				hsa05012	
+SDHB				hsa05012	
+SDHC				hsa05012	
+SDHD				hsa05012	
+UQCR11, 0710008D09Rik, QCR10, UQCR				hsa05012	
+CYC1				hsa05012	
+UQCRQ				hsa05012	
+UQCR10				hsa05012	
+UQCRHL				hsa05012	
+CYTB				hsa05012	
+UQCRB				hsa05012	
+UQCRC1				hsa05012	
+UQCRC2				hsa05012	
+UQCRFS1				hsa05012	
+UQCRH				hsa05012	
+COX6B2, COXVIB2, CT59				hsa05012	
+COX4I1				hsa05012	
+COX5B				hsa05012	
+COX6A1				hsa05012	
+COX6A2				hsa05012	
+COX6B1				hsa05012	
+COX6C				hsa05012	
+COX7A1				hsa05012	
+COX7A2				hsa05012	
+COX7B				hsa05012	
+COX7C				hsa05012	
+COX8A				hsa05012	
+COX7B2				hsa05012	
+COX8C				hsa05012	
+COX1				hsa05012	
+COX2				hsa05012	
+COX3				hsa05012	
+COX4I2				hsa05012	
+COX7A2L				hsa05012	
+COX5A				hsa05012	
+ATP5PD, ATP5H, ATPQ				hsa05012	
+ATP6				hsa05012	
+ATP8				hsa05012	
+ATP5F1A				hsa05012	
+ATP5F1B				hsa05012	
+ATP5F1C				hsa05012	
+ATP5F1D				hsa05012	
+ATP5F1E				hsa05012	
+ATP5PB				hsa05012	
+ATP5MC1				hsa05012	
+ATP5MC2				hsa05012	
+ATP5MC3				hsa05012	
+ATP5PF				hsa05012	
+ATP5PO				hsa05012	
+C00002				hsa05012	
+C00008				hsa05012	
+C00009				hsa05012	
+C00704				hsa05012	
+C00027				hsa05012	
+C00002				hsa05012	
+C00020				hsa05012	
+C00013				hsa05012	
+C11310				hsa05012	
+C00002				hsa05012	
+C00008				hsa05012	
+C00009				hsa05012	
+C00355				hsa05012	
+UBE2J2, NCUBE-2, NCUBE2, PRO2121				hsa05012	
+UBE2J1				hsa05012	
+UBE2G1				hsa05012	
+UBE2G2				hsa05012	
+C00082				hsa05012	
+TH, DYT14, DYT5b, TYH				hsa05012	
+SLC6A3, DAT, DAT1, PKDYS				hsa05012	
+SLC18A1, CGAT, VAT1, VMAT1				hsa05012	
+SLC18A2				hsa05012	
+SLC6A3, DAT, DAT1, PKDYS				hsa05012	

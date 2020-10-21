@@ -1,0 +1,815 @@
+SPTLC1, HSAN1, HSN1, LBC1, LCB1, SPT1, SPTI	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+SPTLC3	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+SPTLC2	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+PLPP2	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+PLPP3	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	PLPP2	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	PLPP3	g-g	hsa00600	compound
+ASAH2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+ASAH2	ec	PLPP2	g-g	hsa00600	compound
+ASAH2	ec	PLPP3	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP3	g-g	hsa00600	compound
+CERS3	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS6	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS4	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS5	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS3	ec	PLPP2	g-g	hsa00600	compound
+CERS3	ec	PLPP3	g-g	hsa00600	compound
+CERS6	ec	PLPP2	g-g	hsa00600	compound
+CERS6	ec	PLPP3	g-g	hsa00600	compound
+CERS2	ec	PLPP2	g-g	hsa00600	compound
+CERS2	ec	PLPP3	g-g	hsa00600	compound
+CERS4	ec	PLPP2	g-g	hsa00600	compound
+CERS4	ec	PLPP3	g-g	hsa00600	compound
+CERS5	ec	PLPP2	g-g	hsa00600	compound
+CERS5	ec	PLPP3	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP3	g-g	hsa00600	compound
+DEGS1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+DEGS1	ec	PLPP2	g-g	hsa00600	compound
+DEGS1	ec	PLPP3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+SGPP1	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH2	g-g	hsa00600	compound
+SGPP1	ec	ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	g-g	hsa00600	compound
+SGPP1	ec	ASAH2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS6	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS4	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS5	g-g	hsa00600	compound
+SGPP1	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP1	ec	CERS3	g-g	hsa00600	compound
+SGPP1	ec	CERS6	g-g	hsa00600	compound
+SGPP1	ec	CERS2	g-g	hsa00600	compound
+SGPP1	ec	CERS4	g-g	hsa00600	compound
+SGPP1	ec	CERS5	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	DEGS1	g-g	hsa00600	compound
+SGPP1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGPP1	ec	DEGS1	g-g	hsa00600	compound
+KDSR, DHSR, EKVP4, FVT1, SDR35C1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+KDSR, DHSR, EKVP4, FVT1, SDR35C1	ec	SPHK1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	SPHK1	g-g	hsa00600	compound
+ASAH2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH2	ec	SPHK1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SPHK1	g-g	hsa00600	compound
+CERS3	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS6	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS4	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS5	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS3	ec	SPHK1	g-g	hsa00600	compound
+CERS6	ec	SPHK1	g-g	hsa00600	compound
+CERS2	ec	SPHK1	g-g	hsa00600	compound
+CERS4	ec	SPHK1	g-g	hsa00600	compound
+CERS5	ec	SPHK1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SPHK1	g-g	hsa00600	compound
+DEGS1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+DEGS1	ec	SPHK1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+ASAH2	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS3	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS6	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS2	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS4	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+CERS5	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+DEGS1	ec	KDSR, DHSR, EKVP4, FVT1, SDR35C1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS1	g-g	hsa00600	compound
+ASAH2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH2	ec	DEGS1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS1	g-g	hsa00600	compound
+CERS3	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS6	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS4	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS5	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS3	ec	DEGS1	g-g	hsa00600	compound
+CERS6	ec	DEGS1	g-g	hsa00600	compound
+CERS2	ec	DEGS1	g-g	hsa00600	compound
+CERS4	ec	DEGS1	g-g	hsa00600	compound
+CERS5	ec	DEGS1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS1	g-g	hsa00600	compound
+CERS3	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS6	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS4	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS5	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS3	ec	DEGS1	g-g	hsa00600	compound
+CERS6	ec	DEGS1	g-g	hsa00600	compound
+CERS2	ec	DEGS1	g-g	hsa00600	compound
+CERS4	ec	DEGS1	g-g	hsa00600	compound
+CERS5	ec	DEGS1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	DEGS1	g-g	hsa00600	compound
+CERS3	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS6	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS4	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS5	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+CERS3	ec	DEGS1	g-g	hsa00600	compound
+CERS6	ec	DEGS1	g-g	hsa00600	compound
+CERS2	ec	DEGS1	g-g	hsa00600	compound
+CERS4	ec	DEGS1	g-g	hsa00600	compound
+CERS5	ec	DEGS1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS1	g-g	hsa00600	compound
+ASAH2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH2	ec	DEGS1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS1	g-g	hsa00600	compound
+ASAH2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH2	ec	DEGS1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	DEGS1	g-g	hsa00600	compound
+DEGS1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+DEGS1	ec	DEGS1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS1	g-g	hsa00600	compound
+ASAH2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH2	ec	DEGS1	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	DEGS1	g-g	hsa00600	compound
+ASAH2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+ASAH2	ec	DEGS1	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS3	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS6	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS4	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERS5	g-g	hsa00600	compound
+SMPD3	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SMPD4	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SMPD1	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SMPD2	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SMPD3	ec	CERS3	g-g	hsa00600	compound
+SMPD3	ec	CERS6	g-g	hsa00600	compound
+SMPD3	ec	CERS2	g-g	hsa00600	compound
+SMPD3	ec	CERS4	g-g	hsa00600	compound
+SMPD3	ec	CERS5	g-g	hsa00600	compound
+SMPD4	ec	CERS3	g-g	hsa00600	compound
+SMPD4	ec	CERS6	g-g	hsa00600	compound
+SMPD4	ec	CERS2	g-g	hsa00600	compound
+SMPD4	ec	CERS4	g-g	hsa00600	compound
+SMPD4	ec	CERS5	g-g	hsa00600	compound
+SMPD1	ec	CERS3	g-g	hsa00600	compound
+SMPD1	ec	CERS6	g-g	hsa00600	compound
+SMPD1	ec	CERS2	g-g	hsa00600	compound
+SMPD1	ec	CERS4	g-g	hsa00600	compound
+SMPD1	ec	CERS5	g-g	hsa00600	compound
+SMPD2	ec	CERS3	g-g	hsa00600	compound
+SMPD2	ec	CERS6	g-g	hsa00600	compound
+SMPD2	ec	CERS2	g-g	hsa00600	compound
+SMPD2	ec	CERS4	g-g	hsa00600	compound
+SMPD2	ec	CERS5	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS3	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS6	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS2	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS4	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS5	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP3	g-g	hsa00600	compound
+CERS3	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS6	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS4	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS5	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS3	ec	PLPP2	g-g	hsa00600	compound
+CERS3	ec	PLPP3	g-g	hsa00600	compound
+CERS6	ec	PLPP2	g-g	hsa00600	compound
+CERS6	ec	PLPP3	g-g	hsa00600	compound
+CERS2	ec	PLPP2	g-g	hsa00600	compound
+CERS2	ec	PLPP3	g-g	hsa00600	compound
+CERS4	ec	PLPP2	g-g	hsa00600	compound
+CERS4	ec	PLPP3	g-g	hsa00600	compound
+CERS5	ec	PLPP2	g-g	hsa00600	compound
+CERS5	ec	PLPP3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS6	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS4	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS5	g-g	hsa00600	compound
+SGPP1	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP1	ec	CERS3	g-g	hsa00600	compound
+SGPP1	ec	CERS6	g-g	hsa00600	compound
+SGPP1	ec	CERS2	g-g	hsa00600	compound
+SGPP1	ec	CERS4	g-g	hsa00600	compound
+SGPP1	ec	CERS5	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	GALC	g-g	hsa00600	compound
+CERS3	ec	GALC	g-g	hsa00600	compound
+CERS6	ec	GALC	g-g	hsa00600	compound
+CERS2	ec	GALC	g-g	hsa00600	compound
+CERS4	ec	GALC	g-g	hsa00600	compound
+CERS5	ec	GALC	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS3	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS6	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS4	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS5	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	GBA2	g-g	hsa00600	compound
+CERS3	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS6	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS2	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS4	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS5	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERS3	ec	GBA2	g-g	hsa00600	compound
+CERS6	ec	GBA2	g-g	hsa00600	compound
+CERS2	ec	GBA2	g-g	hsa00600	compound
+CERS4	ec	GBA2	g-g	hsa00600	compound
+CERS5	ec	GBA2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS3	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS6	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS2	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS4	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS5	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS3	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS6	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS4	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERS5	g-g	hsa00600	compound
+DEGS1	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+DEGS1	ec	CERS3	g-g	hsa00600	compound
+DEGS1	ec	CERS6	g-g	hsa00600	compound
+DEGS1	ec	CERS2	g-g	hsa00600	compound
+DEGS1	ec	CERS4	g-g	hsa00600	compound
+DEGS1	ec	CERS5	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	ACER2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	ASAH1	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	ASAH2	g-g	hsa00600	compound
+SMPD3	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SMPD4	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SMPD1	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SMPD2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SMPD3	ec	ACER2	g-g	hsa00600	compound
+SMPD3	ec	ASAH1	g-g	hsa00600	compound
+SMPD3	ec	ASAH2	g-g	hsa00600	compound
+SMPD4	ec	ACER2	g-g	hsa00600	compound
+SMPD4	ec	ASAH1	g-g	hsa00600	compound
+SMPD4	ec	ASAH2	g-g	hsa00600	compound
+SMPD1	ec	ACER2	g-g	hsa00600	compound
+SMPD1	ec	ASAH1	g-g	hsa00600	compound
+SMPD1	ec	ASAH2	g-g	hsa00600	compound
+SMPD2	ec	ACER2	g-g	hsa00600	compound
+SMPD2	ec	ASAH1	g-g	hsa00600	compound
+SMPD2	ec	ASAH2	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	ACER2	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	ASAH1	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	ASAH2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ACER2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ASAH1	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ASAH2	g-g	hsa00600	compound
+PLPP2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP3	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP2	ec	ACER2	g-g	hsa00600	compound
+PLPP2	ec	ASAH1	g-g	hsa00600	compound
+PLPP2	ec	ASAH2	g-g	hsa00600	compound
+PLPP3	ec	ACER2	g-g	hsa00600	compound
+PLPP3	ec	ASAH1	g-g	hsa00600	compound
+PLPP3	ec	ASAH2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ACER2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH2	g-g	hsa00600	compound
+SGPP1	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SGPP1	ec	ACER2	g-g	hsa00600	compound
+SGPP1	ec	ASAH1	g-g	hsa00600	compound
+SGPP1	ec	ASAH2	g-g	hsa00600	compound
+ACER1, ALKCDase1, ASAH3	ec	GALC	g-g	hsa00600	compound
+ACER2	ec	GALC	g-g	hsa00600	compound
+ASAH1	ec	GALC	g-g	hsa00600	compound
+ASAH2	ec	GALC	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	ACER2	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	ASAH1	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	ASAH2	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	ACER2	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	ASAH1	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	ASAH2	g-g	hsa00600	compound
+GBA2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+GBA2	ec	ACER2	g-g	hsa00600	compound
+GBA2	ec	ASAH1	g-g	hsa00600	compound
+GBA2	ec	ASAH2	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	ACER2	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	ASAH1	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	ASAH2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ACER2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ASAH1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ASAH2	g-g	hsa00600	compound
+DEGS1	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+DEGS1	ec	ACER2	g-g	hsa00600	compound
+DEGS1	ec	ASAH1	g-g	hsa00600	compound
+DEGS1	ec	ASAH2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SMPD3	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SMPD4	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SMPD1	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SMPD2	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	PLPP2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	PLPP3	g-g	hsa00600	compound
+SMPD3	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SMPD4	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SMPD1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SMPD2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SMPD3	ec	PLPP2	g-g	hsa00600	compound
+SMPD3	ec	PLPP3	g-g	hsa00600	compound
+SMPD4	ec	PLPP2	g-g	hsa00600	compound
+SMPD4	ec	PLPP3	g-g	hsa00600	compound
+SMPD1	ec	PLPP2	g-g	hsa00600	compound
+SMPD1	ec	PLPP3	g-g	hsa00600	compound
+SMPD2	ec	PLPP2	g-g	hsa00600	compound
+SMPD2	ec	PLPP3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SMPD3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SMPD4	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SMPD1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SMPD2	g-g	hsa00600	compound
+SGPP1	ec	ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	g-g	hsa00600	compound
+SGPP1	ec	SMPD3	g-g	hsa00600	compound
+SGPP1	ec	SMPD4	g-g	hsa00600	compound
+SGPP1	ec	SMPD1	g-g	hsa00600	compound
+SGPP1	ec	SMPD2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	GALC	g-g	hsa00600	compound
+SMPD3	ec	GALC	g-g	hsa00600	compound
+SMPD4	ec	GALC	g-g	hsa00600	compound
+SMPD1	ec	GALC	g-g	hsa00600	compound
+SMPD2	ec	GALC	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SMPD3	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SMPD4	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SMPD1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SMPD2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	GBA2	g-g	hsa00600	compound
+SMPD3	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SMPD4	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SMPD1	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SMPD2	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SMPD3	ec	GBA2	g-g	hsa00600	compound
+SMPD4	ec	GBA2	g-g	hsa00600	compound
+SMPD1	ec	GBA2	g-g	hsa00600	compound
+SMPD2	ec	GBA2	g-g	hsa00600	compound
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SMPD3	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SMPD4	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SMPD1	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SMPD2	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SMPD3	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SMPD4	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SMPD1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	SMPD2	g-g	hsa00600	compound
+DEGS1	ec	ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	g-g	hsa00600	compound
+DEGS1	ec	SMPD3	g-g	hsa00600	compound
+DEGS1	ec	SMPD4	g-g	hsa00600	compound
+DEGS1	ec	SMPD1	g-g	hsa00600	compound
+DEGS1	ec	SMPD2	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	GALC	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	GBA2	g-g	hsa00600	compound
+CERK, LK4, dA59H182, dA59H183, hCERK	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+DEGS1	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	GALC	g-g	hsa00600	compound
+PLPP2	ec	GALC	g-g	hsa00600	compound
+PLPP3	ec	GALC	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+PLPP2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+PLPP3	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	GBA2	g-g	hsa00600	compound
+PLPP2	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+PLPP3	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+PLPP2	ec	GBA2	g-g	hsa00600	compound
+PLPP3	ec	GBA2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+PLPP2	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+PLPP3	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	PLPP3	g-g	hsa00600	compound
+DEGS1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+DEGS1	ec	PLPP2	g-g	hsa00600	compound
+DEGS1	ec	PLPP3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	GALC	g-g	hsa00600	compound
+SGPP1	ec	GALC	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SGPP1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	GBA2	g-g	hsa00600	compound
+SGPP1	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SGPP1	ec	GBA2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SGPP1	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	DEGS1	g-g	hsa00600	compound
+SGPP1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGPP1	ec	DEGS1	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	GALC	g-g	hsa00600	compound
+GBA2	ec	GALC	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	GALC	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	GALC	g-g	hsa00600	compound
+DEGS1	ec	GALC	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	GBA2	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+DEGS1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	GBA2	g-g	hsa00600	compound
+DEGS1	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+DEGS1	ec	GBA2	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+DEGS1	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SPHK1	g-g	hsa00600	compound
+CERS3	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS6	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS4	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS5	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+CERS3	ec	SPHK1	g-g	hsa00600	compound
+CERS6	ec	SPHK1	g-g	hsa00600	compound
+CERS2	ec	SPHK1	g-g	hsa00600	compound
+CERS4	ec	SPHK1	g-g	hsa00600	compound
+CERS5	ec	SPHK1	g-g	hsa00600	compound
+ACER1, ALKCDase1, ASAH3	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ACER1, ALKCDase1, ASAH3	ec	SPHK1	g-g	hsa00600	compound
+ACER2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ACER2	ec	SPHK1	g-g	hsa00600	compound
+ASAH1	ec	SPHK1	g-g	hsa00600	compound
+ASAH2	ec	SPHK1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS6	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS4	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	CERS5	g-g	hsa00600	compound
+SGPP1	ec	CERS1, EPM8, LAG1, LASS1, UOG1	g-g	hsa00600	compound
+SGPP1	ec	CERS3	g-g	hsa00600	compound
+SGPP1	ec	CERS6	g-g	hsa00600	compound
+SGPP1	ec	CERS2	g-g	hsa00600	compound
+SGPP1	ec	CERS4	g-g	hsa00600	compound
+SGPP1	ec	CERS5	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ACER2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ASAH2	g-g	hsa00600	compound
+SGPP1	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+SGPP1	ec	ACER2	g-g	hsa00600	compound
+SGPP1	ec	ASAH1	g-g	hsa00600	compound
+SGPP1	ec	ASAH2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	PLPP3	g-g	hsa00600	compound
+CERS3	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS6	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS4	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS5	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+CERS3	ec	PLPP2	g-g	hsa00600	compound
+CERS3	ec	PLPP3	g-g	hsa00600	compound
+CERS6	ec	PLPP2	g-g	hsa00600	compound
+CERS6	ec	PLPP3	g-g	hsa00600	compound
+CERS2	ec	PLPP2	g-g	hsa00600	compound
+CERS2	ec	PLPP3	g-g	hsa00600	compound
+CERS4	ec	PLPP2	g-g	hsa00600	compound
+CERS4	ec	PLPP3	g-g	hsa00600	compound
+CERS5	ec	PLPP2	g-g	hsa00600	compound
+CERS5	ec	PLPP3	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ACER2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ASAH1	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ASAH2	g-g	hsa00600	compound
+PLPP2	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP3	ec	ACER1, ALKCDase1, ASAH3	g-g	hsa00600	compound
+PLPP2	ec	ACER2	g-g	hsa00600	compound
+PLPP2	ec	ASAH1	g-g	hsa00600	compound
+PLPP2	ec	ASAH2	g-g	hsa00600	compound
+PLPP3	ec	ACER2	g-g	hsa00600	compound
+PLPP3	ec	ASAH1	g-g	hsa00600	compound
+PLPP3	ec	ASAH2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+PLPP2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+PLPP3	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SGPP1	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SPHK2, SK_2, SK-2, SPK_2, SPK-2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SPHK1	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+PLPP2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+PLPP3	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SGPP1	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SPHK2, SK_2, SK-2, SPK_2, SPK-2	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+SPHK1	ec	SGPL1, NPHS14, S1PL, SPL	g-g	hsa00600	compound
+GAL3ST1, CST	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+UGT8, CGT, UGT4	ec	ARSA, MLD	g-g	hsa00600	compound
+GLA, GALA	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+NEU3, SIAL3	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+NEU4	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+NEU1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+NEU2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+GAL3ST1, CST	ec	GALC	g-g	hsa00600	compound
+GALC	ec	ARSA, MLD	g-g	hsa00600	compound
+GLA, GALA	ec	GALC	g-g	hsa00600	compound
+NEU3, SIAL3	ec	GALC	g-g	hsa00600	compound
+NEU4	ec	GALC	g-g	hsa00600	compound
+NEU1	ec	GALC	g-g	hsa00600	compound
+NEU2	ec	GALC	g-g	hsa00600	compound
+GLA, GALA	ec	GAL3ST1, CST	g-g	hsa00600	compound
+GAL3ST1, CST	ec	NEU3, SIAL3	g-g	hsa00600	compound
+GAL3ST1, CST	ec	NEU4	g-g	hsa00600	compound
+GAL3ST1, CST	ec	NEU1	g-g	hsa00600	compound
+GAL3ST1, CST	ec	NEU2	g-g	hsa00600	compound
+GLA, GALA	ec	ARSA, MLD	g-g	hsa00600	compound
+NEU3, SIAL3	ec	ARSA, MLD	g-g	hsa00600	compound
+NEU4	ec	ARSA, MLD	g-g	hsa00600	compound
+NEU1	ec	ARSA, MLD	g-g	hsa00600	compound
+NEU2	ec	ARSA, MLD	g-g	hsa00600	compound
+GLA, GALA	ec	NEU3, SIAL3	g-g	hsa00600	compound
+GLA, GALA	ec	NEU4	g-g	hsa00600	compound
+GLA, GALA	ec	NEU1	g-g	hsa00600	compound
+GLA, GALA	ec	NEU2	g-g	hsa00600	compound
+GAL3ST1, CST	ec	GLA, GALA	g-g	hsa00600	compound
+GLB1, EBP, ELNR1, MPS4B	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+UGCG, GCS, GLCT1	ec	B4GALT6, B4Gal-T6, beta4Gal-T6	g-g	hsa00600	compound
+GLB1, EBP, ELNR1, MPS4B	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+GLB1, EBP, ELNR1, MPS4B	ec	GBA2	g-g	hsa00600	compound
+GBA, GBA1, GCB, GLUC	ec	B4GALT6, B4Gal-T6, beta4Gal-T6	g-g	hsa00600	compound
+GBA2	ec	B4GALT6, B4Gal-T6, beta4Gal-T6	g-g	hsa00600	compound
+KDSR, DHSR, EKVP4, FVT1, SDR35C1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	PLPP2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	PLPP3	g-g	hsa00600	compound
+SGPP1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SGPP1	ec	PLPP2	g-g	hsa00600	compound
+SGPP1	ec	PLPP3	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	SPHK1	g-g	hsa00600	compound
+PLPP2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+PLPP3	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+PLPP2	ec	SPHK1	g-g	hsa00600	compound
+PLPP3	ec	SPHK1	g-g	hsa00600	compound
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+PLPP2	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+PLPP3	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	SPHK1	g-g	hsa00600	compound
+SGPP1	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+SGPP1	ec	SPHK1	g-g	hsa00600	compound
+SGPP2, SPP2, SPPase2	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+SGPP1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+SPHK2, SK_2, SK-2, SPK_2, SPK-2	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+SPHK1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS2, C14orf66, DES2, FADS8	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+DEGS1	ec	ACER3, APHC, PHCA	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	ec	SPHK1	g-g	hsa00600	compound
+ASAH2	ec	SPHK2, SK_2, SK-2, SPK_2, SPK-2	g-g	hsa00600	compound
+ASAH2	ec	SPHK1	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS1, EPM8, LAG1, LASS1, UOG1	ec	SGMS1	g-g	hsa00600	compound
+CERS3	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS6	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS2	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS4	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS5	ec	SGMS2, SMS2	g-g	hsa00600	compound
+CERS3	ec	SGMS1	g-g	hsa00600	compound
+CERS6	ec	SGMS1	g-g	hsa00600	compound
+CERS2	ec	SGMS1	g-g	hsa00600	compound
+CERS4	ec	SGMS1	g-g	hsa00600	compound
+CERS5	ec	SGMS1	g-g	hsa00600	compound
+ACER1, ALKCDase1, ASAH3	ec	SGMS2, SMS2	g-g	hsa00600	compound
+ACER1, ALKCDase1, ASAH3	ec	SGMS1	g-g	hsa00600	compound
+ACER2	ec	SGMS2, SMS2	g-g	hsa00600	compound
+ASAH1	ec	SGMS2, SMS2	g-g	hsa00600	compound
+ASAH2	ec	SGMS2, SMS2	g-g	hsa00600	compound
+ACER2	ec	SGMS1	g-g	hsa00600	compound
+ASAH1	ec	SGMS1	g-g	hsa00600	compound
+ASAH2	ec	SGMS1	g-g	hsa00600	compound
+SGMS2, SMS2	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SGMS1	ec	CERK, LK4, dA59H182, dA59H183, hCERK	g-g	hsa00600	compound
+SGMS2, SMS2	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SGMS2, SMS2	ec	PLPP2	g-g	hsa00600	compound
+SGMS2, SMS2	ec	PLPP3	g-g	hsa00600	compound
+SGMS1	ec	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	g-g	hsa00600	compound
+SGMS1	ec	PLPP2	g-g	hsa00600	compound
+SGMS1	ec	PLPP3	g-g	hsa00600	compound
+SGMS2, SMS2	ec	SGPP2, SPP2, SPPase2	g-g	hsa00600	compound
+SGMS2, SMS2	ec	SGPP1	g-g	hsa00600	compound
+SGMS1	ec	SGPP2, SPP2, SPPase2	g-g	hsa00600	compound
+SGMS1	ec	SGPP1	g-g	hsa00600	compound
+SGMS2, SMS2	ec	GALC	g-g	hsa00600	compound
+SGMS1	ec	GALC	g-g	hsa00600	compound
+SGMS2, SMS2	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SGMS1	ec	UGT8, CGT, UGT4	g-g	hsa00600	compound
+SGMS2, SMS2	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SGMS2, SMS2	ec	GBA2	g-g	hsa00600	compound
+SGMS1	ec	GBA, GBA1, GCB, GLUC	g-g	hsa00600	compound
+SGMS1	ec	GBA2	g-g	hsa00600	compound
+SGMS2, SMS2	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SGMS1	ec	UGCG, GCS, GLCT1	g-g	hsa00600	compound
+SGMS2, SMS2	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGMS2, SMS2	ec	DEGS1	g-g	hsa00600	compound
+SGMS1	ec	DEGS2, C14orf66, DES2, FADS8	g-g	hsa00600	compound
+SGMS1	ec	DEGS1	g-g	hsa00600	compound
+C12126	rt	ACER3, APHC, PHCA	irreversible	hsa00600	se
+ACER3, APHC, PHCA	rt	C00836	irreversible	hsa00600	ep
+C02960	rt	SGPP2, SPP2, SPPase2	irreversible	hsa00600	se
+C02960	rt	SGPP1	irreversible	hsa00600	se
+SGPP2, SPP2, SPPase2	rt	C00195	irreversible	hsa00600	ep
+SGPP1	rt	C00195	irreversible	hsa00600	ep
+C06124	rt	SGPP2, SPP2, SPPase2	irreversible	hsa00600	se
+C06124	rt	SGPP1	irreversible	hsa00600	se
+SGPP2, SPP2, SPPase2	rt	C00319	irreversible	hsa00600	ep
+SGPP1	rt	C00319	irreversible	hsa00600	ep
+C01120	rt	SGPP2, SPP2, SPPase2	irreversible	hsa00600	se
+C01120	rt	SGPP1	irreversible	hsa00600	se
+SGPP2, SPP2, SPPase2	rt	C00836	irreversible	hsa00600	ep
+SGPP1	rt	C00836	irreversible	hsa00600	ep
+C12126	rt	ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	irreversible	hsa00600	se
+C12126	rt	ASAH2	irreversible	hsa00600	se
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	rt	C00836	irreversible	hsa00600	ep
+ASAH2	rt	C00836	irreversible	hsa00600	ep
+C12145	rt	ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	irreversible	hsa00600	se
+C12145	rt	ASAH2	irreversible	hsa00600	se
+ASAH1, AC, ACDase, ASAH, PHP, PHP32, SMAPME	rt	C12144	irreversible	hsa00600	ep
+ASAH2	rt	C12144	irreversible	hsa00600	ep
+C00836	rt	CERS1, EPM8, LAG1, LASS1, UOG1	irreversible	hsa00600	se
+C00836	rt	CERS3	irreversible	hsa00600	se
+C00836	rt	CERS6	irreversible	hsa00600	se
+C00836	rt	CERS2	irreversible	hsa00600	se
+C00836	rt	CERS4	irreversible	hsa00600	se
+C00836	rt	CERS5	irreversible	hsa00600	se
+CERS1, EPM8, LAG1, LASS1, UOG1	rt	C12126	irreversible	hsa00600	ep
+CERS3	rt	C12126	irreversible	hsa00600	ep
+CERS6	rt	C12126	irreversible	hsa00600	ep
+CERS2	rt	C12126	irreversible	hsa00600	ep
+CERS4	rt	C12126	irreversible	hsa00600	ep
+CERS5	rt	C12126	irreversible	hsa00600	ep
+C12126	rt	DEGS2, C14orf66, DES2, FADS8	irreversible	hsa00600	se
+C12126	rt	DEGS1	irreversible	hsa00600	se
+DEGS2, C14orf66, DES2, FADS8	rt	C00195	irreversible	hsa00600	ep
+DEGS1	rt	C00195	irreversible	hsa00600	ep
+C12126	rt	DEGS2, C14orf66, DES2, FADS8	irreversible	hsa00600	se
+C12126	rt	DEGS1	irreversible	hsa00600	se
+DEGS2, C14orf66, DES2, FADS8	rt	C12145	irreversible	hsa00600	ep
+DEGS1	rt	C12145	irreversible	hsa00600	ep
+C00836	rt	DEGS2, C14orf66, DES2, FADS8	irreversible	hsa00600	se
+C00836	rt	DEGS1	irreversible	hsa00600	se
+DEGS2, C14orf66, DES2, FADS8	rt	C12144	irreversible	hsa00600	ep
+DEGS1	rt	C12144	irreversible	hsa00600	ep
+C00550	rt	ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	irreversible	hsa00600	se
+C00550	rt	SMPD3	irreversible	hsa00600	se
+C00550	rt	SMPD4	irreversible	hsa00600	se
+C00550	rt	SMPD1	irreversible	hsa00600	se
+C00550	rt	SMPD2	irreversible	hsa00600	se
+ENPP7, ALK-SMase, E-NPP_7, NPP-7, NPP7	rt	C00195	irreversible	hsa00600	ep
+SMPD3	rt	C00195	irreversible	hsa00600	ep
+SMPD4	rt	C00195	irreversible	hsa00600	ep
+SMPD1	rt	C00195	irreversible	hsa00600	ep
+SMPD2	rt	C00195	irreversible	hsa00600	ep
+C00319	rt	CERS1, EPM8, LAG1, LASS1, UOG1	irreversible	hsa00600	se
+C00319	rt	CERS3	irreversible	hsa00600	se
+C00319	rt	CERS6	irreversible	hsa00600	se
+C00319	rt	CERS2	irreversible	hsa00600	se
+C00319	rt	CERS4	irreversible	hsa00600	se
+C00319	rt	CERS5	irreversible	hsa00600	se
+CERS1, EPM8, LAG1, LASS1, UOG1	rt	C00195	irreversible	hsa00600	ep
+CERS3	rt	C00195	irreversible	hsa00600	ep
+CERS6	rt	C00195	irreversible	hsa00600	ep
+CERS2	rt	C00195	irreversible	hsa00600	ep
+CERS4	rt	C00195	irreversible	hsa00600	ep
+CERS5	rt	C00195	irreversible	hsa00600	ep
+C00195	rt	CERK, LK4, dA59H182, dA59H183, hCERK	irreversible	hsa00600	se
+CERK, LK4, dA59H182, dA59H183, hCERK	rt	C02960	irreversible	hsa00600	ep
+C02960	rt	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	irreversible	hsa00600	se
+C02960	rt	PLPP2	irreversible	hsa00600	se
+C02960	rt	PLPP3	irreversible	hsa00600	se
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	rt	C00195	irreversible	hsa00600	ep
+PLPP2	rt	C00195	irreversible	hsa00600	ep
+PLPP3	rt	C00195	irreversible	hsa00600	ep
+C06124	rt	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	irreversible	hsa00600	se
+C06124	rt	PLPP2	irreversible	hsa00600	se
+C06124	rt	PLPP3	irreversible	hsa00600	se
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	rt	C00319	irreversible	hsa00600	ep
+PLPP2	rt	C00319	irreversible	hsa00600	ep
+PLPP3	rt	C00319	irreversible	hsa00600	ep
+C01120	rt	PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	irreversible	hsa00600	se
+C01120	rt	PLPP2	irreversible	hsa00600	se
+C01120	rt	PLPP3	irreversible	hsa00600	se
+PLPP1, LLP1a, LPP1, PAP-2a, PAP2, PPAP2A	rt	C00836	irreversible	hsa00600	ep
+PLPP2	rt	C00836	irreversible	hsa00600	ep
+PLPP3	rt	C00836	irreversible	hsa00600	ep
+C00065	rt	SPTLC1, HSAN1, HSN1, LBC1, LCB1, SPT1, SPTI	irreversible	hsa00600	se
+C00065	rt	SPTLC3	irreversible	hsa00600	se
+C00065	rt	SPTLC2	irreversible	hsa00600	se
+C00154	rt	SPTLC1, HSAN1, HSN1, LBC1, LCB1, SPT1, SPTI	irreversible	hsa00600	se
+C00154	rt	SPTLC3	irreversible	hsa00600	se
+C00154	rt	SPTLC2	irreversible	hsa00600	se
+SPTLC1, HSAN1, HSN1, LBC1, LCB1, SPT1, SPTI	rt	C02934	irreversible	hsa00600	ep
+SPTLC3	rt	C02934	irreversible	hsa00600	ep
+SPTLC2	rt	C02934	irreversible	hsa00600	ep
+C02934	rt	KDSR, DHSR, EKVP4, FVT1, SDR35C1	irreversible	hsa00600	se
+KDSR, DHSR, EKVP4, FVT1, SDR35C1	rt	C00836	irreversible	hsa00600	ep
+C06126	rt	GAL3ST1, CST	irreversible	hsa00600	se
+GAL3ST1, CST	rt	C06127	irreversible	hsa00600	ep
+C06126	rt	GLA, GALA	irreversible	hsa00600	se
+GLA, GALA	rt	C02686	irreversible	hsa00600	ep
+C02686	rt	GAL3ST1, CST	reversible	hsa00600	se
+GAL3ST1, CST	rt	C02686	reversible	hsa00600	ep
+GAL3ST1, CST	rt	C06125	reversible	hsa00600	ep
+C06125	rt	GAL3ST1, CST	reversible	hsa00600	se
+C06128	rt	NEU3, SIAL3	irreversible	hsa00600	se
+C06128	rt	NEU4	irreversible	hsa00600	se
+C06128	rt	NEU1	irreversible	hsa00600	se
+C06128	rt	NEU2	irreversible	hsa00600	se
+NEU3, SIAL3	rt	C02686	irreversible	hsa00600	ep
+NEU4	rt	C02686	irreversible	hsa00600	ep
+NEU1	rt	C02686	irreversible	hsa00600	ep
+NEU2	rt	C02686	irreversible	hsa00600	ep
+C00195	rt	UGT8, CGT, UGT4	irreversible	hsa00600	se
+UGT8, CGT, UGT4	rt	C02686	irreversible	hsa00600	ep
+C01290	rt	GLB1, EBP, ELNR1, MPS4B	irreversible	hsa00600	se
+GLB1, EBP, ELNR1, MPS4B	rt	C01190	irreversible	hsa00600	ep
+C01190	rt	GBA, GBA1, GCB, GLUC	irreversible	hsa00600	se
+C01190	rt	GBA2	irreversible	hsa00600	se
+GBA, GBA1, GCB, GLUC	rt	C00195	irreversible	hsa00600	ep
+GBA2	rt	C00195	irreversible	hsa00600	ep
+C00195	rt	UGCG, GCS, GLCT1	irreversible	hsa00600	se
+UGCG, GCS, GLCT1	rt	C01190	irreversible	hsa00600	ep
+C00195	rt	ACER1, ALKCDase1, ASAH3	irreversible	hsa00600	se
+C00195	rt	ACER2	irreversible	hsa00600	se
+C00195	rt	ASAH1	irreversible	hsa00600	se
+C00195	rt	ASAH2	irreversible	hsa00600	se
+ACER1, ALKCDase1, ASAH3	rt	C00319	irreversible	hsa00600	ep
+ACER2	rt	C00319	irreversible	hsa00600	ep
+ASAH1	rt	C00319	irreversible	hsa00600	ep
+ASAH2	rt	C00319	irreversible	hsa00600	ep
+C00319	rt	SPHK2, SK_2, SK-2, SPK_2, SPK-2	irreversible	hsa00600	se
+C00319	rt	SPHK1	irreversible	hsa00600	se
+SPHK2, SK_2, SK-2, SPK_2, SPK-2	rt	C06124	irreversible	hsa00600	ep
+SPHK1	rt	C06124	irreversible	hsa00600	ep
+C00836	rt	SPHK2, SK_2, SK-2, SPK_2, SPK-2	irreversible	hsa00600	se
+C00836	rt	SPHK1	irreversible	hsa00600	se
+SPHK2, SK_2, SK-2, SPK_2, SPK-2	rt	C01120	irreversible	hsa00600	ep
+SPHK1	rt	C01120	irreversible	hsa00600	ep
+C06124	rt	SGPL1, NPHS14, S1PL, SPL	irreversible	hsa00600	se
+SGPL1, NPHS14, S1PL, SPL	rt	C00346	irreversible	hsa00600	ep
+C01120	rt	SGPL1, NPHS14, S1PL, SPL	irreversible	hsa00600	se
+SGPL1, NPHS14, S1PL, SPL	rt	C00346	irreversible	hsa00600	ep
+C02686	rt	GALC	irreversible	hsa00600	se
+GALC	rt	C00195	irreversible	hsa00600	ep
+C06125	rt	ARSA, MLD	irreversible	hsa00600	se
+ARSA, MLD	rt	C02686	irreversible	hsa00600	ep
+C01190	rt	B4GALT6, B4Gal-T6, beta4Gal-T6	irreversible	hsa00600	se
+B4GALT6, B4Gal-T6, beta4Gal-T6	rt	C01290	irreversible	hsa00600	ep
+C00195	rt	SGMS2, SMS2	reversible	hsa00600	se
+C00195	rt	SGMS1	reversible	hsa00600	se
+SGMS2, SMS2	rt	C00195	reversible	hsa00600	ep
+SGMS1	rt	C00195	reversible	hsa00600	ep
+SGMS2, SMS2	rt	C00550	reversible	hsa00600	ep
+SGMS1	rt	C00550	reversible	hsa00600	ep
+C00550	rt	SGMS2, SMS2	reversible	hsa00600	se
+C00550	rt	SGMS1	reversible	hsa00600	se
+C06062				hsa00600	
+C05681				hsa00600	
+C01747				hsa00600	
+C03640				hsa00600	

@@ -1,0 +1,69 @@
+ADO, C10orf22	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00430	compound
+ADO, C10orf22	ec	GAD2	g-g	hsa00430	compound
+ADO, C10orf22	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00430	compound
+ADO, C10orf22	ec	CSAD	g-g	hsa00430	compound
+GAD1, CPSQ1, GAD, SCP	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+GAD2	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+GAD1, CPSQ1, GAD, SCP	ec	GGT6	g-g	hsa00430	compound
+GAD1, CPSQ1, GAD, SCP	ec	GGT1	g-g	hsa00430	compound
+GAD1, CPSQ1, GAD, SCP	ec	GGT7	g-g	hsa00430	compound
+GAD1, CPSQ1, GAD, SCP	ec	GGT5	g-g	hsa00430	compound
+GAD2	ec	GGT6	g-g	hsa00430	compound
+GAD2	ec	GGT1	g-g	hsa00430	compound
+GAD2	ec	GGT7	g-g	hsa00430	compound
+GAD2	ec	GGT5	g-g	hsa00430	compound
+CSAD, CSD, PCAP	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+CSAD, CSD, PCAP	ec	GGT6	g-g	hsa00430	compound
+CSAD, CSD, PCAP	ec	GGT1	g-g	hsa00430	compound
+CSAD, CSD, PCAP	ec	GGT7	g-g	hsa00430	compound
+CSAD, CSD, PCAP	ec	GGT5	g-g	hsa00430	compound
+GGT6	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+GGT1	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+GGT7	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+GGT5	ec	BAAT, BACAT, BAT	g-g	hsa00430	compound
+CDO1, CDO-I	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00430	compound
+CDO1, CDO-I	ec	GAD2	g-g	hsa00430	compound
+CDO1, CDO-I	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00430	compound
+CDO1, CDO-I	ec	CSAD	g-g	hsa00430	compound
+C00506	rt	CSAD, CSD, PCAP	irreversible	hsa00430	se
+CSAD, CSD, PCAP	rt	C00245	irreversible	hsa00430	ep
+C00506	rt	GAD1, CPSQ1, GAD, SCP	irreversible	hsa00430	se
+C00506	rt	GAD2	irreversible	hsa00430	se
+GAD1, CPSQ1, GAD, SCP	rt	C00245	irreversible	hsa00430	ep
+GAD2	rt	C00245	irreversible	hsa00430	ep
+C00097	rt	CDO1, CDO-I	irreversible	hsa00430	se
+CDO1, CDO-I	rt	C00606	irreversible	hsa00430	ep
+C01678	rt	ADO, C10orf22	irreversible	hsa00430	se
+ADO, C10orf22	rt	C00519	irreversible	hsa00430	ep
+C00606	rt	GADL1, ADC, CSADC, HuADC, HuCSADC	irreversible	hsa00430	se
+C00606	rt	CSAD	irreversible	hsa00430	se
+GADL1, ADC, CSADC, HuADC, HuCSADC	rt	C00519	irreversible	hsa00430	ep
+CSAD	rt	C00519	irreversible	hsa00430	ep
+C00606	rt	GAD1, CPSQ1, GAD, SCP	irreversible	hsa00430	se
+C00606	rt	GAD2	irreversible	hsa00430	se
+GAD1, CPSQ1, GAD, SCP	rt	C00519	irreversible	hsa00430	ep
+GAD2	rt	C00519	irreversible	hsa00430	ep
+C00245	rt	GGT6	irreversible	hsa00430	se
+C00245	rt	GGT1	irreversible	hsa00430	se
+C00245	rt	GGT7	irreversible	hsa00430	se
+C00245	rt	GGT5	irreversible	hsa00430	se
+GGT6	rt	C05844	irreversible	hsa00430	ep
+GGT1	rt	C05844	irreversible	hsa00430	ep
+GGT7	rt	C05844	irreversible	hsa00430	ep
+GGT5	rt	C05844	irreversible	hsa00430	ep
+C00245	rt	BAAT, BACAT, BAT	irreversible	hsa00430	se
+BAAT, BACAT, BAT	rt	C05122	irreversible	hsa00430	ep
+C00094				hsa00430	
+C06735				hsa00430	
+C00041				hsa00430	
+C00022				hsa00430	
+C14179				hsa00430	
+C00227				hsa00430	
+C00024				hsa00430	
+C00593				hsa00430	
+C05123				hsa00430	
+C01959				hsa00430	
+C03149				hsa00430	
+C00033				hsa00430	
+C00025				hsa00430	
+C00026				hsa00430	

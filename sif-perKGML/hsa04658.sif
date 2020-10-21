@@ -1,0 +1,317 @@
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	gr	RBPJ	group	hsa04658	group
+MAML2	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML1	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML2	gr	RBPJ	group	hsa04658	group
+MAML1	gr	RBPJ	group	hsa04658	group
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	gr	RELA, NFKB3, p65	group	hsa04658	group
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	gr	NFKB1	group	hsa04658	group
+RELA	gr	RELA, NFKB3, p65	group	hsa04658	group
+RELA	gr	NFKB1	group	hsa04658	group
+CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	gr	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	group	hsa04658	group
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	gr	RBPJ	group	hsa04658	group
+MAML2	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML1	gr	RBPJL, RBPL, RBPSUHL, SUHL	group	hsa04658	group
+MAML2	gr	RBPJ	group	hsa04658	group
+MAML1	gr	RBPJ	group	hsa04658	group
+DLL3, SCDO1	pp	NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	g-g	hsa04658	activation
+DLL1	pp	NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	g-g	hsa04658	activation
+DLL4	pp	NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	g-g	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	MAML2	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	MAML1	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	RBPJ	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	RELA	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	RELA, NFKB3, p65	g-gr	hsa04658	activation
+NOTCH3, CADASIL, CADASIL1, CASIL, IMF2, LMNS	pp	NFKB1	g-gr	hsa04658	activation
+IFNG, IFG, IFI	pp	IFNGR1, CD119, IFNGR, IMD27A, IMD27B	g-g	hsa04658	activation
+IFNG, IFG, IFI	pp	IFNGR2	g-g	hsa04658	activation
+IFNGR1, CD119, IFNGR, IMD27A, IMD27B	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04658	activation
+IFNGR2	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04658	activation
+IL12A, CLMF, IL-12A, NFSK, NKSF1, P35	pp	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	activation
+IL12A, CLMF, IL-12A, NFSK, NKSF1, P35	pp	IL12RB2	g-g	hsa04658	activation
+IL12B	pp	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	activation
+IL12B	pp	IL12RB2	g-g	hsa04658	activation
+IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	pp	STAT4, SLEB11	g-g	hsa04658	activation
+IL12RB2	pp	STAT4, SLEB11	g-g	hsa04658	activation
+IFNGR1, CD119, IFNGR, IMD27A, IMD27B	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IFNGR1, CD119, IFNGR, IMD27A, IMD27B	pp	JAK2	g-g	hsa04658	binding/association
+IFNGR2	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IFNGR2	pp	JAK2	g-g	hsa04658	binding/association
+IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	pp	JAK2, JTK10, THCYT3	g-g	hsa04658	binding/association
+IL12RB2	pp	JAK2, JTK10, THCYT3	g-g	hsa04658	binding/association
+IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	pp	TYK2, IMD35, JTK1	g-g	hsa04658	binding/association
+IL12RB2	pp	TYK2, IMD35, JTK1	g-g	hsa04658	binding/association
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	pd	TBX21, T-PET, T-bet, TBET, TBLYM	gr-g	hsa04658	expression
+MAML2	pd	TBX21, T-PET, T-bet, TBET, TBLYM	gr-g	hsa04658	expression
+MAML1	pd	TBX21, T-PET, T-bet, TBET, TBLYM	gr-g	hsa04658	expression
+RBPJL, RBPL, RBPSUHL, SUHL	pd	TBX21, T-PET, T-bet, TBET, TBLYM	gr-g	hsa04658	expression
+RBPJ	pd	TBX21, T-PET, T-bet, TBET, TBLYM	gr-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IFNG, IFG, IFI	gr-g	hsa04658	expression
+RELA	pd	IFNG, IFG, IFI	gr-g	hsa04658	expression
+RELA, NFKB3, p65	pd	IFNG, IFG, IFI	gr-g	hsa04658	expression
+NFKB1	pd	IFNG, IFG, IFI	gr-g	hsa04658	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	IL12RB2	g-g	hsa04658	expression
+STAT4, SLEB11	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+STAT4, SLEB11	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+STAT4, SLEB11	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+STAT4, SLEB11	pd	IL12RB2	g-g	hsa04658	expression
+TBX21, T-PET, T-bet, TBET, TBLYM	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+TBX21, T-PET, T-bet, TBET, TBLYM	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+TBX21, T-PET, T-bet, TBET, TBLYM	pd	IL12RB2	g-g	hsa04658	expression
+TBX21, T-PET, T-bet, TBET, TBLYM	pd	GATA3, HDR, HDRS	g-g	hsa04658	repression
+TBX21, T-PET, T-bet, TBET, TBLYM	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	repression
+TBX21, T-PET, T-bet, TBET, TBLYM	pp	RUNX3, AML2, CBFA3, PEBP2aC	g-g	hsa04658	binding/association
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DMB	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DOA	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DOB	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DPA1	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DPB1	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DQA1	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DQA2	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DQB1	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DRA	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DRB1	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DRB3	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DRB4	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+HLA-DRB5	pp	CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	g-g	hsa04658	activation
+CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	pp	ZAP70, ADMIO2, IMD48, SRK, STCD, STD, TZK, ZAP-70	gr-g	hsa04658	binding/association
+CD247, CD3-ZETA, CD3H, CD3Q, CD3Z, IMD25, T3Z, TCRZ	pp	ZAP70, ADMIO2, IMD48, SRK, STCD, STD, TZK, ZAP-70	gr-g	hsa04658	binding/association
+CD4, CD4mut	pp	LCK, IMD22, LSK, YT16, p56lck, pp58lck	g-g	hsa04658	binding/association
+LCK, IMD22, LSK, YT16, p56lck, pp58lck	pp	ZAP70, ADMIO2, IMD48, SRK, STCD, STD, TZK, ZAP-70	g-g	hsa04658	activation
+ZAP70, ADMIO2, IMD48, SRK, STCD, STD, TZK, ZAP-70	pp	LAT, LAT1, pp36	g-g	hsa04658	activation
+LAT, LAT1, pp36	pp	PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	g-g	hsa04658	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C01245	g-c	hsa04658	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	pc	C00165	g-c	hsa04658	activation
+C00165	pc	PRKCQ, PRKCT, nPKC-theta	c-g	hsa04658	activation
+C00076	pc	PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	c-g	hsa04658	activation
+C00076	pc	PPP3CB	c-g	hsa04658	activation
+C00076	pc	PPP3CC	c-g	hsa04658	activation
+C00076	pc	PPP3R1	c-g	hsa04658	activation
+C00076	pc	PPP3R2	c-g	hsa04658	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	pp	NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	g-g	hsa04658	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	pp	NFATC2	g-g	hsa04658	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	pp	NFATC3	g-g	hsa04658	activation
+PPP3CB	pp	NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	g-g	hsa04658	activation
+PPP3CC	pp	NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	g-g	hsa04658	activation
+PPP3R1	pp	NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	g-g	hsa04658	activation
+PPP3R2	pp	NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	g-g	hsa04658	activation
+PPP3CB	pp	NFATC2	g-g	hsa04658	activation
+PPP3CB	pp	NFATC3	g-g	hsa04658	activation
+PPP3CC	pp	NFATC2	g-g	hsa04658	activation
+PPP3CC	pp	NFATC3	g-g	hsa04658	activation
+PPP3R1	pp	NFATC2	g-g	hsa04658	activation
+PPP3R1	pp	NFATC3	g-g	hsa04658	activation
+PPP3R2	pp	NFATC2	g-g	hsa04658	activation
+PPP3R2	pp	NFATC3	g-g	hsa04658	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04658	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIB	g-g	hsa04658	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIE	g-g	hsa04658	activation
+IKBKB	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04658	activation
+IKBKG	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04658	activation
+IKBKB	pp	NFKBIB	g-g	hsa04658	activation
+IKBKB	pp	NFKBIE	g-g	hsa04658	activation
+IKBKG	pp	NFKBIB	g-g	hsa04658	activation
+IKBKG	pp	NFKBIE	g-g	hsa04658	activation
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04658	dissociation
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pp	NFKBIB	g-g	hsa04658	dissociation
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pp	NFKBIE	g-g	hsa04658	dissociation
+RELA	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04658	dissociation
+RELA	pp	NFKBIB	g-g	hsa04658	dissociation
+RELA	pp	NFKBIE	g-g	hsa04658	dissociation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FOS, AP-1, C-FOS, p55	g-g	hsa04658	activation
+MAPK3	pp	FOS, AP-1, C-FOS, p55	g-g	hsa04658	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK11	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK13	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK12	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK9	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+MAPK10	pp	JUN, AP-1, AP1, c-Jun	g-g	hsa04658	activation
+IL2, IL-2, TCGF, lymphokine	pp	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	activation
+IL2, IL-2, TCGF, lymphokine	pp	IL2RB	g-g	hsa04658	activation
+IL2, IL-2, TCGF, lymphokine	pp	IL2RG	g-g	hsa04658	activation
+IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	pp	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	activation
+IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	pp	STAT5A, MGF, STAT5	g-g	hsa04658	activation
+IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	pp	STAT5B	g-g	hsa04658	activation
+IL2RB	pp	STAT5A, MGF, STAT5	g-g	hsa04658	activation
+IL2RG	pp	STAT5A, MGF, STAT5	g-g	hsa04658	activation
+IL2RB	pp	STAT5B	g-g	hsa04658	activation
+IL2RG	pp	STAT5B	g-g	hsa04658	activation
+IL4R, CD124, IL-4RA, IL4RA	pp	STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	g-g	hsa04658	activation
+IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	pp	JAK2	g-g	hsa04658	binding/association
+IL2RB	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IL2RG	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IL2RB	pp	JAK2	g-g	hsa04658	binding/association
+IL2RG	pp	JAK2	g-g	hsa04658	binding/association
+IL4R, CD124, IL-4RA, IL4RA	pp	JAK1, JAK1A, JAK1B, JTK3	g-g	hsa04658	binding/association
+IL4R, CD124, IL-4RA, IL4RA	pp	JAK2	g-g	hsa04658	binding/association
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+NFATC2	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+NFATC3	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+NFATC2	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+NFATC3	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL12RB2	g-g	hsa04658	expression
+NFATC2	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+NFATC3	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+NFATC2	pd	IL12RB2	g-g	hsa04658	expression
+NFATC3	pd	IL12RB2	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+NFATC2	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+NFATC3	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL2RB	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL2RG	g-g	hsa04658	expression
+NFATC2	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+NFATC3	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+NFATC2	pd	IL2RB	g-g	hsa04658	expression
+NFATC2	pd	IL2RG	g-g	hsa04658	expression
+NFATC3	pd	IL2RB	g-g	hsa04658	expression
+NFATC3	pd	IL2RG	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+NFATC2	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+NFATC3	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+NFATC2	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+NFATC3	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+NFATC2	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+NFATC3	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+NFATC2	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+NFATC3	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+NFATC1, NF-ATC, NF-ATc12, NFAT2, NFATc	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+NFATC2	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+NFATC3	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+RELA	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+RELA	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL12RB2	g-g	hsa04658	expression
+RELA	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+RELA	pd	IL12RB2	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+RELA	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL2RB	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL2RG	g-g	hsa04658	expression
+RELA	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+RELA	pd	IL2RB	g-g	hsa04658	expression
+RELA	pd	IL2RG	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+RELA	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+RELA	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+RELA	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+RELA	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+RELA	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL12RB2	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL2RB	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL2RG	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+FOS, AP-1, C-FOS, p55	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IFNG, IFG, IFI	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL12RB2	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL2RB	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL2RG	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+JUN, AP-1, AP1, c-Jun	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+STAT5B	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL2RB	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL2RG	g-g	hsa04658	expression
+STAT5B	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+STAT5B	pd	IL2RB	g-g	hsa04658	expression
+STAT5B	pd	IL2RG	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+STAT5B	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+STAT5B	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+STAT5A, MGF, STAT5	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+STAT5B	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL2RB	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL2RG	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+STAT6, D12S1644, IL-4-STAT, STAT6B, STAT6C	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	GATA3, HDR, HDRS	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL2RB	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL2RG	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL2, IL-2, TCGF, lymphokine	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL5, EDF, IL-5, TRF	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	IL13, IL-13, P600	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pd	MAF, AYGRP, CCA4, CTRCT21, c-MAF	g-g	hsa04658	expression
+GATA3, HDR, HDRS	pp	TBX21, T-PET, T-bet, TBET, TBLYM	g-g	hsa04658	inhibition
+MAF, AYGRP, CCA4, CTRCT21, c-MAF	pd	IL2RA, CD25, IDDM10, IL2R, IMD41, TCGFR, p55	g-g	hsa04658	expression
+MAF, AYGRP, CCA4, CTRCT21, c-MAF	pd	IL2RB	g-g	hsa04658	expression
+MAF, AYGRP, CCA4, CTRCT21, c-MAF	pd	IL2RG	g-g	hsa04658	expression
+MAF, AYGRP, CCA4, CTRCT21, c-MAF	pd	IL4R, CD124, IL-4RA, IL4RA	g-g	hsa04658	expression
+MAF, AYGRP, CCA4, CTRCT21, c-MAF	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	g-g	hsa04658	expression
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04658	activation
+JAG1, AGS, AGS1, AHD, AWS, CD339, HJ1, JAGL1	pp	NOTCH2	g-g	hsa04658	activation
+JAG2	pp	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04658	activation
+JAG2	pp	NOTCH2	g-g	hsa04658	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	g-gr	hsa04658	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	MAML2	g-gr	hsa04658	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	MAML1	g-gr	hsa04658	activation
+NOTCH2	pp	MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	g-gr	hsa04658	activation
+NOTCH2	pp	MAML2	g-gr	hsa04658	activation
+NOTCH2	pp	MAML1	g-gr	hsa04658	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-gr	hsa04658	activation
+NOTCH1, AOS5, AOVD1, TAN1, hN1	pp	RBPJ	g-gr	hsa04658	activation
+NOTCH2	pp	RBPJL, RBPL, RBPSUHL, SUHL	g-gr	hsa04658	activation
+NOTCH2	pp	RBPJ	g-gr	hsa04658	activation
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	pd	GATA3, HDR, HDRS	gr-g	hsa04658	expression
+MAML2	pd	GATA3, HDR, HDRS	gr-g	hsa04658	expression
+MAML1	pd	GATA3, HDR, HDRS	gr-g	hsa04658	expression
+RBPJL, RBPL, RBPSUHL, SUHL	pd	GATA3, HDR, HDRS	gr-g	hsa04658	expression
+RBPJ	pd	GATA3, HDR, HDRS	gr-g	hsa04658	expression
+MAML3, CAGH3, ERDA3, GDN, MAM-2, MAM2, TNRC3	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	gr-g	hsa04658	expression
+MAML2	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	gr-g	hsa04658	expression
+MAML1	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	gr-g	hsa04658	expression
+RBPJL, RBPL, RBPSUHL, SUHL	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	gr-g	hsa04658	expression
+RBPJ	pd	IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4	gr-g	hsa04658	expression
+PRKCQ, PRKCT, nPKC-theta	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04658	activation
+PRKCQ, PRKCT, nPKC-theta	pp	IKBKB	g-g	hsa04658	activation
+PRKCQ, PRKCT, nPKC-theta	pp	IKBKG	g-g	hsa04658	activation
+GATA3, HDR, HDRS	pd	IL12RB1, CD212, IL-12R-BETA1, IL12RB, IMD30	g-g	hsa04658	repression
+GATA3, HDR, HDRS	pd	IL12RB2	g-g	hsa04658	repression
+CD3E, IMD18, T3E, TCRE				hsa04658	
+CD3D, CD3-DELTA, IMD19, T3D				hsa04658	
+CD3G, CD3-GAMMA, IMD17, T3G				hsa04658	
+CD3E, IMD18, T3E, TCRE				hsa04658	

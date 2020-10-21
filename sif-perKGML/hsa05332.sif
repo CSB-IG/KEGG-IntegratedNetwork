@@ -1,0 +1,146 @@
+FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	pp	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	g-g	hsa05332	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa05332	activation
+CD86	pp	CD28, Tp44	g-g	hsa05332	activation
+FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	pp	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	g-g	hsa05332	activation
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR2DL1, CD158A, KIR-K64, KIR221, KIR2DS1, NKAT, NKAT-1, NKAT1, p581	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DMA	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DMB	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DOA	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DOB	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DPA1	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DPB1	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DQA1	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DQA2	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DQB1	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DRA	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DRB3	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DRB4	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR2DL2	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR2DL3	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR3DL1	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR3DL2	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KLRC1	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KLRD1	g-g	hsa05332	missing interaction
+HLA-DRB5	pp	KIR2DL5A	g-g	hsa05332	missing interaction
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa05332	
+HLA-DMB				hsa05332	
+HLA-DOA				hsa05332	
+HLA-DOB				hsa05332	
+HLA-DPA1				hsa05332	
+HLA-DPB1				hsa05332	
+HLA-DQA1				hsa05332	
+HLA-DQA2				hsa05332	
+HLA-DQB1				hsa05332	
+HLA-DRA				hsa05332	
+HLA-DRB1				hsa05332	
+HLA-DRB3				hsa05332	
+HLA-DRB4				hsa05332	
+HLA-DRB5				hsa05332	
+GZMB, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT				hsa05332	
+PRF1, FLH2, HPLH2, P1, PFN1, PFP				hsa05332	
+IFNG, IFG, IFI				hsa05332	
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F				hsa05332	
+C00533				hsa05332	
+GZMB, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT				hsa05332	
+PRF1, FLH2, HPLH2, P1, PFN1, PFP				hsa05332	
+IL2, IL-2, TCGF, lymphokine				hsa05332	
+IFNG, IFG, IFI				hsa05332	
+IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6				hsa05332	
+IL1A, IL-1A, IL1, IL1-ALPHA, IL1F1				hsa05332	
+IL1B				hsa05332	
+IL1A, IL-1A, IL1, IL1-ALPHA, IL1F1				hsa05332	
+IL1B				hsa05332	
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F				hsa05332	
+C00338				hsa05332	

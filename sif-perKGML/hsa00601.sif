@@ -1,0 +1,683 @@
+B3GNT5, B3GN-T5, beta3Gn-T5	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GNT5, B3GN-T5, beta3Gn-T5	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT5, B3GN-T5, beta3Gn-T5	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT5, B3GN-T5, beta3Gn-T5	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT5	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT6	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT2	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B3GNT2	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT5	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT6	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	FUT2	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GNT2	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT5	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT6	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT2	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT2	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT5	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT6	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT2	g-g	hsa00601	compound
+FUT5	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT6	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT5	ec	B3GNT2	g-g	hsa00601	compound
+FUT6	ec	B3GNT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT5	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT6	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	FUT2	g-g	hsa00601	compound
+B3GNT2	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GNT2	ec	FUT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	FUT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B3GNT2	g-g	hsa00601	compound
+ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	ec	FUT5	g-g	hsa00601	compound
+ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	ec	FUT6	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT5	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT6	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT2	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT2	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B3GNT2	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	FUT2	g-g	hsa00601	compound
+GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT5	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT6	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT5	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT6	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B3GNT2	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT2	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B4GALT3, beta4Gal-T3	g-g	hsa00601	compound
+FUT5	ec	B4GALT3, beta4Gal-T3	g-g	hsa00601	compound
+FUT6	ec	B4GALT3, beta4Gal-T3	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B4GALT3, beta4Gal-T3	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT5	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT6	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GNT2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B4GALT4, B4Gal-T4, beta4Gal-T4	g-g	hsa00601	compound
+FUT5	ec	B4GALT4, B4Gal-T4, beta4Gal-T4	g-g	hsa00601	compound
+FUT6	ec	B4GALT4, B4Gal-T4, beta4Gal-T4	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B4GALT4, B4Gal-T4, beta4Gal-T4	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT5	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT6	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GNT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	FUT2	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT5	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT6	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT5	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT6	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ST3GAL6, SIAT10, ST3GALVI	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+ST3GAL6, SIAT10, ST3GALVI	ec	B3GNT2	g-g	hsa00601	compound
+GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT2	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	FUT2	g-g	hsa00601	compound
+B3GNT2	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GNT2	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT5	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT6	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT5	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT6	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+B3GNT2	ec	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT5	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT6	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT2	g-g	hsa00601	compound
+FUT5	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT6	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT5	ec	B3GNT2	g-g	hsa00601	compound
+FUT6	ec	B3GNT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT5	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT6	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	B3GNT2	g-g	hsa00601	compound
+FUT5	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT6	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT5	ec	B3GNT2	g-g	hsa00601	compound
+FUT6	ec	B3GNT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	B3GNT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	B3GNT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT5	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT6	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT5	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT6	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT5	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT6	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT5	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT6	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT5	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT6	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT5	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT6	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT5	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT6	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT2	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT5	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT6	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT5	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT6	g-g	hsa00601	compound
+FUT9, Fuc-TIX	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT5	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT6	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT9, Fuc-TIX	g-g	hsa00601	compound
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	ec	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	g-g	hsa00601	compound
+B3GNT5, B3GN-T5, beta3Gn-T5	ec	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	g-g	hsa00601	compound
+B3GNT5, B3GN-T5, beta3Gn-T5	ec	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	g-g	hsa00601	compound
+B3GNT5, B3GN-T5, beta3Gn-T5	ec	B3GALT1, beta3Gal-T1	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	B3GALT1, beta3Gal-T1	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GALT1, beta3Gal-T1	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GALT1, beta3Gal-T1	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GALT1, beta3Gal-T1	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	FUT2	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	FUT5	g-g	hsa00601	compound
+B3GALT1, beta3Gal-T1	ec	FUT6	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	FUT2	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	FUT5	g-g	hsa00601	compound
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	ec	FUT6	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT2	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT5	g-g	hsa00601	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT6	g-g	hsa00601	compound
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	ec	FUT2	g-g	hsa00601	compound
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	ec	FUT5	g-g	hsa00601	compound
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	ec	FUT6	g-g	hsa00601	compound
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	ec	FUT2	g-g	hsa00601	compound
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	ec	FUT5	g-g	hsa00601	compound
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	ec	FUT6	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT5	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT6	g-g	hsa00601	compound
+FUT2	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT2	ec	FUT5	g-g	hsa00601	compound
+FUT2	ec	FUT6	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	FUT2	g-g	hsa00601	compound
+FUT5	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT6	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+FUT5	ec	FUT2	g-g	hsa00601	compound
+FUT6	ec	FUT2	g-g	hsa00601	compound
+FUT3, CD174, FT3B, FucT-III, LE, Les	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT5	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT6	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT1, H, HH, HSC	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT2	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT2	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT5	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT6	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT2	ec	ABO, A3GALNT, A3GALT1, GTB, NAGAT	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT5	g-g	hsa00601	compound
+FUT1, H, HH, HSC	ec	FUT6	g-g	hsa00601	compound
+FUT2	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+FUT2	ec	FUT5	g-g	hsa00601	compound
+FUT2	ec	FUT6	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT3, CD174, FT3B, FucT-III, LE, Les	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT5	g-g	hsa00601	compound
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	ec	FUT6	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00601	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00601	compound
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00601	compound
+B4GALT3, beta4Gal-T3	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00601	compound
+B4GALT4, B4Gal-T4, beta4Gal-T4	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00601	compound
+G00067	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00076	irreversible	hsa00601	ep
+G00085	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00086	irreversible	hsa00601	ep
+G00084	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00085	irreversible	hsa00601	ep
+G00081	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00082	irreversible	hsa00601	ep
+G00089	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00090	irreversible	hsa00601	ep
+G00089	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00089	rt	FUT5	irreversible	hsa00601	se
+G00089	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00090	irreversible	hsa00601	ep
+FUT5	rt	G00090	irreversible	hsa00601	ep
+FUT6	rt	G00090	irreversible	hsa00601	ep
+G00084	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00084	rt	FUT5	irreversible	hsa00601	se
+G00084	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00085	irreversible	hsa00601	ep
+FUT5	rt	G00085	irreversible	hsa00601	ep
+FUT6	rt	G00085	irreversible	hsa00601	ep
+G00085	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00085	rt	FUT5	irreversible	hsa00601	se
+G00085	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00086	irreversible	hsa00601	ep
+FUT5	rt	G00086	irreversible	hsa00601	ep
+FUT6	rt	G00086	irreversible	hsa00601	ep
+G00067	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00067	rt	FUT5	irreversible	hsa00601	se
+G00067	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00076	irreversible	hsa00601	ep
+FUT5	rt	G00076	irreversible	hsa00601	ep
+FUT6	rt	G00076	irreversible	hsa00601	ep
+G00081	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00081	rt	FUT5	irreversible	hsa00601	se
+G00081	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00082	irreversible	hsa00601	ep
+FUT5	rt	G00082	irreversible	hsa00601	ep
+FUT6	rt	G00082	irreversible	hsa00601	ep
+G00066	rt	B4GALT4, B4Gal-T4, beta4Gal-T4	irreversible	hsa00601	se
+B4GALT4, B4Gal-T4, beta4Gal-T4	rt	G00067	irreversible	hsa00601	ep
+G00066	rt	B4GALT3, beta4Gal-T3	irreversible	hsa00601	se
+B4GALT3, beta4Gal-T3	rt	G00067	irreversible	hsa00601	ep
+G00036	rt	B4GALT4, B4Gal-T4, beta4Gal-T4	irreversible	hsa00601	se
+B4GALT4, B4Gal-T4, beta4Gal-T4	rt	G00050	irreversible	hsa00601	ep
+G00036	rt	B4GALT3, beta4Gal-T3	irreversible	hsa00601	se
+B4GALT3, beta4Gal-T3	rt	G00050	irreversible	hsa00601	ep
+G00036	rt	B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	irreversible	hsa00601	se
+B4GALT2, B4Gal-T2, B4Gal-T3, beta4Gal-T2	rt	G00050	irreversible	hsa00601	ep
+G00069	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00084	irreversible	hsa00601	ep
+G00067	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00089	irreversible	hsa00601	ep
+G00071	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00081	irreversible	hsa00601	ep
+G00055	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00056	irreversible	hsa00601	ep
+G00062	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00063	irreversible	hsa00601	ep
+G00050	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00060	irreversible	hsa00601	ep
+G00067	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00067	rt	FUT5	irreversible	hsa00601	se
+G00067	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00089	irreversible	hsa00601	ep
+FUT5	rt	G00089	irreversible	hsa00601	ep
+FUT6	rt	G00089	irreversible	hsa00601	ep
+G00069	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00069	rt	FUT5	irreversible	hsa00601	se
+G00069	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00084	irreversible	hsa00601	ep
+FUT5	rt	G00084	irreversible	hsa00601	ep
+FUT6	rt	G00084	irreversible	hsa00601	ep
+G00071	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00071	rt	FUT5	irreversible	hsa00601	se
+G00071	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00081	irreversible	hsa00601	ep
+FUT5	rt	G00081	irreversible	hsa00601	ep
+FUT6	rt	G00081	irreversible	hsa00601	ep
+G00055	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00055	rt	FUT5	irreversible	hsa00601	se
+G00055	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00056	irreversible	hsa00601	ep
+FUT5	rt	G00056	irreversible	hsa00601	ep
+FUT6	rt	G00056	irreversible	hsa00601	ep
+G00050	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00050	rt	FUT5	irreversible	hsa00601	se
+G00050	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00060	irreversible	hsa00601	ep
+FUT5	rt	G00060	irreversible	hsa00601	ep
+FUT6	rt	G00060	irreversible	hsa00601	ep
+G00089	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00090	irreversible	hsa00601	ep
+G00074	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00075	irreversible	hsa00601	ep
+G00067	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00089	irreversible	hsa00601	ep
+G00084	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00085	irreversible	hsa00601	ep
+G00069	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00084	irreversible	hsa00601	ep
+G00067	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00076	irreversible	hsa00601	ep
+G00067	rt	ST3GAL6, SIAT10, ST3GALVI	irreversible	hsa00601	se
+ST3GAL6, SIAT10, ST3GALVI	rt	G00088	irreversible	hsa00601	ep
+G00085	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00086	irreversible	hsa00601	ep
+G00081	rt	FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	irreversible	hsa00601	se
+FUT4, CD15, ELFT, FCT3A, FUC-TIV, FUTIV, LeX, SSEA-1	rt	G00082	irreversible	hsa00601	ep
+G00071	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00072	irreversible	hsa00601	ep
+G00073	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00073	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00074	irreversible	hsa00601	ep
+FUT2	rt	G00074	irreversible	hsa00601	ep
+G00067	rt	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	irreversible	hsa00601	se
+G00067	rt	B3GNT2	irreversible	hsa00601	se
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	rt	G00068	irreversible	hsa00601	ep
+B3GNT2	rt	G00068	irreversible	hsa00601	ep
+G00071	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00083	irreversible	hsa00601	ep
+G00067	rt	GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	irreversible	hsa00601	se
+GCNT2, CCAT, CTRCT13, GCNT2C, GCNT5, IGNT, II, NACGT1, NAGCT1, ULG3, bA360O192, bA421M11	rt	G00077	irreversible	hsa00601	ep
+G00071	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00081	irreversible	hsa00601	ep
+G00062	rt	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	irreversible	hsa00601	se
+ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	rt	G00064	irreversible	hsa00601	ep
+G00062	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00062	rt	FUT5	irreversible	hsa00601	se
+G00062	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00063	irreversible	hsa00601	ep
+FUT5	rt	G00063	irreversible	hsa00601	ep
+FUT6	rt	G00063	irreversible	hsa00601	ep
+G00050	rt	ST3GAL6, SIAT10, ST3GALVI	irreversible	hsa00601	se
+ST3GAL6, SIAT10, ST3GALVI	rt	G00062	irreversible	hsa00601	ep
+G00050	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00060	irreversible	hsa00601	ep
+G00050	rt	B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	irreversible	hsa00601	se
+G00050	rt	B3GNT2	irreversible	hsa00601	se
+B3GNT3, B3GAL-T8, B3GN-T3, B3GNT-3, HP10328, TMEM3, beta3Gn-T3	rt	G00066	irreversible	hsa00601	ep
+B3GNT2	rt	G00066	irreversible	hsa00601	ep
+G00066	rt	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	irreversible	hsa00601	se
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	rt	G00067	irreversible	hsa00601	ep
+G00055	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00052	irreversible	hsa00601	ep
+G00050	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00050	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00055	irreversible	hsa00601	ep
+FUT2	rt	G00055	irreversible	hsa00601	ep
+G00051	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00051	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00052	irreversible	hsa00601	ep
+FUT2	rt	G00052	irreversible	hsa00601	ep
+G00092	rt	B3GNT5, B3GN-T5, beta3Gn-T5	irreversible	hsa00601	se
+B3GNT5, B3GN-T5, beta3Gn-T5	rt	G00036	irreversible	hsa00601	ep
+G00055	rt	FUT9, Fuc-TIX	irreversible	hsa00601	se
+FUT9, Fuc-TIX	rt	G00056	irreversible	hsa00601	ep
+G00055	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00054	irreversible	hsa00601	ep
+G00067	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00067	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00071	irreversible	hsa00601	ep
+FUT2	rt	G00071	irreversible	hsa00601	ep
+G00058	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00059	irreversible	hsa00601	ep
+G00036	rt	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	irreversible	hsa00601	se
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	rt	G00050	irreversible	hsa00601	ep
+G00057	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00057	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00058	irreversible	hsa00601	ep
+FUT2	rt	G00058	irreversible	hsa00601	ep
+G00036	rt	B3GALT1, beta3Gal-T1	irreversible	hsa00601	se
+B3GALT1, beta3Gal-T1	rt	G00037	irreversible	hsa00601	ep
+G00036	rt	B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	irreversible	hsa00601	se
+B3GALT2, BETA3GALT2, GLCT2, beta3Gal-T2	rt	G00037	irreversible	hsa00601	ep
+G00036	rt	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	irreversible	hsa00601	se
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	rt	G00037	irreversible	hsa00601	ep
+G00037	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00037	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00044	irreversible	hsa00601	ep
+FUT2	rt	G00044	irreversible	hsa00601	ep
+G00038	rt	FUT1, H, HH, HSC	irreversible	hsa00601	se
+G00038	rt	FUT2	irreversible	hsa00601	se
+FUT1, H, HH, HSC	rt	G00039	irreversible	hsa00601	ep
+FUT2	rt	G00039	irreversible	hsa00601	ep
+G00044	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00039	irreversible	hsa00601	ep
+G00044	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00044	rt	FUT5	irreversible	hsa00601	se
+G00044	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00045	irreversible	hsa00601	ep
+FUT5	rt	G00045	irreversible	hsa00601	ep
+FUT6	rt	G00045	irreversible	hsa00601	ep
+G00039	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00039	rt	FUT5	irreversible	hsa00601	se
+G00039	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00040	irreversible	hsa00601	ep
+FUT5	rt	G00040	irreversible	hsa00601	ep
+FUT6	rt	G00040	irreversible	hsa00601	ep
+G00044	rt	ABO, A3GALNT, A3GALT1, GTB, NAGAT	irreversible	hsa00601	se
+ABO, A3GALNT, A3GALT1, GTB, NAGAT	rt	G00042	irreversible	hsa00601	ep
+G00042	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00042	rt	FUT5	irreversible	hsa00601	se
+G00042	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00043	irreversible	hsa00601	ep
+FUT5	rt	G00043	irreversible	hsa00601	ep
+FUT6	rt	G00043	irreversible	hsa00601	ep
+G00037	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00037	rt	FUT5	irreversible	hsa00601	se
+G00037	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00046	irreversible	hsa00601	ep
+FUT5	rt	G00046	irreversible	hsa00601	ep
+FUT6	rt	G00046	irreversible	hsa00601	ep
+G00037	rt	ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	irreversible	hsa00601	se
+ST3GAL3, EIEE15, MRT12, SIAT6, ST3GALII, ST3Gal_III, ST3GalIII, ST3N	rt	G00047	irreversible	hsa00601	ep
+G00037	rt	ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	irreversible	hsa00601	se
+ST3GAL4, CGS23, NANTA3, SAT3, SIAT4, SIAT4C, ST-4, ST3GalA2, ST3GalIV, STZ, gal-NAc6S	rt	G00047	irreversible	hsa00601	ep
+G00047	rt	FUT3, CD174, FT3B, FucT-III, LE, Les	irreversible	hsa00601	se
+G00047	rt	FUT5	irreversible	hsa00601	se
+G00047	rt	FUT6	irreversible	hsa00601	se
+FUT3, CD174, FT3B, FucT-III, LE, Les	rt	G00048	irreversible	hsa00601	ep
+FUT5	rt	G00048	irreversible	hsa00601	ep
+FUT6	rt	G00048	irreversible	hsa00601	ep
+G00050	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00601	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00050	reversible	hsa00601	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00428	reversible	hsa00601	ep
+G00428	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00601	se
+G00050	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00601	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00050	reversible	hsa00601	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00889	reversible	hsa00601	ep
+G00889	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00601	se
+G00050	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00601	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00050	reversible	hsa00601	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00428	reversible	hsa00601	ep
+G00428	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00601	se
+G00050	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00601	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00050	reversible	hsa00601	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00889	reversible	hsa00601	ep
+G00889	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00601	se
+G00078				hsa00601	
+G00091				hsa00601	
+G00087				hsa00601	
+G00061				hsa00601	
+G00080				hsa00601	
+G00079				hsa00601	

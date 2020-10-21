@@ -1,0 +1,95 @@
+C00334	pc	GABRR3	c-g	hsa05033	activation
+C00334	pc	GABRA1	c-g	hsa05033	activation
+C00334	pc	GABRA2	c-g	hsa05033	activation
+C00334	pc	GABRA3	c-g	hsa05033	activation
+C00334	pc	GABRA4	c-g	hsa05033	activation
+C00334	pc	GABRA5	c-g	hsa05033	activation
+C00334	pc	GABRA6	c-g	hsa05033	activation
+C00334	pc	GABRB1	c-g	hsa05033	activation
+C00334	pc	GABRB2	c-g	hsa05033	activation
+C00334	pc	GABRB3	c-g	hsa05033	activation
+C00334	pc	GABRD	c-g	hsa05033	activation
+C00334	pc	GABRE	c-g	hsa05033	activation
+C00334	pc	GABRG1	c-g	hsa05033	activation
+C00334	pc	GABRG2	c-g	hsa05033	activation
+C00334	pc	GABRG3	c-g	hsa05033	activation
+C00334	pc	GABRP	c-g	hsa05033	activation
+C00334	pc	GABRR1	c-g	hsa05033	activation
+C00334	pc	GABRR2	c-g	hsa05033	activation
+C00334	pc	GABRQ	c-g	hsa05033	activation
+C01996	pc	CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4	c-g	hsa05033	activation
+C01996	pc	CHRNB2	c-g	hsa05033	activation
+C01996	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C00025	pc	GRIN3A, GluN3A, NMDAR-L, NR3A	c-g	hsa05033	activation
+C00025	pc	GRIN3B	c-g	hsa05033	activation
+C00025	pc	GRIN1	c-g	hsa05033	activation
+C00025	pc	GRIN2A	c-g	hsa05033	activation
+C00025	pc	GRIN2B	c-g	hsa05033	activation
+C00025	pc	GRIN2C	c-g	hsa05033	activation
+C00025	pc	GRIN2D	c-g	hsa05033	activation
+C00025	pc	GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1	c-g	hsa05033	activation
+C00025	pc	GRIA2	c-g	hsa05033	activation
+C00025	pc	GRIA3	c-g	hsa05033	activation
+C00025	pc	GRIA4	c-g	hsa05033	activation
+C01996	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C01996	pc	CHRNA6, CHNRA6	c-g	hsa05033	activation
+C01996	pc	CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4	c-g	hsa05033	activation
+C01996	pc	CHRNB2	c-g	hsa05033	activation
+C00745	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C01996	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C00025	pc	GRIN3A, GluN3A, NMDAR-L, NR3A	c-g	hsa05033	activation
+C00025	pc	GRIN3B	c-g	hsa05033	activation
+C00025	pc	GRIN1	c-g	hsa05033	activation
+C00025	pc	GRIN2A	c-g	hsa05033	activation
+C00025	pc	GRIN2B	c-g	hsa05033	activation
+C00025	pc	GRIN2C	c-g	hsa05033	activation
+C00025	pc	GRIN2D	c-g	hsa05033	activation
+C00025	pc	GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1	c-g	hsa05033	activation
+C00025	pc	GRIA2	c-g	hsa05033	activation
+C00025	pc	GRIA3	c-g	hsa05033	activation
+C00025	pc	GRIA4	c-g	hsa05033	activation
+C01996	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C00745	pc	CHRNA7, CHRNA7-2, NACHRA7	c-g	hsa05033	activation
+C00745	pc	CHRNA6, CHNRA6	c-g	hsa05033	binding/association
+C00745	pc	CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4	c-g	hsa05033	binding/association
+C00745	pc	CHRNB2	c-g	hsa05033	binding/association
+C00745	pc	CHRNA4, BFNC, EBN, EBN1, NACHR, NACHRA4, NACRA4	c-g	hsa05033	binding/association
+C00745	pc	CHRNB2	c-g	hsa05033	binding/association
+C01330				hsa05033	
+C00076				hsa05033	
+C01330				hsa05033	
+C00076				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+C00076				hsa05033	
+C00076				hsa05033	
+C00698				hsa05033	
+C01330				hsa05033	
+C01330				hsa05033	
+C01330				hsa05033	
+C01330				hsa05033	
+C00076				hsa05033	
+C00076				hsa05033	
+C00076				hsa05033	
+SLC32A1, VGAT, VIAAT				hsa05033	
+SLC32A1, VGAT, VIAAT				hsa05033	
+SLC17A8, DFNA25, VGLUT3				hsa05033	
+SLC17A7				hsa05033	
+SLC17A6				hsa05033	
+SLC17A8, DFNA25, VGLUT3				hsa05033	
+SLC17A7				hsa05033	
+SLC17A6				hsa05033	
+C01330				hsa05033	
+C01330				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+C00076				hsa05033	
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6				hsa05033	
+CACNA1B				hsa05033	
+C00076				hsa05033	

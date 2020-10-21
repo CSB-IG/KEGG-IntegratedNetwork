@@ -1,0 +1,311 @@
+DPYS, DHP, DHPase	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00410	compound
+UPB1, BUP1	ec	DPYS, DHP, DHPase	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	UPB1, BUP1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	GAD2	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH1B1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH9A1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH3A2	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	ALDH7A1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	UPB1, BUP1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	UPB1, BUP1	g-g	hsa00410	compound
+GAD2	ec	UPB1, BUP1	g-g	hsa00410	compound
+UPB1, BUP1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+UPB1, BUP1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH1B1	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH9A1	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH3A2	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH7A1	ec	UPB1, BUP1	g-g	hsa00410	compound
+UPB1, BUP1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+UPB1, BUP1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	UPB1, BUP1	g-g	hsa00410	compound
+UPB1, BUP1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	ALDH1B1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	ALDH9A1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	ALDH3A2	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	ALDH7A1	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GAD2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GAD2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	ALDH1B1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	ALDH9A1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	ALDH3A2	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	ALDH7A1	g-g	hsa00410	compound
+GAD2	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+GAD2	ec	ALDH1B1	g-g	hsa00410	compound
+GAD2	ec	ALDH9A1	g-g	hsa00410	compound
+GAD2	ec	ALDH3A2	g-g	hsa00410	compound
+GAD2	ec	ALDH7A1	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GAD2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GAD2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	GAD2	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+GAD2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH1B1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH9A1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3A2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH7A1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH9A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH7A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH1B1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH9A1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3A2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH7A1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH9A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH7A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	ALDH1B1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	ALDH9A1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	ALDH3A2	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	ALDH7A1	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH9A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH7A1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	ALDH1B1	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	ALDH9A1	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	ALDH3A2	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	ALDH7A1	g-g	hsa00410	compound
+AOC3	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+AOC3	ec	ALDH1B1	g-g	hsa00410	compound
+AOC3	ec	ALDH9A1	g-g	hsa00410	compound
+AOC3	ec	ALDH3A2	g-g	hsa00410	compound
+AOC3	ec	ALDH7A1	g-g	hsa00410	compound
+MLYCD, MCD	ec	ALDH6A1, MMSADHA, MMSDH	g-g	hsa00410	compound
+ALDH6A1, MMSADHA, MMSDH	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00410	compound
+ECHS1, ECHS1D, SCEH	ec	HIBCH, HIBYLCOAH	g-g	hsa00410	compound
+EHHADH	ec	HIBCH, HIBYLCOAH	g-g	hsa00410	compound
+HADHA	ec	HIBCH, HIBYLCOAH	g-g	hsa00410	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00410	compound
+ACADM, ACAD1, MCAD, MCADH	ec	EHHADH	g-g	hsa00410	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHA	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC3	g-g	hsa00410	compound
+ALDH1A3	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00410	compound
+ALDH3B1	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00410	compound
+ALDH3B2	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00410	compound
+ALDH1A3	ec	AOC3	g-g	hsa00410	compound
+ALDH3B1	ec	AOC3	g-g	hsa00410	compound
+ALDH3B2	ec	AOC3	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH1A3	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3B1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3B2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1A3	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1A3	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1A3	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00410	compound
+ALDH1A3	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00410	compound
+ALDH3B1	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00410	compound
+ALDH3B2	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH1A3	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH3B1	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH3B2	ec	UPB1, BUP1	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+ALDH1A3	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+ALDH3B1	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+ALDH3B2	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	GAD2	g-g	hsa00410	compound
+ALDH1A3	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+ALDH3B1	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+ALDH3B2	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00410	compound
+ALDH1A3	ec	GAD2	g-g	hsa00410	compound
+ALDH3B1	ec	GAD2	g-g	hsa00410	compound
+ALDH3B2	ec	GAD2	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH1A3	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3B1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3B2	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH1A3	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B1	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+ALDH3B2	ec	CARNS1, ATPGD1	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+GAD1, CPSQ1, GAD, SCP	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+GAD2	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+GADL1, ADC, CSADC, HuADC, HuCSADC	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+UPB1, BUP1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+CARNS1, ATPGD1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH1A3	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH3B1	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH3B2	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH1B1	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH9A1	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH3A2	g-g	hsa00410	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	ALDH7A1	g-g	hsa00410	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH1B1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH9A1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH3A2	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH7A1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH3A1, ALDH3, ALDHIII	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH1A3	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH3B1	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+ALDH3B2	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+AOC2, DAO2, RAO, SSAO	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+AOC3	ec	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	g-g	hsa00410	compound
+C00100	rt	ACADM, ACAD1, MCAD, MCADH	reversible	hsa00410	se
+ACADM, ACAD1, MCAD, MCADH	rt	C00100	reversible	hsa00410	ep
+ACADM, ACAD1, MCAD, MCADH	rt	C00894	reversible	hsa00410	ep
+C00894	rt	ACADM, ACAD1, MCAD, MCADH	reversible	hsa00410	se
+C05668	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00410	se
+C05668	rt	EHHADH	reversible	hsa00410	se
+C05668	rt	HADHA	reversible	hsa00410	se
+ECHS1, ECHS1D, SCEH	rt	C05668	reversible	hsa00410	ep
+EHHADH	rt	C05668	reversible	hsa00410	ep
+HADHA	rt	C05668	reversible	hsa00410	ep
+ECHS1, ECHS1D, SCEH	rt	C00894	reversible	hsa00410	ep
+EHHADH	rt	C00894	reversible	hsa00410	ep
+HADHA	rt	C00894	reversible	hsa00410	ep
+C00894	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00410	se
+C00894	rt	EHHADH	reversible	hsa00410	se
+C00894	rt	HADHA	reversible	hsa00410	se
+C01013	rt	HIBCH, HIBYLCOAH	reversible	hsa00410	se
+HIBCH, HIBYLCOAH	rt	C01013	reversible	hsa00410	ep
+HIBCH, HIBYLCOAH	rt	C05668	reversible	hsa00410	ep
+C05668	rt	HIBCH, HIBYLCOAH	reversible	hsa00410	se
+C00083	rt	MLYCD, MCD	irreversible	hsa00410	se
+MLYCD, MCD	rt	C00024	irreversible	hsa00410	ep
+C00222	rt	ALDH6A1, MMSADHA, MMSDH	irreversible	hsa00410	se
+ALDH6A1, MMSADHA, MMSDH	rt	C00024	irreversible	hsa00410	ep
+C00099	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00410	se
+ABAT, GABA-AT, GABAT, NPD009	rt	C00099	reversible	hsa00410	ep
+ABAT, GABA-AT, GABAT, NPD009	rt	C00222	reversible	hsa00410	ep
+C00222	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00410	se
+C00099	rt	CARNS1, ATPGD1	irreversible	hsa00410	se
+CARNS1, ATPGD1	rt	C05340	irreversible	hsa00410	ep
+C00049	rt	GAD1, CPSQ1, GAD, SCP	irreversible	hsa00410	se
+C00049	rt	GAD2	irreversible	hsa00410	se
+GAD1, CPSQ1, GAD, SCP	rt	C00099	irreversible	hsa00410	ep
+GAD2	rt	C00099	irreversible	hsa00410	ep
+C00049	rt	GADL1, ADC, CSADC, HuADC, HuCSADC	irreversible	hsa00410	se
+GADL1, ADC, CSADC, HuADC, HuCSADC	rt	C00099	irreversible	hsa00410	ep
+C00750	rt	SMS, MRSR, SPMSY, SRS, SpS	irreversible	hsa00410	se
+SMS, MRSR, SPMSY, SRS, SpS	rt	C00315	irreversible	hsa00410	ep
+C00750	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00410	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C00315	irreversible	hsa00410	ep
+C00986	rt	AOC2, DAO2, RAO, SSAO	irreversible	hsa00410	se
+C00986	rt	AOC3	irreversible	hsa00410	se
+AOC2, DAO2, RAO, SSAO	rt	C05665	irreversible	hsa00410	ep
+AOC3	rt	C05665	irreversible	hsa00410	ep
+C05665	rt	ALDH2, ALDH-E2, ALDHI, ALDM	irreversible	hsa00410	se
+C05665	rt	ALDH1B1	irreversible	hsa00410	se
+C05665	rt	ALDH9A1	irreversible	hsa00410	se
+C05665	rt	ALDH3A2	irreversible	hsa00410	se
+C05665	rt	ALDH7A1	irreversible	hsa00410	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C00099	irreversible	hsa00410	ep
+ALDH1B1	rt	C00099	irreversible	hsa00410	ep
+ALDH9A1	rt	C00099	irreversible	hsa00410	ep
+ALDH3A2	rt	C00099	irreversible	hsa00410	ep
+ALDH7A1	rt	C00099	irreversible	hsa00410	ep
+C02642	rt	UPB1, BUP1	reversible	hsa00410	se
+UPB1, BUP1	rt	C02642	reversible	hsa00410	ep
+UPB1, BUP1	rt	C00099	reversible	hsa00410	ep
+C00099	rt	UPB1, BUP1	reversible	hsa00410	se
+C00429	rt	DPYS, DHP, DHPase	reversible	hsa00410	se
+DPYS, DHP, DHPase	rt	C00429	reversible	hsa00410	ep
+DPYS, DHP, DHPase	rt	C02642	reversible	hsa00410	ep
+C02642	rt	DPYS, DHP, DHPase	reversible	hsa00410	se
+C00429	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00410	se
+DPYD, DHP, DHPDHASE, DPD	rt	C00429	reversible	hsa00410	ep
+DPYD, DHP, DHPDHASE, DPD	rt	C00106	reversible	hsa00410	ep
+C00106	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00410	se
+C00099	rt	CARNS1, ATPGD1	irreversible	hsa00410	se
+CARNS1, ATPGD1	rt	C00386	irreversible	hsa00410	ep
+C00099	rt	CARNS1, ATPGD1	reversible	hsa00410	se
+CARNS1, ATPGD1	rt	C00099	reversible	hsa00410	ep
+CARNS1, ATPGD1	rt	C05341	reversible	hsa00410	ep
+C05341	rt	CARNS1, ATPGD1	reversible	hsa00410	se
+C00386	rt	CNDP1, CN1, CPGL2, HsT2308	irreversible	hsa00410	se
+CNDP1, CN1, CPGL2, HsT2308	rt	C00099	irreversible	hsa00410	ep
+CNDP1, CN1, CPGL2, HsT2308	rt	C00135	irreversible	hsa00410	ep
+C00099	rt	CARNS1, ATPGD1	irreversible	hsa00410	se
+CARNS1, ATPGD1	rt	C01262	irreversible	hsa00410	ep
+C01262	rt	CNDP1, CN1, CPGL2, HsT2308	irreversible	hsa00410	se
+CNDP1, CN1, CPGL2, HsT2308	rt	C00099	irreversible	hsa00410	ep
+C05665	rt	ALDH3A1, ALDH3, ALDHIII	irreversible	hsa00410	se
+C05665	rt	ALDH1A3	irreversible	hsa00410	se
+C05665	rt	ALDH3B1	irreversible	hsa00410	se
+C05665	rt	ALDH3B2	irreversible	hsa00410	se
+ALDH3A1, ALDH3, ALDHIII	rt	C00099	irreversible	hsa00410	ep
+ALDH1A3	rt	C00099	irreversible	hsa00410	ep
+ALDH3B1	rt	C00099	irreversible	hsa00410	ep
+ALDH3B2	rt	C00099	irreversible	hsa00410	ep
+C00386	rt	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	irreversible	hsa00410	se
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	rt	C00099	irreversible	hsa00410	ep
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	rt	C00135	irreversible	hsa00410	ep
+C00750	rt	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	irreversible	hsa00410	se
+SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	rt	C05665	irreversible	hsa00410	ep
+SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	rt	C00315	irreversible	hsa00410	ep
+C00383				hsa00410	
+C05669				hsa00410	
+C05670				hsa00410	
+C01073				hsa00410	
+C00864				hsa00410	
+C02335				hsa00410	
+C03722				hsa00410	
+C00804				hsa00410	
+C00555				hsa00410	
+C00334				hsa00410	
+C03492				hsa00410	

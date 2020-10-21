@@ -1,0 +1,1240 @@
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	group	hsa04514	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA4, CD49D, IA4	group	hsa04514	group
+ITGA9, ALPHA-RLC, ITGA4L, RLC	gr	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	group	hsa04514	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAL, CD11A, LFA-1, LFA1A	group	hsa04514	group
+ITGB7	gr	ITGA4, CD49D, IA4	group	hsa04514	group
+CNTNAP1, CASPR, CNTNAP, NRXN4, P190	gr	CNTN1, F3, GP135, MYPCN	group	hsa04514	group
+CNTNAP2, AUTS15, CASPR2, CDFE, NRXN4, PTHSL1	gr	CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	group	hsa04514	group
+CNTNAP1, CASPR, CNTNAP, NRXN4, P190	gr	CNTN1, F3, GP135, MYPCN	group	hsa04514	group
+CNTNAP2, AUTS15, CASPR2, CDFE, NRXN4, PTHSL1	gr	CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	group	hsa04514	group
+CD58, LFA-3, LFA3, ag3	pp	CD2, LFA-2, SRBC, T11	g-g	hsa04514	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa04514	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CTLA4, ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	g-g	hsa04514	activation
+CD86, B7-2, B72, B70, CD28LG2, LAB72	pp	CD28, Tp44	g-g	hsa04514	activation
+CD86, B7-2, B72, B70, CD28LG2, LAB72	pp	CTLA4, ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	g-g	hsa04514	activation
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DMB	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DOA	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DOB	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DPA1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DPB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQA1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQA2	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRA	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB3	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB4	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB5	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-A, HLAA	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-A, HLAA	pp	CD8B	g-g	hsa04514	activation
+HLA-B	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-C	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-E	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-F	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-G	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-B	pp	CD8B	g-g	hsa04514	activation
+HLA-C	pp	CD8B	g-g	hsa04514	activation
+HLA-E	pp	CD8B	g-g	hsa04514	activation
+HLA-F	pp	CD8B	g-g	hsa04514	activation
+HLA-G	pp	CD8B	g-g	hsa04514	activation
+CD274, B7-H, B7H1, PD-L1, PDCD1L1, PDCD1LG1, PDL1	pp	PDCD1, CD279, PD-1, PD1, SLEB2, hPD-1, hPD-l, hSLE1	g-g	hsa04514	activation
+PDCD1LG2, B7DC, Btdc, CD273, PD-L2, PDCD1L2, PDL2, bA574F112	pp	PDCD1, CD279, PD-1, PD1, SLEB2, hPD-1, hPD-l, hSLE1	g-g	hsa04514	activation
+102723996	pp	ICOS, AILIM, CD278, CVID1	g-g	hsa04514	activation
+ICOSLG	pp	ICOS, AILIM, CD278, CVID1	g-g	hsa04514	activation
+CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	pp	CD40, Bp50, CDW40, TNFRSF5, p50	g-g	hsa04514	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	gr-g	hsa04514	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	gr-g	hsa04514	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ICAM1, BB2, CD54, P358	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	activation
+ICAM1, BB2, CD54, P358	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	activation
+CD58, LFA-3, LFA3, ag3	pp	CD2, LFA-2, SRBC, T11	g-g	hsa04514	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa04514	activation
+CD86, B7-2, B72, B70, CD28LG2, LAB72	pp	CD28, Tp44	g-g	hsa04514	activation
+HLA-A, HLAA	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-A, HLAA	pp	CD8B	g-g	hsa04514	activation
+HLA-B	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-C	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-E	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-F	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-G	pp	CD8A, CD8, Leu2, p32	g-g	hsa04514	activation
+HLA-B	pp	CD8B	g-g	hsa04514	activation
+HLA-C	pp	CD8B	g-g	hsa04514	activation
+HLA-E	pp	CD8B	g-g	hsa04514	activation
+HLA-F	pp	CD8B	g-g	hsa04514	activation
+HLA-G	pp	CD8B	g-g	hsa04514	activation
+ICAM1, BB2, CD54, P358	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	activation
+ICAM1, BB2, CD54, P358	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	activation
+CD28, Tp44	pp	CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	g-g	hsa04514	activation
+CD86, B7-2, B72, B70, CD28LG2, LAB72	pp	CD28, Tp44	g-g	hsa04514	activation
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DMB	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DOA	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DOB	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DPA1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DPB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQA1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQA2	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DQB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRA	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB1	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB3	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB4	pp	CD4, CD4mut	g-g	hsa04514	activation
+HLA-DRB5	pp	CD4, CD4mut	g-g	hsa04514	activation
+CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	pp	CD40, Bp50, CDW40, TNFRSF5, p50	g-g	hsa04514	activation
+CD274, B7-H, B7H1, PD-L1, PDCD1L1, PDCD1LG1, PDL1	pp	PDCD1, CD279, PD-1, PD1, SLEB2, hPD-1, hPD-l, hSLE1	g-g	hsa04514	activation
+PDCD1LG2, B7DC, Btdc, CD273, PD-L2, PDCD1L2, PDL2, bA574F112	pp	PDCD1, CD279, PD-1, PD1, SLEB2, hPD-1, hPD-l, hSLE1	g-g	hsa04514	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	pp	ICAM1, BB2, CD54, P358	gr-g	hsa04514	activation
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	pp	VCAM1, CD106, INCAM-100	gr-g	hsa04514	activation
+ITGA4, CD49D, IA4	pp	VCAM1, CD106, INCAM-100	gr-g	hsa04514	activation
+ITGA9, ALPHA-RLC, ITGA4L, RLC	pp	VCAM1, CD106, INCAM-100	gr-g	hsa04514	activation
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	pp	VCAM1, CD106, INCAM-100	gr-g	hsa04514	activation
+SELPLG, CD162, CLA, PSGL-1, PSGL1	pp	SELP, CD62, CD62P, GMP140, GRMP, LECAM3, PADGEM, PSEL	g-g	hsa04514	activation
+SELPLG, CD162, CLA, PSGL-1, PSGL1	pp	SELE, CD62E, ELAM, ELAM1, ESEL, LECAM2	g-g	hsa04514	activation
+PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	pp	PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	g-g	hsa04514	activation
+PVR, CD155, HVED, NECL5, Necl-5, PVS, TAGE4	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+CDH2, CD325, CDHN, CDw325, NCAD	pp	CDH2, CD325, CDHN, CDw325, NCAD	g-g	hsa04514	activation
+NRXN3, C14orf60	pp	NLGN4Y	g-g	hsa04514	activation
+NRXN3, C14orf60	pp	NLGN1	g-g	hsa04514	activation
+NRXN3, C14orf60	pp	NLGN3	g-g	hsa04514	activation
+NRXN3, C14orf60	pp	NLGN4X	g-g	hsa04514	activation
+NRXN3, C14orf60	pp	NLGN2	g-g	hsa04514	activation
+NRXN1	pp	NLGN4Y	g-g	hsa04514	activation
+NRXN2	pp	NLGN4Y	g-g	hsa04514	activation
+NRXN1	pp	NLGN1	g-g	hsa04514	activation
+NRXN1	pp	NLGN3	g-g	hsa04514	activation
+NRXN1	pp	NLGN4X	g-g	hsa04514	activation
+NRXN1	pp	NLGN2	g-g	hsa04514	activation
+NRXN2	pp	NLGN1	g-g	hsa04514	activation
+NRXN2	pp	NLGN3	g-g	hsa04514	activation
+NRXN2	pp	NLGN4X	g-g	hsa04514	activation
+NRXN2	pp	NLGN2	g-g	hsa04514	activation
+CNTN1, F3, GP135, MYPCN	pp	NRCAM	g-g	hsa04514	activation
+NCAM1, CD56, MSK39, NCAM	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	activation
+NCAM1, CD56, MSK39, NCAM	pp	NCAM2	g-g	hsa04514	activation
+NCAM2	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	activation
+NCAM2	pp	NCAM2	g-g	hsa04514	activation
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	g-g	hsa04514	activation
+CDH2, CD325, CDHN, CDw325, NCAD	pp	CDH2, CD325, CDHN, CDw325, NCAD	g-g	hsa04514	activation
+NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	pp	NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	g-g	hsa04514	activation
+CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04514	activation
+CDH2, CD325, CDHN, CDw325, NCAD	pp	CDH2, CD325, CDHN, CDw325, NCAD	g-g	hsa04514	activation
+CDH4, CAD4, R-CAD, RCAD	pp	CDH4, CAD4, R-CAD, RCAD	g-g	hsa04514	activation
+ALCAM, CD166, MEMD	pp	CD6, TP120	g-g	hsa04514	binding/association
+PTPRC, B220, CD45, CD45R, GP180, L-CA, LCA, LY5, T200	pp	CD22, SIGLEC-2, SIGLEC2	g-g	hsa04514	binding/association
+SPN, CD43, GALGP, GPL115, LSN	pp	SIGLEC1, CD169, SIGLEC-1, SN, dJ1009E241	g-g	hsa04514	binding/association
+CD40, Bp50, CDW40, TNFRSF5, p50	pp	CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	g-g	hsa04514	binding/association
+CD58, LFA-3, LFA3, ag3	pp	CD2, LFA-2, SRBC, T11	g-g	hsa04514	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+PTPRC, B220, CD45, CD45R, GP180, L-CA, LCA, LY5, T200	pp	CD22, SIGLEC-2, SIGLEC2	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN9	g-g	hsa04514	binding/association
+OCLN, BLCPMG, PPP1R115, PTORCH1	pp	OCLN, BLCPMG, PPP1R115, PTORCH1	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	g-g	hsa04514	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	g-g	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	g-g	hsa04514	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+ESAM, W117m	pp	ESAM, W117m	g-g	hsa04514	binding/association
+CDH5, 7B4, CD144	pp	CDH5, 7B4, CD144	g-g	hsa04514	binding/association
+PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	pp	PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	g-g	hsa04514	binding/association
+CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	pp	CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	g-g	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	g-gr	hsa04514	binding/association
+SELP, CD62, CD62P, GMP140, GRMP, LECAM3, PADGEM, PSEL	pp	SELPLG, CD162, CLA, PSGL-1, PSGL1	g-g	hsa04514	binding/association
+CD40, Bp50, CDW40, TNFRSF5, p50	pp	CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	g-g	hsa04514	binding/association
+ICAM2, CD102	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM2, CD102	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	g-g	hsa04514	binding/association
+CD40, Bp50, CDW40, TNFRSF5, p50	pp	CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	g-g	hsa04514	binding/association
+PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	pp	PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+ICAM3, CD50, CDW50, ICAM-R	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM3, CD50, CDW50, ICAM-R	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+ICAM2, CD102	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM2, CD102	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04514	binding/association
+ICAM2, CD102	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+ICAM2, CD102	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	g-gr	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	g-gr	hsa04514	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa04514	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	ITGA4, CD49D, IA4	g-gr	hsa04514	binding/association
+VCAM1, CD106, INCAM-100	pp	ITGB7	g-gr	hsa04514	binding/association
+VCAM1, CD106, INCAM-100	pp	ITGA4, CD49D, IA4	g-gr	hsa04514	binding/association
+MADCAM1, MACAM1	pp	ITGB7	g-gr	hsa04514	binding/association
+MADCAM1, MACAM1	pp	ITGA4, CD49D, IA4	g-gr	hsa04514	binding/association
+SELL, CD62L, LAM1, LECAM1, LEU8, LNHR, LSEL, LYAM1, PLNHR, TQ1	pp	MADCAM1, MACAM1	g-g	hsa04514	binding/association
+CD34	pp	SELL, CD62L, LAM1, LECAM1, LEU8, LNHR, LSEL, LYAM1, PLNHR, TQ1	g-g	hsa04514	binding/association
+SELE, CD62E, ELAM, ELAM1, ESEL, LECAM2	pp	GLG1, CFR-1, ESL-1, MG-160, MG160	g-g	hsa04514	binding/association
+CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	pp	CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	g-g	hsa04514	binding/association
+CD58, LFA-3, LFA3, ag3	pp	CD2, LFA-2, SRBC, T11	g-g	hsa04514	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	g-g	hsa04514	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	g-g	hsa04514	binding/association
+NCAM1, CD56, MSK39, NCAM	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	binding/association
+NCAM1, CD56, MSK39, NCAM	pp	NCAM2	g-g	hsa04514	binding/association
+NCAM2	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	binding/association
+NCAM2	pp	NCAM2	g-g	hsa04514	binding/association
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	binding/association
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	NCAM2	g-g	hsa04514	binding/association
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	NCAM1, CD56, MSK39, NCAM	g-g	hsa04514	binding/association
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	NCAM2	g-g	hsa04514	binding/association
+L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	pp	L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	g-g	hsa04514	binding/association
+CADM1, BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	pp	CADM1, BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	g-g	hsa04514	binding/association
+NEGR1, DMML2433, IGLON4, KILON, Ntra	pp	NEGR1, DMML2433, IGLON4, KILON, Ntra	g-g	hsa04514	binding/association
+CADM3, BIgR, IGSF4B, NECL1, Necl-1, TSLL1, synCAM3	pp	CADM3, BIgR, IGSF4B, NECL1, Necl-1, TSLL1, synCAM3	g-g	hsa04514	binding/association
+PTPRM, PTPRL1, R-PTP-MU, RPTPM, RPTPU, hR-PTPu	pp	PTPRM, PTPRL1, R-PTP-MU, RPTPM, RPTPU, hR-PTPu	g-g	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	g-g	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	L1CAM, CAML1, CD171, HSAS, HSAS1, MASA, MIC5, N-CAM-L1, N-CAML1, NCAM-L1, S10, SPG1	g-g	hsa04514	binding/association
+NFASC, NF, NRCAML	pp	CNTNAP1, CASPR, CNTNAP, NRXN4, P190	g-gr	hsa04514	binding/association
+NFASC, NF, NRCAML	pp	CNTN1, F3, GP135, MYPCN	g-gr	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	CNTNAP2, AUTS15, CASPR2, CDFE, NRXN4, PTHSL1	g-gr	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	g-gr	hsa04514	binding/association
+MPZ, CHM, CMT1, CMT1B, CMT2I, CMT2J, CMT4E, CMTDI3, CMTDID, DSS, HMSNIB, MPP, P0	pp	MPZ, CHM, CMT1, CMT1B, CMT2I, CMT2J, CMT4E, CMTDI3, CMTDID, DSS, HMSNIB, MPP, P0	g-g	hsa04514	binding/association
+MPZ, CHM, CMT1, CMT1B, CMT2I, CMT2J, CMT4E, CMTDI3, CMTDID, DSS, HMSNIB, MPP, P0	pp	MPZL1	g-g	hsa04514	binding/association
+MPZL1	pp	MPZ, CHM, CMT1, CMT1B, CMT2I, CMT2J, CMT4E, CMTDI3, CMTDID, DSS, HMSNIB, MPP, P0	g-g	hsa04514	binding/association
+MPZL1	pp	MPZL1	g-g	hsa04514	binding/association
+MAG, GMA, S-MAG, SIGLEC-4A, SIGLEC4A, SPG75	pp	MAG, GMA, S-MAG, SIGLEC-4A, SIGLEC4A, SPG75	g-g	hsa04514	binding/association
+CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04514	binding/association
+NFASC, NF, NRCAML	pp	CNTNAP1, CASPR, CNTNAP, NRXN4, P190	g-gr	hsa04514	binding/association
+NFASC, NF, NRCAML	pp	CNTN1, F3, GP135, MYPCN	g-gr	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	CNTNAP2, AUTS15, CASPR2, CDFE, NRXN4, PTHSL1	g-gr	hsa04514	binding/association
+CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	pp	CNTN2, AXT, FAME5, TAG-1, TAX, TAX1	g-gr	hsa04514	binding/association
+CLDN11, OSP, OTM	pp	CLDN11, OSP, OTM	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN24, CLDN21	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN24, CLDN21	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN16	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN4	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN3	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN7	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN23	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN19	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN14	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN15	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN17	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN20	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN11	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN18	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN22	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN25	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN5	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN10	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN8	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN6	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN2	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN1	pp	CLDN9	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN16	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN4	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN3	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN7	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN23	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN19	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN14	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN15	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN17	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN20	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN11	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN18	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN22	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN25	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN5	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN10	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN8	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN6	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN2	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN1	g-g	hsa04514	binding/association
+CLDN9	pp	CLDN9	g-g	hsa04514	binding/association
+OCLN, BLCPMG, PPP1R115, PTORCH1	pp	OCLN, BLCPMG, PPP1R115, PTORCH1	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	g-g	hsa04514	binding/association
+CADM1, BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	pp	CADM1, BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	g-g	hsa04514	binding/association
+CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04514	binding/association
+CDH2, CD325, CDHN, CDw325, NCAD	pp	CDH2, CD325, CDHN, CDw325, NCAD	g-g	hsa04514	binding/association
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04514	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	g-g	hsa04514	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN1, CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	g-g	hsa04514	binding/association
+CDH3, CDHP, HJMD, PCAD	pp	CDH3, CDHP, HJMD, PCAD	g-g	hsa04514	binding/association
+CDH15, CDH14, CDH3, CDHM, MCAD, MRD3	pp	CDH15, CDH14, CDH3, CDHM, MCAD, MRD3	g-g	hsa04514	binding/association
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD274, B7-H, B7H1, PD-L1, PDCD1L1, PDCD1LG1, PDL1	g-g	hsa04514	activation
+102723996	pp	CD28, Tp44	g-g	hsa04514	activation
+ICOSLG	pp	CD28, Tp44	g-g	hsa04514	activation
+102723996	pp	CTLA4, ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	g-g	hsa04514	activation
+ICOSLG	pp	CTLA4, ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	g-g	hsa04514	activation
+PVR, CD155, HVED, NECL5, Necl-5, PVS, TAGE4	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+PVR, CD155, HVED, NECL5, Necl-5, PVS, TAGE4	pp	TIGIT, VSIG9, VSTM3, WUCAM	g-g	hsa04514	activation
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	TIGIT, VSIG9, VSTM3, WUCAM	g-g	hsa04514	activation
+CD274, B7-H, B7H1, PD-L1, PDCD1L1, PDCD1LG1, PDL1	pp	CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	g-g	hsa04514	activation
+PVR, CD155, HVED, NECL5, Necl-5, PVS, TAGE4	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+PVR, CD155, HVED, NECL5, Necl-5, PVS, TAGE4	pp	TIGIT, VSIG9, VSTM3, WUCAM	g-g	hsa04514	activation
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	CD226, DNAM-1, DNAM1, PTA1, TLiSA1	g-g	hsa04514	activation
+NECTIN2, CD112, HVEB, PRR2, PVRL2, PVRR2	pp	TIGIT, VSIG9, VSTM3, WUCAM	g-g	hsa04514	activation
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	TIGIT, VSIG9, VSTM3, WUCAM	g-g	hsa04514	activation
+CD274, B7-H, B7H1, PD-L1, PDCD1L1, PDCD1LG1, PDL1	pp	CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	g-g	hsa04514	activation
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	g-g	hsa04514	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	JAM3, JAM-2, JAM-3, JAM-C, JAMC	g-g	hsa04514	binding/association
+LRRC4C, NGL-1, NGL1	pp	NTNG1, Lmnt1	g-g	hsa04514	activation
+LRRC4, NAG14, NGL-2	pp	NTNG2, LHLL9381, Lmnt2, NTNG1, bA479K201	g-g	hsa04514	activation
+LRRC4B, HSM, LRIG4, NGL-3	pp	PTPRF, BNAH2, LAR	g-g	hsa04514	activation
+ITGA8				hsa04514	
+NEO1, IGDCC2, NGN, NTN1R2				hsa04514	
+ITGA6, CD49f, ITGA6B, VLA-6				hsa04514	
+VCAN, CSPG2, ERVR, GHAP, PG-M, WGN, WGN1				hsa04514	
+ITGB8				hsa04514	
+ITGAV, CD51, MSK8, VNRA, VTNR				hsa04514	
+SDC1, CD138, SDC, SYND1, syndecan				hsa04514	
+SDC2				hsa04514	
+SDC4				hsa04514	
+SDC3				hsa04514	
+SDC1, CD138, SDC, SYND1, syndecan				hsa04514	
+SDC2				hsa04514	
+SDC4				hsa04514	
+SDC3				hsa04514	
+CD276, 4Ig-B7-H3, B7-H3, B7H3, B7RP-2				hsa04514	
+VTCN1, B7-H4, B7H4, B7S1, B7X, B7h5, PRO1291, VCTN1				hsa04514	
+SDC1, CD138, SDC, SYND1, syndecan				hsa04514	
+SDC2				hsa04514	
+SDC4				hsa04514	
+SDC3				hsa04514	

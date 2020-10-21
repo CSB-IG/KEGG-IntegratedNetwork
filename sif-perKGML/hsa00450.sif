@@ -1,0 +1,98 @@
+MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	ec	MTR, HMAG, MS, cblG	g-g	hsa00450	compound
+MARS2	ec	MTR, HMAG, MS, cblG	g-g	hsa00450	compound
+MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	ec	CTH	g-g	hsa00450	compound
+MARS2	ec	CTH	g-g	hsa00450	compound
+MTR, HMAG, MS, cblG	ec	CTH	g-g	hsa00450	compound
+CTH	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00450	compound
+CTH	ec	KYAT1	g-g	hsa00450	compound
+CTH	ec	TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	g-g	hsa00450	compound
+CTH	ec	TXNRD3	g-g	hsa00450	compound
+CTH	ec	TXNRD1	g-g	hsa00450	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	g-g	hsa00450	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	TXNRD3	g-g	hsa00450	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	TXNRD1	g-g	hsa00450	compound
+KYAT1	ec	TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	g-g	hsa00450	compound
+KYAT1	ec	TXNRD3	g-g	hsa00450	compound
+KYAT1	ec	TXNRD1	g-g	hsa00450	compound
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	ec	SEPHS2, SPS2	g-g	hsa00450	compound
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	ec	SEPHS1	g-g	hsa00450	compound
+TXNRD3	ec	SEPHS2, SPS2	g-g	hsa00450	compound
+TXNRD1	ec	SEPHS2, SPS2	g-g	hsa00450	compound
+TXNRD3	ec	SEPHS1	g-g	hsa00450	compound
+TXNRD1	ec	SEPHS1	g-g	hsa00450	compound
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	ec	SCLY, SCL, hSCL	g-g	hsa00450	compound
+TXNRD3	ec	SCLY, SCL, hSCL	g-g	hsa00450	compound
+TXNRD1	ec	SCLY, SCL, hSCL	g-g	hsa00450	compound
+SEPHS2, SPS2	ec	SCLY, SCL, hSCL	g-g	hsa00450	compound
+SEPHS1	ec	SCLY, SCL, hSCL	g-g	hsa00450	compound
+SEPSECS, LP, PCH2D, SLA, SLA/LP	ec	SEPHS2, SPS2	g-g	hsa00450	compound
+SEPSECS, LP, PCH2D, SLA, SLA/LP	ec	SEPHS1	g-g	hsa00450	compound
+SEPSECS, LP, PCH2D, SLA, SLA/LP	ec	PSTK, C10orf89	g-g	hsa00450	compound
+MTR, HMAG, MS, cblG	ec	KYAT3, CCBL2, KAT3, KATIII	g-g	hsa00450	compound
+MTR, HMAG, MS, cblG	ec	KYAT1	g-g	hsa00450	compound
+KYAT3, CCBL2, KAT3, KATIII	ec	CTH	g-g	hsa00450	compound
+KYAT1	ec	CTH	g-g	hsa00450	compound
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	ec	CTH	g-g	hsa00450	compound
+TXNRD3	ec	CTH	g-g	hsa00450	compound
+TXNRD1	ec	CTH	g-g	hsa00450	compound
+C05684	rt	TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	irreversible	hsa00450	se
+C05684	rt	TXNRD3	irreversible	hsa00450	se
+C05684	rt	TXNRD1	irreversible	hsa00450	se
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	rt	C01528	irreversible	hsa00450	ep
+TXNRD3	rt	C01528	irreversible	hsa00450	ep
+TXNRD1	rt	C01528	irreversible	hsa00450	ep
+C01528	rt	SEPHS2, SPS2	irreversible	hsa00450	se
+C01528	rt	SEPHS1	irreversible	hsa00450	se
+SEPHS2, SPS2	rt	C05172	irreversible	hsa00450	ep
+SEPHS1	rt	C05172	irreversible	hsa00450	ep
+C05688	rt	SCLY, SCL, hSCL	irreversible	hsa00450	se
+SCLY, SCL, hSCL	rt	C01528	irreversible	hsa00450	ep
+SCLY, SCL, hSCL	rt	C00041	irreversible	hsa00450	ep
+C05335	rt	MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	irreversible	hsa00450	se
+C05335	rt	MARS2	irreversible	hsa00450	se
+MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	rt	C05336	irreversible	hsa00450	ep
+MARS2	rt	C05336	irreversible	hsa00450	ep
+C05335	rt	CTH	irreversible	hsa00450	se
+CTH	rt	C05703	irreversible	hsa00450	ep
+C05689	rt	KYAT3, CCBL2, KAT3, KATIII	irreversible	hsa00450	se
+C05689	rt	KYAT1	irreversible	hsa00450	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C05703	irreversible	hsa00450	ep
+KYAT1	rt	C05703	irreversible	hsa00450	ep
+C05689	rt	KYAT3, CCBL2, KAT3, KATIII	irreversible	hsa00450	se
+C05689	rt	KYAT1	irreversible	hsa00450	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C18904	irreversible	hsa00450	ep
+KYAT1	rt	C18904	irreversible	hsa00450	ep
+C05172	rt	SEPSECS, LP, PCH2D, SLA, SLA/LP	irreversible	hsa00450	se
+C16638	rt	SEPSECS, LP, PCH2D, SLA, SLA/LP	irreversible	hsa00450	se
+SEPSECS, LP, PCH2D, SLA, SLA/LP	rt	C06482	irreversible	hsa00450	ep
+C06481	rt	PSTK, C10orf89	irreversible	hsa00450	se
+PSTK, C10orf89	rt	C16638	irreversible	hsa00450	ep
+C05697	rt	PAPSS2, ATPSK2, BCYM4, SK2	irreversible	hsa00450	se
+C05697	rt	PAPSS1	irreversible	hsa00450	se
+PAPSS2, ATPSK2, BCYM4, SK2	rt	C05686	irreversible	hsa00450	ep
+PAPSS1	rt	C05686	irreversible	hsa00450	ep
+C05699	rt	KYAT3, CCBL2, KAT3, KATIII	irreversible	hsa00450	se
+C05699	rt	KYAT1	irreversible	hsa00450	se
+KYAT3, CCBL2, KAT3, KATIII	rt	C05698	irreversible	hsa00450	ep
+KYAT1	rt	C05698	irreversible	hsa00450	ep
+C05698	rt	MTR, HMAG, MS, cblG	irreversible	hsa00450	se
+MTR, HMAG, MS, cblG	rt	C05335	irreversible	hsa00450	ep
+C18902	rt	TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	irreversible	hsa00450	se
+C18902	rt	TXNRD3	irreversible	hsa00450	se
+C18902	rt	TXNRD1	irreversible	hsa00450	se
+TXNRD2, GCCD5, SELZ, TR, TR-BETA, TR3, TRXR2	rt	C05703	irreversible	hsa00450	ep
+TXNRD3	rt	C05703	irreversible	hsa00450	ep
+TXNRD1	rt	C05703	irreversible	hsa00450	ep
+C02535	rt	INMT, TEMT	reversible	hsa00450	se
+INMT, TEMT	rt	C02535	reversible	hsa00450	ep
+INMT, TEMT	rt	C18872	reversible	hsa00450	ep
+C18872	rt	INMT, TEMT	reversible	hsa00450	se
+C05689	rt	CTH	irreversible	hsa00450	se
+CTH	rt	C05703	irreversible	hsa00450	ep
+C05695				hsa00450	
+C05690				hsa00450	
+C00017				hsa00450	
+C18870				hsa00450	
+C18871				hsa00450	
+C18893				hsa00450	
+C18905				hsa00450	

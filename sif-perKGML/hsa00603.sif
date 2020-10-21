@@ -1,0 +1,178 @@
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	ec	HEXA, TSD	g-g	hsa00603	compound
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	ec	HEXB	g-g	hsa00603	compound
+GLA, GALA	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+HEXA, TSD	ec	GLA, GALA	g-g	hsa00603	compound
+HEXB	ec	GLA, GALA	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	ec	GBGT1, A3GALNT, FS, UNQ2513	g-g	hsa00603	compound
+NAGA, D22S674, GALB	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	HEXA, TSD	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	HEXB	g-g	hsa00603	compound
+HEXA, TSD	ec	GBGT1, A3GALNT, FS, UNQ2513	g-g	hsa00603	compound
+HEXB	ec	GBGT1, A3GALNT, FS, UNQ2513	g-g	hsa00603	compound
+NAGA, D22S674, GALB	ec	HEXA, TSD	g-g	hsa00603	compound
+NAGA, D22S674, GALB	ec	HEXB	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	GBGT1, A3GALNT, FS, UNQ2513	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	NAGA, D22S674, GALB	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT1, H, HH, HSC	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	FUT2	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	g-g	hsa00603	compound
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	ec	ST3GAL2	g-g	hsa00603	compound
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	ec	FUT1, H, HH, HSC	g-g	hsa00603	compound
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	ec	FUT2	g-g	hsa00603	compound
+ST3GAL2	ec	FUT1, H, HH, HSC	g-g	hsa00603	compound
+ST3GAL2	ec	FUT2	g-g	hsa00603	compound
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	ec	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	g-g	hsa00603	compound
+ST3GAL2	ec	ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI	g-g	hsa00603	compound
+A3GALT2, A3GALT2P, IGB3S, IGBS3S	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	ec	GBGT1, A3GALNT, FS, UNQ2513	g-g	hsa00603	compound
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00603	compound
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	ec	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	g-g	hsa00603	compound
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	ec	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	g-g	hsa00603	compound
+G00094	rt	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	reversible	hsa00603	se
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	rt	G00094	reversible	hsa00603	ep
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	rt	G00097	reversible	hsa00603	ep
+G00097	rt	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	reversible	hsa00603	se
+G00095	rt	NAGA, D22S674, GALB	reversible	hsa00603	se
+IV3GalNAca	rt	NAGA, D22S674, GALB	reversible	hsa00603	se
+NAGA, D22S674, GALB	rt	G00095	reversible	hsa00603	ep
+NAGA, D22S674, GALB	rt	IV3GalNAca	reversible	hsa00603	ep
+NAGA, D22S674, GALB	rt	G00094	reversible	hsa00603	ep
+G00094	rt	NAGA, D22S674, GALB	reversible	hsa00603	se
+G00092	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00092	reversible	hsa00603	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00093	reversible	hsa00603	ep
+G00093	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+G00094	rt	HEXA, TSD	reversible	hsa00603	se
+G00094	rt	HEXB	reversible	hsa00603	se
+HEXA, TSD	rt	G00094	reversible	hsa00603	ep
+HEXB	rt	G00094	reversible	hsa00603	ep
+HEXA, TSD	rt	G00093	reversible	hsa00603	ep
+HEXB	rt	G00093	reversible	hsa00603	ep
+G00093	rt	HEXA, TSD	reversible	hsa00603	se
+G00093	rt	HEXB	reversible	hsa00603	se
+G00097	rt	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	reversible	hsa00603	se
+G00097	rt	ST3GAL2	reversible	hsa00603	se
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	rt	G00097	reversible	hsa00603	ep
+ST3GAL2	rt	G00097	reversible	hsa00603	ep
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	rt	G00098	reversible	hsa00603	ep
+ST3GAL2	rt	G00098	reversible	hsa00603	ep
+G00098	rt	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	reversible	hsa00603	se
+G00098	rt	ST3GAL2	reversible	hsa00603	se
+G00103	rt	FUT9, Fuc-TIX	reversible	hsa00603	se
+FUT9, Fuc-TIX	rt	G00103	reversible	hsa00603	ep
+FUT9, Fuc-TIX	rt	G00104	reversible	hsa00603	ep
+G00104	rt	FUT9, Fuc-TIX	reversible	hsa00603	se
+G00097	rt	FUT1, H, HH, HSC	reversible	hsa00603	se
+G00097	rt	FUT2	reversible	hsa00603	se
+FUT1, H, HH, HSC	rt	G00097	reversible	hsa00603	ep
+FUT2	rt	G00097	reversible	hsa00603	ep
+FUT1, H, HH, HSC	rt	G00099	reversible	hsa00603	ep
+FUT2	rt	G00099	reversible	hsa00603	ep
+G00099	rt	FUT1, H, HH, HSC	reversible	hsa00603	se
+G00099	rt	FUT2	reversible	hsa00603	se
+G00093	rt	GLA, GALA	reversible	hsa00603	se
+GLA, GALA	rt	G00093	reversible	hsa00603	ep
+GLA, GALA	rt	G00092	reversible	hsa00603	ep
+G00092	rt	GLA, GALA	reversible	hsa00603	se
+G00093	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00093	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00094	reversible	hsa00603	ep
+G00094	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G00094	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00094	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00095	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	IV3GalNAca	reversible	hsa00603	ep
+G00095	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+IV3GalNAca	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+G00097	rt	FUT1, H, HH, HSC	reversible	hsa00603	se
+G00097	rt	FUT2	reversible	hsa00603	se
+FUT1, H, HH, HSC	rt	G00097	reversible	hsa00603	ep
+FUT2	rt	G00097	reversible	hsa00603	ep
+FUT1, H, HH, HSC	rt	G00099	reversible	hsa00603	ep
+FUT2	rt	G00099	reversible	hsa00603	ep
+G00099	rt	FUT1, H, HH, HSC	reversible	hsa00603	se
+G00099	rt	FUT2	reversible	hsa00603	se
+G00094	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00094	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00095	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	IV3GalNAca	reversible	hsa00603	ep
+G00095	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+IV3GalNAca	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+G00094	rt	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	reversible	hsa00603	se
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	rt	G00094	reversible	hsa00603	ep
+B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	rt	G00097	reversible	hsa00603	ep
+G00097	rt	B3GALT5, B3GalT-V, B3GalTx, B3T5, GLCT5, beta-1,3-GalTase_5, beta-3-Gx-T5, beta3Gal-T5	reversible	hsa00603	se
+G00092	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00092	reversible	hsa00603	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00093	reversible	hsa00603	ep
+G00093	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+G00097	rt	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	reversible	hsa00603	se
+G00097	rt	ST3GAL2	reversible	hsa00603	se
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	rt	G00097	reversible	hsa00603	ep
+ST3GAL2	rt	G00097	reversible	hsa00603	ep
+ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	rt	G00098	reversible	hsa00603	ep
+ST3GAL2	rt	G00098	reversible	hsa00603	ep
+G00098	rt	ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA1, ST3GalIA, ST3GalIA,1, ST3O	reversible	hsa00603	se
+G00098	rt	ST3GAL2	reversible	hsa00603	se
+G00093	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00093	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00094	reversible	hsa00603	ep
+G00094	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G00103	rt	FUT9, Fuc-TIX	reversible	hsa00603	se
+FUT9, Fuc-TIX	rt	G00103	reversible	hsa00603	ep
+FUT9, Fuc-TIX	rt	G00104	reversible	hsa00603	ep
+G00104	rt	FUT9, Fuc-TIX	reversible	hsa00603	se
+G00092	rt	A3GALT2, A3GALT2P, IGB3S, IGBS3S	reversible	hsa00603	se
+A3GALT2, A3GALT2P, IGB3S, IGBS3S	rt	G00092	reversible	hsa00603	ep
+A3GALT2, A3GALT2P, IGB3S, IGBS3S	rt	G00403	reversible	hsa00603	ep
+G00403	rt	A3GALT2, A3GALT2P, IGB3S, IGBS3S	reversible	hsa00603	se
+G00403	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00403	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00392	reversible	hsa00603	ep
+G00392	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G00392	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00392	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	G02977	reversible	hsa00603	ep
+G02977	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+G00403	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00403	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G00392	reversible	hsa00603	ep
+G00392	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G00392	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+GBGT1, A3GALNT, FS, UNQ2513	rt	G00392	reversible	hsa00603	ep
+GBGT1, A3GALNT, FS, UNQ2513	rt	G02977	reversible	hsa00603	ep
+G02977	rt	GBGT1, A3GALNT, FS, UNQ2513	reversible	hsa00603	se
+G00092	rt	A3GALT2, A3GALT2P, IGB3S, IGBS3S	reversible	hsa00603	se
+A3GALT2, A3GALT2P, IGB3S, IGBS3S	rt	G00092	reversible	hsa00603	ep
+A3GALT2, A3GALT2P, IGB3S, IGBS3S	rt	G00403	reversible	hsa00603	ep
+G00403	rt	A3GALT2, A3GALT2P, IGB3S, IGBS3S	reversible	hsa00603	se
+G00094	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G00094	reversible	hsa00603	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G11492	reversible	hsa00603	ep
+G11492	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+G11492	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G11492	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G13080	reversible	hsa00603	ep
+G13080	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G13080	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G13080	reversible	hsa00603	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G13081	reversible	hsa00603	ep
+G13081	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+G11492	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G11492	reversible	hsa00603	ep
+B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	rt	G13080	reversible	hsa00603	ep
+G13080	rt	B3GALNT1, B3GALT3, GLCT3, GLOB, Gb4Cer, P, P1, beta3Gal-T3, galT3	reversible	hsa00603	se
+G13080	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G13080	reversible	hsa00603	ep
+A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	rt	G13081	reversible	hsa00603	ep
+G13081	rt	A4GALT, A14GALT, A4GALT1, Gb3S, P(k), P1, P1PK, PK	reversible	hsa00603	se
+G00181				hsa00603	
+G00096				hsa00603	
+G00100				hsa00603	
+G00101				hsa00603	
+G00102				hsa00603	
+G00106				hsa00603	
+G00105				hsa00603	
+G00107				hsa00603	

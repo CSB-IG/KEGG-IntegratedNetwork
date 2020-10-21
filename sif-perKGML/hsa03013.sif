@@ -1,0 +1,306 @@
+RAN, ARA24, Gsp1, TC4	pp	XPOT, XPO3	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	XPO5, exp5	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	EEF1A1, CCS-3, CCS3, EE1A1, EEF-1, EEF1A, EF-Tu, EF1A, GRAF-1EF, HNGC:16303, LENG7, PTI1, eEF1A-1	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	EEF1A2	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	XPO1, CRM1, emb, exp1	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	PHAX, RNUXA	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	NCBP2, CBC2, CBP20, NIP1, PIG55	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	NCBP1	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	XPO1, CRM1, emb, exp1	g-g	hsa03013	binding/association
+RAN, ARA24, Gsp1, TC4	pp	NMD3, CGI-07	g-g	hsa03013	binding/association
+KPNB1, IMB1, IPO1, IPOB, Impnb, NTF97	pp	SNUPN, KPNBL, RNUT1, Snurportin1	g-g	hsa03013	binding/association
+THOC1, HPR1, P84, P84N5	pp	THOC2, CXorf3, MRX12, MRX35, THO2, dJ506G21, hTREX120	g-g	hsa03013	binding/association
+THOC1, HPR1, P84, P84N5	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+THOC1, HPR1, P84, P84N5	pp	THOC6, WDR58, fSAP35	g-g	hsa03013	binding/association
+THOC1, HPR1, P84, P84N5	pp	THOC7, NIF3L1BP1, fSAP24, hTREX30	g-g	hsa03013	binding/association
+RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1	pp	CASC3, BTZ, MLN51	g-g	hsa03013	binding/association
+RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1	pp	MAGOH, MAGOH1, MAGOHA	g-g	hsa03013	binding/association
+RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1	pp	MAGOHB	g-g	hsa03013	binding/association
+RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1	pp	EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	g-g	hsa03013	binding/association
+SAP18, 2HOR0202, SAP18P	pp	PNN, DRS, DRSP, SDK3, memA	g-g	hsa03013	binding/association
+SAP18, 2HOR0202, SAP18P	pp	ACIN1, ACINUS, ACN, fSAP152	g-g	hsa03013	binding/association
+SAP18, 2HOR0202, SAP18P	pp	RNPS1, E51	g-g	hsa03013	binding/association
+SAP18, 2HOR0202, SAP18P	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	NXT1, MTR2, P15	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	NXT2	g-g	hsa03013	binding/association
+NXF5	pp	NXT1, MTR2, P15	g-g	hsa03013	binding/association
+NXF3	pp	NXT1, MTR2, P15	g-g	hsa03013	binding/association
+NXF2	pp	NXT1, MTR2, P15	g-g	hsa03013	binding/association
+NXF2B	pp	NXT1, MTR2, P15	g-g	hsa03013	binding/association
+NXF5	pp	NXT2	g-g	hsa03013	binding/association
+NXF3	pp	NXT2	g-g	hsa03013	binding/association
+NXF2	pp	NXT2	g-g	hsa03013	binding/association
+NXF2B	pp	NXT2	g-g	hsa03013	binding/association
+UPF2, HUPF2, RENT2, smg-3	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+UPF2, HUPF2, RENT2, smg-3	pp	UPF3A	g-g	hsa03013	binding/association
+UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	pp	UPF2, HUPF2, RENT2, smg-3	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3A	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3B	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3C	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3D	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3F	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3G	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3H	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3I	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3J	pp	EIF1, A121, EIF-1, EIF1A, ISO1, SUI1	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3A	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3A	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3A	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3B	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3B	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3B	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3C	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3C	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3C	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3D	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3D	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3D	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3F	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3F	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3F	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3G	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3G	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3G	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3H	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3H	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3H	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3I	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3I	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3I	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3J	pp	EIF1B	g-g	hsa03013	binding/association
+EIF3J	pp	EIF1AX	g-g	hsa03013	binding/association
+EIF3J	pp	EIF1AY	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3A	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3B	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3C	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3D	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3F	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3G	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3H	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3I	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3J	pp	EIF5, EIF-5, EIF-5A	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3E, EIF3-P48, EIF3S6, INT6, eIF3-p46	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3A	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3B	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3C	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3D	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3F	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3G	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3H	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3I	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3J	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3CL	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3A	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3A	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3B	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3B	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3C	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3C	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3D	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3D	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3F	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3F	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3G	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3G	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3H	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3H	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3I	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3I	pp	EIF2S2	g-g	hsa03013	binding/association
+EIF3J	pp	EIF2S3	g-g	hsa03013	binding/association
+EIF3J	pp	EIF2S2	g-g	hsa03013	binding/association
+PABPC4L	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC5	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC1	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC1L2A	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC3	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC1L2B	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC1L	pp	PAIP1	g-g	hsa03013	binding/association
+PABPC4	pp	PAIP1	g-g	hsa03013	binding/association
+EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa03013	binding/association
+EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18	pp	EIF4E1B	g-g	hsa03013	binding/association
+EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18	pp	EIF4E2	g-g	hsa03013	binding/association
+EIF4G2	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa03013	binding/association
+EIF4G3	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa03013	binding/association
+EIF4G2	pp	EIF4E1B	g-g	hsa03013	binding/association
+EIF4G2	pp	EIF4E2	g-g	hsa03013	binding/association
+EIF4G3	pp	EIF4E1B	g-g	hsa03013	binding/association
+EIF4G3	pp	EIF4E2	g-g	hsa03013	binding/association
+EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18	pp	EIF4A1, DDX2A, EIF-4A, EIF4A, eIF-4A-I, eIF4A-I	g-g	hsa03013	binding/association
+EIF4G1, EIF-4G1, EIF4F, EIF4G, EIF4GI, P220, PARK18	pp	EIF4A2	g-g	hsa03013	binding/association
+EIF4G2	pp	EIF4A1, DDX2A, EIF-4A, EIF4A, eIF-4A-I, eIF4A-I	g-g	hsa03013	binding/association
+EIF4G3	pp	EIF4A1, DDX2A, EIF-4A, EIF4A, eIF-4A-I, eIF4A-I	g-g	hsa03013	binding/association
+EIF4G2	pp	EIF4A2	g-g	hsa03013	binding/association
+EIF4G3	pp	EIF4A2	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN4, HC56, HCAP1, HHRF-1, NEDMCR, p97	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	SMN1, BCD541, GEMIN1, SMA, SMA1, SMA2, SMA3, SMA4, SMA@, SMN, SMNT, T-BCD541, TDRD16A	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	SMN2	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN8, FAM51A1	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN5, GEMIN-5	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN2, SIP1, SIP1-delta	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN7, SIP3	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	GEMIN6	g-g	hsa03013	binding/association
+DDX20, DP103, GEMIN3	pp	STRAP, MAWD, PT-WD, UNRIP	g-g	hsa03013	binding/association
+NUP214, CAIN, CAN	pp	NUP88	g-g	hsa03013	binding/association
+UBE2I, C358B71, P18, UBC9	pp	SUMO4, IDDM5, SMT3H4, SUMO-4, dJ281H84	g-g	hsa03013	binding/association
+UBE2I, C358B71, P18, UBC9	pp	SUMO3	g-g	hsa03013	binding/association
+UBE2I, C358B71, P18, UBC9	pp	SUMO2	g-g	hsa03013	binding/association
+UBE2I, C358B71, P18, UBC9	pp	SUMO1	g-g	hsa03013	binding/association
+UBE2I, C358B71, P18, UBC9	pp	RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	g-g	hsa03013	binding/association
+SUMO4, IDDM5, SMT3H4, SUMO-4, dJ281H84	pp	RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	g-g	hsa03013	binding/association
+SUMO3	pp	RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	g-g	hsa03013	binding/association
+SUMO2	pp	RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	g-g	hsa03013	binding/association
+SUMO1	pp	RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	g-g	hsa03013	binding/association
+RANBP2, ADANE, ANE1, IIAE3, NUP358, TRP1, TRP2	pp	RANGAP1, Fug1, RANGAP, SD	g-g	hsa03013	binding/association
+NUP62, IBSN, SNDI, p62	pp	NUP58, NUP45, NUPL1, PRO2463	g-g	hsa03013	binding/association
+NUP62, IBSN, SNDI, p62	pp	NUP54	g-g	hsa03013	binding/association
+NUP93, NIC96	pp	NUP205, C7orf14, NPHS13	g-g	hsa03013	binding/association
+NUP93, NIC96	pp	NUP188, KIAA0169, hNup188	g-g	hsa03013	binding/association
+NUP155, ATFB15, N155	pp	NUP35, MP-44, MP44, NP44, NUP53	g-g	hsa03013	binding/association
+NUP153, HNUP153, N153	pp	SENP2, AXAM2, SMT3IP2	g-g	hsa03013	binding/association
+NUP98, ADIR2, NUP196, NUP96	pp	RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP160	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP85, FROUNT, Nup75	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP43, bA350J201, p42	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP133, hNUP133	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP98, ADIR2, NUP196, NUP96	g-g	hsa03013	binding/association
+NUP37, p37	pp	NUP107, NPHS11, NUP84, ODG6	g-g	hsa03013	binding/association
+SEC13, D3S1231E, SEC13L1, SEC13R, npp-20	pp	NUP133, hNUP133	g-g	hsa03013	binding/association
+SEH1L, SEC13L, SEH1A, SEH1B, Seh1	pp	NUP107, NPHS11, NUP84, ODG6	g-g	hsa03013	binding/association
+SEH1L, SEC13L, SEH1A, SEH1B, Seh1	pp	NUP98, ADIR2, NUP196, NUP96	g-g	hsa03013	binding/association
+SEC13, D3S1231E, SEC13L1, SEC13R, npp-20	pp	NUP98, ADIR2, NUP196, NUP96	g-g	hsa03013	binding/association
+ALYREF, ALY, ALY/REF, BEF, REF, THOC4	pp	DDX39B, BAT1, D6S81E, UAP56	g-g	hsa03013	binding/association
+ALYREF, ALY, ALY/REF, BEF, REF, THOC4	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+PYM1, PYM, WIBG	pp	RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1	g-g	hsa03013	binding/association
+EIF2B1, EIF2B, EIF2BA	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	activation
+EIF2B1, EIF2B, EIF2BA	pp	EIF2S3	g-g	hsa03013	activation
+EIF2B1, EIF2B, EIF2BA	pp	EIF2S2	g-g	hsa03013	activation
+EIF2B4	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	activation
+EIF2B3	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	activation
+EIF2B2	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	activation
+EIF2B5	pp	EIF2S1, EIF-2, EIF-2A, EIF-2alpha, EIF2, EIF2A	g-g	hsa03013	activation
+EIF2B4	pp	EIF2S3	g-g	hsa03013	activation
+EIF2B4	pp	EIF2S2	g-g	hsa03013	activation
+EIF2B3	pp	EIF2S3	g-g	hsa03013	activation
+EIF2B3	pp	EIF2S2	g-g	hsa03013	activation
+EIF2B2	pp	EIF2S3	g-g	hsa03013	activation
+EIF2B2	pp	EIF2S2	g-g	hsa03013	activation
+EIF2B5	pp	EIF2S3	g-g	hsa03013	activation
+EIF2B5	pp	EIF2S2	g-g	hsa03013	activation
+EIF4B, EIF-4B, PRO1843	pp	EIF4A1, DDX2A, EIF-4A, EIF4A, eIF-4A-I, eIF4A-I	g-g	hsa03013	activation
+EIF4B, EIF-4B, PRO1843	pp	EIF4A2	g-g	hsa03013	activation
+PAIP1	pp	EIF4A1, DDX2A, EIF-4A, EIF4A, eIF-4A-I, eIF4A-I	g-g	hsa03013	binding/association
+PAIP1	pp	EIF4A2	g-g	hsa03013	binding/association
+UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	pp	MAGOH, MAGOH1, MAGOHA	g-g	hsa03013	binding/association
+UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	pp	MAGOHB	g-g	hsa03013	binding/association
+UPF3A	pp	MAGOH, MAGOH1, MAGOHA	g-g	hsa03013	binding/association
+UPF3A	pp	MAGOHB	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+NXF5	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+NXF3	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+NXF2	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+NXF2B	pp	THOC5, C22orf19, Fmip, PK13, fSAP79	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+NXF5	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+NXF3	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+NXF2	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+NXF2B	pp	ALYREF, ALY, ALY/REF, BEF, REF, THOC4	g-g	hsa03013	binding/association
+RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	pp	NXF1, MEX67, TAP	g-g	hsa03013	binding/association
+RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	pp	NXF5	g-g	hsa03013	binding/association
+RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	pp	NXF3	g-g	hsa03013	binding/association
+RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	pp	NXF2	g-g	hsa03013	binding/association
+RAE1, MIG14, MRNP41, Mnrp41, dJ481F123, dJ800J211	pp	NXF2B	g-g	hsa03013	binding/association
+EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	pp	NXF1, MEX67, TAP	g-g	hsa03013	binding/association
+EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	pp	NXF5	g-g	hsa03013	binding/association
+EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	pp	NXF3	g-g	hsa03013	binding/association
+EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	pp	NXF2	g-g	hsa03013	binding/association
+EIF4A3, DDX48, Fal1, MUK34, NMP265, NUK34, RCPS, eIF-4A-III, eIF4A-III, eIF4AIII	pp	NXF2B	g-g	hsa03013	binding/association
+NUPL2, CG1, NLP-1, NLP_1, hCG1	pp	NXF1, MEX67, TAP	g-g	hsa03013	binding/association
+NUPL2, CG1, NLP-1, NLP_1, hCG1	pp	NXF5	g-g	hsa03013	binding/association
+NUPL2, CG1, NLP-1, NLP_1, hCG1	pp	NXF3	g-g	hsa03013	binding/association
+NUPL2, CG1, NLP-1, NLP_1, hCG1	pp	NXF2	g-g	hsa03013	binding/association
+NUPL2, CG1, NLP-1, NLP_1, hCG1	pp	NXF2B	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+NXF1, MEX67, TAP	pp	UPF3A	g-g	hsa03013	binding/association
+NXF5	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+NXF3	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+NXF2	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+NXF2B	pp	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-g	hsa03013	binding/association
+NXF5	pp	UPF3A	g-g	hsa03013	binding/association
+NXF3	pp	UPF3A	g-g	hsa03013	binding/association
+NXF2	pp	UPF3A	g-g	hsa03013	binding/association
+NXF2B	pp	UPF3A	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUPL2, CG1, NLP-1, NLP_1, hCG1	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUP88	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUP214, CAIN, CAN	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUPL2, CG1, NLP-1, NLP_1, hCG1	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUP214, CAIN, CAN	g-g	hsa03013	binding/association
+XPO1, CRM1, emb, exp1	pp	NUP88	g-g	hsa03013	binding/association
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	FMR1, FMRP, FRAXA, POF, POF1	g-g	hsa03013	binding/association
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	FXR1	g-g	hsa03013	binding/association
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	FXR2	g-g	hsa03013	binding/association
+CYFIP2	pp	FMR1, FMRP, FRAXA, POF, POF1	g-g	hsa03013	binding/association
+CYFIP2	pp	FXR1	g-g	hsa03013	binding/association
+CYFIP2	pp	FXR2	g-g	hsa03013	binding/association
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa03013	inhibition
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	EIF4E1B	g-g	hsa03013	inhibition
+CYFIP1, P140SRA-1, SHYC, SRA-1, SRA1	pp	EIF4E2	g-g	hsa03013	inhibition
+CYFIP2	pp	EIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E	g-g	hsa03013	inhibition
+CYFIP2	pp	EIF4E1B	g-g	hsa03013	inhibition
+CYFIP2	pp	EIF4E2	g-g	hsa03013	inhibition
+CLNS1A, CLCI, CLNS1B, ICln				hsa03013	
+TGS1, NCOA6IP, PIMT, PIPMT				hsa03013	
+SRRM1, 160-KD, POP101, SRM160				hsa03013	
+TPR				hsa03013	
+NUP50, NPAP60, NPAP60L				hsa03013	
+NUP210, GP210, POM210				hsa03013	
+NUP210L				hsa03013	
+POM121C, POM121-2				hsa03013	
+POM121L2				hsa03013	
+POM121				hsa03013	
+NDC1, NET3, TMEM48				hsa03013	
+AAAS, AAA, AAASb, ADRACALA, ADRACALIN, ALADIN, GL003				hsa03013	
+PRMT5, HRMT1L5, IBP72, JBP1, SKB1, SKB1Hs				hsa03013	
+TRNT1, CCA1, CGI-47, MtCCA, RPEM, SIFD				hsa03013	
+POP7, 0610037N12Rik, RPP2, RPP20				hsa03013	
+RPP30				hsa03013	
+RPP38				hsa03013	
+POP4				hsa03013	
+RPP40				hsa03013	
+POP1				hsa03013	
+RPP14				hsa03013	
+RPP25L				hsa03013	
+POP5				hsa03013	
+RPP25				hsa03013	
+RPP21				hsa03013	
+ELAC1, D29				hsa03013	
+ELAC2				hsa03013	
+THOC3, THO3, hTREX45				hsa03013	
+EIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I				hsa03013	
+EIF4EBP2				hsa03013	
+EIF4EBP3				hsa03013	
+TACC3, ERIC-1, ERIC1				hsa03013	
+C01647				hsa03013	
+C00044				hsa03013	
+C00035				hsa03013	
+C01647				hsa03013	
+C00044				hsa03013	
+EIF5B, IF2				hsa03013	
+RNU6-1, RNU6, RNU6A, U6, U6-1				hsa03013	
+SNORD3B-1, RNU3A1, U3a, U3b1, U3b2				hsa03013	
+SNORD3A				hsa03013	
+SNORD3B-2				hsa03013	
+SNORD3C				hsa03013	

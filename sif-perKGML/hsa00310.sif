@@ -1,0 +1,571 @@
+AASS, LKR/SDH, LKRSDH, LORSDH	ec	AASS, LKR/SDH, LKRSDH, LORSDH	g-g	hsa00310	compound
+AASS, LKR/SDH, LKRSDH, LORSDH	ec	ALDH7A1, ATQ1, EPD, PDE	g-g	hsa00310	compound
+ALDH7A1, ATQ1, EPD, PDE	ec	AADAT, KAT2, KATII, KYAT2	g-g	hsa00310	compound
+AADAT, KAT2, KATII, KYAT2	ec	OGDH, AKGDH, E1k, OGDC	g-g	hsa00310	compound
+OGDH, AKGDH, E1k, OGDC	ec	DLST, DLTS	g-g	hsa00310	compound
+OGDH, AKGDH, E1k, OGDC	ec	DLD	g-g	hsa00310	compound
+OGDH, AKGDH, E1k, OGDC	ec	DHTKD1	g-g	hsa00310	compound
+GCDH, ACAD5, GCD	ec	DLST, DLTS	g-g	hsa00310	compound
+GCDH, ACAD5, GCD	ec	DLD	g-g	hsa00310	compound
+GCDH, ACAD5, GCD	ec	DHTKD1	g-g	hsa00310	compound
+ECHS1, ECHS1D, SCEH	ec	GCDH, ACAD5, GCD	g-g	hsa00310	compound
+EHHADH	ec	GCDH, ACAD5, GCD	g-g	hsa00310	compound
+HADHA	ec	GCDH, ACAD5, GCD	g-g	hsa00310	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00310	compound
+ECHS1, ECHS1D, SCEH	ec	ECHS1	g-g	hsa00310	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA	g-g	hsa00310	compound
+EHHADH	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00310	compound
+HADHA	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00310	compound
+EHHADH	ec	ECHS1	g-g	hsa00310	compound
+EHHADH	ec	HADHA	g-g	hsa00310	compound
+HADHA	ec	ECHS1	g-g	hsa00310	compound
+HADHA	ec	HADHA	g-g	hsa00310	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00310	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ACAT2	g-g	hsa00310	compound
+ECHS1	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00310	compound
+HADHA	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00310	compound
+ECHS1	ec	ACAT2	g-g	hsa00310	compound
+HADHA	ec	ACAT2	g-g	hsa00310	compound
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	ec	PLOD2	g-g	hsa00310	compound
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	ec	PLOD3	g-g	hsa00310	compound
+PRDM7	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+EZH1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+EZH2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETD1B	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETD2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT5A	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT2A	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT5B	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+NSD3	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+ASH1L	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT2E	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+PRDM9	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT2C	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETMAR	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+NSD1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SUV39H1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+NSD2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+PRDM2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SUV39H2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+EHMT1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT2D	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETD7	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETDB2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETD3	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+DOT1L	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT5C	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+PRDM6	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETD1A	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+KMT2B	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+SETDB1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+PRDM7	ec	PLOD2	g-g	hsa00310	compound
+PRDM7	ec	PLOD3	g-g	hsa00310	compound
+EZH1	ec	PLOD2	g-g	hsa00310	compound
+EZH1	ec	PLOD3	g-g	hsa00310	compound
+EZH2	ec	PLOD2	g-g	hsa00310	compound
+EZH2	ec	PLOD3	g-g	hsa00310	compound
+SETD1B	ec	PLOD2	g-g	hsa00310	compound
+SETD1B	ec	PLOD3	g-g	hsa00310	compound
+SETD2	ec	PLOD2	g-g	hsa00310	compound
+SETD2	ec	PLOD3	g-g	hsa00310	compound
+KMT5A	ec	PLOD2	g-g	hsa00310	compound
+KMT5A	ec	PLOD3	g-g	hsa00310	compound
+KMT2A	ec	PLOD2	g-g	hsa00310	compound
+KMT2A	ec	PLOD3	g-g	hsa00310	compound
+KMT5B	ec	PLOD2	g-g	hsa00310	compound
+KMT5B	ec	PLOD3	g-g	hsa00310	compound
+NSD3	ec	PLOD2	g-g	hsa00310	compound
+NSD3	ec	PLOD3	g-g	hsa00310	compound
+ASH1L	ec	PLOD2	g-g	hsa00310	compound
+ASH1L	ec	PLOD3	g-g	hsa00310	compound
+KMT2E	ec	PLOD2	g-g	hsa00310	compound
+KMT2E	ec	PLOD3	g-g	hsa00310	compound
+PRDM9	ec	PLOD2	g-g	hsa00310	compound
+PRDM9	ec	PLOD3	g-g	hsa00310	compound
+KMT2C	ec	PLOD2	g-g	hsa00310	compound
+KMT2C	ec	PLOD3	g-g	hsa00310	compound
+SETMAR	ec	PLOD2	g-g	hsa00310	compound
+SETMAR	ec	PLOD3	g-g	hsa00310	compound
+NSD1	ec	PLOD2	g-g	hsa00310	compound
+NSD1	ec	PLOD3	g-g	hsa00310	compound
+SUV39H1	ec	PLOD2	g-g	hsa00310	compound
+SUV39H1	ec	PLOD3	g-g	hsa00310	compound
+NSD2	ec	PLOD2	g-g	hsa00310	compound
+NSD2	ec	PLOD3	g-g	hsa00310	compound
+PRDM2	ec	PLOD2	g-g	hsa00310	compound
+PRDM2	ec	PLOD3	g-g	hsa00310	compound
+SUV39H2	ec	PLOD2	g-g	hsa00310	compound
+SUV39H2	ec	PLOD3	g-g	hsa00310	compound
+EHMT1	ec	PLOD2	g-g	hsa00310	compound
+EHMT1	ec	PLOD3	g-g	hsa00310	compound
+KMT2D	ec	PLOD2	g-g	hsa00310	compound
+KMT2D	ec	PLOD3	g-g	hsa00310	compound
+SETD7	ec	PLOD2	g-g	hsa00310	compound
+SETD7	ec	PLOD3	g-g	hsa00310	compound
+SETDB2	ec	PLOD2	g-g	hsa00310	compound
+SETDB2	ec	PLOD3	g-g	hsa00310	compound
+SETD3	ec	PLOD2	g-g	hsa00310	compound
+SETD3	ec	PLOD3	g-g	hsa00310	compound
+DOT1L	ec	PLOD2	g-g	hsa00310	compound
+DOT1L	ec	PLOD3	g-g	hsa00310	compound
+KMT5C	ec	PLOD2	g-g	hsa00310	compound
+KMT5C	ec	PLOD3	g-g	hsa00310	compound
+PRDM6	ec	PLOD2	g-g	hsa00310	compound
+PRDM6	ec	PLOD3	g-g	hsa00310	compound
+SETD1A	ec	PLOD2	g-g	hsa00310	compound
+SETD1A	ec	PLOD3	g-g	hsa00310	compound
+KMT2B	ec	PLOD2	g-g	hsa00310	compound
+KMT2B	ec	PLOD3	g-g	hsa00310	compound
+SETDB1	ec	PLOD2	g-g	hsa00310	compound
+SETDB1	ec	PLOD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PLOD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PLOD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	ASH1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2E	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM9	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETMAR	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2D	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	DOT1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM6	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	ASH1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2E	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM9	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETMAR	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2D	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	DOT1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM6	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB1	g-g	hsa00310	compound
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+PRDM7	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+EZH1	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+EZH2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETD1B	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETD2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT5A	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT2A	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT5B	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+NSD3	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+ASH1L	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT2E	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+PRDM9	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT2C	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETMAR	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+NSD1	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SUV39H1	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+NSD2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+PRDM2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SUV39H2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+EHMT1	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT2D	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETD7	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETDB2	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETD3	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+DOT1L	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT5C	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+PRDM6	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETD1A	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+KMT2B	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+SETDB1	ec	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EZH2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	ASH1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2E	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM9	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETMAR	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	NSD2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SUV39H2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	EHMT1	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2D	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD7	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB2	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD3	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	DOT1L	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT5C	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	PRDM6	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETD1A	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	KMT2B	g-g	hsa00310	compound
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	ec	SETDB1	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH1B1	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH9A1	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH3A2	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH7A1	g-g	hsa00310	compound
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	ec	ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABADH	g-g	hsa00310	compound
+COLGALT2, C1orf17, ColGalT_2, GLT25D2	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+COLGALT2, C1orf17, ColGalT_2, GLT25D2	ec	PLOD2	g-g	hsa00310	compound
+COLGALT2, C1orf17, ColGalT_2, GLT25D2	ec	PLOD3	g-g	hsa00310	compound
+COLGALT1	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+PLOD3	ec	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	g-g	hsa00310	compound
+COLGALT1	ec	PLOD2	g-g	hsa00310	compound
+COLGALT1	ec	PLOD3	g-g	hsa00310	compound
+PLOD3	ec	PLOD2	g-g	hsa00310	compound
+PLOD3	ec	PLOD3	g-g	hsa00310	compound
+HYKK, AGPHD1	ec	PHYKPL, AGXT2L2, PHLU	g-g	hsa00310	compound
+PHYKPL, AGXT2L2, PHLU	ec	AASS, LKR/SDH, LKRSDH, LORSDH	g-g	hsa00310	compound
+PHYKPL, AGXT2L2, PHLU	ec	ALDH7A1, ATQ1, EPD, PDE	g-g	hsa00310	compound
+C00047	rt	AASS, LKR/SDH, LKRSDH, LORSDH	irreversible	hsa00310	se
+AASS, LKR/SDH, LKRSDH, LORSDH	rt	C00449	irreversible	hsa00310	ep
+C01181	rt	BBOX1, BBH, BBOX, G-BBH, gamma-BBH	irreversible	hsa00310	se
+BBOX1, BBH, BBOX, G-BBH, gamma-BBH	rt	C00487	irreversible	hsa00310	ep
+C01149	rt	ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABADH	irreversible	hsa00310	se
+ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABADH	rt	C01181	irreversible	hsa00310	ep
+C03793	rt	TMLHE, AUTSX6, BBOX2, TMLD, TMLH, TMLHED, XAP130	irreversible	hsa00310	se
+TMLHE, AUTSX6, BBOX2, TMLD, TMLH, TMLHED, XAP130	rt	C01259	irreversible	hsa00310	ep
+C05544	rt	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	irreversible	hsa00310	se
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	rt	C05545	irreversible	hsa00310	ep
+C02188	rt	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	irreversible	hsa00310	se
+C02188	rt	PRDM7	irreversible	hsa00310	se
+C02188	rt	EZH1	irreversible	hsa00310	se
+C02188	rt	EZH2	irreversible	hsa00310	se
+C02188	rt	SETD1B	irreversible	hsa00310	se
+C02188	rt	SETD2	irreversible	hsa00310	se
+C02188	rt	KMT5A	irreversible	hsa00310	se
+C02188	rt	KMT2A	irreversible	hsa00310	se
+C02188	rt	KMT5B	irreversible	hsa00310	se
+C02188	rt	NSD3	irreversible	hsa00310	se
+C02188	rt	ASH1L	irreversible	hsa00310	se
+C02188	rt	KMT2E	irreversible	hsa00310	se
+C02188	rt	PRDM9	irreversible	hsa00310	se
+C02188	rt	KMT2C	irreversible	hsa00310	se
+C02188	rt	SETMAR	irreversible	hsa00310	se
+C02188	rt	NSD1	irreversible	hsa00310	se
+C02188	rt	SUV39H1	irreversible	hsa00310	se
+C02188	rt	NSD2	irreversible	hsa00310	se
+C02188	rt	PRDM2	irreversible	hsa00310	se
+C02188	rt	SUV39H2	irreversible	hsa00310	se
+C02188	rt	EHMT1	irreversible	hsa00310	se
+C02188	rt	KMT2D	irreversible	hsa00310	se
+C02188	rt	SETD7	irreversible	hsa00310	se
+C02188	rt	SETDB2	irreversible	hsa00310	se
+C02188	rt	SETD3	irreversible	hsa00310	se
+C02188	rt	DOT1L	irreversible	hsa00310	se
+C02188	rt	KMT5C	irreversible	hsa00310	se
+C02188	rt	PRDM6	irreversible	hsa00310	se
+C02188	rt	SETD1A	irreversible	hsa00310	se
+C02188	rt	KMT2B	irreversible	hsa00310	se
+C02188	rt	SETDB1	irreversible	hsa00310	se
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	rt	C05544	irreversible	hsa00310	ep
+PRDM7	rt	C05544	irreversible	hsa00310	ep
+EZH1	rt	C05544	irreversible	hsa00310	ep
+EZH2	rt	C05544	irreversible	hsa00310	ep
+SETD1B	rt	C05544	irreversible	hsa00310	ep
+SETD2	rt	C05544	irreversible	hsa00310	ep
+KMT5A	rt	C05544	irreversible	hsa00310	ep
+KMT2A	rt	C05544	irreversible	hsa00310	ep
+KMT5B	rt	C05544	irreversible	hsa00310	ep
+NSD3	rt	C05544	irreversible	hsa00310	ep
+ASH1L	rt	C05544	irreversible	hsa00310	ep
+KMT2E	rt	C05544	irreversible	hsa00310	ep
+PRDM9	rt	C05544	irreversible	hsa00310	ep
+KMT2C	rt	C05544	irreversible	hsa00310	ep
+SETMAR	rt	C05544	irreversible	hsa00310	ep
+NSD1	rt	C05544	irreversible	hsa00310	ep
+SUV39H1	rt	C05544	irreversible	hsa00310	ep
+NSD2	rt	C05544	irreversible	hsa00310	ep
+PRDM2	rt	C05544	irreversible	hsa00310	ep
+SUV39H2	rt	C05544	irreversible	hsa00310	ep
+EHMT1	rt	C05544	irreversible	hsa00310	ep
+KMT2D	rt	C05544	irreversible	hsa00310	ep
+SETD7	rt	C05544	irreversible	hsa00310	ep
+SETDB2	rt	C05544	irreversible	hsa00310	ep
+SETD3	rt	C05544	irreversible	hsa00310	ep
+DOT1L	rt	C05544	irreversible	hsa00310	ep
+KMT5C	rt	C05544	irreversible	hsa00310	ep
+PRDM6	rt	C05544	irreversible	hsa00310	ep
+SETD1A	rt	C05544	irreversible	hsa00310	ep
+KMT2B	rt	C05544	irreversible	hsa00310	ep
+SETDB1	rt	C05544	irreversible	hsa00310	ep
+C01211	rt	COLGALT2, C1orf17, ColGalT_2, GLT25D2	irreversible	hsa00310	se
+C01211	rt	COLGALT1	irreversible	hsa00310	se
+C01211	rt	PLOD3	irreversible	hsa00310	se
+COLGALT2, C1orf17, ColGalT_2, GLT25D2	rt	C04487	irreversible	hsa00310	ep
+COLGALT1	rt	C04487	irreversible	hsa00310	ep
+PLOD3	rt	C04487	irreversible	hsa00310	ep
+C02188	rt	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	irreversible	hsa00310	se
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	rt	C05544	irreversible	hsa00310	ep
+C05544	rt	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	irreversible	hsa00310	se
+C05544	rt	PRDM7	irreversible	hsa00310	se
+C05544	rt	EZH1	irreversible	hsa00310	se
+C05544	rt	EZH2	irreversible	hsa00310	se
+C05544	rt	SETD1B	irreversible	hsa00310	se
+C05544	rt	SETD2	irreversible	hsa00310	se
+C05544	rt	KMT5A	irreversible	hsa00310	se
+C05544	rt	KMT2A	irreversible	hsa00310	se
+C05544	rt	KMT5B	irreversible	hsa00310	se
+C05544	rt	NSD3	irreversible	hsa00310	se
+C05544	rt	ASH1L	irreversible	hsa00310	se
+C05544	rt	KMT2E	irreversible	hsa00310	se
+C05544	rt	PRDM9	irreversible	hsa00310	se
+C05544	rt	KMT2C	irreversible	hsa00310	se
+C05544	rt	SETMAR	irreversible	hsa00310	se
+C05544	rt	NSD1	irreversible	hsa00310	se
+C05544	rt	SUV39H1	irreversible	hsa00310	se
+C05544	rt	NSD2	irreversible	hsa00310	se
+C05544	rt	PRDM2	irreversible	hsa00310	se
+C05544	rt	SUV39H2	irreversible	hsa00310	se
+C05544	rt	EHMT1	irreversible	hsa00310	se
+C05544	rt	KMT2D	irreversible	hsa00310	se
+C05544	rt	SETD7	irreversible	hsa00310	se
+C05544	rt	SETDB2	irreversible	hsa00310	se
+C05544	rt	SETD3	irreversible	hsa00310	se
+C05544	rt	DOT1L	irreversible	hsa00310	se
+C05544	rt	KMT5C	irreversible	hsa00310	se
+C05544	rt	PRDM6	irreversible	hsa00310	se
+C05544	rt	SETD1A	irreversible	hsa00310	se
+C05544	rt	KMT2B	irreversible	hsa00310	se
+C05544	rt	SETDB1	irreversible	hsa00310	se
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	rt	C05545	irreversible	hsa00310	ep
+PRDM7	rt	C05545	irreversible	hsa00310	ep
+EZH1	rt	C05545	irreversible	hsa00310	ep
+EZH2	rt	C05545	irreversible	hsa00310	ep
+SETD1B	rt	C05545	irreversible	hsa00310	ep
+SETD2	rt	C05545	irreversible	hsa00310	ep
+KMT5A	rt	C05545	irreversible	hsa00310	ep
+KMT2A	rt	C05545	irreversible	hsa00310	ep
+KMT5B	rt	C05545	irreversible	hsa00310	ep
+NSD3	rt	C05545	irreversible	hsa00310	ep
+ASH1L	rt	C05545	irreversible	hsa00310	ep
+KMT2E	rt	C05545	irreversible	hsa00310	ep
+PRDM9	rt	C05545	irreversible	hsa00310	ep
+KMT2C	rt	C05545	irreversible	hsa00310	ep
+SETMAR	rt	C05545	irreversible	hsa00310	ep
+NSD1	rt	C05545	irreversible	hsa00310	ep
+SUV39H1	rt	C05545	irreversible	hsa00310	ep
+NSD2	rt	C05545	irreversible	hsa00310	ep
+PRDM2	rt	C05545	irreversible	hsa00310	ep
+SUV39H2	rt	C05545	irreversible	hsa00310	ep
+EHMT1	rt	C05545	irreversible	hsa00310	ep
+KMT2D	rt	C05545	irreversible	hsa00310	ep
+SETD7	rt	C05545	irreversible	hsa00310	ep
+SETDB2	rt	C05545	irreversible	hsa00310	ep
+SETD3	rt	C05545	irreversible	hsa00310	ep
+DOT1L	rt	C05545	irreversible	hsa00310	ep
+KMT5C	rt	C05545	irreversible	hsa00310	ep
+PRDM6	rt	C05545	irreversible	hsa00310	ep
+SETD1A	rt	C05545	irreversible	hsa00310	ep
+KMT2B	rt	C05545	irreversible	hsa00310	ep
+SETDB1	rt	C05545	irreversible	hsa00310	ep
+C02188	rt	PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	irreversible	hsa00310	se
+C02188	rt	PLOD2	irreversible	hsa00310	se
+C02188	rt	PLOD3	irreversible	hsa00310	se
+PLOD1, EDS6, EDSKCL1, LH, LH1, LLH, PLOD	rt	C01211	irreversible	hsa00310	ep
+PLOD2	rt	C01211	irreversible	hsa00310	ep
+PLOD3	rt	C01211	irreversible	hsa00310	ep
+C05545	rt	CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	irreversible	hsa00310	se
+CAMKMT, C2orf34, CLNMT, CaM_KMT, Cam, KMT	rt	C05546	irreversible	hsa00310	ep
+C05545	rt	EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	irreversible	hsa00310	se
+C05545	rt	PRDM7	irreversible	hsa00310	se
+C05545	rt	EZH1	irreversible	hsa00310	se
+C05545	rt	EZH2	irreversible	hsa00310	se
+C05545	rt	SETD1B	irreversible	hsa00310	se
+C05545	rt	SETD2	irreversible	hsa00310	se
+C05545	rt	KMT5A	irreversible	hsa00310	se
+C05545	rt	KMT2A	irreversible	hsa00310	se
+C05545	rt	KMT5B	irreversible	hsa00310	se
+C05545	rt	NSD3	irreversible	hsa00310	se
+C05545	rt	ASH1L	irreversible	hsa00310	se
+C05545	rt	KMT2E	irreversible	hsa00310	se
+C05545	rt	PRDM9	irreversible	hsa00310	se
+C05545	rt	KMT2C	irreversible	hsa00310	se
+C05545	rt	SETMAR	irreversible	hsa00310	se
+C05545	rt	NSD1	irreversible	hsa00310	se
+C05545	rt	SUV39H1	irreversible	hsa00310	se
+C05545	rt	NSD2	irreversible	hsa00310	se
+C05545	rt	PRDM2	irreversible	hsa00310	se
+C05545	rt	SUV39H2	irreversible	hsa00310	se
+C05545	rt	EHMT1	irreversible	hsa00310	se
+C05545	rt	KMT2D	irreversible	hsa00310	se
+C05545	rt	SETD7	irreversible	hsa00310	se
+C05545	rt	SETDB2	irreversible	hsa00310	se
+C05545	rt	SETD3	irreversible	hsa00310	se
+C05545	rt	DOT1L	irreversible	hsa00310	se
+C05545	rt	KMT5C	irreversible	hsa00310	se
+C05545	rt	PRDM6	irreversible	hsa00310	se
+C05545	rt	SETD1A	irreversible	hsa00310	se
+C05545	rt	KMT2B	irreversible	hsa00310	se
+C05545	rt	SETDB1	irreversible	hsa00310	se
+EHMT2, BAT8, C6orf30, G9A, GAT8, KMT1C, NG36	rt	C05546	irreversible	hsa00310	ep
+PRDM7	rt	C05546	irreversible	hsa00310	ep
+EZH1	rt	C05546	irreversible	hsa00310	ep
+EZH2	rt	C05546	irreversible	hsa00310	ep
+SETD1B	rt	C05546	irreversible	hsa00310	ep
+SETD2	rt	C05546	irreversible	hsa00310	ep
+KMT5A	rt	C05546	irreversible	hsa00310	ep
+KMT2A	rt	C05546	irreversible	hsa00310	ep
+KMT5B	rt	C05546	irreversible	hsa00310	ep
+NSD3	rt	C05546	irreversible	hsa00310	ep
+ASH1L	rt	C05546	irreversible	hsa00310	ep
+KMT2E	rt	C05546	irreversible	hsa00310	ep
+PRDM9	rt	C05546	irreversible	hsa00310	ep
+KMT2C	rt	C05546	irreversible	hsa00310	ep
+SETMAR	rt	C05546	irreversible	hsa00310	ep
+NSD1	rt	C05546	irreversible	hsa00310	ep
+SUV39H1	rt	C05546	irreversible	hsa00310	ep
+NSD2	rt	C05546	irreversible	hsa00310	ep
+PRDM2	rt	C05546	irreversible	hsa00310	ep
+SUV39H2	rt	C05546	irreversible	hsa00310	ep
+EHMT1	rt	C05546	irreversible	hsa00310	ep
+KMT2D	rt	C05546	irreversible	hsa00310	ep
+SETD7	rt	C05546	irreversible	hsa00310	ep
+SETDB2	rt	C05546	irreversible	hsa00310	ep
+SETD3	rt	C05546	irreversible	hsa00310	ep
+DOT1L	rt	C05546	irreversible	hsa00310	ep
+KMT5C	rt	C05546	irreversible	hsa00310	ep
+PRDM6	rt	C05546	irreversible	hsa00310	ep
+SETD1A	rt	C05546	irreversible	hsa00310	ep
+KMT2B	rt	C05546	irreversible	hsa00310	ep
+SETDB1	rt	C05546	irreversible	hsa00310	ep
+C00877	rt	ECHS1, ECHS1D, SCEH	irreversible	hsa00310	se
+C00877	rt	EHHADH	irreversible	hsa00310	se
+C00877	rt	HADHA	irreversible	hsa00310	se
+ECHS1, ECHS1D, SCEH	rt	C01144	irreversible	hsa00310	ep
+EHHADH	rt	C01144	irreversible	hsa00310	ep
+HADHA	rt	C01144	irreversible	hsa00310	ep
+C01144	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00310	se
+C01144	rt	ECHS1	reversible	hsa00310	se
+C01144	rt	HADHA	reversible	hsa00310	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C01144	reversible	hsa00310	ep
+ECHS1	rt	C01144	reversible	hsa00310	ep
+HADHA	rt	C01144	reversible	hsa00310	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C00332	reversible	hsa00310	ep
+ECHS1	rt	C00332	reversible	hsa00310	ep
+HADHA	rt	C00332	reversible	hsa00310	ep
+C00332	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00310	se
+C00332	rt	ECHS1	reversible	hsa00310	se
+C00332	rt	HADHA	reversible	hsa00310	se
+C00449	rt	AASS, LKR/SDH, LKRSDH, LORSDH	reversible	hsa00310	se
+AASS, LKR/SDH, LKRSDH, LORSDH	rt	C00449	reversible	hsa00310	ep
+AASS, LKR/SDH, LKRSDH, LORSDH	rt	C04076	reversible	hsa00310	ep
+C04076	rt	AASS, LKR/SDH, LKRSDH, LORSDH	reversible	hsa00310	se
+C04076	rt	ALDH7A1, ATQ1, EPD, PDE	irreversible	hsa00310	se
+ALDH7A1, ATQ1, EPD, PDE	rt	C00956	irreversible	hsa00310	ep
+C00956	rt	AADAT, KAT2, KATII, KYAT2	reversible	hsa00310	se
+AADAT, KAT2, KATII, KYAT2	rt	C00956	reversible	hsa00310	ep
+AADAT, KAT2, KATII, KYAT2	rt	C00322	reversible	hsa00310	ep
+C00322	rt	AADAT, KAT2, KATII, KYAT2	reversible	hsa00310	se
+C00322	rt	OGDH, AKGDH, E1k, OGDC	irreversible	hsa00310	se
+OGDH, AKGDH, E1k, OGDC	rt	C06157	irreversible	hsa00310	ep
+C00332	rt	ACAT1, ACAT, MAT, T2, THIL	irreversible	hsa00310	se
+C00332	rt	ACAT2	irreversible	hsa00310	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	irreversible	hsa00310	ep
+ACAT2	rt	C00024	irreversible	hsa00310	ep
+C00527	rt	GCDH, ACAD5, GCD	irreversible	hsa00310	se
+GCDH, ACAD5, GCD	rt	C00877	irreversible	hsa00310	ep
+C01149	rt	ALDH2, ALDH-E2, ALDHI, ALDM	irreversible	hsa00310	se
+C01149	rt	ALDH1B1	irreversible	hsa00310	se
+C01149	rt	ALDH9A1	irreversible	hsa00310	se
+C01149	rt	ALDH3A2	irreversible	hsa00310	se
+C01149	rt	ALDH7A1	irreversible	hsa00310	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C01181	irreversible	hsa00310	ep
+ALDH1B1	rt	C01181	irreversible	hsa00310	ep
+ALDH9A1	rt	C01181	irreversible	hsa00310	ep
+ALDH3A2	rt	C01181	irreversible	hsa00310	ep
+ALDH7A1	rt	C01181	irreversible	hsa00310	ep
+C00408	rt	PIPOX, LPIPOX	irreversible	hsa00310	se
+PIPOX, LPIPOX	rt	C00450	irreversible	hsa00310	ep
+C06157	rt	DLST, DLTS	reversible	hsa00310	se
+C06157	rt	DLD	reversible	hsa00310	se
+C06157	rt	DHTKD1	reversible	hsa00310	se
+DLST, DLTS	rt	C06157	reversible	hsa00310	ep
+DLD	rt	C06157	reversible	hsa00310	ep
+DHTKD1	rt	C06157	reversible	hsa00310	ep
+DLST, DLTS	rt	C00527	reversible	hsa00310	ep
+DLD	rt	C00527	reversible	hsa00310	ep
+DHTKD1	rt	C00527	reversible	hsa00310	ep
+C00527	rt	DLST, DLTS	reversible	hsa00310	se
+C00527	rt	DLD	reversible	hsa00310	se
+C00527	rt	DHTKD1	reversible	hsa00310	se
+C03366	rt	PHYKPL, AGXT2L2, PHLU	irreversible	hsa00310	se
+PHYKPL, AGXT2L2, PHLU	rt	C04076	irreversible	hsa00310	ep
+C16741	rt	HYKK, AGPHD1	irreversible	hsa00310	se
+HYKK, AGPHD1	rt	C03366	irreversible	hsa00310	ep
+C05825				hsa00310	
+C05161				hsa00310	
+C00489				hsa00310	
+C03273				hsa00310	
+C04092				hsa00310	
+C03239				hsa00310	
+C00431				hsa00310	
+C01672				hsa00310	
+C05548				hsa00310	
+C02727				hsa00310	
+C00990				hsa00310	
+C03087				hsa00310	
+C01142				hsa00310	
+C01186				hsa00310	
+C03656				hsa00310	
+C00739				hsa00310	
+C00037				hsa00310	
+C04020				hsa00310	
+C01028				hsa00310	
+C03955				hsa00310	
+C05554				hsa00310	
+C20333				hsa00310	
+C05231				hsa00310	
+C00136				hsa00310	
+C00164				hsa00310	
+C03196				hsa00310	
+C00026				hsa00310	
+C00042				hsa00310	
+C12455				hsa00310	

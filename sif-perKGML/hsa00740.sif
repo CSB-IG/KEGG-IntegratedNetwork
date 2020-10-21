@@ -1,0 +1,48 @@
+RFK, RIFK	ec	FLAD1, FAD1, FADS, LSMFLAD, PP591	g-g	hsa00740	compound
+BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	ec	RFK, RIFK	g-g	hsa00740	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	g-g	hsa00740	compound
+ACP2	ec	BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	g-g	hsa00740	compound
+ACP5	ec	BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	g-g	hsa00740	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	FLAD1, FAD1, FADS, LSMFLAD, PP591	g-g	hsa00740	compound
+ACP2	ec	FLAD1, FAD1, FADS, LSMFLAD, PP591	g-g	hsa00740	compound
+ACP5	ec	FLAD1, FAD1, FADS, LSMFLAD, PP591	g-g	hsa00740	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00740	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	ENPP3	g-g	hsa00740	compound
+ACP2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00740	compound
+ACP5	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00740	compound
+ACP2	ec	ENPP3	g-g	hsa00740	compound
+ACP5	ec	ENPP3	g-g	hsa00740	compound
+RFK, RIFK	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00740	compound
+RFK, RIFK	ec	ENPP3	g-g	hsa00740	compound
+C00255	rt	RFK, RIFK	irreversible	hsa00740	se
+RFK, RIFK	rt	C00061	irreversible	hsa00740	ep
+C00061	rt	FLAD1, FAD1, FADS, LSMFLAD, PP591	irreversible	hsa00740	se
+FLAD1, FAD1, FADS, LSMFLAD, PP591	rt	C00016	irreversible	hsa00740	ep
+C00255	rt	BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	irreversible	hsa00740	se
+BLVRB, BVRB, FLR, HEL-S-10, SDR43U1	rt	C01007	irreversible	hsa00740	ep
+C00016	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00740	se
+C00016	rt	ENPP3	irreversible	hsa00740	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00061	irreversible	hsa00740	ep
+ENPP3	rt	C00061	irreversible	hsa00740	ep
+C00061	rt	ACP1, HAAP, LMW-PTP, LMWPTP	irreversible	hsa00740	se
+C00061	rt	ACP2	irreversible	hsa00740	se
+C00061	rt	ACP5	irreversible	hsa00740	se
+ACP1, HAAP, LMW-PTP, LMWPTP	rt	C00255	irreversible	hsa00740	ep
+ACP2	rt	C00255	irreversible	hsa00740	ep
+ACP5	rt	C00255	irreversible	hsa00740	ep
+C15556				hsa00740	
+C00199				hsa00740	
+C00044				hsa00740	
+C01304				hsa00740	
+C01268				hsa00740	
+C04454				hsa00740	
+C04332				hsa00740	
+C05995				hsa00740	
+C00474				hsa00740	
+C01727				hsa00740	
+C18910				hsa00740	
+C01847				hsa00740	
+C01352				hsa00740	
+C03114				hsa00740	
+C15563				hsa00740	
+C04732				hsa00740	

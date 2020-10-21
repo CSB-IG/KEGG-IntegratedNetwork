@@ -1,0 +1,209 @@
+CSTF1, CstF-50, CstFp50	gr	CSTF2, CstF-64	group	hsa03015	group
+CSTF1, CstF-50, CstFp50	gr	CSTF2T	group	hsa03015	group
+CSTF1, CstF-50, CstFp50	gr	CSTF3, CSTF-77	group	hsa03015	group
+CSTF2, CstF-64	gr	CSTF3, CSTF-77	group	hsa03015	group
+CSTF2T	gr	CSTF3, CSTF-77	group	hsa03015	group
+UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	gr	UPF2, HUPF2, RENT2, smg-3	group	hsa03015	group
+UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	gr	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	group	hsa03015	group
+UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	gr	UPF3A	group	hsa03015	group
+UPF2, HUPF2, RENT2, smg-3	gr	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	group	hsa03015	group
+UPF2, HUPF2, RENT2, smg-3	gr	UPF3A	group	hsa03015	group
+FIP1L1, FIP1, Rhe, hFip1	gr	CPSF3, CPSF-73, CPSF73	group	hsa03015	group
+FIP1L1, FIP1, Rhe, hFip1	gr	CPSF2, CPSF100	group	hsa03015	group
+FIP1L1, FIP1, Rhe, hFip1	gr	CPSF1, CPSF160, HSU37012, P/cl18	group	hsa03015	group
+FIP1L1, FIP1, Rhe, hFip1	gr	CPSF4, CPSF30, NAR, NEB-1, NEB1	group	hsa03015	group
+CPSF3, CPSF-73, CPSF73	gr	CPSF2, CPSF100	group	hsa03015	group
+CPSF3, CPSF-73, CPSF73	gr	CPSF1, CPSF160, HSU37012, P/cl18	group	hsa03015	group
+CPSF3, CPSF-73, CPSF73	gr	CPSF4, CPSF30, NAR, NEB-1, NEB1	group	hsa03015	group
+CPSF2, CPSF100	gr	CPSF1, CPSF160, HSU37012, P/cl18	group	hsa03015	group
+CPSF2, CPSF100	gr	CPSF4, CPSF30, NAR, NEB-1, NEB1	group	hsa03015	group
+CPSF1, CPSF160, HSU37012, P/cl18	gr	CPSF4, CPSF30, NAR, NEB-1, NEB1	group	hsa03015	group
+WDR33, NET14, WDC146	gr	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	group	hsa03015	group
+WDR33, NET14, WDC146	gr	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	group	hsa03015	group
+WDR33, NET14, WDC146	gr	PPP1CB	group	hsa03015	group
+WDR33, NET14, WDC146	gr	PPP1CC	group	hsa03015	group
+WDR33, NET14, WDC146	gr	SSU72, HSPC182, PNAS-120	group	hsa03015	group
+WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	group	hsa03015	group
+WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr	PPP1CB	group	hsa03015	group
+WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr	PPP1CC	group	hsa03015	group
+WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr	SSU72, HSPC182, PNAS-120	group	hsa03015	group
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr	SSU72, HSPC182, PNAS-120	group	hsa03015	group
+PPP1CB	gr	SSU72, HSPC182, PNAS-120	group	hsa03015	group
+PPP1CC	gr	SSU72, HSPC182, PNAS-120	group	hsa03015	group
+NCBP1, CBP80, NCBP, Sto1	pc	NCBP2, CBC2, CBP20, NIP1, PIG55	g-g	hsa03015	binding/association
+NXF1, MEX67, TAP	pc	NXT1, MTR2, P15	g-g	hsa03015	binding/association
+NXF1, MEX67, TAP	pc	NXT2	g-g	hsa03015	binding/association
+NXF5	pc	NXT1, MTR2, P15	g-g	hsa03015	binding/association
+NXF3	pc	NXT1, MTR2, P15	g-g	hsa03015	binding/association
+NXF2	pc	NXT1, MTR2, P15	g-g	hsa03015	binding/association
+NXF2B	pc	NXT1, MTR2, P15	g-g	hsa03015	binding/association
+NXF5	pc	NXT2	g-g	hsa03015	binding/association
+NXF3	pc	NXT2	g-g	hsa03015	binding/association
+NXF2	pc	NXT2	g-g	hsa03015	binding/association
+NXF2B	pc	NXT2	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC4L	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC5	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC1	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC1L2A	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC3	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC1L2B	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC1L	g-g	hsa03015	binding/association
+MSI2, MSI2H	pc	PABPC4	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC4L	g-g	hsa03015	binding/association
+MSI1	pc	PABPC4L	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC5	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC1	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC1L2A	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC3	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC1L2B	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC1L	g-g	hsa03015	binding/association
+DAZAP1	pc	PABPC4	g-g	hsa03015	binding/association
+MSI1	pc	PABPC5	g-g	hsa03015	binding/association
+MSI1	pc	PABPC1	g-g	hsa03015	binding/association
+MSI1	pc	PABPC1L2A	g-g	hsa03015	binding/association
+MSI1	pc	PABPC3	g-g	hsa03015	binding/association
+MSI1	pc	PABPC1L2B	g-g	hsa03015	binding/association
+MSI1	pc	PABPC1L	g-g	hsa03015	binding/association
+MSI1	pc	PABPC4	g-g	hsa03015	binding/association
+HBS1L, EF-1a, ERFS, HBS1, HSPC276, eRF3c	pc	PELO, CGI-17, PRO1770	g-g	hsa03015	binding/association
+NUDT21, CFIM25, CPSF5	pc	CPSF6, CFIM, CFIM68, HPBRII-4, HPBRII-7	g-g	hsa03015	binding/association
+NUDT21, CFIM25, CPSF5	pc	CPSF7	g-g	hsa03015	binding/association
+CLP1, HEAB, hClp1	pc	PCF11	g-g	hsa03015	binding/association
+SYMPK, SPK, SYM	pc	CSTF1, CstF-50, CstFp50	g-gr	hsa03015	binding/association
+SYMPK, SPK, SYM	pc	CSTF2, CstF-64	g-gr	hsa03015	binding/association
+SYMPK, SPK, SYM	pc	CSTF2T	g-gr	hsa03015	binding/association
+SYMPK, SPK, SYM	pc	CSTF3, CSTF-77	g-gr	hsa03015	binding/association
+ETF1, D5S1995, ERF, ERF1, RF1, SUP45L1, TB3-1	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-gr	hsa03015	binding/association
+ETF1, D5S1995, ERF, ERF1, RF1, SUP45L1, TB3-1	pc	UPF2, HUPF2, RENT2, smg-3	g-gr	hsa03015	binding/association
+ETF1, D5S1995, ERF, ERF1, RF1, SUP45L1, TB3-1	pc	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	g-gr	hsa03015	binding/association
+ETF1, D5S1995, ERF, ERF1, RF1, SUP45L1, TB3-1	pc	UPF3A	g-gr	hsa03015	binding/association
+NCBP1, CBP80, NCBP, Sto1	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC4L	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC5	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC1	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC1L2A	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC3	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC1L2B	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC1L	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	PABPC4	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC4L	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC5	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC1	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC1L2A	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC3	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC1L2B	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC1L	g-g	hsa03015	binding/association
+GSPT1	pc	PABPC4	g-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	gr-g	hsa03015	binding/association
+GSPT1	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	gr-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	UPF2, HUPF2, RENT2, smg-3	gr-g	hsa03015	binding/association
+GSPT1	pc	UPF2, HUPF2, RENT2, smg-3	gr-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	gr-g	hsa03015	binding/association
+GSPT2, ERF3B, GST2	pc	UPF3A	gr-g	hsa03015	binding/association
+GSPT1	pc	UPF3B, HUPF3B, MRX62, MRXS14, RENT3B, UPF3BP1, UPF3BP2, UPF3BP3, UPF3X, Upf3p-X	gr-g	hsa03015	binding/association
+GSPT1	pc	UPF3A	gr-g	hsa03015	binding/association
+SMG7, C1orf16, EST1C, SGA56M	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+SMG7, C1orf16, EST1C, SGA56M	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-g	hsa03015	binding/association
+SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-g	hsa03015	binding/association
+SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	pc	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R3B, NYREN8, PPP2R3L, PPP2R3LY, PR48	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R3C	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2CA	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2CB	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R1A	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R1B	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R2A	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R2B	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R2C	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R3A	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R5A	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R5B	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R5C	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R5D	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R5E	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	PPP2R2D	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pc	SMG7, C1orf16, EST1C, SGA56M	g-g	hsa03015	binding/association
+PPP2R3B, NYREN8, PPP2R3L, PPP2R3LY, PR48	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R3C	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2CA	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2CB	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R1A	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R1B	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R2A	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R2B	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R2C	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R3A	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R5A	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R5B	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R5C	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R5D	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R5E	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R2D	pc	SMG5, EST1B, LPTS-RP1, LPTSRP1, SMG-5	g-g	hsa03015	binding/association
+PPP2R3B, NYREN8, PPP2R3L, PPP2R3LY, PR48	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R3C	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2CA	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2CB	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R1A	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R1B	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R2A	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R2B	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R2C	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R3A	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R5A	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R5B	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R5C	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R5D	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R5E	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+PPP2R2D	pc	SMG6, C17orf31, EST1A, SMG-6, hSMG5/7a	g-g	hsa03015	binding/association
+SMG1, 61E34, ATX, LIP	pp	UPF1, HUPF1, NORF1, RENT1, pNORF1, smg-2	g-g	hsa03015	activation
+FIP1L1, FIP1, Rhe, hFip1	pp	WDR33, NET14, WDC146	gr-gr	hsa03015	binding/association
+FIP1L1, FIP1, Rhe, hFip1	pp	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr-gr	hsa03015	binding/association
+FIP1L1, FIP1, Rhe, hFip1	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr-gr	hsa03015	binding/association
+FIP1L1, FIP1, Rhe, hFip1	pp	PPP1CB	gr-gr	hsa03015	binding/association
+FIP1L1, FIP1, Rhe, hFip1	pp	PPP1CC	gr-gr	hsa03015	binding/association
+FIP1L1, FIP1, Rhe, hFip1	pp	SSU72, HSPC182, PNAS-120	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	WDR33, NET14, WDC146	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	PPP1CB	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	PPP1CC	gr-gr	hsa03015	binding/association
+CPSF3, CPSF-73, CPSF73	pp	SSU72, HSPC182, PNAS-120	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	WDR33, NET14, WDC146	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	PPP1CB	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	PPP1CC	gr-gr	hsa03015	binding/association
+CPSF2, CPSF100	pp	SSU72, HSPC182, PNAS-120	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	WDR33, NET14, WDC146	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	PPP1CB	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	PPP1CC	gr-gr	hsa03015	binding/association
+CPSF1, CPSF160, HSU37012, P/cl18	pp	SSU72, HSPC182, PNAS-120	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	WDR33, NET14, WDC146	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	WDR82, MST107, MSTP107, PRO2730, PRO34047, SWD2, TMEM113, WDR82A	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	PPP1CB	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	PPP1CC	gr-gr	hsa03015	binding/association
+CPSF4, CPSF30, NAR, NEB-1, NEB1	pp	SSU72, HSPC182, PNAS-120	gr-gr	hsa03015	binding/association
+RBM8A, BOV-1A, BOV-1B, BOV-1C, C1DELq211, DEL1q211, MDS014, RBM8, RBM8B, TAR, Y14, ZNRP, ZRNP1				hsa03015	
+MAGOH, MAGOH1, MAGOHA				hsa03015	
+MAGOHB				hsa03015	
+EIF4A3, DDX48, MUK34, NMP265, NUK34, RCPS, eIF4AIII				hsa03015	
+CASC3, BTZ, MLN51				hsa03015	
+ACIN1, ACINUS, ACN, fSAP152				hsa03015	
+RNPS1, E51				hsa03015	
+SAP18, 2HOR0202, SAP18P				hsa03015	
+SRRM1, 160-KD, POP101, SRM160				hsa03015	
+PNN, DRS, DRSP, SDK3, memA				hsa03015	
+ALYREF, ALY, ALY/REF, BEF, REF, THOC4				hsa03015	
+DDX39B, BAT1, D6S81E, UAP56				hsa03015	
+PYM1, PYM, WIBG				hsa03015	
+RNGTT, CAP1A, HCE, HCE1, hCAP				hsa03015	
+RNMT, CMT1, CMT1c, MET, RG7MT1, cm1p, hCMT1, hMet				hsa03015	
+PAPOLA, PAP				hsa03015	
+PAPOLB				hsa03015	
+PAPOLG				hsa03015	
+BCL2L2-PABPN1				hsa03015	
+PABPN1L				hsa03015	
+PABPN1				hsa03015	

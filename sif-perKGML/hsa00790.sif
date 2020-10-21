@@ -1,0 +1,234 @@
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	PTS, PTPS	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	ALPI, IAP	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	ALPL	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	ALPP	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	ALPPL2	g-g	hsa00790	compound
+ALPI, IAP	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPL	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPP	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPPL2	ec	PTS, PTPS	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	FPGS	g-g	hsa00790	compound
+DHFR2	ec	FPGS	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	FPGS	g-g	hsa00790	compound
+DHFR2	ec	FPGS	g-g	hsa00790	compound
+FPGS	ec	DHFR, DHFRP1, DYR	g-g	hsa00790	compound
+FPGS	ec	DHFR2	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	GGH, GH	g-g	hsa00790	compound
+DHFR2	ec	GGH, GH	g-g	hsa00790	compound
+FPGS	ec	DHFR, DHFRP1, DYR	g-g	hsa00790	compound
+FPGS	ec	DHFR2	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	GGH, GH	g-g	hsa00790	compound
+DHFR2	ec	GGH, GH	g-g	hsa00790	compound
+FPGS	ec	GGH, GH	g-g	hsa00790	compound
+FPGS	ec	GGH, GH	g-g	hsa00790	compound
+SPR, SDR38C1	ec	QDPR, DHPR, PKU2, SDR33C1	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	MOCS1, MIG11, MOCOD, MOCODA	g-g	hsa00790	compound
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	ec	PTS, PTPS	g-g	hsa00790	compound
+PTS, PTPS	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPI, IAP	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPL	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPP	ec	PTS, PTPS	g-g	hsa00790	compound
+ALPPL2	ec	PTS, PTPS	g-g	hsa00790	compound
+MOCS1, MIG11, MOCOD, MOCODA	ec	MOCS1, MIG11, MOCOD, MOCODA	g-g	hsa00790	compound
+MOCS1, MIG11, MOCOD, MOCODA	ec	MOCS2, MCBPE, MOCO1, MOCODB, MPTS	g-g	hsa00790	compound
+MOCS2, MCBPE, MOCO1, MOCODB, MPTS	ec	GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	g-g	hsa00790	compound
+GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	ec	GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	g-g	hsa00790	compound
+GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	ec	MOCOS, HMCS, MCS, MOS	g-g	hsa00790	compound
+PTS, PTPS	ec	AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	g-g	hsa00790	compound
+PTS, PTPS	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00790	compound
+PTS, PTPS	ec	AKR1B10	g-g	hsa00790	compound
+PTS, PTPS	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00790	compound
+PTS, PTPS	ec	SPR, SDR38C1	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	AKR1B10	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	SPR, SDR38C1	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	SPR, SDR38C1	g-g	hsa00790	compound
+AKR1B10	ec	SPR, SDR38C1	g-g	hsa00790	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	SPR, SDR38C1	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00790	compound
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	ec	AKR1B10	g-g	hsa00790	compound
+SPR, SDR38C1	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00790	compound
+SPR, SDR38C1	ec	AKR1B10	g-g	hsa00790	compound
+SPR, SDR38C1	ec	DHFR, DHFRP1, DYR	g-g	hsa00790	compound
+SPR, SDR38C1	ec	DHFR2	g-g	hsa00790	compound
+SPR, SDR38C1	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+SPR, SDR38C1	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+SPR, SDR38C1	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+SPR, SDR38C1	ec	TPH1	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	DHFR, DHFRP1, DYR	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	DHFR2	g-g	hsa00790	compound
+AKR1B10	ec	DHFR, DHFRP1, DYR	g-g	hsa00790	compound
+AKR1B10	ec	DHFR2	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	QDPR, DHPR, PKU2, SDR33C1	g-g	hsa00790	compound
+AKR1B10	ec	QDPR, DHPR, PKU2, SDR33C1	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+AKR1B10	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+AKR1B10	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	TPH1	g-g	hsa00790	compound
+AKR1B10	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+AKR1B10	ec	TPH1	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	QDPR, DHPR, PKU2, SDR33C1	g-g	hsa00790	compound
+DHFR2	ec	QDPR, DHPR, PKU2, SDR33C1	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+DHFR2	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+DHFR2	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	TPH1	g-g	hsa00790	compound
+DHFR2	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+DHFR2	ec	TPH1	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	TPH1	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	PCBD1, DCOH, PCBD, PCD, PHS	g-g	hsa00790	compound
+QDPR, DHPR, PKU2, SDR33C1	ec	PCBD2	g-g	hsa00790	compound
+PCBD1, DCOH, PCBD, PCD, PHS	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+PCBD1, DCOH, PCBD, PCD, PHS	ec	TPH1	g-g	hsa00790	compound
+PCBD2	ec	TPH2, ADHD7, NTPH	g-g	hsa00790	compound
+PCBD2	ec	TPH1	g-g	hsa00790	compound
+PCBD1, DCOH, PCBD, PCD, PHS	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+PCBD2	ec	PAH, PH, PKU, PKU1	g-g	hsa00790	compound
+PCBD1, DCOH, PCBD, PCD, PHS	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+PCBD2	ec	TH, DYT14, DYT5b, TYH	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00790	compound
+DHFR2	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00790	compound
+DHFR, DHFRP1, DYR	ec	SPR, SDR38C1	g-g	hsa00790	compound
+DHFR2	ec	SPR, SDR38C1	g-g	hsa00790	compound
+C09332	rt	FPGS	reversible	hsa00790	se
+FPGS	rt	C09332	reversible	hsa00790	ep
+FPGS	rt	C03541	reversible	hsa00790	ep
+C03541	rt	FPGS	reversible	hsa00790	se
+C00101	rt	FPGS	reversible	hsa00790	se
+FPGS	rt	C00101	reversible	hsa00790	ep
+FPGS	rt	C09332	reversible	hsa00790	ep
+C09332	rt	FPGS	reversible	hsa00790	se
+C00101	rt	DHFR, DHFRP1, DYR	reversible	hsa00790	se
+C00101	rt	DHFR2	reversible	hsa00790	se
+DHFR, DHFRP1, DYR	rt	C00101	reversible	hsa00790	ep
+DHFR2	rt	C00101	reversible	hsa00790	ep
+DHFR, DHFRP1, DYR	rt	C00415	reversible	hsa00790	ep
+DHFR2	rt	C00415	reversible	hsa00790	ep
+C00415	rt	DHFR, DHFRP1, DYR	reversible	hsa00790	se
+C00415	rt	DHFR2	reversible	hsa00790	se
+C00415	rt	DHFR, DHFRP1, DYR	reversible	hsa00790	se
+C00415	rt	DHFR2	reversible	hsa00790	se
+DHFR, DHFRP1, DYR	rt	C00415	reversible	hsa00790	ep
+DHFR2	rt	C00415	reversible	hsa00790	ep
+DHFR, DHFRP1, DYR	rt	C00504	reversible	hsa00790	ep
+DHFR2	rt	C00504	reversible	hsa00790	ep
+C00504	rt	DHFR, DHFRP1, DYR	reversible	hsa00790	se
+C00504	rt	DHFR2	reversible	hsa00790	se
+C00268	rt	QDPR, DHPR, PKU2, SDR33C1	reversible	hsa00790	se
+QDPR, DHPR, PKU2, SDR33C1	rt	C00268	reversible	hsa00790	ep
+QDPR, DHPR, PKU2, SDR33C1	rt	C00272	reversible	hsa00790	ep
+C00272	rt	QDPR, DHPR, PKU2, SDR33C1	reversible	hsa00790	se
+C03684	rt	SPR, SDR38C1	irreversible	hsa00790	se
+SPR, SDR38C1	rt	C00272	irreversible	hsa00790	ep
+C06148	rt	GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	irreversible	hsa00790	se
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	rt	C04895	irreversible	hsa00790	ep
+C05923	rt	GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	irreversible	hsa00790	se
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	rt	C06148	irreversible	hsa00790	ep
+C05922	rt	GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	irreversible	hsa00790	se
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	rt	C05923	irreversible	hsa00790	ep
+C00044	rt	GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	irreversible	hsa00790	se
+GCH1, DYT14, DYT5, DYT5a, GCH, GTP-CH-1, GTPCH1, HPABH4B	rt	C05922	irreversible	hsa00790	ep
+C00504	rt	DHFR, DHFRP1, DYR	irreversible	hsa00790	se
+C00504	rt	DHFR2	irreversible	hsa00790	se
+DHFR, DHFRP1, DYR	rt	C00101	irreversible	hsa00790	ep
+DHFR2	rt	C00101	irreversible	hsa00790	ep
+C00921	rt	FPGS	irreversible	hsa00790	se
+FPGS	rt	C00415	irreversible	hsa00790	ep
+C03541	rt	GGH, GH	irreversible	hsa00790	se
+GGH, GH	rt	C00101	irreversible	hsa00790	ep
+C04895	rt	ALPI, IAP	irreversible	hsa00790	se
+C04895	rt	ALPL	irreversible	hsa00790	se
+C04895	rt	ALPP	irreversible	hsa00790	se
+C04895	rt	ALPPL2	irreversible	hsa00790	se
+ALPI, IAP	rt	C04874	irreversible	hsa00790	ep
+ALPL	rt	C04874	irreversible	hsa00790	ep
+ALPP	rt	C04874	irreversible	hsa00790	ep
+ALPPL2	rt	C04874	irreversible	hsa00790	ep
+C04895	rt	PTS, PTPS	irreversible	hsa00790	se
+PTS, PTPS	rt	C03684	irreversible	hsa00790	ep
+C00044	rt	MOCS1, MIG11, MOCOD, MOCODA	irreversible	hsa00790	se
+MOCS1, MIG11, MOCOD, MOCODA	rt	C21310	irreversible	hsa00790	ep
+C18239	rt	MOCS2, MCBPE, MOCO1, MOCODB, MPTS	irreversible	hsa00790	se
+MOCS2, MCBPE, MOCO1, MOCODB, MPTS	rt	C05924	irreversible	hsa00790	ep
+C04895	rt	PTS, PTPS	irreversible	hsa00790	se
+PTS, PTPS	rt	C20239	irreversible	hsa00790	ep
+C21310	rt	MOCS1, MIG11, MOCOD, MOCODA	irreversible	hsa00790	se
+MOCS1, MIG11, MOCOD, MOCODA	rt	C18239	irreversible	hsa00790	ep
+C05924	rt	GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	irreversible	hsa00790	se
+GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	rt	C19848	irreversible	hsa00790	ep
+C19848	rt	GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	irreversible	hsa00790	se
+GPHN, GEPH, GPH, GPHRYN, HKPX1, MOCODC	rt	C18237	irreversible	hsa00790	ep
+C18237	rt	MOCOS, HMCS, MCS, MOS	irreversible	hsa00790	se
+MOCOS, HMCS, MCS, MOS	rt	C21486	irreversible	hsa00790	ep
+C15522	rt	PCBD1, DCOH, PCBD, PCD, PHS	irreversible	hsa00790	se
+C15522	rt	PCBD2	irreversible	hsa00790	se
+PCBD1, DCOH, PCBD, PCD, PHS	rt	C00268	irreversible	hsa00790	ep
+PCBD2	rt	C00268	irreversible	hsa00790	ep
+C00272	rt	PAH, PH, PKU, PKU1	irreversible	hsa00790	se
+PAH, PH, PKU, PKU1	rt	C15522	irreversible	hsa00790	ep
+C00272	rt	TH, DYT14, DYT5b, TYH	irreversible	hsa00790	se
+TH, DYT14, DYT5b, TYH	rt	C15522	irreversible	hsa00790	ep
+C00272	rt	TPH2, ADHD7, NTPH	irreversible	hsa00790	se
+C00272	rt	TPH1	irreversible	hsa00790	se
+TPH2, ADHD7, NTPH	rt	C15522	irreversible	hsa00790	ep
+TPH1	rt	C15522	irreversible	hsa00790	ep
+C04244	rt	SPR, SDR38C1	irreversible	hsa00790	se
+SPR, SDR38C1	rt	C00272	irreversible	hsa00790	ep
+C00835	rt	SPR, SDR38C1	irreversible	hsa00790	se
+SPR, SDR38C1	rt	C02953	irreversible	hsa00790	ep
+C02953	rt	DHFR, DHFRP1, DYR	irreversible	hsa00790	se
+C02953	rt	DHFR2	irreversible	hsa00790	se
+DHFR, DHFRP1, DYR	rt	C00272	irreversible	hsa00790	ep
+DHFR2	rt	C00272	irreversible	hsa00790	ep
+C03684	rt	AKR1B1, ADR, ALDR1, ALR2, AR	irreversible	hsa00790	se
+C03684	rt	AKR1B10	irreversible	hsa00790	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C04244	irreversible	hsa00790	ep
+AKR1B10	rt	C04244	irreversible	hsa00790	ep
+C03684	rt	CBR1, CBR, SDR21C1, hCBR1	irreversible	hsa00790	se
+CBR1, CBR, SDR21C1, hCBR1	rt	C04244	irreversible	hsa00790	ep
+C03684	rt	AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	irreversible	hsa00790	se
+AKR1C3, DD3, DDX, HA1753, HAKRB, HAKRe, HSD17B5, PGFS, hluPGFS	rt	C21640	irreversible	hsa00790	ep
+C21640	rt	AKR1B1, ADR, ALDR1, ALR2, AR	irreversible	hsa00790	se
+C21640	rt	AKR1B10	irreversible	hsa00790	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00272	irreversible	hsa00790	ep
+AKR1B10	rt	C00272	irreversible	hsa00790	ep
+C00835	rt	CBR1, CBR, SDR21C1, hCBR1	irreversible	hsa00790	se
+CBR1, CBR, SDR21C1, hCBR1	rt	C02953	irreversible	hsa00790	ep
+C11355				hsa00790	
+C00251				hsa00790	
+C00266				hsa00790	
+C01300				hsa00790	
+C04807				hsa00790	
+C00568				hsa00790	
+C05927				hsa00790	
+C05926				hsa00790	
+C05925				hsa00790	
+C01217				hsa00790	
+C20248				hsa00790	
+C15996				hsa00790	
+C16675				hsa00790	
+C18802				hsa00790	
+C02587				hsa00790	
+C19871				hsa00790	
+C21485				hsa00790	
+C21094				hsa00790	
+C20264				hsa00790	
+C20567				hsa00790	
+C20566				hsa00790	
+C21065				hsa00790	
+C20562				hsa00790	
+C21107				hsa00790	
+C00156				hsa00790	
+C00119				hsa00790	
+C21008				hsa00790	
+C21007				hsa00790	
+C01304				hsa00790	
+C20559				hsa00790	

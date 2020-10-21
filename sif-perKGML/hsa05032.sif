@@ -1,0 +1,1240 @@
+C00334	pc	GABRR3	c-g	hsa05032	activation
+C00334	pc	GABRA1	c-g	hsa05032	activation
+C00334	pc	GABRA2	c-g	hsa05032	activation
+C00334	pc	GABRA3	c-g	hsa05032	activation
+C00334	pc	GABRA4	c-g	hsa05032	activation
+C00334	pc	GABRA5	c-g	hsa05032	activation
+C00334	pc	GABRA6	c-g	hsa05032	activation
+C00334	pc	GABRB1	c-g	hsa05032	activation
+C00334	pc	GABRB2	c-g	hsa05032	activation
+C00334	pc	GABRB3	c-g	hsa05032	activation
+C00334	pc	GABRD	c-g	hsa05032	activation
+C00334	pc	GABRE	c-g	hsa05032	activation
+C00334	pc	GABRG1	c-g	hsa05032	activation
+C00334	pc	GABRG2	c-g	hsa05032	activation
+C00334	pc	GABRG3	c-g	hsa05032	activation
+C00334	pc	GABRP	c-g	hsa05032	activation
+C00334	pc	GABRR1	c-g	hsa05032	activation
+C00334	pc	GABRR2	c-g	hsa05032	activation
+C00334	pc	GABRQ	c-g	hsa05032	activation
+C00334	pc	GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	c-g	hsa05032	activation
+C00334	pc	GABBR2	c-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAO1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG7	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG10	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG11	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG13	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG12	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG8	g-g	hsa05032	activation
+GABBR2	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR2	pp	GNAI1	g-g	hsa05032	activation
+GABBR2	pp	GNAI2	g-g	hsa05032	activation
+GABBR2	pp	GNAI3	g-g	hsa05032	activation
+GABBR2	pp	GNAO1	g-g	hsa05032	activation
+GABBR2	pp	GNB1	g-g	hsa05032	activation
+GABBR2	pp	GNB2	g-g	hsa05032	activation
+GABBR2	pp	GNB3	g-g	hsa05032	activation
+GABBR2	pp	GNG3	g-g	hsa05032	activation
+GABBR2	pp	GNG4	g-g	hsa05032	activation
+GABBR2	pp	GNG5	g-g	hsa05032	activation
+GABBR2	pp	GNG7	g-g	hsa05032	activation
+GABBR2	pp	GNG10	g-g	hsa05032	activation
+GABBR2	pp	GNG11	g-g	hsa05032	activation
+GABBR2	pp	GNGT1	g-g	hsa05032	activation
+GABBR2	pp	GNGT2	g-g	hsa05032	activation
+GABBR2	pp	GNG13	g-g	hsa05032	activation
+GABBR2	pp	GNG2	g-g	hsa05032	activation
+GABBR2	pp	GNG12	g-g	hsa05032	activation
+GABBR2	pp	GNB4	g-g	hsa05032	activation
+GABBR2	pp	GNG8	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ3	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ5	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ9	g-g	hsa05032	activation
+GNAI1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAO1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG7	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG10	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG11	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG13	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG12	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG8	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI1	pp	KCNJ3	g-g	hsa05032	activation
+GNAI1	pp	KCNJ5	g-g	hsa05032	activation
+GNAI1	pp	KCNJ9	g-g	hsa05032	activation
+GNAI2	pp	KCNJ3	g-g	hsa05032	activation
+GNAI2	pp	KCNJ5	g-g	hsa05032	activation
+GNAI2	pp	KCNJ9	g-g	hsa05032	activation
+GNAI3	pp	KCNJ3	g-g	hsa05032	activation
+GNAI3	pp	KCNJ5	g-g	hsa05032	activation
+GNAI3	pp	KCNJ9	g-g	hsa05032	activation
+GNAO1	pp	KCNJ3	g-g	hsa05032	activation
+GNAO1	pp	KCNJ5	g-g	hsa05032	activation
+GNAO1	pp	KCNJ9	g-g	hsa05032	activation
+GNB1	pp	KCNJ3	g-g	hsa05032	activation
+GNB1	pp	KCNJ5	g-g	hsa05032	activation
+GNB1	pp	KCNJ9	g-g	hsa05032	activation
+GNB2	pp	KCNJ3	g-g	hsa05032	activation
+GNB2	pp	KCNJ5	g-g	hsa05032	activation
+GNB2	pp	KCNJ9	g-g	hsa05032	activation
+GNB3	pp	KCNJ3	g-g	hsa05032	activation
+GNB3	pp	KCNJ5	g-g	hsa05032	activation
+GNB3	pp	KCNJ9	g-g	hsa05032	activation
+GNG3	pp	KCNJ3	g-g	hsa05032	activation
+GNG3	pp	KCNJ5	g-g	hsa05032	activation
+GNG3	pp	KCNJ9	g-g	hsa05032	activation
+GNG4	pp	KCNJ3	g-g	hsa05032	activation
+GNG4	pp	KCNJ5	g-g	hsa05032	activation
+GNG4	pp	KCNJ9	g-g	hsa05032	activation
+GNG5	pp	KCNJ3	g-g	hsa05032	activation
+GNG5	pp	KCNJ5	g-g	hsa05032	activation
+GNG5	pp	KCNJ9	g-g	hsa05032	activation
+GNG7	pp	KCNJ3	g-g	hsa05032	activation
+GNG7	pp	KCNJ5	g-g	hsa05032	activation
+GNG7	pp	KCNJ9	g-g	hsa05032	activation
+GNG10	pp	KCNJ3	g-g	hsa05032	activation
+GNG10	pp	KCNJ5	g-g	hsa05032	activation
+GNG10	pp	KCNJ9	g-g	hsa05032	activation
+GNG11	pp	KCNJ3	g-g	hsa05032	activation
+GNG11	pp	KCNJ5	g-g	hsa05032	activation
+GNG11	pp	KCNJ9	g-g	hsa05032	activation
+GNGT1	pp	KCNJ3	g-g	hsa05032	activation
+GNGT1	pp	KCNJ5	g-g	hsa05032	activation
+GNGT1	pp	KCNJ9	g-g	hsa05032	activation
+GNGT2	pp	KCNJ3	g-g	hsa05032	activation
+GNGT2	pp	KCNJ5	g-g	hsa05032	activation
+GNGT2	pp	KCNJ9	g-g	hsa05032	activation
+GNG13	pp	KCNJ3	g-g	hsa05032	activation
+GNG13	pp	KCNJ5	g-g	hsa05032	activation
+GNG13	pp	KCNJ9	g-g	hsa05032	activation
+GNG2	pp	KCNJ3	g-g	hsa05032	activation
+GNG2	pp	KCNJ5	g-g	hsa05032	activation
+GNG2	pp	KCNJ9	g-g	hsa05032	activation
+GNG12	pp	KCNJ3	g-g	hsa05032	activation
+GNG12	pp	KCNJ5	g-g	hsa05032	activation
+GNG12	pp	KCNJ9	g-g	hsa05032	activation
+GNB4	pp	KCNJ3	g-g	hsa05032	activation
+GNB4	pp	KCNJ5	g-g	hsa05032	activation
+GNB4	pp	KCNJ9	g-g	hsa05032	activation
+GNG8	pp	KCNJ3	g-g	hsa05032	activation
+GNG8	pp	KCNJ5	g-g	hsa05032	activation
+GNG8	pp	KCNJ9	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB5, GB5	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAO1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG4	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG5	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG7	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG10	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG11	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNGT1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNGT2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG13	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG12	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB4	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG8	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ5	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ6	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ9	g-g	hsa05032	activation
+GNAI1	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNAI2	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNAI3	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNAO1	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNB1	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNB2	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNB3	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG3	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG4	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG5	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG7	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG10	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG11	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNGT1	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNGT2	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG13	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG2	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG12	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNB4	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNG8	pp	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa05032	activation
+GNAI1	pp	KCNJ5	g-g	hsa05032	activation
+GNAI1	pp	KCNJ6	g-g	hsa05032	activation
+GNAI1	pp	KCNJ9	g-g	hsa05032	activation
+GNAI2	pp	KCNJ5	g-g	hsa05032	activation
+GNAI2	pp	KCNJ6	g-g	hsa05032	activation
+GNAI2	pp	KCNJ9	g-g	hsa05032	activation
+GNAI3	pp	KCNJ5	g-g	hsa05032	activation
+GNAI3	pp	KCNJ6	g-g	hsa05032	activation
+GNAI3	pp	KCNJ9	g-g	hsa05032	activation
+GNAO1	pp	KCNJ5	g-g	hsa05032	activation
+GNAO1	pp	KCNJ6	g-g	hsa05032	activation
+GNAO1	pp	KCNJ9	g-g	hsa05032	activation
+GNB1	pp	KCNJ5	g-g	hsa05032	activation
+GNB1	pp	KCNJ6	g-g	hsa05032	activation
+GNB1	pp	KCNJ9	g-g	hsa05032	activation
+GNB2	pp	KCNJ5	g-g	hsa05032	activation
+GNB2	pp	KCNJ6	g-g	hsa05032	activation
+GNB2	pp	KCNJ9	g-g	hsa05032	activation
+GNB3	pp	KCNJ5	g-g	hsa05032	activation
+GNB3	pp	KCNJ6	g-g	hsa05032	activation
+GNB3	pp	KCNJ9	g-g	hsa05032	activation
+GNG3	pp	KCNJ5	g-g	hsa05032	activation
+GNG3	pp	KCNJ6	g-g	hsa05032	activation
+GNG3	pp	KCNJ9	g-g	hsa05032	activation
+GNG4	pp	KCNJ5	g-g	hsa05032	activation
+GNG4	pp	KCNJ6	g-g	hsa05032	activation
+GNG4	pp	KCNJ9	g-g	hsa05032	activation
+GNG5	pp	KCNJ5	g-g	hsa05032	activation
+GNG5	pp	KCNJ6	g-g	hsa05032	activation
+GNG5	pp	KCNJ9	g-g	hsa05032	activation
+GNG7	pp	KCNJ5	g-g	hsa05032	activation
+GNG7	pp	KCNJ6	g-g	hsa05032	activation
+GNG7	pp	KCNJ9	g-g	hsa05032	activation
+GNG10	pp	KCNJ5	g-g	hsa05032	activation
+GNG10	pp	KCNJ6	g-g	hsa05032	activation
+GNG10	pp	KCNJ9	g-g	hsa05032	activation
+GNG11	pp	KCNJ5	g-g	hsa05032	activation
+GNG11	pp	KCNJ6	g-g	hsa05032	activation
+GNG11	pp	KCNJ9	g-g	hsa05032	activation
+GNGT1	pp	KCNJ5	g-g	hsa05032	activation
+GNGT1	pp	KCNJ6	g-g	hsa05032	activation
+GNGT1	pp	KCNJ9	g-g	hsa05032	activation
+GNGT2	pp	KCNJ5	g-g	hsa05032	activation
+GNGT2	pp	KCNJ6	g-g	hsa05032	activation
+GNGT2	pp	KCNJ9	g-g	hsa05032	activation
+GNG13	pp	KCNJ5	g-g	hsa05032	activation
+GNG13	pp	KCNJ6	g-g	hsa05032	activation
+GNG13	pp	KCNJ9	g-g	hsa05032	activation
+GNG2	pp	KCNJ5	g-g	hsa05032	activation
+GNG2	pp	KCNJ6	g-g	hsa05032	activation
+GNG2	pp	KCNJ9	g-g	hsa05032	activation
+GNG12	pp	KCNJ5	g-g	hsa05032	activation
+GNG12	pp	KCNJ6	g-g	hsa05032	activation
+GNG12	pp	KCNJ9	g-g	hsa05032	activation
+GNB4	pp	KCNJ5	g-g	hsa05032	activation
+GNB4	pp	KCNJ6	g-g	hsa05032	activation
+GNB4	pp	KCNJ9	g-g	hsa05032	activation
+GNG8	pp	KCNJ5	g-g	hsa05032	activation
+GNG8	pp	KCNJ6	g-g	hsa05032	activation
+GNG8	pp	KCNJ9	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB5, GB5	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAI3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAO1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG3	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG4	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG5	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG7	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG10	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG11	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNGT1	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNGT2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG13	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG2	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG12	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNB4	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNG8	g-g	hsa05032	activation
+OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY2	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY3	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY5	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY6	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY7	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY8	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY9	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY4	g-g	hsa05032	activation
+GNAI1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAI2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAI3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAO1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNB1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNB2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNB3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG4	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG5	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG7	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG10	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG11	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNGT1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNGT2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG13	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG12	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNB4	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNG8	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAI1	pp	ADCY2	g-g	hsa05032	activation
+GNAI1	pp	ADCY3	g-g	hsa05032	activation
+GNAI1	pp	ADCY5	g-g	hsa05032	activation
+GNAI1	pp	ADCY6	g-g	hsa05032	activation
+GNAI1	pp	ADCY7	g-g	hsa05032	activation
+GNAI1	pp	ADCY8	g-g	hsa05032	activation
+GNAI1	pp	ADCY9	g-g	hsa05032	activation
+GNAI1	pp	ADCY4	g-g	hsa05032	activation
+GNAI2	pp	ADCY2	g-g	hsa05032	activation
+GNAI2	pp	ADCY3	g-g	hsa05032	activation
+GNAI2	pp	ADCY5	g-g	hsa05032	activation
+GNAI2	pp	ADCY6	g-g	hsa05032	activation
+GNAI2	pp	ADCY7	g-g	hsa05032	activation
+GNAI2	pp	ADCY8	g-g	hsa05032	activation
+GNAI2	pp	ADCY9	g-g	hsa05032	activation
+GNAI2	pp	ADCY4	g-g	hsa05032	activation
+GNAI3	pp	ADCY2	g-g	hsa05032	activation
+GNAI3	pp	ADCY3	g-g	hsa05032	activation
+GNAI3	pp	ADCY5	g-g	hsa05032	activation
+GNAI3	pp	ADCY6	g-g	hsa05032	activation
+GNAI3	pp	ADCY7	g-g	hsa05032	activation
+GNAI3	pp	ADCY8	g-g	hsa05032	activation
+GNAI3	pp	ADCY9	g-g	hsa05032	activation
+GNAI3	pp	ADCY4	g-g	hsa05032	activation
+GNAO1	pp	ADCY2	g-g	hsa05032	activation
+GNAO1	pp	ADCY3	g-g	hsa05032	activation
+GNAO1	pp	ADCY5	g-g	hsa05032	activation
+GNAO1	pp	ADCY6	g-g	hsa05032	activation
+GNAO1	pp	ADCY7	g-g	hsa05032	activation
+GNAO1	pp	ADCY8	g-g	hsa05032	activation
+GNAO1	pp	ADCY9	g-g	hsa05032	activation
+GNAO1	pp	ADCY4	g-g	hsa05032	activation
+GNB1	pp	ADCY2	g-g	hsa05032	activation
+GNB1	pp	ADCY3	g-g	hsa05032	activation
+GNB1	pp	ADCY5	g-g	hsa05032	activation
+GNB1	pp	ADCY6	g-g	hsa05032	activation
+GNB1	pp	ADCY7	g-g	hsa05032	activation
+GNB1	pp	ADCY8	g-g	hsa05032	activation
+GNB1	pp	ADCY9	g-g	hsa05032	activation
+GNB1	pp	ADCY4	g-g	hsa05032	activation
+GNB2	pp	ADCY2	g-g	hsa05032	activation
+GNB2	pp	ADCY3	g-g	hsa05032	activation
+GNB2	pp	ADCY5	g-g	hsa05032	activation
+GNB2	pp	ADCY6	g-g	hsa05032	activation
+GNB2	pp	ADCY7	g-g	hsa05032	activation
+GNB2	pp	ADCY8	g-g	hsa05032	activation
+GNB2	pp	ADCY9	g-g	hsa05032	activation
+GNB2	pp	ADCY4	g-g	hsa05032	activation
+GNB3	pp	ADCY2	g-g	hsa05032	activation
+GNB3	pp	ADCY3	g-g	hsa05032	activation
+GNB3	pp	ADCY5	g-g	hsa05032	activation
+GNB3	pp	ADCY6	g-g	hsa05032	activation
+GNB3	pp	ADCY7	g-g	hsa05032	activation
+GNB3	pp	ADCY8	g-g	hsa05032	activation
+GNB3	pp	ADCY9	g-g	hsa05032	activation
+GNB3	pp	ADCY4	g-g	hsa05032	activation
+GNG3	pp	ADCY2	g-g	hsa05032	activation
+GNG3	pp	ADCY3	g-g	hsa05032	activation
+GNG3	pp	ADCY5	g-g	hsa05032	activation
+GNG3	pp	ADCY6	g-g	hsa05032	activation
+GNG3	pp	ADCY7	g-g	hsa05032	activation
+GNG3	pp	ADCY8	g-g	hsa05032	activation
+GNG3	pp	ADCY9	g-g	hsa05032	activation
+GNG3	pp	ADCY4	g-g	hsa05032	activation
+GNG4	pp	ADCY2	g-g	hsa05032	activation
+GNG4	pp	ADCY3	g-g	hsa05032	activation
+GNG4	pp	ADCY5	g-g	hsa05032	activation
+GNG4	pp	ADCY6	g-g	hsa05032	activation
+GNG4	pp	ADCY7	g-g	hsa05032	activation
+GNG4	pp	ADCY8	g-g	hsa05032	activation
+GNG4	pp	ADCY9	g-g	hsa05032	activation
+GNG4	pp	ADCY4	g-g	hsa05032	activation
+GNG5	pp	ADCY2	g-g	hsa05032	activation
+GNG5	pp	ADCY3	g-g	hsa05032	activation
+GNG5	pp	ADCY5	g-g	hsa05032	activation
+GNG5	pp	ADCY6	g-g	hsa05032	activation
+GNG5	pp	ADCY7	g-g	hsa05032	activation
+GNG5	pp	ADCY8	g-g	hsa05032	activation
+GNG5	pp	ADCY9	g-g	hsa05032	activation
+GNG5	pp	ADCY4	g-g	hsa05032	activation
+GNG7	pp	ADCY2	g-g	hsa05032	activation
+GNG7	pp	ADCY3	g-g	hsa05032	activation
+GNG7	pp	ADCY5	g-g	hsa05032	activation
+GNG7	pp	ADCY6	g-g	hsa05032	activation
+GNG7	pp	ADCY7	g-g	hsa05032	activation
+GNG7	pp	ADCY8	g-g	hsa05032	activation
+GNG7	pp	ADCY9	g-g	hsa05032	activation
+GNG7	pp	ADCY4	g-g	hsa05032	activation
+GNG10	pp	ADCY2	g-g	hsa05032	activation
+GNG10	pp	ADCY3	g-g	hsa05032	activation
+GNG10	pp	ADCY5	g-g	hsa05032	activation
+GNG10	pp	ADCY6	g-g	hsa05032	activation
+GNG10	pp	ADCY7	g-g	hsa05032	activation
+GNG10	pp	ADCY8	g-g	hsa05032	activation
+GNG10	pp	ADCY9	g-g	hsa05032	activation
+GNG10	pp	ADCY4	g-g	hsa05032	activation
+GNG11	pp	ADCY2	g-g	hsa05032	activation
+GNG11	pp	ADCY3	g-g	hsa05032	activation
+GNG11	pp	ADCY5	g-g	hsa05032	activation
+GNG11	pp	ADCY6	g-g	hsa05032	activation
+GNG11	pp	ADCY7	g-g	hsa05032	activation
+GNG11	pp	ADCY8	g-g	hsa05032	activation
+GNG11	pp	ADCY9	g-g	hsa05032	activation
+GNG11	pp	ADCY4	g-g	hsa05032	activation
+GNGT1	pp	ADCY2	g-g	hsa05032	activation
+GNGT1	pp	ADCY3	g-g	hsa05032	activation
+GNGT1	pp	ADCY5	g-g	hsa05032	activation
+GNGT1	pp	ADCY6	g-g	hsa05032	activation
+GNGT1	pp	ADCY7	g-g	hsa05032	activation
+GNGT1	pp	ADCY8	g-g	hsa05032	activation
+GNGT1	pp	ADCY9	g-g	hsa05032	activation
+GNGT1	pp	ADCY4	g-g	hsa05032	activation
+GNGT2	pp	ADCY2	g-g	hsa05032	activation
+GNGT2	pp	ADCY3	g-g	hsa05032	activation
+GNGT2	pp	ADCY5	g-g	hsa05032	activation
+GNGT2	pp	ADCY6	g-g	hsa05032	activation
+GNGT2	pp	ADCY7	g-g	hsa05032	activation
+GNGT2	pp	ADCY8	g-g	hsa05032	activation
+GNGT2	pp	ADCY9	g-g	hsa05032	activation
+GNGT2	pp	ADCY4	g-g	hsa05032	activation
+GNG13	pp	ADCY2	g-g	hsa05032	activation
+GNG13	pp	ADCY3	g-g	hsa05032	activation
+GNG13	pp	ADCY5	g-g	hsa05032	activation
+GNG13	pp	ADCY6	g-g	hsa05032	activation
+GNG13	pp	ADCY7	g-g	hsa05032	activation
+GNG13	pp	ADCY8	g-g	hsa05032	activation
+GNG13	pp	ADCY9	g-g	hsa05032	activation
+GNG13	pp	ADCY4	g-g	hsa05032	activation
+GNG2	pp	ADCY2	g-g	hsa05032	activation
+GNG2	pp	ADCY3	g-g	hsa05032	activation
+GNG2	pp	ADCY5	g-g	hsa05032	activation
+GNG2	pp	ADCY6	g-g	hsa05032	activation
+GNG2	pp	ADCY7	g-g	hsa05032	activation
+GNG2	pp	ADCY8	g-g	hsa05032	activation
+GNG2	pp	ADCY9	g-g	hsa05032	activation
+GNG2	pp	ADCY4	g-g	hsa05032	activation
+GNG12	pp	ADCY2	g-g	hsa05032	activation
+GNG12	pp	ADCY3	g-g	hsa05032	activation
+GNG12	pp	ADCY5	g-g	hsa05032	activation
+GNG12	pp	ADCY6	g-g	hsa05032	activation
+GNG12	pp	ADCY7	g-g	hsa05032	activation
+GNG12	pp	ADCY8	g-g	hsa05032	activation
+GNG12	pp	ADCY9	g-g	hsa05032	activation
+GNG12	pp	ADCY4	g-g	hsa05032	activation
+GNB4	pp	ADCY2	g-g	hsa05032	activation
+GNB4	pp	ADCY3	g-g	hsa05032	activation
+GNB4	pp	ADCY5	g-g	hsa05032	activation
+GNB4	pp	ADCY6	g-g	hsa05032	activation
+GNB4	pp	ADCY7	g-g	hsa05032	activation
+GNB4	pp	ADCY8	g-g	hsa05032	activation
+GNB4	pp	ADCY9	g-g	hsa05032	activation
+GNB4	pp	ADCY4	g-g	hsa05032	activation
+GNG8	pp	ADCY2	g-g	hsa05032	activation
+GNG8	pp	ADCY3	g-g	hsa05032	activation
+GNG8	pp	ADCY5	g-g	hsa05032	activation
+GNG8	pp	ADCY6	g-g	hsa05032	activation
+GNG8	pp	ADCY7	g-g	hsa05032	activation
+GNG8	pp	ADCY8	g-g	hsa05032	activation
+GNG8	pp	ADCY9	g-g	hsa05032	activation
+GNG8	pp	ADCY4	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY2	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY3	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY5	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY6	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY7	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY8	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY9	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	ADCY4	g-g	hsa05032	activation
+PRKACB	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+PRKACG	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+PRKACB	pp	ADCY2	g-g	hsa05032	activation
+PRKACB	pp	ADCY3	g-g	hsa05032	activation
+PRKACB	pp	ADCY5	g-g	hsa05032	activation
+PRKACB	pp	ADCY6	g-g	hsa05032	activation
+PRKACB	pp	ADCY7	g-g	hsa05032	activation
+PRKACB	pp	ADCY8	g-g	hsa05032	activation
+PRKACB	pp	ADCY9	g-g	hsa05032	activation
+PRKACB	pp	ADCY4	g-g	hsa05032	activation
+PRKACG	pp	ADCY2	g-g	hsa05032	activation
+PRKACG	pp	ADCY3	g-g	hsa05032	activation
+PRKACG	pp	ADCY5	g-g	hsa05032	activation
+PRKACG	pp	ADCY6	g-g	hsa05032	activation
+PRKACG	pp	ADCY7	g-g	hsa05032	activation
+PRKACG	pp	ADCY8	g-g	hsa05032	activation
+PRKACG	pp	ADCY9	g-g	hsa05032	activation
+PRKACG	pp	ADCY4	g-g	hsa05032	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa05032	activation
+ADCY2	pc	C00575	g-c	hsa05032	activation
+ADCY3	pc	C00575	g-c	hsa05032	activation
+ADCY5	pc	C00575	g-c	hsa05032	activation
+ADCY6	pc	C00575	g-c	hsa05032	activation
+ADCY7	pc	C00575	g-c	hsa05032	activation
+ADCY8	pc	C00575	g-c	hsa05032	activation
+ADCY9	pc	C00575	g-c	hsa05032	activation
+ADCY4	pc	C00575	g-c	hsa05032	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05032	activation
+C00575	pc	PRKACB	c-g	hsa05032	activation
+C00575	pc	PRKACG	c-g	hsa05032	activation
+C00334	pc	GABRR3	c-g	hsa05032	activation
+C00334	pc	GABRA1	c-g	hsa05032	activation
+C00334	pc	GABRA2	c-g	hsa05032	activation
+C00334	pc	GABRA3	c-g	hsa05032	activation
+C00334	pc	GABRA4	c-g	hsa05032	activation
+C00334	pc	GABRA5	c-g	hsa05032	activation
+C00334	pc	GABRA6	c-g	hsa05032	activation
+C00334	pc	GABRB1	c-g	hsa05032	activation
+C00334	pc	GABRB2	c-g	hsa05032	activation
+C00334	pc	GABRB3	c-g	hsa05032	activation
+C00334	pc	GABRD	c-g	hsa05032	activation
+C00334	pc	GABRE	c-g	hsa05032	activation
+C00334	pc	GABRG1	c-g	hsa05032	activation
+C00334	pc	GABRG2	c-g	hsa05032	activation
+C00334	pc	GABRG3	c-g	hsa05032	activation
+C00334	pc	GABRP	c-g	hsa05032	activation
+C00334	pc	GABRR1	c-g	hsa05032	activation
+C00334	pc	GABRR2	c-g	hsa05032	activation
+C00334	pc	GABRQ	c-g	hsa05032	activation
+C00334	pc	GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	c-g	hsa05032	activation
+C00334	pc	GABBR2	c-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAO1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG7	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG10	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG11	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG13	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG12	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG8	g-g	hsa05032	activation
+GABBR2	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR2	pp	GNAI1	g-g	hsa05032	activation
+GABBR2	pp	GNAI2	g-g	hsa05032	activation
+GABBR2	pp	GNAI3	g-g	hsa05032	activation
+GABBR2	pp	GNAO1	g-g	hsa05032	activation
+GABBR2	pp	GNB1	g-g	hsa05032	activation
+GABBR2	pp	GNB2	g-g	hsa05032	activation
+GABBR2	pp	GNB3	g-g	hsa05032	activation
+GABBR2	pp	GNG3	g-g	hsa05032	activation
+GABBR2	pp	GNG4	g-g	hsa05032	activation
+GABBR2	pp	GNG5	g-g	hsa05032	activation
+GABBR2	pp	GNG7	g-g	hsa05032	activation
+GABBR2	pp	GNG10	g-g	hsa05032	activation
+GABBR2	pp	GNG11	g-g	hsa05032	activation
+GABBR2	pp	GNGT1	g-g	hsa05032	activation
+GABBR2	pp	GNGT2	g-g	hsa05032	activation
+GABBR2	pp	GNG13	g-g	hsa05032	activation
+GABBR2	pp	GNG2	g-g	hsa05032	activation
+GABBR2	pp	GNG12	g-g	hsa05032	activation
+GABBR2	pp	GNB4	g-g	hsa05032	activation
+GABBR2	pp	GNG8	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ3	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ5	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ9	g-g	hsa05032	activation
+GNAI1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAO1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG7	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG10	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG11	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG13	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG12	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG8	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI1	pp	KCNJ3	g-g	hsa05032	activation
+GNAI1	pp	KCNJ5	g-g	hsa05032	activation
+GNAI1	pp	KCNJ9	g-g	hsa05032	activation
+GNAI2	pp	KCNJ3	g-g	hsa05032	activation
+GNAI2	pp	KCNJ5	g-g	hsa05032	activation
+GNAI2	pp	KCNJ9	g-g	hsa05032	activation
+GNAI3	pp	KCNJ3	g-g	hsa05032	activation
+GNAI3	pp	KCNJ5	g-g	hsa05032	activation
+GNAI3	pp	KCNJ9	g-g	hsa05032	activation
+GNAO1	pp	KCNJ3	g-g	hsa05032	activation
+GNAO1	pp	KCNJ5	g-g	hsa05032	activation
+GNAO1	pp	KCNJ9	g-g	hsa05032	activation
+GNB1	pp	KCNJ3	g-g	hsa05032	activation
+GNB1	pp	KCNJ5	g-g	hsa05032	activation
+GNB1	pp	KCNJ9	g-g	hsa05032	activation
+GNB2	pp	KCNJ3	g-g	hsa05032	activation
+GNB2	pp	KCNJ5	g-g	hsa05032	activation
+GNB2	pp	KCNJ9	g-g	hsa05032	activation
+GNB3	pp	KCNJ3	g-g	hsa05032	activation
+GNB3	pp	KCNJ5	g-g	hsa05032	activation
+GNB3	pp	KCNJ9	g-g	hsa05032	activation
+GNG3	pp	KCNJ3	g-g	hsa05032	activation
+GNG3	pp	KCNJ5	g-g	hsa05032	activation
+GNG3	pp	KCNJ9	g-g	hsa05032	activation
+GNG4	pp	KCNJ3	g-g	hsa05032	activation
+GNG4	pp	KCNJ5	g-g	hsa05032	activation
+GNG4	pp	KCNJ9	g-g	hsa05032	activation
+GNG5	pp	KCNJ3	g-g	hsa05032	activation
+GNG5	pp	KCNJ5	g-g	hsa05032	activation
+GNG5	pp	KCNJ9	g-g	hsa05032	activation
+GNG7	pp	KCNJ3	g-g	hsa05032	activation
+GNG7	pp	KCNJ5	g-g	hsa05032	activation
+GNG7	pp	KCNJ9	g-g	hsa05032	activation
+GNG10	pp	KCNJ3	g-g	hsa05032	activation
+GNG10	pp	KCNJ5	g-g	hsa05032	activation
+GNG10	pp	KCNJ9	g-g	hsa05032	activation
+GNG11	pp	KCNJ3	g-g	hsa05032	activation
+GNG11	pp	KCNJ5	g-g	hsa05032	activation
+GNG11	pp	KCNJ9	g-g	hsa05032	activation
+GNGT1	pp	KCNJ3	g-g	hsa05032	activation
+GNGT1	pp	KCNJ5	g-g	hsa05032	activation
+GNGT1	pp	KCNJ9	g-g	hsa05032	activation
+GNGT2	pp	KCNJ3	g-g	hsa05032	activation
+GNGT2	pp	KCNJ5	g-g	hsa05032	activation
+GNGT2	pp	KCNJ9	g-g	hsa05032	activation
+GNG13	pp	KCNJ3	g-g	hsa05032	activation
+GNG13	pp	KCNJ5	g-g	hsa05032	activation
+GNG13	pp	KCNJ9	g-g	hsa05032	activation
+GNG2	pp	KCNJ3	g-g	hsa05032	activation
+GNG2	pp	KCNJ5	g-g	hsa05032	activation
+GNG2	pp	KCNJ9	g-g	hsa05032	activation
+GNG12	pp	KCNJ3	g-g	hsa05032	activation
+GNG12	pp	KCNJ5	g-g	hsa05032	activation
+GNG12	pp	KCNJ9	g-g	hsa05032	activation
+GNB4	pp	KCNJ3	g-g	hsa05032	activation
+GNB4	pp	KCNJ5	g-g	hsa05032	activation
+GNB4	pp	KCNJ9	g-g	hsa05032	activation
+GNG8	pp	KCNJ3	g-g	hsa05032	activation
+GNG8	pp	KCNJ5	g-g	hsa05032	activation
+GNG8	pp	KCNJ9	g-g	hsa05032	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa05032	activation
+ADCY2	pc	C00575	g-c	hsa05032	activation
+ADCY3	pc	C00575	g-c	hsa05032	activation
+ADCY5	pc	C00575	g-c	hsa05032	activation
+ADCY6	pc	C00575	g-c	hsa05032	activation
+ADCY7	pc	C00575	g-c	hsa05032	activation
+ADCY8	pc	C00575	g-c	hsa05032	activation
+ADCY9	pc	C00575	g-c	hsa05032	activation
+ADCY4	pc	C00575	g-c	hsa05032	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa05032	activation
+C00575	pc	PRKACB	c-g	hsa05032	activation
+C00575	pc	PRKACG	c-g	hsa05032	activation
+C00334	pc	GABRR3	c-g	hsa05032	activation
+C00334	pc	GABRA1	c-g	hsa05032	activation
+C00334	pc	GABRA2	c-g	hsa05032	activation
+C00334	pc	GABRA3	c-g	hsa05032	activation
+C00334	pc	GABRA4	c-g	hsa05032	activation
+C00334	pc	GABRA5	c-g	hsa05032	activation
+C00334	pc	GABRA6	c-g	hsa05032	activation
+C00334	pc	GABRB1	c-g	hsa05032	activation
+C00334	pc	GABRB2	c-g	hsa05032	activation
+C00334	pc	GABRB3	c-g	hsa05032	activation
+C00334	pc	GABRD	c-g	hsa05032	activation
+C00334	pc	GABRE	c-g	hsa05032	activation
+C00334	pc	GABRG1	c-g	hsa05032	activation
+C00334	pc	GABRG2	c-g	hsa05032	activation
+C00334	pc	GABRG3	c-g	hsa05032	activation
+C00334	pc	GABRP	c-g	hsa05032	activation
+C00334	pc	GABRR1	c-g	hsa05032	activation
+C00334	pc	GABRR2	c-g	hsa05032	activation
+C00334	pc	GABRQ	c-g	hsa05032	activation
+C00334	pc	GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	c-g	hsa05032	activation
+C00334	pc	GABBR2	c-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAI3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNAO1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG3	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG5	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG7	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG10	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG11	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT1	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNGT2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG13	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG2	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG12	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNB4	g-g	hsa05032	activation
+GABBR1, GABABR1, GABBR1-3, GB1, GPRC3A	pp	GNG8	g-g	hsa05032	activation
+GABBR2	pp	GNB5, GB5	g-g	hsa05032	activation
+GABBR2	pp	GNAI1	g-g	hsa05032	activation
+GABBR2	pp	GNAI2	g-g	hsa05032	activation
+GABBR2	pp	GNAI3	g-g	hsa05032	activation
+GABBR2	pp	GNAO1	g-g	hsa05032	activation
+GABBR2	pp	GNB1	g-g	hsa05032	activation
+GABBR2	pp	GNB2	g-g	hsa05032	activation
+GABBR2	pp	GNB3	g-g	hsa05032	activation
+GABBR2	pp	GNG3	g-g	hsa05032	activation
+GABBR2	pp	GNG4	g-g	hsa05032	activation
+GABBR2	pp	GNG5	g-g	hsa05032	activation
+GABBR2	pp	GNG7	g-g	hsa05032	activation
+GABBR2	pp	GNG10	g-g	hsa05032	activation
+GABBR2	pp	GNG11	g-g	hsa05032	activation
+GABBR2	pp	GNGT1	g-g	hsa05032	activation
+GABBR2	pp	GNGT2	g-g	hsa05032	activation
+GABBR2	pp	GNG13	g-g	hsa05032	activation
+GABBR2	pp	GNG2	g-g	hsa05032	activation
+GABBR2	pp	GNG12	g-g	hsa05032	activation
+GABBR2	pp	GNB4	g-g	hsa05032	activation
+GABBR2	pp	GNG8	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ3	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ5	g-g	hsa05032	activation
+GNB5, GB5	pp	KCNJ9	g-g	hsa05032	activation
+GNAI1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAO1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG3	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG5	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG7	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG10	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG11	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT1	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNGT2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG13	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG2	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG12	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNB4	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNG8	pp	KCNJ6, BIR1, GIRK-2, GIRK2, KATP-2, KATP2, KCNJ7, KIR32, KPLBS, hiGIRK2	g-g	hsa05032	activation
+GNAI1	pp	KCNJ3	g-g	hsa05032	activation
+GNAI1	pp	KCNJ5	g-g	hsa05032	activation
+GNAI1	pp	KCNJ9	g-g	hsa05032	activation
+GNAI2	pp	KCNJ3	g-g	hsa05032	activation
+GNAI2	pp	KCNJ5	g-g	hsa05032	activation
+GNAI2	pp	KCNJ9	g-g	hsa05032	activation
+GNAI3	pp	KCNJ3	g-g	hsa05032	activation
+GNAI3	pp	KCNJ5	g-g	hsa05032	activation
+GNAI3	pp	KCNJ9	g-g	hsa05032	activation
+GNAO1	pp	KCNJ3	g-g	hsa05032	activation
+GNAO1	pp	KCNJ5	g-g	hsa05032	activation
+GNAO1	pp	KCNJ9	g-g	hsa05032	activation
+GNB1	pp	KCNJ3	g-g	hsa05032	activation
+GNB1	pp	KCNJ5	g-g	hsa05032	activation
+GNB1	pp	KCNJ9	g-g	hsa05032	activation
+GNB2	pp	KCNJ3	g-g	hsa05032	activation
+GNB2	pp	KCNJ5	g-g	hsa05032	activation
+GNB2	pp	KCNJ9	g-g	hsa05032	activation
+GNB3	pp	KCNJ3	g-g	hsa05032	activation
+GNB3	pp	KCNJ5	g-g	hsa05032	activation
+GNB3	pp	KCNJ9	g-g	hsa05032	activation
+GNG3	pp	KCNJ3	g-g	hsa05032	activation
+GNG3	pp	KCNJ5	g-g	hsa05032	activation
+GNG3	pp	KCNJ9	g-g	hsa05032	activation
+GNG4	pp	KCNJ3	g-g	hsa05032	activation
+GNG4	pp	KCNJ5	g-g	hsa05032	activation
+GNG4	pp	KCNJ9	g-g	hsa05032	activation
+GNG5	pp	KCNJ3	g-g	hsa05032	activation
+GNG5	pp	KCNJ5	g-g	hsa05032	activation
+GNG5	pp	KCNJ9	g-g	hsa05032	activation
+GNG7	pp	KCNJ3	g-g	hsa05032	activation
+GNG7	pp	KCNJ5	g-g	hsa05032	activation
+GNG7	pp	KCNJ9	g-g	hsa05032	activation
+GNG10	pp	KCNJ3	g-g	hsa05032	activation
+GNG10	pp	KCNJ5	g-g	hsa05032	activation
+GNG10	pp	KCNJ9	g-g	hsa05032	activation
+GNG11	pp	KCNJ3	g-g	hsa05032	activation
+GNG11	pp	KCNJ5	g-g	hsa05032	activation
+GNG11	pp	KCNJ9	g-g	hsa05032	activation
+GNGT1	pp	KCNJ3	g-g	hsa05032	activation
+GNGT1	pp	KCNJ5	g-g	hsa05032	activation
+GNGT1	pp	KCNJ9	g-g	hsa05032	activation
+GNGT2	pp	KCNJ3	g-g	hsa05032	activation
+GNGT2	pp	KCNJ5	g-g	hsa05032	activation
+GNGT2	pp	KCNJ9	g-g	hsa05032	activation
+GNG13	pp	KCNJ3	g-g	hsa05032	activation
+GNG13	pp	KCNJ5	g-g	hsa05032	activation
+GNG13	pp	KCNJ9	g-g	hsa05032	activation
+GNG2	pp	KCNJ3	g-g	hsa05032	activation
+GNG2	pp	KCNJ5	g-g	hsa05032	activation
+GNG2	pp	KCNJ9	g-g	hsa05032	activation
+GNG12	pp	KCNJ3	g-g	hsa05032	activation
+GNG12	pp	KCNJ5	g-g	hsa05032	activation
+GNG12	pp	KCNJ9	g-g	hsa05032	activation
+GNB4	pp	KCNJ3	g-g	hsa05032	activation
+GNB4	pp	KCNJ5	g-g	hsa05032	activation
+GNB4	pp	KCNJ9	g-g	hsa05032	activation
+GNG8	pp	KCNJ3	g-g	hsa05032	activation
+GNG8	pp	KCNJ5	g-g	hsa05032	activation
+GNG8	pp	KCNJ9	g-g	hsa05032	activation
+C03758	pc	DRD1, DADR, DRD1A	c-g	hsa05032	activation
+DRD1, DADR, DRD1A	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa05032	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa05032	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa05032	activation
+ADCY2	pc	C00575	g-c	hsa05032	activation
+ADCY3	pc	C00575	g-c	hsa05032	activation
+ADCY5	pc	C00575	g-c	hsa05032	activation
+ADCY6	pc	C00575	g-c	hsa05032	activation
+ADCY7	pc	C00575	g-c	hsa05032	activation
+ADCY8	pc	C00575	g-c	hsa05032	activation
+ADCY9	pc	C00575	g-c	hsa05032	activation
+ADCY4	pc	C00575	g-c	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNAI1	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNAI2	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNAI3	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNAO1	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNB1	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNB2	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNB3	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG3	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG4	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG5	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG7	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG10	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG11	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNGT1	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNGT2	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG13	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG2	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG12	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNB4	g-g	hsa05032	activation
+PRKACA, PKACA, PPNAD4	pp	GNG8	g-g	hsa05032	activation
+PRKACB	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKACG	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKACB	pp	GNAI1	g-g	hsa05032	activation
+PRKACB	pp	GNAI2	g-g	hsa05032	activation
+PRKACB	pp	GNAI3	g-g	hsa05032	activation
+PRKACB	pp	GNAO1	g-g	hsa05032	activation
+PRKACB	pp	GNB1	g-g	hsa05032	activation
+PRKACB	pp	GNB2	g-g	hsa05032	activation
+PRKACB	pp	GNB3	g-g	hsa05032	activation
+PRKACB	pp	GNG3	g-g	hsa05032	activation
+PRKACB	pp	GNG4	g-g	hsa05032	activation
+PRKACB	pp	GNG5	g-g	hsa05032	activation
+PRKACB	pp	GNG7	g-g	hsa05032	activation
+PRKACB	pp	GNG10	g-g	hsa05032	activation
+PRKACB	pp	GNG11	g-g	hsa05032	activation
+PRKACB	pp	GNGT1	g-g	hsa05032	activation
+PRKACB	pp	GNGT2	g-g	hsa05032	activation
+PRKACB	pp	GNG13	g-g	hsa05032	activation
+PRKACB	pp	GNG2	g-g	hsa05032	activation
+PRKACB	pp	GNG12	g-g	hsa05032	activation
+PRKACB	pp	GNB4	g-g	hsa05032	activation
+PRKACB	pp	GNG8	g-g	hsa05032	activation
+PRKACG	pp	GNAI1	g-g	hsa05032	activation
+PRKACG	pp	GNAI2	g-g	hsa05032	activation
+PRKACG	pp	GNAI3	g-g	hsa05032	activation
+PRKACG	pp	GNAO1	g-g	hsa05032	activation
+PRKACG	pp	GNB1	g-g	hsa05032	activation
+PRKACG	pp	GNB2	g-g	hsa05032	activation
+PRKACG	pp	GNB3	g-g	hsa05032	activation
+PRKACG	pp	GNG3	g-g	hsa05032	activation
+PRKACG	pp	GNG4	g-g	hsa05032	activation
+PRKACG	pp	GNG5	g-g	hsa05032	activation
+PRKACG	pp	GNG7	g-g	hsa05032	activation
+PRKACG	pp	GNG10	g-g	hsa05032	activation
+PRKACG	pp	GNG11	g-g	hsa05032	activation
+PRKACG	pp	GNGT1	g-g	hsa05032	activation
+PRKACG	pp	GNGT2	g-g	hsa05032	activation
+PRKACG	pp	GNG13	g-g	hsa05032	activation
+PRKACG	pp	GNG2	g-g	hsa05032	activation
+PRKACG	pp	GNG12	g-g	hsa05032	activation
+PRKACG	pp	GNB4	g-g	hsa05032	activation
+PRKACG	pp	GNG8	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNAI1	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNAI2	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNAI3	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNAO1	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNB1	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNB2	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNB3	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG3	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG4	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG5	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG7	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG10	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG11	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNGT1	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNGT2	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG13	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG2	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG12	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNB4	g-g	hsa05032	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GNG8	g-g	hsa05032	activation
+PRKACB	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKACG	pp	GNB5, GB5	g-g	hsa05032	activation
+PRKACB	pp	GNAI1	g-g	hsa05032	activation
+PRKACB	pp	GNAI2	g-g	hsa05032	activation
+PRKACB	pp	GNAI3	g-g	hsa05032	activation
+PRKACB	pp	GNAO1	g-g	hsa05032	activation
+PRKACB	pp	GNB1	g-g	hsa05032	activation
+PRKACB	pp	GNB2	g-g	hsa05032	activation
+PRKACB	pp	GNB3	g-g	hsa05032	activation
+PRKACB	pp	GNG3	g-g	hsa05032	activation
+PRKACB	pp	GNG4	g-g	hsa05032	activation
+PRKACB	pp	GNG5	g-g	hsa05032	activation
+PRKACB	pp	GNG7	g-g	hsa05032	activation
+PRKACB	pp	GNG10	g-g	hsa05032	activation
+PRKACB	pp	GNG11	g-g	hsa05032	activation
+PRKACB	pp	GNGT1	g-g	hsa05032	activation
+PRKACB	pp	GNGT2	g-g	hsa05032	activation
+PRKACB	pp	GNG13	g-g	hsa05032	activation
+PRKACB	pp	GNG2	g-g	hsa05032	activation
+PRKACB	pp	GNG12	g-g	hsa05032	activation
+PRKACB	pp	GNB4	g-g	hsa05032	activation
+PRKACB	pp	GNG8	g-g	hsa05032	activation
+PRKACG	pp	GNAI1	g-g	hsa05032	activation
+PRKACG	pp	GNAI2	g-g	hsa05032	activation
+PRKACG	pp	GNAI3	g-g	hsa05032	activation
+PRKACG	pp	GNAO1	g-g	hsa05032	activation
+PRKACG	pp	GNB1	g-g	hsa05032	activation
+PRKACG	pp	GNB2	g-g	hsa05032	activation
+PRKACG	pp	GNB3	g-g	hsa05032	activation
+PRKACG	pp	GNG3	g-g	hsa05032	activation
+PRKACG	pp	GNG4	g-g	hsa05032	activation
+PRKACG	pp	GNG5	g-g	hsa05032	activation
+PRKACG	pp	GNG7	g-g	hsa05032	activation
+PRKACG	pp	GNG10	g-g	hsa05032	activation
+PRKACG	pp	GNG11	g-g	hsa05032	activation
+PRKACG	pp	GNGT1	g-g	hsa05032	activation
+PRKACG	pp	GNGT2	g-g	hsa05032	activation
+PRKACG	pp	GNG13	g-g	hsa05032	activation
+PRKACG	pp	GNG2	g-g	hsa05032	activation
+PRKACG	pp	GNG12	g-g	hsa05032	activation
+PRKACG	pp	GNB4	g-g	hsa05032	activation
+PRKACG	pp	GNG8	g-g	hsa05032	activation
+GNB5, GB5	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY2	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY3	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY5	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY6	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY7	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY8	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY9	g-g	hsa05032	inhibition
+GNB5, GB5	pp	ADCY4	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNB1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNB2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNB3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG3	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG4	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG5	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG7	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG10	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG11	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG13	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG2	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG12	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNB4	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNG8	pp	ADCY1, AC1, DFNB44	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY2	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY3	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY5	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY6	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY7	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY8	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY9	g-g	hsa05032	inhibition
+GNAI1	pp	ADCY4	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY2	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY3	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY5	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY6	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY7	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY8	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY9	g-g	hsa05032	inhibition
+GNAI2	pp	ADCY4	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY2	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY3	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY5	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY6	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY7	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY8	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY9	g-g	hsa05032	inhibition
+GNAI3	pp	ADCY4	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY2	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY3	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY5	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY6	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY7	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY8	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY9	g-g	hsa05032	inhibition
+GNAO1	pp	ADCY4	g-g	hsa05032	inhibition
+GNB1	pp	ADCY2	g-g	hsa05032	inhibition
+GNB1	pp	ADCY3	g-g	hsa05032	inhibition
+GNB1	pp	ADCY5	g-g	hsa05032	inhibition
+GNB1	pp	ADCY6	g-g	hsa05032	inhibition
+GNB1	pp	ADCY7	g-g	hsa05032	inhibition
+GNB1	pp	ADCY8	g-g	hsa05032	inhibition
+GNB1	pp	ADCY9	g-g	hsa05032	inhibition
+GNB1	pp	ADCY4	g-g	hsa05032	inhibition
+GNB2	pp	ADCY2	g-g	hsa05032	inhibition
+GNB2	pp	ADCY3	g-g	hsa05032	inhibition
+GNB2	pp	ADCY5	g-g	hsa05032	inhibition
+GNB2	pp	ADCY6	g-g	hsa05032	inhibition
+GNB2	pp	ADCY7	g-g	hsa05032	inhibition
+GNB2	pp	ADCY8	g-g	hsa05032	inhibition
+GNB2	pp	ADCY9	g-g	hsa05032	inhibition
+GNB2	pp	ADCY4	g-g	hsa05032	inhibition
+GNB3	pp	ADCY2	g-g	hsa05032	inhibition
+GNB3	pp	ADCY3	g-g	hsa05032	inhibition
+GNB3	pp	ADCY5	g-g	hsa05032	inhibition
+GNB3	pp	ADCY6	g-g	hsa05032	inhibition
+GNB3	pp	ADCY7	g-g	hsa05032	inhibition
+GNB3	pp	ADCY8	g-g	hsa05032	inhibition
+GNB3	pp	ADCY9	g-g	hsa05032	inhibition
+GNB3	pp	ADCY4	g-g	hsa05032	inhibition
+GNG3	pp	ADCY2	g-g	hsa05032	inhibition
+GNG3	pp	ADCY3	g-g	hsa05032	inhibition
+GNG3	pp	ADCY5	g-g	hsa05032	inhibition
+GNG3	pp	ADCY6	g-g	hsa05032	inhibition
+GNG3	pp	ADCY7	g-g	hsa05032	inhibition
+GNG3	pp	ADCY8	g-g	hsa05032	inhibition
+GNG3	pp	ADCY9	g-g	hsa05032	inhibition
+GNG3	pp	ADCY4	g-g	hsa05032	inhibition
+GNG4	pp	ADCY2	g-g	hsa05032	inhibition
+GNG4	pp	ADCY3	g-g	hsa05032	inhibition
+GNG4	pp	ADCY5	g-g	hsa05032	inhibition
+GNG4	pp	ADCY6	g-g	hsa05032	inhibition
+GNG4	pp	ADCY7	g-g	hsa05032	inhibition
+GNG4	pp	ADCY8	g-g	hsa05032	inhibition
+GNG4	pp	ADCY9	g-g	hsa05032	inhibition
+GNG4	pp	ADCY4	g-g	hsa05032	inhibition
+GNG5	pp	ADCY2	g-g	hsa05032	inhibition
+GNG5	pp	ADCY3	g-g	hsa05032	inhibition
+GNG5	pp	ADCY5	g-g	hsa05032	inhibition
+GNG5	pp	ADCY6	g-g	hsa05032	inhibition
+GNG5	pp	ADCY7	g-g	hsa05032	inhibition
+GNG5	pp	ADCY8	g-g	hsa05032	inhibition
+GNG5	pp	ADCY9	g-g	hsa05032	inhibition
+GNG5	pp	ADCY4	g-g	hsa05032	inhibition
+GNG7	pp	ADCY2	g-g	hsa05032	inhibition
+GNG7	pp	ADCY3	g-g	hsa05032	inhibition
+GNG7	pp	ADCY5	g-g	hsa05032	inhibition
+GNG7	pp	ADCY6	g-g	hsa05032	inhibition
+GNG7	pp	ADCY7	g-g	hsa05032	inhibition
+GNG7	pp	ADCY8	g-g	hsa05032	inhibition
+GNG7	pp	ADCY9	g-g	hsa05032	inhibition
+GNG7	pp	ADCY4	g-g	hsa05032	inhibition
+GNG10	pp	ADCY2	g-g	hsa05032	inhibition
+GNG10	pp	ADCY3	g-g	hsa05032	inhibition
+GNG10	pp	ADCY5	g-g	hsa05032	inhibition
+GNG10	pp	ADCY6	g-g	hsa05032	inhibition
+GNG10	pp	ADCY7	g-g	hsa05032	inhibition
+GNG10	pp	ADCY8	g-g	hsa05032	inhibition
+GNG10	pp	ADCY9	g-g	hsa05032	inhibition
+GNG10	pp	ADCY4	g-g	hsa05032	inhibition
+GNG11	pp	ADCY2	g-g	hsa05032	inhibition
+GNG11	pp	ADCY3	g-g	hsa05032	inhibition
+GNG11	pp	ADCY5	g-g	hsa05032	inhibition
+GNG11	pp	ADCY6	g-g	hsa05032	inhibition
+GNG11	pp	ADCY7	g-g	hsa05032	inhibition
+GNG11	pp	ADCY8	g-g	hsa05032	inhibition
+GNG11	pp	ADCY9	g-g	hsa05032	inhibition
+GNG11	pp	ADCY4	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY2	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY3	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY5	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY6	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY7	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY8	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY9	g-g	hsa05032	inhibition
+GNGT1	pp	ADCY4	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY2	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY3	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY5	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY6	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY7	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY8	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY9	g-g	hsa05032	inhibition
+GNGT2	pp	ADCY4	g-g	hsa05032	inhibition
+GNG13	pp	ADCY2	g-g	hsa05032	inhibition
+GNG13	pp	ADCY3	g-g	hsa05032	inhibition
+GNG13	pp	ADCY5	g-g	hsa05032	inhibition
+GNG13	pp	ADCY6	g-g	hsa05032	inhibition
+GNG13	pp	ADCY7	g-g	hsa05032	inhibition
+GNG13	pp	ADCY8	g-g	hsa05032	inhibition
+GNG13	pp	ADCY9	g-g	hsa05032	inhibition
+GNG13	pp	ADCY4	g-g	hsa05032	inhibition
+GNG2	pp	ADCY2	g-g	hsa05032	inhibition
+GNG2	pp	ADCY3	g-g	hsa05032	inhibition
+GNG2	pp	ADCY5	g-g	hsa05032	inhibition
+GNG2	pp	ADCY6	g-g	hsa05032	inhibition
+GNG2	pp	ADCY7	g-g	hsa05032	inhibition
+GNG2	pp	ADCY8	g-g	hsa05032	inhibition
+GNG2	pp	ADCY9	g-g	hsa05032	inhibition
+GNG2	pp	ADCY4	g-g	hsa05032	inhibition
+GNG12	pp	ADCY2	g-g	hsa05032	inhibition
+GNG12	pp	ADCY3	g-g	hsa05032	inhibition
+GNG12	pp	ADCY5	g-g	hsa05032	inhibition
+GNG12	pp	ADCY6	g-g	hsa05032	inhibition
+GNG12	pp	ADCY7	g-g	hsa05032	inhibition
+GNG12	pp	ADCY8	g-g	hsa05032	inhibition
+GNG12	pp	ADCY9	g-g	hsa05032	inhibition
+GNG12	pp	ADCY4	g-g	hsa05032	inhibition
+GNB4	pp	ADCY2	g-g	hsa05032	inhibition
+GNB4	pp	ADCY3	g-g	hsa05032	inhibition
+GNB4	pp	ADCY5	g-g	hsa05032	inhibition
+GNB4	pp	ADCY6	g-g	hsa05032	inhibition
+GNB4	pp	ADCY7	g-g	hsa05032	inhibition
+GNB4	pp	ADCY8	g-g	hsa05032	inhibition
+GNB4	pp	ADCY9	g-g	hsa05032	inhibition
+GNB4	pp	ADCY4	g-g	hsa05032	inhibition
+GNG8	pp	ADCY2	g-g	hsa05032	inhibition
+GNG8	pp	ADCY3	g-g	hsa05032	inhibition
+GNG8	pp	ADCY5	g-g	hsa05032	inhibition
+GNG8	pp	ADCY6	g-g	hsa05032	inhibition
+GNG8	pp	ADCY7	g-g	hsa05032	inhibition
+GNG8	pp	ADCY8	g-g	hsa05032	inhibition
+GNG8	pp	ADCY9	g-g	hsa05032	inhibition
+GNG8	pp	ADCY4	g-g	hsa05032	inhibition
+GNB5, GB5	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNB5, GB5	pp	CACNA1B	g-g	hsa05032	inhibition
+GNAI1	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNAI2	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNAI3	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNAO1	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNB1	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNB2	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNB3	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG3	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG4	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG5	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG7	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG10	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG11	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNGT1	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNGT2	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG13	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG2	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG12	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNB4	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNG8	pp	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa05032	inhibition
+GNAI1	pp	CACNA1B	g-g	hsa05032	inhibition
+GNAI2	pp	CACNA1B	g-g	hsa05032	inhibition
+GNAI3	pp	CACNA1B	g-g	hsa05032	inhibition
+GNAO1	pp	CACNA1B	g-g	hsa05032	inhibition
+GNB1	pp	CACNA1B	g-g	hsa05032	inhibition
+GNB2	pp	CACNA1B	g-g	hsa05032	inhibition
+GNB3	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG3	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG4	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG5	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG7	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG10	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG11	pp	CACNA1B	g-g	hsa05032	inhibition
+GNGT1	pp	CACNA1B	g-g	hsa05032	inhibition
+GNGT2	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG13	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG2	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG12	pp	CACNA1B	g-g	hsa05032	inhibition
+GNB4	pp	CACNA1B	g-g	hsa05032	inhibition
+GNG8	pp	CACNA1B	g-g	hsa05032	inhibition
+GRK2, ADRBK1, BARK1, BETA-ARK1	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	activation
+ADRBK2	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	activation
+GRK4	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	activation
+GRK5	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	activation
+GRK6	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	activation
+C00212	pc	ADORA1, RDC7	c-g	hsa05032	activation
+ARRB1, ARB1, ARR1	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	binding/association
+ARRB2	pp	OPRM1, LMOR, M-OR-1, MOP, MOR, MOR1, OPRM	g-g	hsa05032	binding/association
+C00238				hsa05032	
+C00076				hsa05032	
+C00238				hsa05032	
+C00076				hsa05032	
+C00238				hsa05032	
+C00076				hsa05032	
+C00020				hsa05032	
+PDE10A, ADSD2, HSPDE10A, IOLOD, LINC00473, PDE10A19				hsa05032	
+PDE7B				hsa05032	
+PDE11A				hsa05032	
+PDE1A				hsa05032	
+PDE1C				hsa05032	
+PDE2A				hsa05032	
+PDE3A				hsa05032	
+PDE3B				hsa05032	
+PDE4A				hsa05032	
+PDE4B				hsa05032	
+PDE4C				hsa05032	
+PDE4D				hsa05032	
+PDE7A				hsa05032	
+PDE8A				hsa05032	
+PDE1B				hsa05032	
+PDE8B				hsa05032	
+C00698				hsa05032	
+C00698				hsa05032	
+C00698				hsa05032	
+SLC32A1, VGAT, VIAAT				hsa05032	
+SLC32A1, VGAT, VIAAT				hsa05032	
+SLC32A1, VGAT, VIAAT				hsa05032	
+SLC32A1, VGAT, VIAAT				hsa05032	
+SLC32A1, VGAT, VIAAT				hsa05032	
+C00238				hsa05032	
+C00238				hsa05032	
+C00238				hsa05032	
+C00238				hsa05032	
+C00076				hsa05032	
+C00238				hsa05032	
+C00076				hsa05032	

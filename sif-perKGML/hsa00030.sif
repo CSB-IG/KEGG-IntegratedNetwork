@@ -1,0 +1,344 @@
+IDNK, C9orf103, bA522I202, hGntK	ec	RGN, GNL, HEL-S-41, RC, SMP30	g-g	hsa00030	compound
+PGD, 6PGD	ec	PGLS, 6PGL, HEL-S-304	g-g	hsa00030	compound
+PGLS, 6PGL, HEL-S-304	ec	IDNK, C9orf103, bA522I202, hGntK	g-g	hsa00030	compound
+PGD, 6PGD	ec	IDNK, C9orf103, bA522I202, hGntK	g-g	hsa00030	compound
+PGLS, 6PGL, HEL-S-304	ec	G6PD, G6PD1	g-g	hsa00030	compound
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	ec	G6PD, G6PD1	g-g	hsa00030	compound
+RPE, RPE2-1	ec	PGD, 6PGD	g-g	hsa00030	compound
+RPEL1	ec	PGD, 6PGD	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	PGD, 6PGD	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	RPE, RPE2-1	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	RPEL1	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+TKTL1	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+TKTL2	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+PGM2, MSTP006	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	PGM2	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+PRPS1L1	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+PRPS2	ec	RPIA, RPI, RPIAD	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	TKTL1	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	TKTL2	g-g	hsa00030	compound
+PGM2, MSTP006	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+PGM2, MSTP006	ec	TKTL1	g-g	hsa00030	compound
+PGM2, MSTP006	ec	TKTL2	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	PGM2	g-g	hsa00030	compound
+TKTL1	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+TKTL2	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+TKTL1	ec	PGM2	g-g	hsa00030	compound
+TKTL2	ec	PGM2	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	TKTL1	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	TKTL2	g-g	hsa00030	compound
+PRPS1L1	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+PRPS2	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+PRPS1L1	ec	TKTL1	g-g	hsa00030	compound
+PRPS1L1	ec	TKTL2	g-g	hsa00030	compound
+PRPS2	ec	TKTL1	g-g	hsa00030	compound
+PRPS2	ec	TKTL2	g-g	hsa00030	compound
+PGM2, MSTP006	ec	RBKS, RBSK, RK	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	PGM2	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	RBKS, RBSK, RK	g-g	hsa00030	compound
+PRPS1L1	ec	RBKS, RBSK, RK	g-g	hsa00030	compound
+PRPS2	ec	RBKS, RBSK, RK	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	PGM2, MSTP006	g-g	hsa00030	compound
+PRPS1L1	ec	PGM2, MSTP006	g-g	hsa00030	compound
+PRPS2	ec	PGM2, MSTP006	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	ec	PGM2	g-g	hsa00030	compound
+PRPS1L1	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+PRPS2	ec	PGM1, CDG1T, GSD14	g-g	hsa00030	compound
+PRPS1L1	ec	PGM2	g-g	hsa00030	compound
+PRPS2	ec	PGM2	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL2	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL2	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+TKTL1	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+TKTL2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+PFKL, ATP-PFK, PFK-B, PFK-L	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+PFKM	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+PFKP	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+FBP1, FBP	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+FBP2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	PFKM	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	PFKP	g-g	hsa00030	compound
+TKTL1	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+TKTL2	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+TKTL1	ec	PFKM	g-g	hsa00030	compound
+TKTL1	ec	PFKP	g-g	hsa00030	compound
+TKTL2	ec	PFKM	g-g	hsa00030	compound
+TKTL2	ec	PFKP	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	FBP1, FBP	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	FBP2	g-g	hsa00030	compound
+TKTL1	ec	FBP1, FBP	g-g	hsa00030	compound
+TKTL2	ec	FBP1, FBP	g-g	hsa00030	compound
+TKTL1	ec	FBP2	g-g	hsa00030	compound
+TKTL2	ec	FBP2	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	PFKM	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	PFKP	g-g	hsa00030	compound
+ALDOB	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+ALDOC	ec	PFKL, ATP-PFK, PFK-B, PFK-L	g-g	hsa00030	compound
+ALDOB	ec	PFKM	g-g	hsa00030	compound
+ALDOB	ec	PFKP	g-g	hsa00030	compound
+ALDOC	ec	PFKM	g-g	hsa00030	compound
+ALDOC	ec	PFKP	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	FBP1, FBP	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	FBP2	g-g	hsa00030	compound
+ALDOB	ec	FBP1, FBP	g-g	hsa00030	compound
+ALDOC	ec	FBP1, FBP	g-g	hsa00030	compound
+ALDOB	ec	FBP2	g-g	hsa00030	compound
+ALDOC	ec	FBP2	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	ALDOB	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	ALDOC	g-g	hsa00030	compound
+TKTL1	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00030	compound
+TKTL2	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00030	compound
+TKTL1	ec	ALDOB	g-g	hsa00030	compound
+TKTL1	ec	ALDOC	g-g	hsa00030	compound
+TKTL2	ec	ALDOB	g-g	hsa00030	compound
+TKTL2	ec	ALDOC	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	ALDOA, ALDA, GSD12, HEL-S-87p	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	ALDOB	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	ALDOC	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKTL1	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKTL2	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	DERA, CGI-26, DEOC	g-g	hsa00030	compound
+PGM2, MSTP006	ec	DERA, CGI-26, DEOC	g-g	hsa00030	compound
+RBKS, RBSK, RK	ec	PGM2, MSTP006	g-g	hsa00030	compound
+FBP1, FBP	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+FBP2	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+PFKL, ATP-PFK, PFK-B, PFK-L	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+PFKM	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+PFKP	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL2	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	RPE, RPE2-1	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	RPEL1	g-g	hsa00030	compound
+TKTL1	ec	RPE, RPE2-1	g-g	hsa00030	compound
+TKTL2	ec	RPE, RPE2-1	g-g	hsa00030	compound
+TKTL1	ec	RPEL1	g-g	hsa00030	compound
+TKTL2	ec	RPEL1	g-g	hsa00030	compound
+RPE, RPE2-1	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+RPE, RPE2-1	ec	TKTL1	g-g	hsa00030	compound
+RPE, RPE2-1	ec	TKTL2	g-g	hsa00030	compound
+RPEL1	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+RPEL1	ec	TKTL1	g-g	hsa00030	compound
+RPEL1	ec	TKTL2	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	TKTL1	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	TKTL2	g-g	hsa00030	compound
+ALDOB	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+ALDOC	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+ALDOB	ec	TKTL1	g-g	hsa00030	compound
+ALDOB	ec	TKTL2	g-g	hsa00030	compound
+ALDOC	ec	TKTL1	g-g	hsa00030	compound
+ALDOC	ec	TKTL2	g-g	hsa00030	compound
+ALDOA, ALDA, GSD12, HEL-S-87p	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+ALDOB	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+ALDOC	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKTL1	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TKTL2	g-g	hsa00030	compound
+DERA, CGI-26, DEOC	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL1	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TKTL2	ec	TALDO1, TAL, TAL-H, TALDOR, TALH	g-g	hsa00030	compound
+TALDO1, TAL, TAL-H, TALDOR, TALH	ec	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	g-g	hsa00030	compound
+TALDO1, TAL, TAL-H, TALDOR, TALH	ec	TKTL1	g-g	hsa00030	compound
+TALDO1, TAL, TAL-H, TALDOR, TALH	ec	TKTL2	g-g	hsa00030	compound
+PGLS, 6PGL, HEL-S-304	ec	H6PD, CORTRD1, G6PDH, GDH	g-g	hsa00030	compound
+H6PD, CORTRD1, G6PDH, GDH	ec	IDNK, C9orf103, bA522I202, hGntK	g-g	hsa00030	compound
+H6PD, CORTRD1, G6PDH, GDH	ec	PGD, 6PGD	g-g	hsa00030	compound
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	ec	H6PD, CORTRD1, G6PDH, GDH	g-g	hsa00030	compound
+G6PD, G6PD1	ec	H6PD, CORTRD1, G6PDH, GDH	g-g	hsa00030	compound
+PGLS, 6PGL, HEL-S-304	ec	PGD, 6PGD	g-g	hsa00030	compound
+PGD, 6PGD	ec	IDNK, C9orf103, bA522I202, hGntK	g-g	hsa00030	compound
+PGD, 6PGD	ec	H6PD, CORTRD1, G6PDH, GDH	g-g	hsa00030	compound
+RPIA, RPI, RPIAD	ec	PGD, 6PGD	g-g	hsa00030	compound
+RPE, RPE2-1	ec	PGD, 6PGD	g-g	hsa00030	compound
+RPEL1	ec	PGD, 6PGD	g-g	hsa00030	compound
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	ec	G6PD, G6PD1	g-g	hsa00030	compound
+G6PD, G6PD1	ec	H6PD, CORTRD1, G6PDH, GDH	g-g	hsa00030	compound
+G6PD, G6PD1	ec	PGLS, 6PGL, HEL-S-304	g-g	hsa00030	compound
+C00668	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00030	se
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C00668	reversible	hsa00030	ep
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C01172	reversible	hsa00030	ep
+C01172	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00030	se
+C01801	rt	RBKS, RBSK, RK	reversible	hsa00030	se
+RBKS, RBSK, RK	rt	C01801	reversible	hsa00030	ep
+RBKS, RBSK, RK	rt	C00673	reversible	hsa00030	ep
+C00673	rt	RBKS, RBSK, RK	reversible	hsa00030	se
+C00672	rt	PGM2, MSTP006	reversible	hsa00030	se
+PGM2, MSTP006	rt	C00672	reversible	hsa00030	ep
+PGM2, MSTP006	rt	C00673	reversible	hsa00030	ep
+C00673	rt	PGM2, MSTP006	reversible	hsa00030	se
+C00673	rt	DERA, CGI-26, DEOC	reversible	hsa00030	se
+DERA, CGI-26, DEOC	rt	C00673	reversible	hsa00030	ep
+DERA, CGI-26, DEOC	rt	C00118	reversible	hsa00030	ep
+C00118	rt	DERA, CGI-26, DEOC	reversible	hsa00030	se
+C00117	rt	PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	reversible	hsa00030	se
+C00117	rt	PRPS1L1	reversible	hsa00030	se
+C00117	rt	PRPS2	reversible	hsa00030	se
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	rt	C00117	reversible	hsa00030	ep
+PRPS1L1	rt	C00117	reversible	hsa00030	ep
+PRPS2	rt	C00117	reversible	hsa00030	ep
+PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	rt	C00119	reversible	hsa00030	ep
+PRPS1L1	rt	C00119	reversible	hsa00030	ep
+PRPS2	rt	C00119	reversible	hsa00030	ep
+C00119	rt	PRPS1L1, PRPS1, PRPS3, PRPSL, PRS-III	reversible	hsa00030	se
+C00119	rt	PRPS1L1	reversible	hsa00030	se
+C00119	rt	PRPS2	reversible	hsa00030	se
+C00620	rt	PGM2, MSTP006	reversible	hsa00030	se
+PGM2, MSTP006	rt	C00620	reversible	hsa00030	ep
+PGM2, MSTP006	rt	C00117	reversible	hsa00030	ep
+C00117	rt	PGM2, MSTP006	reversible	hsa00030	se
+C00121	rt	RBKS, RBSK, RK	reversible	hsa00030	se
+RBKS, RBSK, RK	rt	C00121	reversible	hsa00030	ep
+RBKS, RBSK, RK	rt	C00117	reversible	hsa00030	ep
+C00117	rt	RBKS, RBSK, RK	reversible	hsa00030	se
+C05382	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C05382	rt	TKTL1	reversible	hsa00030	se
+C05382	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C05382	reversible	hsa00030	ep
+TKTL1	rt	C05382	reversible	hsa00030	ep
+TKTL2	rt	C05382	reversible	hsa00030	ep
+C00118	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00118	rt	TKTL1	reversible	hsa00030	se
+C00118	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00118	reversible	hsa00030	ep
+TKTL1	rt	C00118	reversible	hsa00030	ep
+TKTL2	rt	C00118	reversible	hsa00030	ep
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00117	reversible	hsa00030	ep
+TKTL1	rt	C00117	reversible	hsa00030	ep
+TKTL2	rt	C00117	reversible	hsa00030	ep
+C00117	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00117	rt	TKTL1	reversible	hsa00030	se
+C00117	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00231	reversible	hsa00030	ep
+TKTL1	rt	C00231	reversible	hsa00030	ep
+TKTL2	rt	C00231	reversible	hsa00030	ep
+C00231	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00231	rt	TKTL1	reversible	hsa00030	se
+C00231	rt	TKTL2	reversible	hsa00030	se
+C00117	rt	RPIA, RPI, RPIAD	reversible	hsa00030	se
+RPIA, RPI, RPIAD	rt	C00117	reversible	hsa00030	ep
+RPIA, RPI, RPIAD	rt	C00199	reversible	hsa00030	ep
+C00199	rt	RPIA, RPI, RPIAD	reversible	hsa00030	se
+C00199	rt	RPE, RPE2-1	reversible	hsa00030	se
+C00199	rt	RPEL1	reversible	hsa00030	se
+RPE, RPE2-1	rt	C00199	reversible	hsa00030	ep
+RPEL1	rt	C00199	reversible	hsa00030	ep
+RPE, RPE2-1	rt	C00231	reversible	hsa00030	ep
+RPEL1	rt	C00231	reversible	hsa00030	ep
+C00231	rt	RPE, RPE2-1	reversible	hsa00030	se
+C00231	rt	RPEL1	reversible	hsa00030	se
+C00118	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00118	rt	TKTL1	reversible	hsa00030	se
+C00118	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00118	reversible	hsa00030	ep
+TKTL1	rt	C00118	reversible	hsa00030	ep
+TKTL2	rt	C00118	reversible	hsa00030	ep
+C05345	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C05345	rt	TKTL1	reversible	hsa00030	se
+C05345	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C05345	reversible	hsa00030	ep
+TKTL1	rt	C05345	reversible	hsa00030	ep
+TKTL2	rt	C05345	reversible	hsa00030	ep
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00279	reversible	hsa00030	ep
+TKTL1	rt	C00279	reversible	hsa00030	ep
+TKTL2	rt	C00279	reversible	hsa00030	ep
+C00279	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00279	rt	TKTL1	reversible	hsa00030	se
+C00279	rt	TKTL2	reversible	hsa00030	se
+TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	rt	C00231	reversible	hsa00030	ep
+TKTL1	rt	C00231	reversible	hsa00030	ep
+TKTL2	rt	C00231	reversible	hsa00030	ep
+C00231	rt	TKT, HEL-S-48, HEL107, SDDHD, TK, TKT1	reversible	hsa00030	se
+C00231	rt	TKTL1	reversible	hsa00030	se
+C00231	rt	TKTL2	reversible	hsa00030	se
+C05378	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00030	se
+C05378	rt	ALDOB	reversible	hsa00030	se
+C05378	rt	ALDOC	reversible	hsa00030	se
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C05378	reversible	hsa00030	ep
+ALDOB	rt	C05378	reversible	hsa00030	ep
+ALDOC	rt	C05378	reversible	hsa00030	ep
+ALDOA, ALDA, GSD12, HEL-S-87p	rt	C00118	reversible	hsa00030	ep
+ALDOB	rt	C00118	reversible	hsa00030	ep
+ALDOC	rt	C00118	reversible	hsa00030	ep
+C00118	rt	ALDOA, ALDA, GSD12, HEL-S-87p	reversible	hsa00030	se
+C00118	rt	ALDOB	reversible	hsa00030	se
+C00118	rt	ALDOC	reversible	hsa00030	se
+C05345	rt	PFKL, ATP-PFK, PFK-B, PFK-L	irreversible	hsa00030	se
+C05345	rt	PFKM	irreversible	hsa00030	se
+C05345	rt	PFKP	irreversible	hsa00030	se
+PFKL, ATP-PFK, PFK-B, PFK-L	rt	C05378	irreversible	hsa00030	ep
+PFKM	rt	C05378	irreversible	hsa00030	ep
+PFKP	rt	C05378	irreversible	hsa00030	ep
+C05378	rt	FBP1, FBP	irreversible	hsa00030	se
+C05378	rt	FBP2	irreversible	hsa00030	se
+FBP1, FBP	rt	C05345	irreversible	hsa00030	ep
+FBP2	rt	C05345	irreversible	hsa00030	ep
+C00668	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00030	se
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C00668	reversible	hsa00030	ep
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C05345	reversible	hsa00030	ep
+C05345	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00030	se
+C00345	rt	PGD, 6PGD	irreversible	hsa00030	se
+PGD, 6PGD	rt	C00199	irreversible	hsa00030	ep
+C01236	rt	PGLS, 6PGL, HEL-S-304	irreversible	hsa00030	se
+PGLS, 6PGL, HEL-S-304	rt	C00345	irreversible	hsa00030	ep
+C01172	rt	G6PD, G6PD1	irreversible	hsa00030	se
+G6PD, G6PD1	rt	C01236	irreversible	hsa00030	ep
+C00257	rt	IDNK, C9orf103, bA522I202, hGntK	irreversible	hsa00030	se
+IDNK, C9orf103, bA522I202, hGntK	rt	C00345	irreversible	hsa00030	ep
+C00198	rt	RGN, GNL, HEL-S-41, RC, SMP30	irreversible	hsa00030	se
+RGN, GNL, HEL-S-41, RC, SMP30	rt	C00257	irreversible	hsa00030	ep
+C05382	rt	TALDO1, TAL, TAL-H, TALDOR, TALH	reversible	hsa00030	se
+TALDO1, TAL, TAL-H, TALDOR, TALH	rt	C05382	reversible	hsa00030	ep
+C00118	rt	TALDO1, TAL, TAL-H, TALDOR, TALH	reversible	hsa00030	se
+TALDO1, TAL, TAL-H, TALDOR, TALH	rt	C00118	reversible	hsa00030	ep
+TALDO1, TAL, TAL-H, TALDOR, TALH	rt	C00279	reversible	hsa00030	ep
+C00279	rt	TALDO1, TAL, TAL-H, TALDOR, TALH	reversible	hsa00030	se
+TALDO1, TAL, TAL-H, TALDOR, TALH	rt	C05345	reversible	hsa00030	ep
+C05345	rt	TALDO1, TAL, TAL-H, TALDOR, TALH	reversible	hsa00030	se
+C00620	rt	PGM1, CDG1T, GSD14	reversible	hsa00030	se
+C00620	rt	PGM2	reversible	hsa00030	se
+PGM1, CDG1T, GSD14	rt	C00620	reversible	hsa00030	ep
+PGM2	rt	C00620	reversible	hsa00030	ep
+PGM1, CDG1T, GSD14	rt	C00117	reversible	hsa00030	ep
+PGM2	rt	C00117	reversible	hsa00030	ep
+C00117	rt	PGM1, CDG1T, GSD14	reversible	hsa00030	se
+C00117	rt	PGM2	reversible	hsa00030	se
+C00258	rt	GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	irreversible	hsa00030	se
+GLYCTK, HBEBP2, HBEBP4, HBeAgBP4A	rt	C00631	irreversible	hsa00030	ep
+C00345	rt	PGD, 6PGD	irreversible	hsa00030	se
+PGD, 6PGD	rt	C00199	irreversible	hsa00030	ep
+C01172	rt	G6PD, G6PD1	irreversible	hsa00030	se
+G6PD, G6PD1	rt	C01236	irreversible	hsa00030	ep
+C01151				hsa00030	
+C00022				hsa00030	
+C00031				hsa00030	
+C00221				hsa00030	
+C00204				hsa00030	
+C03752				hsa00030	
+C04442				hsa00030	
+C01218				hsa00030	
+C06473				hsa00030	
+C00577				hsa00030	
+C06019				hsa00030	
+C20589				hsa00030	
+C03752				hsa00030	
+C00197				hsa00030	

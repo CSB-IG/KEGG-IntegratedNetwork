@@ -1,0 +1,571 @@
+NNMT	ec	AOX1, AO, AOH1	g-g	hsa00760	compound
+BST1, CD157	ec	NNMT	g-g	hsa00760	compound
+CD38	ec	NNMT	g-g	hsa00760	compound
+NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	ec	NNMT	g-g	hsa00760	compound
+PNP, NP, PRO1837, PUNP	ec	NNMT	g-g	hsa00760	compound
+NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	ec	BST1, CD157	g-g	hsa00760	compound
+NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	ec	CD38	g-g	hsa00760	compound
+PNP, NP, PRO1837, PUNP	ec	BST1, CD157	g-g	hsa00760	compound
+PNP, NP, PRO1837, PUNP	ec	CD38	g-g	hsa00760	compound
+PNP, NP, PRO1837, PUNP	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NMRK1	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMRK1	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NUDT12	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+ENPP3	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT3	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT1	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT3	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NMNAT1	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NUDT12	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NUDT12	ec	NMRK1	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NMRK1	g-g	hsa00760	compound
+ENPP3	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+ENPP3	ec	NMRK1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NMRK1	g-g	hsa00760	compound
+NMNAT3	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT1	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT3	ec	NMRK1	g-g	hsa00760	compound
+NMNAT1	ec	NMRK1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NMRK1	g-g	hsa00760	compound
+NMNAT3	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT1	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NMNAT3	ec	NMRK1	g-g	hsa00760	compound
+NMNAT1	ec	NMRK1	g-g	hsa00760	compound
+BST1, CD157	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+BST1, CD157	ec	NADK	g-g	hsa00760	compound
+CD38	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+CD38	ec	NADK	g-g	hsa00760	compound
+BST1, CD157	ec	NNT, GCCD4	g-g	hsa00760	compound
+CD38	ec	NNT, GCCD4	g-g	hsa00760	compound
+NADSYN1	ec	BST1, CD157	g-g	hsa00760	compound
+NADSYN1	ec	CD38	g-g	hsa00760	compound
+NUDT12	ec	BST1, CD157	g-g	hsa00760	compound
+NUDT12	ec	CD38	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	BST1, CD157	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	CD38	g-g	hsa00760	compound
+ENPP3	ec	BST1, CD157	g-g	hsa00760	compound
+ENPP3	ec	CD38	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	CD38	g-g	hsa00760	compound
+NMNAT3	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT1	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT3	ec	CD38	g-g	hsa00760	compound
+NMNAT1	ec	CD38	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	CD38	g-g	hsa00760	compound
+NMNAT3	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT1	ec	BST1, CD157	g-g	hsa00760	compound
+NMNAT3	ec	CD38	g-g	hsa00760	compound
+NMNAT1	ec	CD38	g-g	hsa00760	compound
+NADSYN1	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NADSYN1	ec	NADK	g-g	hsa00760	compound
+NUDT12	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NUDT12	ec	NADK	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NADK	g-g	hsa00760	compound
+ENPP3	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+ENPP3	ec	NADK	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADK	g-g	hsa00760	compound
+NMNAT3	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT1	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT3	ec	NADK	g-g	hsa00760	compound
+NMNAT1	ec	NADK	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADK	g-g	hsa00760	compound
+NMNAT3	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT1	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+NMNAT3	ec	NADK	g-g	hsa00760	compound
+NMNAT1	ec	NADK	g-g	hsa00760	compound
+NADSYN1	ec	NNT, GCCD4	g-g	hsa00760	compound
+NUDT12	ec	NNT, GCCD4	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NNT, GCCD4	g-g	hsa00760	compound
+ENPP3	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT3	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT1	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT3	ec	NNT, GCCD4	g-g	hsa00760	compound
+NMNAT1	ec	NNT, GCCD4	g-g	hsa00760	compound
+NADSYN1	ec	NUDT12	g-g	hsa00760	compound
+NADSYN1	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NADSYN1	ec	ENPP3	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT3	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT1	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT3	g-g	hsa00760	compound
+NADSYN1	ec	NMNAT1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT3	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT1	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT3	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT1	ec	NADSYN1	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NADSYN1	g-g	hsa00760	compound
+ENPP3	ec	NADSYN1	g-g	hsa00760	compound
+NUDT12	ec	NADSYN1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMNAT3	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMNAT1	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT3	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT1	g-g	hsa00760	compound
+NMRK1	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NMRK1	ec	NMNAT3	g-g	hsa00760	compound
+NMRK1	ec	NMNAT1	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT3	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT1	g-g	hsa00760	compound
+NMNAT2, C1orf15, PNAT2	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMNAT3	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMNAT1	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT3	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NMNAT1	g-g	hsa00760	compound
+NMRK1	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NMRK1	ec	NMNAT3	g-g	hsa00760	compound
+NMRK1	ec	NMNAT1	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT3	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMNAT1	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NMRK1	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+ENPP3	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NUDT12	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	NMRK1	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	NMRK1	g-g	hsa00760	compound
+ENPP3	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+ENPP3	ec	NMRK1	g-g	hsa00760	compound
+NUDT12	ec	NMRK2, ITGB1BP3, MIBP, NRK2	g-g	hsa00760	compound
+NUDT12	ec	NMRK1	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+QPRT, HEL-S-90n, QPRTase	ec	ENPP3	g-g	hsa00760	compound
+NUDT12	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NMRK2, ITGB1BP3, MIBP, NRK2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NMRK1	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+PNP, NP, PRO1837, PUNP	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+AOX1, AO, AOH1	ec	NNMT	g-g	hsa00760	compound
+BST1, CD157	ec	NNT, GCCD4	g-g	hsa00760	compound
+CD38	ec	NNT, GCCD4	g-g	hsa00760	compound
+BST1, CD157	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+BST1, CD157	ec	NADK	g-g	hsa00760	compound
+CD38	ec	NADK2, C5orf33, DECRD, MNADK, NADKD1	g-g	hsa00760	compound
+CD38	ec	NADK	g-g	hsa00760	compound
+NNMT	ec	BST1, CD157	g-g	hsa00760	compound
+NNMT	ec	CD38	g-g	hsa00760	compound
+BST1, CD157	ec	BST1, CD157	g-g	hsa00760	compound
+BST1, CD157	ec	CD38	g-g	hsa00760	compound
+CD38	ec	BST1, CD157	g-g	hsa00760	compound
+CD38	ec	CD38	g-g	hsa00760	compound
+BST1, CD157	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+CD38	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+BST1, CD157	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+CD38	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NUDT12	g-g	hsa00760	compound
+NT5C3B	ec	NUDT12	g-g	hsa00760	compound
+NT5C2	ec	NUDT12	g-g	hsa00760	compound
+NT5C	ec	NUDT12	g-g	hsa00760	compound
+NT5E	ec	NUDT12	g-g	hsa00760	compound
+NT5C3A	ec	NUDT12	g-g	hsa00760	compound
+NT5M	ec	NUDT12	g-g	hsa00760	compound
+NT5C1A	ec	NUDT12	g-g	hsa00760	compound
+NT5C1B	ec	NUDT12	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C3B	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C2	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5E	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C3A	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5M	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C1A	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C1B	ec	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	ENPP3	g-g	hsa00760	compound
+NT5C3B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5E	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C3A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5M	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C3B	ec	ENPP3	g-g	hsa00760	compound
+NT5C2	ec	ENPP3	g-g	hsa00760	compound
+NT5C	ec	ENPP3	g-g	hsa00760	compound
+NT5E	ec	ENPP3	g-g	hsa00760	compound
+NT5C3A	ec	ENPP3	g-g	hsa00760	compound
+NT5M	ec	ENPP3	g-g	hsa00760	compound
+NT5C1A	ec	ENPP3	g-g	hsa00760	compound
+NT5C1B	ec	ENPP3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5E	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5M	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C2	ec	NMNAT3	g-g	hsa00760	compound
+NT5C2	ec	NMNAT1	g-g	hsa00760	compound
+NT5C	ec	NMNAT3	g-g	hsa00760	compound
+NT5C	ec	NMNAT1	g-g	hsa00760	compound
+NT5E	ec	NMNAT3	g-g	hsa00760	compound
+NT5E	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT1	g-g	hsa00760	compound
+NT5M	ec	NMNAT3	g-g	hsa00760	compound
+NT5M	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5E	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5M	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C2	ec	NMNAT3	g-g	hsa00760	compound
+NT5C2	ec	NMNAT1	g-g	hsa00760	compound
+NT5C	ec	NMNAT3	g-g	hsa00760	compound
+NT5C	ec	NMNAT1	g-g	hsa00760	compound
+NT5E	ec	NMNAT3	g-g	hsa00760	compound
+NT5E	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT1	g-g	hsa00760	compound
+NT5M	ec	NMNAT3	g-g	hsa00760	compound
+NT5M	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C3B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5E	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C3A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5M	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C3B	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C2	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5E	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C3A	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5M	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C1A	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C1B	ec	QPRT, HEL-S-90n, QPRTase	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NUDT12	g-g	hsa00760	compound
+NT5C3B	ec	NUDT12	g-g	hsa00760	compound
+NT5C2	ec	NUDT12	g-g	hsa00760	compound
+NT5C	ec	NUDT12	g-g	hsa00760	compound
+NT5E	ec	NUDT12	g-g	hsa00760	compound
+NT5C3A	ec	NUDT12	g-g	hsa00760	compound
+NT5M	ec	NUDT12	g-g	hsa00760	compound
+NT5C1A	ec	NUDT12	g-g	hsa00760	compound
+NT5C1B	ec	NUDT12	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C3B	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C2	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5E	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C3A	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5M	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C1A	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C1B	ec	NAPRT, NAPRT1, PP3856	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	ENPP3	g-g	hsa00760	compound
+NT5C3B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5E	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C3A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5M	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1A	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C1B	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00760	compound
+NT5C3B	ec	ENPP3	g-g	hsa00760	compound
+NT5C2	ec	ENPP3	g-g	hsa00760	compound
+NT5C	ec	ENPP3	g-g	hsa00760	compound
+NT5E	ec	ENPP3	g-g	hsa00760	compound
+NT5C3A	ec	ENPP3	g-g	hsa00760	compound
+NT5M	ec	ENPP3	g-g	hsa00760	compound
+NT5C1A	ec	ENPP3	g-g	hsa00760	compound
+NT5C1B	ec	ENPP3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5E	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5M	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C2	ec	NMNAT3	g-g	hsa00760	compound
+NT5C2	ec	NMNAT1	g-g	hsa00760	compound
+NT5C	ec	NMNAT3	g-g	hsa00760	compound
+NT5C	ec	NMNAT1	g-g	hsa00760	compound
+NT5E	ec	NMNAT3	g-g	hsa00760	compound
+NT5E	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT1	g-g	hsa00760	compound
+NT5M	ec	NMNAT3	g-g	hsa00760	compound
+NT5M	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C2	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5E	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5M	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT2, C1orf15, PNAT2	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C2	ec	NMNAT3	g-g	hsa00760	compound
+NT5C2	ec	NMNAT1	g-g	hsa00760	compound
+NT5C	ec	NMNAT3	g-g	hsa00760	compound
+NT5C	ec	NMNAT1	g-g	hsa00760	compound
+NT5E	ec	NMNAT3	g-g	hsa00760	compound
+NT5E	ec	NMNAT1	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C3A	ec	NMNAT1	g-g	hsa00760	compound
+NT5M	ec	NMNAT3	g-g	hsa00760	compound
+NT5M	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1A	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT3	g-g	hsa00760	compound
+NT5C1B	ec	NMNAT1	g-g	hsa00760	compound
+NT5C1B-RDH14	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C3B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C2	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5E	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C3A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5M	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1A	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+NT5C1B	ec	PNP, NP, PRO1837, PUNP	g-g	hsa00760	compound
+C00049	rt	ASPDH	irreversible	hsa00760	se
+ASPDH	rt	C05840	irreversible	hsa00760	ep
+C00857	rt	NUDT12	irreversible	hsa00760	se
+NUDT12	rt	C01185	irreversible	hsa00760	ep
+C03722	rt	QPRT, HEL-S-90n, QPRTase	irreversible	hsa00760	se
+QPRT, HEL-S-90n, QPRTase	rt	C01185	irreversible	hsa00760	ep
+C00857	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00760	se
+C00857	rt	ENPP3	irreversible	hsa00760	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C01185	irreversible	hsa00760	ep
+ENPP3	rt	C01185	irreversible	hsa00760	ep
+C05841	rt	NMRK2, ITGB1BP3, MIBP, NRK2	irreversible	hsa00760	se
+C05841	rt	NMRK1	irreversible	hsa00760	se
+NMRK2, ITGB1BP3, MIBP, NRK2	rt	C01185	irreversible	hsa00760	ep
+NMRK1	rt	C01185	irreversible	hsa00760	ep
+C05841	rt	PNP, NP, PRO1837, PUNP	reversible	hsa00760	se
+PNP, NP, PRO1837, PUNP	rt	C05841	reversible	hsa00760	ep
+PNP, NP, PRO1837, PUNP	rt	C00253	reversible	hsa00760	ep
+C00253	rt	PNP, NP, PRO1837, PUNP	reversible	hsa00760	se
+C01185	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C01185	rt	NMNAT3	reversible	hsa00760	se
+C01185	rt	NMNAT1	reversible	hsa00760	se
+NMNAT2, C1orf15, PNAT2	rt	C01185	reversible	hsa00760	ep
+NMNAT3	rt	C01185	reversible	hsa00760	ep
+NMNAT1	rt	C01185	reversible	hsa00760	ep
+NMNAT2, C1orf15, PNAT2	rt	C00857	reversible	hsa00760	ep
+NMNAT3	rt	C00857	reversible	hsa00760	ep
+NMNAT1	rt	C00857	reversible	hsa00760	ep
+C00857	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00857	rt	NMNAT3	reversible	hsa00760	se
+C00857	rt	NMNAT1	reversible	hsa00760	se
+C01185	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C01185	rt	NMNAT3	reversible	hsa00760	se
+C01185	rt	NMNAT1	reversible	hsa00760	se
+NMNAT2, C1orf15, PNAT2	rt	C01185	reversible	hsa00760	ep
+NMNAT3	rt	C01185	reversible	hsa00760	ep
+NMNAT1	rt	C01185	reversible	hsa00760	ep
+NMNAT2, C1orf15, PNAT2	rt	C00857	reversible	hsa00760	ep
+NMNAT3	rt	C00857	reversible	hsa00760	ep
+NMNAT1	rt	C00857	reversible	hsa00760	ep
+C00857	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00857	rt	NMNAT3	reversible	hsa00760	se
+C00857	rt	NMNAT1	reversible	hsa00760	se
+C00857	rt	NADSYN1	irreversible	hsa00760	se
+NADSYN1	rt	C00003	irreversible	hsa00760	ep
+C01185	rt	NAPRT, NAPRT1, PP3856	reversible	hsa00760	se
+NAPRT, NAPRT1, PP3856	rt	C01185	reversible	hsa00760	ep
+NAPRT, NAPRT1, PP3856	rt	C00253	reversible	hsa00760	ep
+C00253	rt	NAPRT, NAPRT1, PP3856	reversible	hsa00760	se
+C00003	rt	NUDT12	irreversible	hsa00760	se
+NUDT12	rt	C00455	irreversible	hsa00760	ep
+C00003	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00760	se
+C00003	rt	ENPP3	irreversible	hsa00760	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00455	irreversible	hsa00760	ep
+ENPP3	rt	C00455	irreversible	hsa00760	ep
+C00455	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00455	rt	NMNAT3	reversible	hsa00760	se
+C00455	rt	NMNAT1	reversible	hsa00760	se
+NMNAT2, C1orf15, PNAT2	rt	C00455	reversible	hsa00760	ep
+NMNAT3	rt	C00455	reversible	hsa00760	ep
+NMNAT1	rt	C00455	reversible	hsa00760	ep
+NMNAT2, C1orf15, PNAT2	rt	C00003	reversible	hsa00760	ep
+NMNAT3	rt	C00003	reversible	hsa00760	ep
+NMNAT1	rt	C00003	reversible	hsa00760	ep
+C00003	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00003	rt	NMNAT3	reversible	hsa00760	se
+C00003	rt	NMNAT1	reversible	hsa00760	se
+C00455	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00455	rt	NMNAT3	reversible	hsa00760	se
+C00455	rt	NMNAT1	reversible	hsa00760	se
+NMNAT2, C1orf15, PNAT2	rt	C00455	reversible	hsa00760	ep
+NMNAT3	rt	C00455	reversible	hsa00760	ep
+NMNAT1	rt	C00455	reversible	hsa00760	ep
+NMNAT2, C1orf15, PNAT2	rt	C00003	reversible	hsa00760	ep
+NMNAT3	rt	C00003	reversible	hsa00760	ep
+NMNAT1	rt	C00003	reversible	hsa00760	ep
+C00003	rt	NMNAT2, C1orf15, PNAT2	reversible	hsa00760	se
+C00003	rt	NMNAT3	reversible	hsa00760	se
+C00003	rt	NMNAT1	reversible	hsa00760	se
+C03150	rt	NMRK2, ITGB1BP3, MIBP, NRK2	irreversible	hsa00760	se
+C03150	rt	NMRK1	irreversible	hsa00760	se
+NMRK2, ITGB1BP3, MIBP, NRK2	rt	C00455	irreversible	hsa00760	ep
+NMRK1	rt	C00455	irreversible	hsa00760	ep
+C03150	rt	PNP, NP, PRO1837, PUNP	reversible	hsa00760	se
+PNP, NP, PRO1837, PUNP	rt	C03150	reversible	hsa00760	ep
+PNP, NP, PRO1837, PUNP	rt	C00153	reversible	hsa00760	ep
+C00153	rt	PNP, NP, PRO1837, PUNP	reversible	hsa00760	se
+C00455	rt	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	reversible	hsa00760	se
+NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	rt	C00455	reversible	hsa00760	ep
+NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	rt	C00153	reversible	hsa00760	ep
+C00153	rt	NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	reversible	hsa00760	se
+C00003	rt	BST1, CD157	irreversible	hsa00760	se
+C00003	rt	CD38	irreversible	hsa00760	se
+BST1, CD157	rt	C00153	irreversible	hsa00760	ep
+CD38	rt	C00153	irreversible	hsa00760	ep
+C00153	rt	NNMT	irreversible	hsa00760	se
+NNMT	rt	C02918	irreversible	hsa00760	ep
+C02918	rt	AOX1, AO, AOH1	irreversible	hsa00760	se
+AOX1, AO, AOH1	rt	C05843	irreversible	hsa00760	ep
+C00003	rt	NADK2, C5orf33, DECRD, MNADK, NADKD1	irreversible	hsa00760	se
+C00003	rt	NADK	irreversible	hsa00760	se
+NADK2, C5orf33, DECRD, MNADK, NADKD1	rt	C00006	irreversible	hsa00760	ep
+NADK	rt	C00006	irreversible	hsa00760	ep
+C00003	rt	NNT, GCCD4	reversible	hsa00760	se
+NNT, GCCD4	rt	C00003	reversible	hsa00760	ep
+NNT, GCCD4	rt	C00006	reversible	hsa00760	ep
+C00006	rt	NNT, GCCD4	reversible	hsa00760	se
+C02918	rt	AOX1, AO, AOH1	irreversible	hsa00760	se
+AOX1, AO, AOH1	rt	C05842	irreversible	hsa00760	ep
+C00006	rt	BST1, CD157	irreversible	hsa00760	se
+C00006	rt	CD38	irreversible	hsa00760	se
+BST1, CD157	rt	C00153	irreversible	hsa00760	ep
+CD38	rt	C00153	irreversible	hsa00760	ep
+C00455	rt	NT5C1B-RDH14	irreversible	hsa00760	se
+C00455	rt	NT5C3B	irreversible	hsa00760	se
+C00455	rt	NT5C2	irreversible	hsa00760	se
+C00455	rt	NT5C	irreversible	hsa00760	se
+C00455	rt	NT5E	irreversible	hsa00760	se
+C00455	rt	NT5C3A	irreversible	hsa00760	se
+C00455	rt	NT5M	irreversible	hsa00760	se
+C00455	rt	NT5C1A	irreversible	hsa00760	se
+C00455	rt	NT5C1B	irreversible	hsa00760	se
+NT5C1B-RDH14	rt	C03150	irreversible	hsa00760	ep
+NT5C3B	rt	C03150	irreversible	hsa00760	ep
+NT5C2	rt	C03150	irreversible	hsa00760	ep
+NT5C	rt	C03150	irreversible	hsa00760	ep
+NT5E	rt	C03150	irreversible	hsa00760	ep
+NT5C3A	rt	C03150	irreversible	hsa00760	ep
+NT5M	rt	C03150	irreversible	hsa00760	ep
+NT5C1A	rt	C03150	irreversible	hsa00760	ep
+NT5C1B	rt	C03150	irreversible	hsa00760	ep
+C01185	rt	NT5C1B-RDH14	irreversible	hsa00760	se
+C01185	rt	NT5C3B	irreversible	hsa00760	se
+C01185	rt	NT5C2	irreversible	hsa00760	se
+C01185	rt	NT5C	irreversible	hsa00760	se
+C01185	rt	NT5E	irreversible	hsa00760	se
+C01185	rt	NT5C3A	irreversible	hsa00760	se
+C01185	rt	NT5M	irreversible	hsa00760	se
+C01185	rt	NT5C1A	irreversible	hsa00760	se
+C01185	rt	NT5C1B	irreversible	hsa00760	se
+NT5C1B-RDH14	rt	C05841	irreversible	hsa00760	ep
+NT5C3B	rt	C05841	irreversible	hsa00760	ep
+NT5C2	rt	C05841	irreversible	hsa00760	ep
+NT5C	rt	C05841	irreversible	hsa00760	ep
+NT5E	rt	C05841	irreversible	hsa00760	ep
+NT5C3A	rt	C05841	irreversible	hsa00760	ep
+NT5M	rt	C05841	irreversible	hsa00760	ep
+NT5C1A	rt	C05841	irreversible	hsa00760	ep
+NT5C1B	rt	C05841	irreversible	hsa00760	ep
+C06178				hsa00760	
+C15523				hsa00760	
+C00022				hsa00760	
+C00163				hsa00760	
+C03652				hsa00760	
+C00922				hsa00760	
+C02295				hsa00760	
+C02930				hsa00760	
+C16390				hsa00760	
+C16159				hsa00760	
+C04226				hsa00760	
+C16152				hsa00760	
+C03458				hsa00760	
+C03056				hsa00760	
+C16151				hsa00760	
+C15986				hsa00760	
+C01297				hsa00760	
+C01056				hsa00760	
+C16150				hsa00760	
+C00111				hsa00760	
+C00122				hsa00760	
+C01384				hsa00760	
+C01596				hsa00760	
+C01059				hsa00760	
+C01020				hsa00760	
+C05380				hsa00760	
+C01004				hsa00760	
+C03043				hsa00760	
+C19631				hsa00760	
+C00232				hsa00760	
+C18232				hsa00760	
+C20381				hsa00760	
+C00334				hsa00760	
+C15987				hsa00760	
+C20361				hsa00760	
+C19569				hsa00760	
+C19567				hsa00760	
+C21154				hsa00760	
+C21075				hsa00760	
+C00042				hsa00760	

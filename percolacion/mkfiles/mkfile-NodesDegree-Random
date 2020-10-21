@@ -1,0 +1,13 @@
+
+
+results/nodes_rep_%.final.txt:  data/%.ok
+	mkdir -p `dirname $target`
+	SEED=$(echo $stem | awk -F "_" '{print $1}')
+	K=$(echo $stem | awk -F "_" '{print $2}')
+	python bin/Analisis-Percolation-NodesDegree-Random.py \
+		--edges ../AllKEGG.ncbi.filter.header.BigComponent.edges.csv \
+		--nodes ../AllKEGG.ncbi.filter.header.BigComponent.nodes.csv \
+		--out results \
+		--seed $SEED \
+		--k $K \
+	&& touch $target

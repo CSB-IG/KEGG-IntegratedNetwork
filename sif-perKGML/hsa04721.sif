@@ -1,0 +1,166 @@
+C00076	pc	SYT1, P65, SVP65, SYT	c-g	hsa04721	binding/association
+VAMP2, SYB2, VAMP-2	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-g	hsa04721	binding/association
+VAMP2, SYB2, VAMP-2	pp	STX2	g-g	hsa04721	binding/association
+VAMP2, SYB2, VAMP-2	pp	STX1A	g-g	hsa04721	binding/association
+VAMP2, SYB2, VAMP-2	pp	STX3	g-g	hsa04721	binding/association
+STX1B, GEFSP9, STX1B1, STX1B2	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX2	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX1A	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX3	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX1B, GEFSP9, STX1B1, STX1B2	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04721	binding/association
+STX2	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04721	binding/association
+STX1A	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04721	binding/association
+STX3	pp	VAMP2, SYB2, VAMP-2	g-g	hsa04721	binding/association
+RAB3A	pp	RIMS1, CORD7, RAB3IP2, RIM, RIM1	g-g	hsa04721	binding/association
+STXBP1, MUNC18-1, NSEC1, P67, RBSEC1, UNC18	pp	STX1B, GEFSP9, STX1B1, STX1B2	g-g	hsa04721	binding/association
+STXBP1, MUNC18-1, NSEC1, P67, RBSEC1, UNC18	pp	STX2	g-g	hsa04721	binding/association
+STXBP1, MUNC18-1, NSEC1, P67, RBSEC1, UNC18	pp	STX1A	g-g	hsa04721	binding/association
+STXBP1, MUNC18-1, NSEC1, P67, RBSEC1, UNC18	pp	STX3	g-g	hsa04721	binding/association
+STX1B, GEFSP9, STX1B1, STX1B2	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX2	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX1A	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+STX3	pp	SNAP25, CMS18, RIC-4, RIC4, SEC9, SNAP, SNAP-25, SUP, bA416N42, dJ1068F162	g-g	hsa04721	binding/association
+CLTA, LCA	pp	AP2M1, AP50, CLAPM1, mu2	g-g	hsa04721	binding/association
+CLTA, LCA	pp	AP2S1	g-g	hsa04721	binding/association
+CLTA, LCA	pp	AP2A1	g-g	hsa04721	binding/association
+CLTA, LCA	pp	AP2A2	g-g	hsa04721	binding/association
+CLTA, LCA	pp	AP2B1	g-g	hsa04721	binding/association
+CLTB	pp	AP2M1, AP50, CLAPM1, mu2	g-g	hsa04721	binding/association
+CLTC	pp	AP2M1, AP50, CLAPM1, mu2	g-g	hsa04721	binding/association
+CLTCL1	pp	AP2M1, AP50, CLAPM1, mu2	g-g	hsa04721	binding/association
+CLTB	pp	AP2S1	g-g	hsa04721	binding/association
+CLTB	pp	AP2A1	g-g	hsa04721	binding/association
+CLTB	pp	AP2A2	g-g	hsa04721	binding/association
+CLTB	pp	AP2B1	g-g	hsa04721	binding/association
+CLTC	pp	AP2S1	g-g	hsa04721	binding/association
+CLTC	pp	AP2A1	g-g	hsa04721	binding/association
+CLTC	pp	AP2A2	g-g	hsa04721	binding/association
+CLTC	pp	AP2B1	g-g	hsa04721	binding/association
+CLTCL1	pp	AP2S1	g-g	hsa04721	binding/association
+CLTCL1	pp	AP2A1	g-g	hsa04721	binding/association
+CLTCL1	pp	AP2A2	g-g	hsa04721	binding/association
+CLTCL1	pp	AP2B1	g-g	hsa04721	binding/association
+CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, EIEE42, FHM, HPCA, MHP, MHP1, SCA6				hsa04721	
+CACNA1B				hsa04721	
+CPLX2, 921-L, CPX-2, CPX2, Hfb1				hsa04721	
+CPLX1				hsa04721	
+CPLX4				hsa04721	
+CPLX3				hsa04721	
+C00080				hsa04721	
+NAPA, SNAPA				hsa04721	
+NSF, SEC18, SKD2				hsa04721	
+DNM1, DNM, EIEE31				hsa04721	
+DNM2				hsa04721	
+DNM3				hsa04721	
+DNM1, DNM, EIEE31				hsa04721	
+DNM2				hsa04721	
+DNM3				hsa04721	
+UNC13B, MUNC13, UNC13, Unc13h2				hsa04721	
+UNC13A				hsa04721	
+UNC13C				hsa04721	
+C00080				hsa04721	
+C03758				hsa04721	
+C01996				hsa04721	
+C00334				hsa04721	
+C00025				hsa04721	
+C16041				hsa04721	
+C00037				hsa04721	
+C00547				hsa04721	
+C00780				hsa04721	
+C00002				hsa04721	
+C00388				hsa04721	
+C03758				hsa04721	
+C01996				hsa04721	
+C00334				hsa04721	
+C00025				hsa04721	
+C16041				hsa04721	
+C00037				hsa04721	
+C00547				hsa04721	
+C00780				hsa04721	
+C00002				hsa04721	
+C00388				hsa04721	
+SLC32A1, VGAT, VIAAT				hsa04721	
+SLC17A8				hsa04721	
+SLC17A7				hsa04721	
+SLC17A6				hsa04721	
+SLC18A1				hsa04721	
+SLC18A2				hsa04721	
+SLC18A3				hsa04721	
+SLC32A1, VGAT, VIAAT				hsa04721	
+SLC17A8				hsa04721	
+SLC17A7				hsa04721	
+SLC17A6				hsa04721	
+SLC18A1				hsa04721	
+SLC18A2				hsa04721	
+SLC18A3				hsa04721	
+TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3				hsa04721	
+ATP6V1G3				hsa04721	
+ATP6V0E2				hsa04721	
+ATP6V0A2				hsa04721	
+ATP6V0D2				hsa04721	
+ATP6V1C2				hsa04721	
+ATP6V0A4				hsa04721	
+ATP6V1D				hsa04721	
+ATP6V1H				hsa04721	
+ATP6V1A				hsa04721	
+ATP6V1B1				hsa04721	
+ATP6V1B2				hsa04721	
+ATP6V0C				hsa04721	
+ATP6V1C1				hsa04721	
+ATP6V1E1				hsa04721	
+ATP6V0B				hsa04721	
+ATP6V1G2				hsa04721	
+ATP6V0A1				hsa04721	
+ATP6V0E1				hsa04721	
+ATP6V1E2				hsa04721	
+ATP6V0D1				hsa04721	
+ATP6V1F				hsa04721	
+ATP6V1G1				hsa04721	
+TCIRG1, ATP6N1C, ATP6V0A3, Atp6i, OC-116kDa, OC116, OPTB1, Stv1, TIRC7, Vph1, a3				hsa04721	
+ATP6V1G3				hsa04721	
+ATP6V0E2				hsa04721	
+ATP6V0A2				hsa04721	
+ATP6V0D2				hsa04721	
+ATP6V1C2				hsa04721	
+ATP6V0A4				hsa04721	
+ATP6V1D				hsa04721	
+ATP6V1H				hsa04721	
+ATP6V1A				hsa04721	
+ATP6V1B1				hsa04721	
+ATP6V1B2				hsa04721	
+ATP6V0C				hsa04721	
+ATP6V1C1				hsa04721	
+ATP6V1E1				hsa04721	
+ATP6V0B				hsa04721	
+ATP6V1G2				hsa04721	
+ATP6V0A1				hsa04721	
+ATP6V0E1				hsa04721	
+ATP6V1E2				hsa04721	
+ATP6V0D1				hsa04721	
+ATP6V1F				hsa04721	
+ATP6V1G1				hsa04721	
+SLC1A1, DCBXA, EAAC1, EAAT3, SCZD18				hsa04721	
+SLC1A2				hsa04721	
+SLC1A3				hsa04721	
+SLC1A6				hsa04721	
+SLC1A7				hsa04721	
+SLC6A1				hsa04721	
+SLC6A2				hsa04721	
+SLC6A3				hsa04721	
+SLC6A4				hsa04721	
+SLC6A7				hsa04721	
+SLC6A9				hsa04721	
+SLC6A11				hsa04721	
+SLC6A12				hsa04721	
+SLC6A13				hsa04721	
+SLC6A5				hsa04721	
+C03758				hsa04721	
+C01996				hsa04721	
+C00334				hsa04721	
+C00025				hsa04721	
+C16041				hsa04721	
+C00037				hsa04721	
+C00547				hsa04721	
+C00780				hsa04721	
+C00002				hsa04721	
+C00388				hsa04721	

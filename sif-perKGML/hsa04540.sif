@@ -1,0 +1,309 @@
+ADCY1, AC1, DFNB44	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY1, AC1, DFNB44	pp	PRKACB	g-g	hsa04540	compound
+ADCY1, AC1, DFNB44	pp	PRKACG	g-g	hsa04540	compound
+ADCY2	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY3	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY5	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY6	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY7	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY8	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY9	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY4	pp	PRKACA, PKACA, PPNAD4	g-g	hsa04540	compound
+ADCY2	pp	PRKACB	g-g	hsa04540	compound
+ADCY2	pp	PRKACG	g-g	hsa04540	compound
+ADCY3	pp	PRKACB	g-g	hsa04540	compound
+ADCY3	pp	PRKACG	g-g	hsa04540	compound
+ADCY5	pp	PRKACB	g-g	hsa04540	compound
+ADCY5	pp	PRKACG	g-g	hsa04540	compound
+ADCY6	pp	PRKACB	g-g	hsa04540	compound
+ADCY6	pp	PRKACG	g-g	hsa04540	compound
+ADCY7	pp	PRKACB	g-g	hsa04540	compound
+ADCY7	pp	PRKACG	g-g	hsa04540	compound
+ADCY8	pp	PRKACB	g-g	hsa04540	compound
+ADCY8	pp	PRKACG	g-g	hsa04540	compound
+ADCY9	pp	PRKACB	g-g	hsa04540	compound
+ADCY9	pp	PRKACG	g-g	hsa04540	compound
+ADCY4	pp	PRKACB	g-g	hsa04540	compound
+ADCY4	pp	PRKACG	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKACB	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	PRKACG	g-g	hsa04540	compound
+PLCB2	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+PLCB3	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+PLCB4	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+PLCB2	pp	PRKACB	g-g	hsa04540	compound
+PLCB2	pp	PRKACG	g-g	hsa04540	compound
+PLCB3	pp	PRKACB	g-g	hsa04540	compound
+PLCB3	pp	PRKACG	g-g	hsa04540	compound
+PLCB4	pp	PRKACB	g-g	hsa04540	compound
+PLCB4	pp	PRKACG	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	ITPR2	g-g	hsa04540	compound
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	ITPR3	g-g	hsa04540	compound
+PLCB2	pp	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04540	compound
+PLCB3	pp	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04540	compound
+PLCB4	pp	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04540	compound
+PLCB2	pp	ITPR2	g-g	hsa04540	compound
+PLCB2	pp	ITPR3	g-g	hsa04540	compound
+PLCB3	pp	ITPR2	g-g	hsa04540	compound
+PLCB3	pp	ITPR3	g-g	hsa04540	compound
+PLCB4	pp	ITPR2	g-g	hsa04540	compound
+PLCB4	pp	ITPR3	g-g	hsa04540	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	pp	PRKACB	g-g	hsa04540	compound
+ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	pp	PRKACG	g-g	hsa04540	compound
+ITPR2	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+ITPR3	pp	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04540	compound
+ITPR2	pp	PRKACB	g-g	hsa04540	compound
+ITPR2	pp	PRKACG	g-g	hsa04540	compound
+ITPR3	pp	PRKACB	g-g	hsa04540	compound
+ITPR3	pp	PRKACG	g-g	hsa04540	compound
+GUCY1A2, GC-SA2, GUC1A2	pp	PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	g-g	hsa04540	compound
+GUCY1A2, GC-SA2, GUC1A2	pp	PRKG2	g-g	hsa04540	compound
+GUCY1A1	pp	PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	g-g	hsa04540	compound
+GUCY1B1	pp	PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	g-g	hsa04540	compound
+GUCY1A1	pp	PRKG2	g-g	hsa04540	compound
+GUCY1B1	pp	PRKG2	g-g	hsa04540	compound
+LPAR1, EDG2, GPR26, Gpcr26, LPA1, Mrec13, VZG1, edg-2, rec13, vzg-1	pc	C00681	g-c	hsa04540	NA
+ADRB1, ADRB1R, B1AR, BETA1AR, RHR	pc	C00547	g-c	hsa04540	NA
+DRD1, DADR, DRD1A	pc	C03758	g-c	hsa04540	NA
+DRD2, D2DR, D2R	pc	C03758	g-c	hsa04540	NA
+HTR2A, 5-HT2A, HTR2	pc	C00780	g-c	hsa04540	NA
+HTR2B	pc	C00780	g-c	hsa04540	NA
+HTR2C	pc	C00780	g-c	hsa04540	NA
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	C00025	g-c	hsa04540	NA
+GRM5	pc	C00025	g-c	hsa04540	NA
+GUCY1A2, GC-SA2, GUC1A2	pc	C00533	g-c	hsa04540	NA
+GUCY1A1	pc	C00533	g-c	hsa04540	NA
+GUCY1B1	pc	C00533	g-c	hsa04540	NA
+LPAR1, EDG2, GPR26, Gpcr26, LPA1, Mrec13, VZG1, edg-2, rec13, vzg-1	pp	GNAI1, Gi	g-g	hsa04540	activation
+LPAR1, EDG2, GPR26, Gpcr26, LPA1, Mrec13, VZG1, edg-2, rec13, vzg-1	pp	GNAI2	g-g	hsa04540	activation
+LPAR1, EDG2, GPR26, Gpcr26, LPA1, Mrec13, VZG1, edg-2, rec13, vzg-1	pp	GNAI3	g-g	hsa04540	activation
+GNAI1, Gi	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04540	activation
+GNAI1, Gi	pp	KRAS	g-g	hsa04540	activation
+GNAI1, Gi	pp	NRAS	g-g	hsa04540	activation
+GNAI2	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04540	activation
+GNAI3	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04540	activation
+GNAI2	pp	KRAS	g-g	hsa04540	activation
+GNAI2	pp	NRAS	g-g	hsa04540	activation
+GNAI3	pp	KRAS	g-g	hsa04540	activation
+GNAI3	pp	NRAS	g-g	hsa04540	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04540	activation
+KRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04540	activation
+NRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04540	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04540	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K2	g-g	hsa04540	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04540	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04540	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04540	activation
+MAP2K2	pp	MAPK3	g-g	hsa04540	activation
+EGF, HOMG4, URG	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04540	activation
+EGF, HOMG4, URG	pp	PDGFRA	g-g	hsa04540	activation
+EGF, HOMG4, URG	pp	PDGFRB	g-g	hsa04540	activation
+PDGFA	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04540	activation
+PDGFB	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04540	activation
+PDGFC	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04540	activation
+PDGFD	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa04540	activation
+PDGFA	pp	PDGFRA	g-g	hsa04540	activation
+PDGFA	pp	PDGFRB	g-g	hsa04540	activation
+PDGFB	pp	PDGFRA	g-g	hsa04540	activation
+PDGFB	pp	PDGFRB	g-g	hsa04540	activation
+PDGFC	pp	PDGFRA	g-g	hsa04540	activation
+PDGFC	pp	PDGFRB	g-g	hsa04540	activation
+PDGFD	pp	PDGFRA	g-g	hsa04540	activation
+PDGFD	pp	PDGFRB	g-g	hsa04540	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa04540	activation
+PDGFRA	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa04540	activation
+PDGFRB	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa04540	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS1, GF1, GGF1, GINGF, HGF, NS4	g-g	hsa04540	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS2	g-g	hsa04540	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04540	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4	pp	KRAS	g-g	hsa04540	activation
+SOS1, GF1, GGF1, GINGF, HGF, NS4	pp	NRAS	g-g	hsa04540	activation
+SOS2	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	g-g	hsa04540	activation
+SOS2	pp	KRAS	g-g	hsa04540	activation
+SOS2	pp	NRAS	g-g	hsa04540	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04540	activation
+PDGFRA	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04540	activation
+PDGFRB	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04540	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	MAP3K2, MEKK2, MEKK2B	g-g	hsa04540	activation
+MAP3K2, MEKK2, MEKK2B	pp	MAP2K5, HsT17454, MAPKK5, MEK5, PRKMK5	g-g	hsa04540	activation
+MAP2K5, HsT17454, MAPKK5, MEK5, PRKMK5	pp	MAPK7, BMK1, ERK4, ERK5, PRKM7	g-g	hsa04540	activation
+ADRB1, ADRB1R, B1AR, BETA1AR, RHR	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04540	activation
+DRD1, DADR, DRD1A	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04540	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa04540	activation
+DRD2, D2DR, D2R	pp	GNAI1, Gi	g-g	hsa04540	activation
+DRD2, D2DR, D2R	pp	GNAI2	g-g	hsa04540	activation
+DRD2, D2DR, D2R	pp	GNAI3	g-g	hsa04540	activation
+HTR2A, 5-HT2A, HTR2	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04540	activation
+HTR2A, 5-HT2A, HTR2	pp	GNAQ	g-g	hsa04540	activation
+HTR2B	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04540	activation
+HTR2C	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04540	activation
+HTR2B	pp	GNAQ	g-g	hsa04540	activation
+HTR2C	pp	GNAQ	g-g	hsa04540	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04540	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pp	GNAQ	g-g	hsa04540	activation
+GRM5	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04540	activation
+GRM5	pp	GNAQ	g-g	hsa04540	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04540	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB2	g-g	hsa04540	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB3	g-g	hsa04540	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB4	g-g	hsa04540	activation
+GNAQ	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04540	activation
+GNAQ	pp	PLCB2	g-g	hsa04540	activation
+GNAQ	pp	PLCB3	g-g	hsa04540	activation
+GNAQ	pp	PLCB4	g-g	hsa04540	activation
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA1B, K-ALPHA-1	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA3E	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA3D	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA8	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA4A	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA3C	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA1A	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBAL3	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBA1C	g-g	hsa04540	binding/association
+GJD2	pp	TUBA1B, K-ALPHA-1	g-g	hsa04540	binding/association
+GJD2	pp	TUBA3E	g-g	hsa04540	binding/association
+GJD2	pp	TUBA3D	g-g	hsa04540	binding/association
+GJD2	pp	TUBA8	g-g	hsa04540	binding/association
+GJD2	pp	TUBA4A	g-g	hsa04540	binding/association
+GJD2	pp	TUBA3C	g-g	hsa04540	binding/association
+GJD2	pp	TUBA1A	g-g	hsa04540	binding/association
+GJD2	pp	TUBAL3	g-g	hsa04540	binding/association
+GJD2	pp	TUBA1C	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB4A	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB4B	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB8	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB2B	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB2A	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB1	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TUBB6	g-g	hsa04540	binding/association
+GJD2	pp	TUBB3, CDCBM, CDCBM1, CFEOM3, CFEOM3A, FEOM3, TUBB4, beta-4	g-g	hsa04540	binding/association
+GJD2	pp	TUBB4A	g-g	hsa04540	binding/association
+GJD2	pp	TUBB4B	g-g	hsa04540	binding/association
+GJD2	pp	TUBB	g-g	hsa04540	binding/association
+GJD2	pp	TUBB8	g-g	hsa04540	binding/association
+GJD2	pp	TUBB2B	g-g	hsa04540	binding/association
+GJD2	pp	TUBB2A	g-g	hsa04540	binding/association
+GJD2	pp	TUBB1	g-g	hsa04540	binding/association
+GJD2	pp	TUBB6	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	GJD2	g-g	hsa04540	binding/association
+GJD2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	binding/association
+GJD2	pp	GJD2	g-g	hsa04540	binding/association
+CSNK1D, ASPS, CKIdelta, FASPS2, HCKID	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	activation
+CSNK1D, ASPS, CKIdelta, FASPS2, HCKID	pp	GJD2	g-g	hsa04540	activation
+GNAI1, Gi	pp	ADCY1, AC1, DFNB44	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY2	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY3	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY5	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY6	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY7	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY8	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY9	g-g	hsa04540	inhibition
+GNAI1, Gi	pp	ADCY4	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY1, AC1, DFNB44	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY1, AC1, DFNB44	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY2	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY3	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY5	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY6	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY7	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY8	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY9	g-g	hsa04540	inhibition
+GNAI2	pp	ADCY4	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY2	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY3	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY5	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY6	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY7	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY8	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY9	g-g	hsa04540	inhibition
+GNAI3	pp	ADCY4	g-g	hsa04540	inhibition
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	GJD2	g-g	hsa04540	indirect effect
+PRKG2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKG2	pp	GJD2	g-g	hsa04540	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACB	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACG	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACB	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACG	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACA, PKACA, PPNAD4	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACA, PKACA, PPNAD4	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACB	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACG	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACB	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACG	pp	GJD2	g-g	hsa04540	indirect effect
+GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	pp	TJP1, ZO-1	g-g	hsa04540	binding/association
+GJD2	pp	TJP1, ZO-1	g-g	hsa04540	binding/association
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	GJD2	g-g	hsa04540	indirect effect
+MAPK7, BMK1, ERK4, ERK5, PRKM7	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK7, BMK1, ERK4, ERK5, PRKM7	pp	GJD2	g-g	hsa04540	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	GJD2	g-g	hsa04540	inhibition
+MAPK3	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK3	pp	GJD2	g-g	hsa04540	inhibition
+CDK1, CDC2, CDC28A, P34CDC2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+CDK1, CDC2, CDC28A, P34CDC2	pp	GJD2	g-g	hsa04540	inhibition
+PRKACA, PKACA, PPNAD4	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACA, PKACA, PPNAD4	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACB	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACG	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACB	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACG	pp	GJD2	g-g	hsa04540	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACB	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACG	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKACB	pp	GJD2	g-g	hsa04540	indirect effect
+PRKACG	pp	GJD2	g-g	hsa04540	indirect effect
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKG1, AAT8, PKG, PRKG1B, PRKGR1B, cGK, cGK_1, cGK1, cGKI, cGKI-BETA, cGKI-alpha	pp	GJD2	g-g	hsa04540	indirect effect
+PRKG2	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+PRKG2	pp	GJD2	g-g	hsa04540	indirect effect
+MAPK7, BMK1, ERK4, ERK5, PRKM7	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK7, BMK1, ERK4, ERK5, PRKM7	pp	GJD2	g-g	hsa04540	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	GJD2	g-g	hsa04540	inhibition
+MAPK3	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	inhibition
+MAPK3	pp	GJD2	g-g	hsa04540	inhibition
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	GJA1, AVSD3, CMDR, CX43, EKVP, GJAL, HLHS1, HSS, ODDD, PPKCA	g-g	hsa04540	indirect effect
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	GJD2	g-g	hsa04540	indirect effect
+C00076				hsa04540	
+C01245				hsa04540	
+C00942				hsa04540	
+C00165				hsa04540	
+C00575				hsa04540	

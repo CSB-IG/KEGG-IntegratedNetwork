@@ -1,0 +1,344 @@
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	CKB, B-CK, BCK, CKBB, CPK-B, HEL-211, HEL-S-29	g-g	hsa00330	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	CKM	g-g	hsa00330	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	CKMT1B	g-g	hsa00330	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	CKMT2	g-g	hsa00330	compound
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	ec	CKMT1A	g-g	hsa00330	compound
+ARG1	ec	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa00330	compound
+ARG1	ec	NOS2	g-g	hsa00330	compound
+ARG1	ec	NOS3	g-g	hsa00330	compound
+ARG2	ec	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa00330	compound
+ARG2	ec	NOS2	g-g	hsa00330	compound
+ARG2	ec	NOS3	g-g	hsa00330	compound
+ARG1	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+ARG2	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+NOS2	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+NOS3	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	ec	AGMAT	g-g	hsa00330	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CARNS1, ATPGD1	g-g	hsa00330	compound
+ALDH1B1	ec	CARNS1, ATPGD1	g-g	hsa00330	compound
+ALDH9A1	ec	CARNS1, ATPGD1	g-g	hsa00330	compound
+ALDH3A2	ec	CARNS1, ATPGD1	g-g	hsa00330	compound
+ALDH7A1	ec	CARNS1, ATPGD1	g-g	hsa00330	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00330	compound
+ALDH1B1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00330	compound
+ALDH9A1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00330	compound
+ALDH3A2	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00330	compound
+ALDH7A1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00330	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+ALDH1B1	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+ALDH9A1	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+ALDH3A2	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+ALDH7A1	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+CARNS1, ATPGD1	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	SMS, MRSR, SPMSY, SRS, SpS	g-g	hsa00330	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	AMD1, ADOMETDC, AMD, SAMDC	g-g	hsa00330	compound
+SMS, MRSR, SPMSY, SRS, SpS	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+AMD1, ADOMETDC, AMD, SAMDC	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	ALDH1B1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	ALDH9A1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	ALDH3A2	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	ALDH7A1	g-g	hsa00330	compound
+SAT2, SSAT2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00330	compound
+SAT2, SSAT2	ec	MAOB	g-g	hsa00330	compound
+SAT1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00330	compound
+SAT1	ec	MAOB	g-g	hsa00330	compound
+MAOA, BRNRS, MAO-A	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00330	compound
+MAOA, BRNRS, MAO-A	ec	ALDH1B1	g-g	hsa00330	compound
+MAOA, BRNRS, MAO-A	ec	ALDH9A1	g-g	hsa00330	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3A2	g-g	hsa00330	compound
+MAOA, BRNRS, MAO-A	ec	ALDH7A1	g-g	hsa00330	compound
+MAOB	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00330	compound
+MAOB	ec	ALDH1B1	g-g	hsa00330	compound
+MAOB	ec	ALDH9A1	g-g	hsa00330	compound
+MAOB	ec	ALDH3A2	g-g	hsa00330	compound
+MAOB	ec	ALDH7A1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	SAT2, SSAT2	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	SAT1	g-g	hsa00330	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	AGMAT	g-g	hsa00330	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	SAT2, SSAT2	g-g	hsa00330	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	SAT1	g-g	hsa00330	compound
+SRM, PAPT, SPDSY, SPS1, SRML1	ec	AGMAT	g-g	hsa00330	compound
+SAT2, SSAT2	ec	AGMAT	g-g	hsa00330	compound
+SAT1	ec	AGMAT	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	ALDH1B1	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	ALDH9A1	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	ALDH3A2	g-g	hsa00330	compound
+CNDP1, CN1, CPGL2, HsT2308	ec	ALDH7A1	g-g	hsa00330	compound
+AMD1, ADOMETDC, AMD, SAMDC	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+ARG1	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+ARG2	ec	GATM, AGAT, AT, CCDS3	g-g	hsa00330	compound
+GATM, AGAT, AT, CCDS3	ec	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa00330	compound
+GATM, AGAT, AT, CCDS3	ec	NOS2	g-g	hsa00330	compound
+GATM, AGAT, AT, CCDS3	ec	NOS3	g-g	hsa00330	compound
+GATM, AGAT, AT, CCDS3	ec	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	g-g	hsa00330	compound
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	ec	ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	g-g	hsa00330	compound
+OAT, GACR, HOGA, OATASE, OKT	ec	ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	g-g	hsa00330	compound
+OAT, GACR, HOGA, OATASE, OKT	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+OAT, GACR, HOGA, OATASE, OKT	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ARG1	ec	OAT, GACR, HOGA, OATASE, OKT	g-g	hsa00330	compound
+ARG2	ec	OAT, GACR, HOGA, OATASE, OKT	g-g	hsa00330	compound
+ARG1	ec	ODC1, ODC	g-g	hsa00330	compound
+ARG2	ec	ODC1, ODC	g-g	hsa00330	compound
+OAT, GACR, HOGA, OATASE, OKT	ec	ODC1, ODC	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	102724788	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	PRODH	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	PYCR2, HLD10, P5CR2	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	PYCR1	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	PYCR3	g-g	hsa00330	compound
+102724788	ec	P4HA3	g-g	hsa00330	compound
+102724788	ec	P4HA1	g-g	hsa00330	compound
+102724788	ec	P4HA2	g-g	hsa00330	compound
+PRODH	ec	P4HA3	g-g	hsa00330	compound
+PRODH	ec	P4HA1	g-g	hsa00330	compound
+PRODH	ec	P4HA2	g-g	hsa00330	compound
+102724788	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+PRODH	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+PYCR2, HLD10, P5CR2	ec	P4HA3	g-g	hsa00330	compound
+PYCR2, HLD10, P5CR2	ec	P4HA1	g-g	hsa00330	compound
+PYCR2, HLD10, P5CR2	ec	P4HA2	g-g	hsa00330	compound
+PYCR1	ec	P4HA3	g-g	hsa00330	compound
+PYCR3	ec	P4HA3	g-g	hsa00330	compound
+PYCR1	ec	P4HA1	g-g	hsa00330	compound
+PYCR1	ec	P4HA2	g-g	hsa00330	compound
+PYCR3	ec	P4HA1	g-g	hsa00330	compound
+PYCR3	ec	P4HA2	g-g	hsa00330	compound
+PYCR2, HLD10, P5CR2	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+PYCR1	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+PYCR3	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+P4HA3	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+P4HA1	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+P4HA2	ec	LAP3, HEL-S-106, LAP, LAPEP, PEPS	g-g	hsa00330	compound
+P4HA3	ec	PYCR2, HLD10, P5CR2	g-g	hsa00330	compound
+P4HA3	ec	PYCR1	g-g	hsa00330	compound
+P4HA3	ec	PYCR3	g-g	hsa00330	compound
+P4HA1	ec	PYCR2, HLD10, P5CR2	g-g	hsa00330	compound
+P4HA2	ec	PYCR2, HLD10, P5CR2	g-g	hsa00330	compound
+P4HA1	ec	PYCR1	g-g	hsa00330	compound
+P4HA1	ec	PYCR3	g-g	hsa00330	compound
+P4HA2	ec	PYCR1	g-g	hsa00330	compound
+P4HA2	ec	PYCR3	g-g	hsa00330	compound
+P4HA3	ec	PRODH2, HSPOX1, HYPDH	g-g	hsa00330	compound
+P4HA1	ec	PRODH2, HSPOX1, HYPDH	g-g	hsa00330	compound
+P4HA2	ec	PRODH2, HSPOX1, HYPDH	g-g	hsa00330	compound
+L3HYPDH, C14orf149	ec	DAO, DAAO, DAMOX, OXDA	g-g	hsa00330	compound
+PYCR2, HLD10, P5CR2	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+PYCR1	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+PYCR3	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+PRODH2, HSPOX1, HYPDH	ec	ALDH4A1, ALDH4, P5CD, P5CDh	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GOT2	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00330	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GOT2	g-g	hsa00330	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2	g-g	hsa00330	compound
+GOT2	ec	HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2	g-g	hsa00330	compound
+ODC1, ODC	ec	AGMAT	g-g	hsa00330	compound
+ODC1, ODC	ec	SRM, PAPT, SPDSY, SPS1, SRML1	g-g	hsa00330	compound
+ODC1, ODC	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00330	compound
+ODC1, ODC	ec	SAT2, SSAT2	g-g	hsa00330	compound
+ODC1, ODC	ec	SAT1	g-g	hsa00330	compound
+C00062	rt	ARG1	irreversible	hsa00330	se
+C00062	rt	ARG2	irreversible	hsa00330	se
+ARG1	rt	C00077	irreversible	hsa00330	ep
+ARG2	rt	C00077	irreversible	hsa00330	ep
+C00062	rt	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	irreversible	hsa00330	se
+C00062	rt	NOS2	irreversible	hsa00330	se
+C00062	rt	NOS3	irreversible	hsa00330	se
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	rt	C05933	irreversible	hsa00330	ep
+NOS2	rt	C05933	irreversible	hsa00330	ep
+NOS3	rt	C05933	irreversible	hsa00330	ep
+C05933	rt	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	irreversible	hsa00330	se
+C05933	rt	NOS2	irreversible	hsa00330	se
+C05933	rt	NOS3	irreversible	hsa00330	se
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	rt	C00533	irreversible	hsa00330	ep
+NOS2	rt	C00533	irreversible	hsa00330	ep
+NOS3	rt	C00533	irreversible	hsa00330	ep
+C00062	rt	GATM, AGAT, AT, CCDS3	reversible	hsa00330	se
+GATM, AGAT, AT, CCDS3	rt	C00062	reversible	hsa00330	ep
+GATM, AGAT, AT, CCDS3	rt	C00581	reversible	hsa00330	ep
+C00581	rt	GATM, AGAT, AT, CCDS3	reversible	hsa00330	se
+C00581	rt	GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	irreversible	hsa00330	se
+GAMT, CCDS2, HEL-S-20, PIG2, TP53I2	rt	C00300	irreversible	hsa00330	ep
+C00300	rt	CKB, B-CK, BCK, CKBB, CPK-B, HEL-211, HEL-S-29	irreversible	hsa00330	se
+C00300	rt	CKM	irreversible	hsa00330	se
+C00300	rt	CKMT1B	irreversible	hsa00330	se
+C00300	rt	CKMT2	irreversible	hsa00330	se
+C00300	rt	CKMT1A	irreversible	hsa00330	se
+CKB, B-CK, BCK, CKBB, CPK-B, HEL-211, HEL-S-29	rt	C02305	irreversible	hsa00330	ep
+CKM	rt	C02305	irreversible	hsa00330	ep
+CKMT1B	rt	C02305	irreversible	hsa00330	ep
+CKMT2	rt	C02305	irreversible	hsa00330	ep
+CKMT1A	rt	C02305	irreversible	hsa00330	ep
+C00334	rt	GATM, AGAT, AT, CCDS3	irreversible	hsa00330	se
+GATM, AGAT, AT, CCDS3	rt	C01035	irreversible	hsa00330	ep
+C00062	rt	AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	irreversible	hsa00330	se
+AZIN2, ADC, AZI2, AZIB1, ODC-p, ODC1L, ODCp	rt	C00179	irreversible	hsa00330	ep
+C00179	rt	AGMAT	irreversible	hsa00330	se
+AGMAT	rt	C00134	irreversible	hsa00330	ep
+C00134	rt	AOC1, ABP, ABP1, DAO, DAO1, KAO	irreversible	hsa00330	se
+AOC1, ABP, ABP1, DAO, DAO1, KAO	rt	C00555	irreversible	hsa00330	ep
+C00555	rt	ALDH2, ALDH-E2, ALDHI, ALDM	irreversible	hsa00330	se
+C00555	rt	ALDH1B1	irreversible	hsa00330	se
+C00555	rt	ALDH9A1	irreversible	hsa00330	se
+C00555	rt	ALDH3A2	irreversible	hsa00330	se
+C00555	rt	ALDH7A1	irreversible	hsa00330	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C00334	irreversible	hsa00330	ep
+ALDH1B1	rt	C00334	irreversible	hsa00330	ep
+ALDH9A1	rt	C00334	irreversible	hsa00330	ep
+ALDH3A2	rt	C00334	irreversible	hsa00330	ep
+ALDH7A1	rt	C00334	irreversible	hsa00330	ep
+C00134	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00330	se
+C01137	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00330	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C00315	irreversible	hsa00330	ep
+C00019	rt	AMD1, ADOMETDC, AMD, SAMDC	irreversible	hsa00330	se
+AMD1, ADOMETDC, AMD, SAMDC	rt	C01137	irreversible	hsa00330	ep
+C00315	rt	SMS, MRSR, SPMSY, SRS, SpS	irreversible	hsa00330	se
+C01137	rt	SMS, MRSR, SPMSY, SRS, SpS	irreversible	hsa00330	se
+SMS, MRSR, SPMSY, SRS, SpS	rt	C00750	irreversible	hsa00330	ep
+C00134	rt	SAT2, SSAT2	irreversible	hsa00330	se
+C00134	rt	SAT1	irreversible	hsa00330	se
+SAT2, SSAT2	rt	C02714	irreversible	hsa00330	ep
+SAT1	rt	C02714	irreversible	hsa00330	ep
+C02714	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00330	se
+C02714	rt	MAOB	irreversible	hsa00330	se
+MAOA, BRNRS, MAO-A	rt	C05936	irreversible	hsa00330	ep
+MAOB	rt	C05936	irreversible	hsa00330	ep
+C05936	rt	ALDH2, ALDH-E2, ALDHI, ALDM	irreversible	hsa00330	se
+C05936	rt	ALDH1B1	irreversible	hsa00330	se
+C05936	rt	ALDH9A1	irreversible	hsa00330	se
+C05936	rt	ALDH3A2	irreversible	hsa00330	se
+C05936	rt	ALDH7A1	irreversible	hsa00330	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C02946	irreversible	hsa00330	ep
+ALDH1B1	rt	C02946	irreversible	hsa00330	ep
+ALDH9A1	rt	C02946	irreversible	hsa00330	ep
+ALDH3A2	rt	C02946	irreversible	hsa00330	ep
+ALDH7A1	rt	C02946	irreversible	hsa00330	ep
+C00334	rt	CARNS1, ATPGD1	reversible	hsa00330	se
+CARNS1, ATPGD1	rt	C00334	reversible	hsa00330	ep
+CARNS1, ATPGD1	rt	C00884	reversible	hsa00330	ep
+C00884	rt	CARNS1, ATPGD1	reversible	hsa00330	se
+C00334	rt	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	irreversible	hsa00330	se
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	rt	C00884	irreversible	hsa00330	ep
+C00315	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00330	se
+C01137	rt	SRM, PAPT, SPDSY, SPS1, SRML1	irreversible	hsa00330	se
+SRM, PAPT, SPDSY, SPS1, SRML1	rt	C00750	irreversible	hsa00330	ep
+C00334	rt	CNDP1, CN1, CPGL2, HsT2308	irreversible	hsa00330	se
+CNDP1, CN1, CPGL2, HsT2308	rt	C00884	irreversible	hsa00330	ep
+C00750	rt	SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	irreversible	hsa00330	se
+SMOX, C20orf16, PAO, PAO-1, PAO1, PAOH, PAOH1, SMO	rt	C00315	irreversible	hsa00330	ep
+C05147	rt	L3HYPDH, C14orf149	irreversible	hsa00330	se
+L3HYPDH, C14orf149	rt	C03564	irreversible	hsa00330	ep
+C00763	rt	DAO, DAAO, DAMOX, OXDA	irreversible	hsa00330	se
+DAO, DAAO, DAMOX, OXDA	rt	C03564	irreversible	hsa00330	ep
+C05946	rt	HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2	irreversible	hsa00330	se
+HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2	rt	C00048	irreversible	hsa00330	ep
+HOGA1, C10orf65, DHDPS2, DHDPSL, HP3, NPL2	rt	C00022	irreversible	hsa00330	ep
+C05947	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	irreversible	hsa00330	se
+C05947	rt	GOT2	irreversible	hsa00330	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C05946	irreversible	hsa00330	ep
+GOT2	rt	C05946	irreversible	hsa00330	ep
+C05938	rt	ALDH4A1, ALDH4, P5CD, P5CDh	irreversible	hsa00330	se
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C05947	irreversible	hsa00330	ep
+C04281	rt	ALDH4A1, ALDH4, P5CD, P5CDh	irreversible	hsa00330	se
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C05947	irreversible	hsa00330	ep
+C04281	rt	PYCR2, HLD10, P5CR2	irreversible	hsa00330	se
+C04281	rt	PYCR1	irreversible	hsa00330	se
+C04281	rt	PYCR3	irreversible	hsa00330	se
+PYCR2, HLD10, P5CR2	rt	C01157	irreversible	hsa00330	ep
+PYCR1	rt	C01157	irreversible	hsa00330	ep
+PYCR3	rt	C01157	irreversible	hsa00330	ep
+C01157	rt	PRODH2, HSPOX1, HYPDH	irreversible	hsa00330	se
+PRODH2, HSPOX1, HYPDH	rt	C04281	irreversible	hsa00330	ep
+C00148	rt	P4HA3	irreversible	hsa00330	se
+C00148	rt	P4HA1	irreversible	hsa00330	se
+C00148	rt	P4HA2	irreversible	hsa00330	se
+P4HA3	rt	C01157	irreversible	hsa00330	ep
+P4HA1	rt	C01157	irreversible	hsa00330	ep
+P4HA2	rt	C01157	irreversible	hsa00330	ep
+C03440	rt	DAO, DAAO, DAMOX, OXDA	irreversible	hsa00330	se
+DAO, DAAO, DAMOX, OXDA	rt	C04282	irreversible	hsa00330	ep
+C00148	rt	102724788	irreversible	hsa00330	se
+C00148	rt	PRODH	irreversible	hsa00330	se
+102724788	rt	C03912	irreversible	hsa00330	ep
+PRODH	rt	C03912	irreversible	hsa00330	ep
+C03912	rt	ALDH4A1, ALDH4, P5CD, P5CDh	irreversible	hsa00330	se
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C00025	irreversible	hsa00330	ep
+C03287	rt	ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	irreversible	hsa00330	se
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	rt	C01165	irreversible	hsa00330	ep
+C00025	rt	ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	irreversible	hsa00330	se
+ALDH18A1, ADCL3, ARCL3A, GSAS, P5CS, PYCS, SPG9, SPG9A, SPG9B	rt	C03287	irreversible	hsa00330	ep
+C01165	rt	ALDH4A1, ALDH4, P5CD, P5CDh	reversible	hsa00330	se
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C01165	reversible	hsa00330	ep
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C00025	reversible	hsa00330	ep
+C00025	rt	ALDH4A1, ALDH4, P5CD, P5CDh	reversible	hsa00330	se
+C00148	rt	PYCR2, HLD10, P5CR2	reversible	hsa00330	se
+C00148	rt	PYCR1	reversible	hsa00330	se
+C00148	rt	PYCR3	reversible	hsa00330	se
+PYCR2, HLD10, P5CR2	rt	C00148	reversible	hsa00330	ep
+PYCR1	rt	C00148	reversible	hsa00330	ep
+PYCR3	rt	C00148	reversible	hsa00330	ep
+PYCR2, HLD10, P5CR2	rt	C03912	reversible	hsa00330	ep
+PYCR1	rt	C03912	reversible	hsa00330	ep
+PYCR3	rt	C03912	reversible	hsa00330	ep
+C03912	rt	PYCR2, HLD10, P5CR2	reversible	hsa00330	se
+C03912	rt	PYCR1	reversible	hsa00330	se
+C03912	rt	PYCR3	reversible	hsa00330	se
+C00077	rt	OAT, GACR, HOGA, OATASE, OKT	reversible	hsa00330	se
+OAT, GACR, HOGA, OATASE, OKT	rt	C00077	reversible	hsa00330	ep
+OAT, GACR, HOGA, OATASE, OKT	rt	C01165	reversible	hsa00330	ep
+C01165	rt	OAT, GACR, HOGA, OATASE, OKT	reversible	hsa00330	se
+C00012	rt	LAP3, HEL-S-106, LAP, LAPEP, PEPS	irreversible	hsa00330	se
+LAP3, HEL-S-106, LAP, LAPEP, PEPS	rt	C00148	irreversible	hsa00330	ep
+C00077	rt	ODC1, ODC	irreversible	hsa00330	se
+ODC1, ODC	rt	C00134	irreversible	hsa00330	ep
+C15699				hsa00330	
+C15700				hsa00330	
+C15767				hsa00330	
+C03771				hsa00330	
+C02647				hsa00330	
+C03078				hsa00330	
+C00791				hsa00330	
+C02565				hsa00330	
+C01043				hsa00330	
+C00213				hsa00330	
+C00086				hsa00330	
+C03166				hsa00330	
+C18172				hsa00330	
+C00441				hsa00330	
+C18174				hsa00330	
+C03375				hsa00330	
+C00986				hsa00330	
+C00436				hsa00330	
+C00223				hsa00330	
+C18326				hsa00330	
+C00406				hsa00330	
+C10497				hsa00330	
+C04498				hsa00330	
+C18325				hsa00330	
+C01682				hsa00330	
+C04137				hsa00330	
+C05945				hsa00330	
+C05931				hsa00330	
+C03296				hsa00330	
+C03415				hsa00330	
+C05932				hsa00330	
+C00433				hsa00330	
+C05942				hsa00330	
+C05941				hsa00330	
+C01877				hsa00330	
+C00431				hsa00330	
+C01110				hsa00330	
+C05939				hsa00330	
+C19706				hsa00330	
+C01250				hsa00330	

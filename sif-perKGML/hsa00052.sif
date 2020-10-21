@@ -1,0 +1,259 @@
+GLA, GALA	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+HK2	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+HK3	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+HKDC1	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	G6PC2	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	G6PC3	g-g	hsa00052	compound
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+HK2	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+HK3	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+HKDC1	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	G6PC2	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	G6PC3	g-g	hsa00052	compound
+PGM1, CDG1T, GSD14	ec	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	g-g	hsa00052	compound
+PGM2	ec	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	g-g	hsa00052	compound
+GALE, SDR1E1	ec	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	g-g	hsa00052	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GALT	g-g	hsa00052	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GALT	g-g	hsa00052	compound
+GALE, SDR1E1	ec	GALT	g-g	hsa00052	compound
+GALE, SDR1E1	ec	GALT	g-g	hsa00052	compound
+GLA, GALA	ec	GLA, GALA	g-g	hsa00052	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	GALT	g-g	hsa00052	compound
+LALBA	ec	GALT	g-g	hsa00052	compound
+B4GALT2	ec	GALT	g-g	hsa00052	compound
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	ec	GALE, SDR1E1	g-g	hsa00052	compound
+LALBA	ec	GALE, SDR1E1	g-g	hsa00052	compound
+B4GALT2	ec	GALE, SDR1E1	g-g	hsa00052	compound
+GLA, GALA	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GLA, GALA	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GLA, GALA	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GLA, GALA	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+AKR1B10	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GLA, GALA	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+GLA, GALA	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+GLA, GALA	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+AKR1B10	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B10	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B10	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B10	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B1, ADR, ALDR1, ALR2, AR	ec	GLA, GALA	g-g	hsa00052	compound
+AKR1B10	ec	GLA, GALA	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	LALBA	g-g	hsa00052	compound
+GLB1, EBP, ELNR1, MPS4B	ec	B4GALT2	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	LALBA	g-g	hsa00052	compound
+LCT, LAC, LPH, LPH1	ec	B4GALT2	g-g	hsa00052	compound
+GLA, GALA	ec	GAA, LYAG	g-g	hsa00052	compound
+GLA, GALA	ec	GANC	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM2	g-g	hsa00052	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	PGM2	g-g	hsa00052	compound
+HK2	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+HK3	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+HKDC1	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+HK2	ec	PGM2	g-g	hsa00052	compound
+HK3	ec	PGM2	g-g	hsa00052	compound
+HKDC1	ec	PGM2	g-g	hsa00052	compound
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	ec	PGM2	g-g	hsa00052	compound
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	ec	PGM2	g-g	hsa00052	compound
+G6PC2	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+G6PC3	ec	PGM1, CDG1T, GSD14	g-g	hsa00052	compound
+G6PC2	ec	PGM2	g-g	hsa00052	compound
+G6PC3	ec	PGM2	g-g	hsa00052	compound
+GLA, GALA	ec	GLA, GALA	g-g	hsa00052	compound
+GLA, GALA	ec	SI	g-g	hsa00052	compound
+GLA, GALA	ec	GAA, LYAG	g-g	hsa00052	compound
+GLA, GALA	ec	GANC	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM2	g-g	hsa00052	compound
+GLA, GALA	ec	SI	g-g	hsa00052	compound
+GALT	ec	GALK1, GALK, GK1, HEL-S-19	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GALK1, GALK, GK1, HEL-S-19	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GLB1, EBP, ELNR1, MPS4B	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	LCT, LAC, LPH, LPH1	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GLA, GALA	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GLA, GALA	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GLA, GALA	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	GLA, GALA	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	AKR1B1, ADR, ALDR1, ALR2, AR	g-g	hsa00052	compound
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	ec	AKR1B10	g-g	hsa00052	compound
+GLA, GALA	ec	GAA, LYAG	g-g	hsa00052	compound
+GLA, GALA	ec	GANC	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM	g-g	hsa00052	compound
+GLA, GALA	ec	MGAM2	g-g	hsa00052	compound
+GLA, GALA	ec	SI	g-g	hsa00052	compound
+C01613	rt	GLA, GALA	irreversible	hsa00052	se
+GLA, GALA	rt	C00124	irreversible	hsa00052	ep
+GLA, GALA	rt	C00492	irreversible	hsa00052	ep
+C01097	rt	PFKL, ATP-PFK, PFK-B, PFK-L	reversible	hsa00052	se
+C01097	rt	PFKM	reversible	hsa00052	se
+C01097	rt	PFKP	reversible	hsa00052	se
+PFKL, ATP-PFK, PFK-B, PFK-L	rt	C01097	reversible	hsa00052	ep
+PFKM	rt	C01097	reversible	hsa00052	ep
+PFKP	rt	C01097	reversible	hsa00052	ep
+PFKL, ATP-PFK, PFK-B, PFK-L	rt	C03785	reversible	hsa00052	ep
+PFKM	rt	C03785	reversible	hsa00052	ep
+PFKP	rt	C03785	reversible	hsa00052	ep
+C03785	rt	PFKL, ATP-PFK, PFK-B, PFK-L	reversible	hsa00052	se
+C03785	rt	PFKM	reversible	hsa00052	se
+C03785	rt	PFKP	reversible	hsa00052	se
+C05404	rt	GLA, GALA	irreversible	hsa00052	se
+GLA, GALA	rt	C05402	irreversible	hsa00052	ep
+GLA, GALA	rt	C00124	irreversible	hsa00052	ep
+C00089	rt	GAA, LYAG	irreversible	hsa00052	se
+C00089	rt	GANC	irreversible	hsa00052	se
+C00089	rt	MGAM	irreversible	hsa00052	se
+C00089	rt	MGAM2	irreversible	hsa00052	se
+GAA, LYAG	rt	C00031	irreversible	hsa00052	ep
+GANC	rt	C00031	irreversible	hsa00052	ep
+MGAM	rt	C00031	irreversible	hsa00052	ep
+MGAM2	rt	C00031	irreversible	hsa00052	ep
+GAA, LYAG	rt	C00095	irreversible	hsa00052	ep
+GANC	rt	C00095	irreversible	hsa00052	ep
+MGAM	rt	C00095	irreversible	hsa00052	ep
+MGAM2	rt	C00095	irreversible	hsa00052	ep
+C00492	rt	GLA, GALA	irreversible	hsa00052	se
+GLA, GALA	rt	C00089	irreversible	hsa00052	ep
+C05402	rt	GLA, GALA	irreversible	hsa00052	se
+GLA, GALA	rt	C00031	irreversible	hsa00052	ep
+GLA, GALA	rt	C00124	irreversible	hsa00052	ep
+C00124	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00052	se
+C00124	rt	AKR1B10	reversible	hsa00052	se
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C00124	reversible	hsa00052	ep
+AKR1B10	rt	C00124	reversible	hsa00052	ep
+AKR1B1, ADR, ALDR1, ALR2, AR	rt	C01697	reversible	hsa00052	ep
+AKR1B10	rt	C01697	reversible	hsa00052	ep
+C01697	rt	AKR1B1, ADR, ALDR1, ALR2, AR	reversible	hsa00052	se
+C01697	rt	AKR1B10	reversible	hsa00052	se
+C05401	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C05401	reversible	hsa00052	ep
+GLA, GALA	rt	C00116	reversible	hsa00052	ep
+C00116	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C00124	reversible	hsa00052	ep
+C00124	rt	GLA, GALA	reversible	hsa00052	se
+C05400	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C05400	reversible	hsa00052	ep
+GLA, GALA	rt	C00159	reversible	hsa00052	ep
+C00159	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C00124	reversible	hsa00052	ep
+C00124	rt	GLA, GALA	reversible	hsa00052	se
+C05399	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C05399	reversible	hsa00052	ep
+GLA, GALA	rt	C00794	reversible	hsa00052	ep
+C00794	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C00124	reversible	hsa00052	ep
+C00124	rt	GLA, GALA	reversible	hsa00052	se
+C01235	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C01235	reversible	hsa00052	ep
+GLA, GALA	rt	C00137	reversible	hsa00052	ep
+C00137	rt	GLA, GALA	reversible	hsa00052	se
+GLA, GALA	rt	C00124	reversible	hsa00052	ep
+C00124	rt	GLA, GALA	reversible	hsa00052	se
+C00267	rt	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	reversible	hsa00052	se
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	rt	C00267	reversible	hsa00052	ep
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	rt	C00668	reversible	hsa00052	ep
+C00668	rt	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	reversible	hsa00052	se
+C00267	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	reversible	hsa00052	se
+C00267	rt	HK2	reversible	hsa00052	se
+C00267	rt	HK3	reversible	hsa00052	se
+C00267	rt	HKDC1	reversible	hsa00052	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00267	reversible	hsa00052	ep
+HK2	rt	C00267	reversible	hsa00052	ep
+HK3	rt	C00267	reversible	hsa00052	ep
+HKDC1	rt	C00267	reversible	hsa00052	ep
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00668	reversible	hsa00052	ep
+HK2	rt	C00668	reversible	hsa00052	ep
+HK3	rt	C00668	reversible	hsa00052	ep
+HKDC1	rt	C00668	reversible	hsa00052	ep
+C00668	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	reversible	hsa00052	se
+C00668	rt	HK2	reversible	hsa00052	se
+C00668	rt	HK3	reversible	hsa00052	se
+C00668	rt	HKDC1	reversible	hsa00052	se
+C00243	rt	LCT, LAC, LPH, LPH1	irreversible	hsa00052	se
+LCT, LAC, LPH, LPH1	rt	C00267	irreversible	hsa00052	ep
+LCT, LAC, LPH, LPH1	rt	C00124	irreversible	hsa00052	ep
+C00243	rt	GLB1, EBP, ELNR1, MPS4B	irreversible	hsa00052	se
+GLB1, EBP, ELNR1, MPS4B	rt	C00267	irreversible	hsa00052	ep
+GLB1, EBP, ELNR1, MPS4B	rt	C00124	irreversible	hsa00052	ep
+C00103	rt	PGM1, CDG1T, GSD14	reversible	hsa00052	se
+C00103	rt	PGM2	reversible	hsa00052	se
+PGM1, CDG1T, GSD14	rt	C00103	reversible	hsa00052	ep
+PGM2	rt	C00103	reversible	hsa00052	ep
+PGM1, CDG1T, GSD14	rt	C00668	reversible	hsa00052	ep
+PGM2	rt	C00668	reversible	hsa00052	ep
+C00668	rt	PGM1, CDG1T, GSD14	reversible	hsa00052	se
+C00668	rt	PGM2	reversible	hsa00052	se
+C00052	rt	B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	irreversible	hsa00052	se
+C00052	rt	LALBA	irreversible	hsa00052	se
+C00052	rt	B4GALT2	irreversible	hsa00052	se
+B4GALT1, B4GAL-T1, CDG2D, GGTB2, GT1, GTB, beta4Gal-T1	rt	C00243	irreversible	hsa00052	ep
+LALBA	rt	C00243	irreversible	hsa00052	ep
+B4GALT2	rt	C00243	irreversible	hsa00052	ep
+C00029	rt	GALE, SDR1E1	reversible	hsa00052	se
+GALE, SDR1E1	rt	C00029	reversible	hsa00052	ep
+GALE, SDR1E1	rt	C00052	reversible	hsa00052	ep
+C00052	rt	GALE, SDR1E1	reversible	hsa00052	se
+C00103	rt	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	reversible	hsa00052	se
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	rt	C00103	reversible	hsa00052	ep
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	rt	C00029	reversible	hsa00052	ep
+C00029	rt	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	reversible	hsa00052	se
+C00446	rt	GALT	reversible	hsa00052	se
+GALT	rt	C00446	reversible	hsa00052	ep
+C00029	rt	GALT	reversible	hsa00052	se
+GALT	rt	C00029	reversible	hsa00052	ep
+GALT	rt	C00103	reversible	hsa00052	ep
+C00103	rt	GALT	reversible	hsa00052	se
+GALT	rt	C00052	reversible	hsa00052	ep
+C00052	rt	GALT	reversible	hsa00052	se
+C00984	rt	GALK1, GALK, GK1, HEL-S-19	irreversible	hsa00052	se
+GALK1, GALK, GK1, HEL-S-19	rt	C00446	irreversible	hsa00052	ep
+C00668	rt	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	reversible	hsa00052	se
+C00668	rt	G6PC2	reversible	hsa00052	se
+C00668	rt	G6PC3	reversible	hsa00052	se
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	rt	C00668	reversible	hsa00052	ep
+G6PC2	rt	C00668	reversible	hsa00052	ep
+G6PC3	rt	C00668	reversible	hsa00052	ep
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	rt	C00267	reversible	hsa00052	ep
+G6PC2	rt	C00267	reversible	hsa00052	ep
+G6PC3	rt	C00267	reversible	hsa00052	ep
+C00267	rt	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	reversible	hsa00052	se
+C00267	rt	G6PC2	reversible	hsa00052	se
+C00267	rt	G6PC3	reversible	hsa00052	se
+C00089	rt	SI	irreversible	hsa00052	se
+SI	rt	C00031	irreversible	hsa00052	ep
+SI	rt	C00095	irreversible	hsa00052	ep
+C00124	rt	GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	irreversible	hsa00052	se
+GALM, BLOCK25, GLAT, HEL-S-63p, IBD1	rt	C00984	irreversible	hsa00052	ep
+C06311				hsa00052	
+C01216				hsa00052	
+C03383				hsa00052	
+C00880				hsa00052	
+C01286				hsa00052	
+C05396				hsa00052	
+C01113				hsa00052	
+C00118				hsa00052	
+C00111				hsa00052	
+C05796				hsa00052	
+C00795				hsa00052	
+C01132				hsa00052	
+C06376				hsa00052	
+C06377				hsa00052	
+C02262				hsa00052	
+C00577				hsa00052	
+C02669				hsa00052	
+C03733				hsa00052	
+C00085				hsa00052	

@@ -1,0 +1,724 @@
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	NF2, ACN, BANF, SCH	group	hsa04390	group
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	FRMD6, C14orf31, EX1, Willin, c14_5320	group	hsa04390	group
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	gr	FRMD1	group	hsa04390	group
+NF2, ACN, BANF, SCH	gr	FRMD6, C14orf31, EX1, Willin, c14_5320	group	hsa04390	group
+NF2, ACN, BANF, SCH	gr	FRMD1	group	hsa04390	group
+SMAD7, CRCS3, MADH7, MADH8	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+SMAD7, CRCS3, MADH7, MADH8	gr	WWTR1	group	hsa04390	group
+102800317	gr	DVL1, DRS2, DVL, DVL1L1, DVL1P1	group	hsa04390	group
+102800317	gr	DVL2	group	hsa04390	group
+102800317	gr	DVL3	group	hsa04390	group
+CSNK1D	gr	DVL1, DRS2, DVL, DVL1L1, DVL1P1	group	hsa04390	group
+CSNK1E	gr	DVL1, DRS2, DVL, DVL1L1, DVL1P1	group	hsa04390	group
+CSNK1D	gr	DVL2	group	hsa04390	group
+CSNK1D	gr	DVL3	group	hsa04390	group
+CSNK1E	gr	DVL2	group	hsa04390	group
+CSNK1E	gr	DVL3	group	hsa04390	group
+CTNNB1, CTNNB, MRD19, armadillo	gr	APC2, APCL, SOTOS3	group	hsa04390	group
+CTNNB1, CTNNB, MRD19, armadillo	gr	APC	group	hsa04390	group
+CTNNB1, CTNNB, MRD19, armadillo	gr	AXIN1, AXIN, PPP1R49	group	hsa04390	group
+CTNNB1, CTNNB, MRD19, armadillo	gr	AXIN2	group	hsa04390	group
+APC2, APCL, SOTOS3	gr	AXIN1, AXIN, PPP1R49	group	hsa04390	group
+APC2, APCL, SOTOS3	gr	AXIN2	group	hsa04390	group
+APC	gr	AXIN1, AXIN, PPP1R49	group	hsa04390	group
+APC	gr	AXIN2	group	hsa04390	group
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	gr	TP53BP2, 53BP2, ASPP2, BBP, P53BP2, PPP1R13A	group	hsa04390	group
+PPP1CB	gr	TP53BP2, 53BP2, ASPP2, BBP, P53BP2, PPP1R13A	group	hsa04390	group
+PPP1CC	gr	TP53BP2, 53BP2, ASPP2, BBP, P53BP2, PPP1R13A	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAQ, 14-3-3, 1C5, HS1	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAB	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAE	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAG	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAH	group	hsa04390	group
+WWTR1, TAZ	gr	YWHAZ	group	hsa04390	group
+YAP1	gr	YWHAQ, 14-3-3, 1C5, HS1	group	hsa04390	group
+YAP1	gr	YWHAB	group	hsa04390	group
+YAP1	gr	YWHAE	group	hsa04390	group
+YAP1	gr	YWHAG	group	hsa04390	group
+YAP1	gr	YWHAH	group	hsa04390	group
+YAP1	gr	YWHAZ	group	hsa04390	group
+LLGL2, HGL, Hugl-2, LGL2	gr	SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	group	hsa04390	group
+LLGL1	gr	SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	group	hsa04390	group
+LLGL2, HGL, Hugl-2, LGL2	gr	DLG1, DLGH1, SAP-97, SAP97, dJ1061C1811, hdlg	group	hsa04390	group
+LLGL2, HGL, Hugl-2, LGL2	gr	DLG2	group	hsa04390	group
+LLGL2, HGL, Hugl-2, LGL2	gr	DLG3	group	hsa04390	group
+LLGL2, HGL, Hugl-2, LGL2	gr	DLG4	group	hsa04390	group
+LLGL1	gr	DLG1, DLGH1, SAP-97, SAP97, dJ1061C1811, hdlg	group	hsa04390	group
+LLGL1	gr	DLG2	group	hsa04390	group
+LLGL1	gr	DLG3	group	hsa04390	group
+LLGL1	gr	DLG4	group	hsa04390	group
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	gr	DLG1, DLGH1, SAP-97, SAP97, dJ1061C1811, hdlg	group	hsa04390	group
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	gr	DLG2	group	hsa04390	group
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	gr	DLG3	group	hsa04390	group
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	gr	DLG4	group	hsa04390	group
+YAP1, COB1, YAP, YAP2, YAP65, YKI	gr	TP73, P73	group	hsa04390	group
+WWTR1	gr	TP73, P73	group	hsa04390	group
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	gr	WWTR1	group	hsa04390	group
+TEAD4	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD3	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD2	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD4	gr	WWTR1	group	hsa04390	group
+TEAD3	gr	WWTR1	group	hsa04390	group
+TEAD2	gr	WWTR1	group	hsa04390	group
+YAP1, COB1, YAP, YAP2, YAP65, YKI	gr	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	group	hsa04390	group
+YAP1, COB1, YAP, YAP2, YAP65, YKI	gr	SMAD3	group	hsa04390	group
+WWTR1	gr	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	group	hsa04390	group
+WWTR1	gr	SMAD3	group	hsa04390	group
+YAP1, COB1, YAP, YAP2, YAP65, YKI	gr	SMAD4, DPC4, JIP, MADH4, MYHRS	group	hsa04390	group
+WWTR1	gr	SMAD4, DPC4, JIP, MADH4, MYHRS	group	hsa04390	group
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr	SMAD4, DPC4, JIP, MADH4, MYHRS	group	hsa04390	group
+SMAD3	gr	SMAD4, DPC4, JIP, MADH4, MYHRS	group	hsa04390	group
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	gr	SMAD4, DPC4, JIP, MADH4, MYHRS	group	hsa04390	group
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	gr	WWTR1	group	hsa04390	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	WWTR1	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	TEAD4	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	TEAD3	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	TEAD2	group	hsa04390	group
+TCF7	gr	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	group	hsa04390	group
+TCF7L2	gr	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	group	hsa04390	group
+TCF7L1	gr	TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	group	hsa04390	group
+TCF7	gr	TEAD4	group	hsa04390	group
+TCF7	gr	TEAD3	group	hsa04390	group
+TCF7	gr	TEAD2	group	hsa04390	group
+TCF7L2	gr	TEAD4	group	hsa04390	group
+TCF7L2	gr	TEAD3	group	hsa04390	group
+TCF7L2	gr	TEAD2	group	hsa04390	group
+TCF7L1	gr	TEAD4	group	hsa04390	group
+TCF7L1	gr	TEAD3	group	hsa04390	group
+TCF7L1	gr	TEAD2	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	gr	WWTR1	group	hsa04390	group
+TCF7	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TCF7L2	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TCF7L1	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TCF7	gr	WWTR1	group	hsa04390	group
+TCF7L2	gr	WWTR1	group	hsa04390	group
+TCF7L1	gr	WWTR1	group	hsa04390	group
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	gr	WWTR1	group	hsa04390	group
+TEAD4	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD3	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD2	gr	YAP1, COB1, YAP, YAP2, YAP65, YKI	group	hsa04390	group
+TEAD4	gr	WWTR1	group	hsa04390	group
+TEAD3	gr	WWTR1	group	hsa04390	group
+TEAD2	gr	WWTR1	group	hsa04390	group
+CRB1, LCA8, RP12	pp	CRB1, LCA8, RP12	g-g	hsa04390	binding/association
+CRB1, LCA8, RP12	pp	CRB2	g-g	hsa04390	binding/association
+CRB2	pp	CRB1, LCA8, RP12	g-g	hsa04390	binding/association
+CRB2	pp	CRB2	g-g	hsa04390	binding/association
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04390	binding/association
+PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	pp	PARD6A, PAR-6A, PAR6, PAR6C, PAR6alpha, TAX40, TIP-40	g-g	hsa04390	binding/association
+PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	pp	PARD6G	g-g	hsa04390	binding/association
+PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	pp	PARD6B	g-g	hsa04390	binding/association
+PARD6A, PAR-6A, PAR6, PAR6C, PAR6alpha, TAX40, TIP-40	pp	PRKCI, DXS1179E, PKCI, nPKC-iota	g-g	hsa04390	binding/association
+PARD6A, PAR-6A, PAR6, PAR6C, PAR6alpha, TAX40, TIP-40	pp	PRKCZ	g-g	hsa04390	binding/association
+PARD6G	pp	PRKCI, DXS1179E, PKCI, nPKC-iota	g-g	hsa04390	binding/association
+PARD6B	pp	PRKCI, DXS1179E, PKCI, nPKC-iota	g-g	hsa04390	binding/association
+PARD6G	pp	PRKCZ	g-g	hsa04390	binding/association
+PARD6B	pp	PRKCZ	g-g	hsa04390	binding/association
+PATJ, Cipp, INADL, InaD-like, hINADL	pp	MPP5, PALS1	g-g	hsa04390	binding/association
+MPP5, PALS1	pp	AMOT	g-g	hsa04390	binding/association
+AMOT	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+AMOT	pp	WWTR1	g-g	hsa04390	binding/association
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04390	binding/association
+WWC1, HBEBP3, HBEBP36, KIBRA, MEMRYQTL, PPP1R168	pp	STK3, KRS1, MST2	gr-g	hsa04390	activation
+NF2, ACN, BANF, SCH	pp	STK3, KRS1, MST2	gr-g	hsa04390	activation
+FRMD6, C14orf31, EX1, Willin, c14_5320	pp	STK3, KRS1, MST2	gr-g	hsa04390	activation
+FRMD1	pp	STK3, KRS1, MST2	gr-g	hsa04390	activation
+WTIP	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04390	inhibition
+AJUBA	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04390	inhibition
+LIMD1	pp	SAV1, SAV, WW45, WWP4	g-g	hsa04390	inhibition
+WTIP	pp	LATS2, KPM	g-g	hsa04390	inhibition
+WTIP	pp	LATS1	g-g	hsa04390	inhibition
+AJUBA	pp	LATS2, KPM	g-g	hsa04390	inhibition
+LIMD1	pp	LATS2, KPM	g-g	hsa04390	inhibition
+AJUBA	pp	LATS1	g-g	hsa04390	inhibition
+LIMD1	pp	LATS1	g-g	hsa04390	inhibition
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2CB	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R1A	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R1B	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R2A	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R2B	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R2C	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+PPP2R2D	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+SMAD7, CRCS3, MADH7, MADH8	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	gr-g	hsa04390	inhibition
+SMAD7, CRCS3, MADH7, MADH8	pp	TGFBR2	gr-g	hsa04390	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	gr-g	hsa04390	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	TGFBR2	gr-g	hsa04390	inhibition
+WWTR1	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	gr-g	hsa04390	inhibition
+WWTR1	pp	TGFBR2	gr-g	hsa04390	inhibition
+SMAD7, CRCS3, MADH7, MADH8	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04390	inhibition
+SMAD7, CRCS3, MADH7, MADH8	pp	SMAD3	gr-g	hsa04390	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04390	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pp	SMAD3	gr-g	hsa04390	inhibition
+WWTR1	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa04390	inhibition
+WWTR1	pp	SMAD3	gr-g	hsa04390	inhibition
+102800317	pp	GSK3B	gr-g	hsa04390	inhibition
+CSNK1D	pp	GSK3B	gr-g	hsa04390	inhibition
+CSNK1E	pp	GSK3B	gr-g	hsa04390	inhibition
+DVL1, DRS2, DVL, DVL1L1, DVL1P1	pp	GSK3B	gr-g	hsa04390	inhibition
+DVL2	pp	GSK3B	gr-g	hsa04390	inhibition
+DVL3	pp	GSK3B	gr-g	hsa04390	inhibition
+GSK3B	pp	CTNNB1, CTNNB, MRD19, armadillo	g-gr	hsa04390	inhibition
+GSK3B	pp	APC2, APCL, SOTOS3	g-gr	hsa04390	inhibition
+GSK3B	pp	APC	g-gr	hsa04390	inhibition
+GSK3B	pp	AXIN1, AXIN, PPP1R49	g-gr	hsa04390	inhibition
+GSK3B	pp	AXIN2	g-gr	hsa04390	inhibition
+LATS2, KPM	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+LATS2, KPM	pp	WWTR1	g-g	hsa04390	inhibition
+LATS1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+LATS1	pp	WWTR1	g-g	hsa04390	inhibition
+STK3, KRS1, MST2	pp	LATS2, KPM	g-g	hsa04390	activation
+STK3, KRS1, MST2	pp	LATS1	g-g	hsa04390	activation
+STK3, KRS1, MST2	pp	MOB1A, C2orf6, MATS1, MOB1, MOBK1B, MOBKL1B, Mob4B	g-g	hsa04390	activation
+STK3, KRS1, MST2	pp	MOB1B	g-g	hsa04390	activation
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	activation
+PPP1CA, PP-1A, PP1A, PP1alpha, PPP1A	pp	WWTR1	gr-g	hsa04390	activation
+PPP1CB	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	activation
+PPP1CC	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	activation
+PPP1CB	pp	WWTR1	gr-g	hsa04390	activation
+PPP1CC	pp	WWTR1	gr-g	hsa04390	activation
+TP53BP2, 53BP2, ASPP2, BBP, P53BP2, PPP1R13A	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	activation
+TP53BP2, 53BP2, ASPP2, BBP, P53BP2, PPP1R13A	pp	WWTR1	gr-g	hsa04390	activation
+WWTR1, TAZ	pp	102800317	gr-g	hsa04390	inhibition
+WWTR1, TAZ	pp	CSNK1D	gr-g	hsa04390	inhibition
+WWTR1, TAZ	pp	CSNK1E	gr-g	hsa04390	inhibition
+YAP1	pp	102800317	gr-g	hsa04390	inhibition
+YAP1	pp	CSNK1D	gr-g	hsa04390	inhibition
+YAP1	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAQ, 14-3-3, 1C5, HS1	pp	102800317	gr-g	hsa04390	inhibition
+YWHAQ, 14-3-3, 1C5, HS1	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAQ, 14-3-3, 1C5, HS1	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAB	pp	102800317	gr-g	hsa04390	inhibition
+YWHAE	pp	102800317	gr-g	hsa04390	inhibition
+YWHAG	pp	102800317	gr-g	hsa04390	inhibition
+YWHAH	pp	102800317	gr-g	hsa04390	inhibition
+YWHAZ	pp	102800317	gr-g	hsa04390	inhibition
+YWHAB	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAB	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAE	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAE	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAG	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAG	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAH	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAH	pp	CSNK1E	gr-g	hsa04390	inhibition
+YWHAZ	pp	CSNK1D	gr-g	hsa04390	inhibition
+YWHAZ	pp	CSNK1E	gr-g	hsa04390	inhibition
+LLGL2, HGL, Hugl-2, LGL2	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+LLGL2, HGL, Hugl-2, LGL2	pp	WWTR1	gr-g	hsa04390	inhibition
+LLGL1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+LLGL1	pp	WWTR1	gr-g	hsa04390	inhibition
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+SCRIB, CRIB1, SCRB1, SCRIB1, Vartul	pp	WWTR1	gr-g	hsa04390	inhibition
+DLG1, DLGH1, SAP-97, SAP97, dJ1061C1811, hdlg	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+DLG1, DLGH1, SAP-97, SAP97, dJ1061C1811, hdlg	pp	WWTR1	gr-g	hsa04390	inhibition
+DLG2	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+DLG3	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+DLG4	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	gr-g	hsa04390	inhibition
+DLG2	pp	WWTR1	gr-g	hsa04390	inhibition
+DLG3	pp	WWTR1	gr-g	hsa04390	inhibition
+DLG4	pp	WWTR1	gr-g	hsa04390	inhibition
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	BBC3, JFY-1, JFY1, PUMA	gr-g	hsa04390	expression
+WWTR1	pd	BBC3, JFY-1, JFY1, PUMA	gr-g	hsa04390	expression
+TP73, P73	pd	BBC3, JFY-1, JFY1, PUMA	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+TEAD4	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+TEAD3	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+TEAD2	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+WWTR1	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+TEAD4	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+TEAD3	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+TEAD2	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+WWTR1	pd	GLI2, CJS, HPE9, PHS2, THP1, THP2	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	SMAD7, CRCS3, MADH7, MADH8	gr-g	hsa04390	expression
+WWTR1	pd	SMAD7, CRCS3, MADH7, MADH8	gr-g	hsa04390	expression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	SMAD7, CRCS3, MADH7, MADH8	gr-g	hsa04390	expression
+SMAD3	pd	SMAD7, CRCS3, MADH7, MADH8	gr-g	hsa04390	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	SMAD7, CRCS3, MADH7, MADH8	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04390	expression
+WWTR1	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04390	expression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04390	expression
+SMAD3	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04390	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	SERPINE1, PAI, PAI-1, PAI1, PLANH1	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+WWTR1	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+SMAD3	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	CTGF, CCN2, HCS24, IGFBP8, NOV2	gr-g	hsa04390	expression
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	pd	ID1, ID, bHLHb24	gr-g	hsa04390	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	ID1, ID, bHLHb24	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	ID1, ID, bHLHb24	gr-g	hsa04390	expression
+WWTR1	pd	ID1, ID, bHLHb24	gr-g	hsa04390	expression
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	pd	ID2, GIG8, ID2A, ID2H, bHLHb26	gr-g	hsa04390	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	ID2, GIG8, ID2A, ID2H, bHLHb26	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	ID2, GIG8, ID2A, ID2H, bHLHb26	gr-g	hsa04390	expression
+WWTR1	pd	ID2, GIG8, ID2A, ID2H, bHLHb26	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	AXIN2	gr-g	hsa04390	expression
+TCF7	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TCF7L2	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TCF7L1	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TCF7	pd	AXIN2	gr-g	hsa04390	expression
+TCF7L2	pd	AXIN2	gr-g	hsa04390	expression
+TCF7L1	pd	AXIN2	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	AXIN2	gr-g	hsa04390	expression
+TEAD4	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TEAD3	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TEAD2	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+TEAD4	pd	AXIN2	gr-g	hsa04390	expression
+TEAD3	pd	AXIN2	gr-g	hsa04390	expression
+TEAD2	pd	AXIN2	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	AXIN2	gr-g	hsa04390	expression
+WWTR1	pd	AXIN1, AXIN, PPP1R49	gr-g	hsa04390	expression
+WWTR1	pd	AXIN2	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TCF7	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TCF7L2	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TCF7L1	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TEAD4	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TEAD3	pd	NKD1, Naked1	gr-g	hsa04390	expression
+TEAD2	pd	NKD1, Naked1	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	NKD1, Naked1	gr-g	hsa04390	expression
+WWTR1	pd	NKD1, Naked1	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TCF7	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TCF7L2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TCF7L1	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TEAD4	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TEAD3	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+TEAD2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+WWTR1	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	CCND2	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	CCND3	gr-g	hsa04390	expression
+TCF7	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TCF7L2	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TCF7L1	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TCF7	pd	CCND2	gr-g	hsa04390	expression
+TCF7	pd	CCND3	gr-g	hsa04390	expression
+TCF7L2	pd	CCND2	gr-g	hsa04390	expression
+TCF7L2	pd	CCND3	gr-g	hsa04390	expression
+TCF7L1	pd	CCND2	gr-g	hsa04390	expression
+TCF7L1	pd	CCND3	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	CCND2	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	CCND3	gr-g	hsa04390	expression
+TEAD4	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TEAD3	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TEAD2	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+TEAD4	pd	CCND2	gr-g	hsa04390	expression
+TEAD4	pd	CCND3	gr-g	hsa04390	expression
+TEAD3	pd	CCND2	gr-g	hsa04390	expression
+TEAD3	pd	CCND3	gr-g	hsa04390	expression
+TEAD2	pd	CCND2	gr-g	hsa04390	expression
+TEAD2	pd	CCND3	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	CCND2	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	CCND3	gr-g	hsa04390	expression
+WWTR1	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-g	hsa04390	expression
+WWTR1	pd	CCND2	gr-g	hsa04390	expression
+WWTR1	pd	CCND3	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TCF7	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TCF7L2	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TCF7L1	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TEAD4	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TEAD3	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+TEAD2	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+WWTR1	pd	SOX2, ANOP3, MCOPS3	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TCF7	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TCF7L2	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TCF7L1	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TEAD4	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TEAD3	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+TEAD2	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+WWTR1	pd	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pd	BIRC5	gr-g	hsa04390	expression
+TCF7	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TCF7L2	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TCF7L1	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TCF7	pd	BIRC5	gr-g	hsa04390	expression
+TCF7L2	pd	BIRC5	gr-g	hsa04390	expression
+TCF7L1	pd	BIRC5	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TEAD1, AA, NTEF-1, REF1, TCF-13, TCF13, TEAD-1, TEF-1	pd	BIRC5	gr-g	hsa04390	expression
+TEAD4	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TEAD3	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TEAD2	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+TEAD4	pd	BIRC5	gr-g	hsa04390	expression
+TEAD3	pd	BIRC5	gr-g	hsa04390	expression
+TEAD2	pd	BIRC5	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	BIRC5	gr-g	hsa04390	expression
+WWTR1	pd	BIRC2, API1, HIAP2, Hiap-2, MIHB, RNF48, c-IAP1, cIAP1	gr-g	hsa04390	expression
+WWTR1	pd	BIRC5	gr-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	AREG, AR, AREGB, CRDGF, SDGF	g-g	hsa04390	expression
+WWTR1	pd	AREG, AR, AREGB, CRDGF, SDGF	g-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	BIRC5, API4, EPR-1	g-g	hsa04390	expression
+WWTR1	pd	BIRC5, API4, EPR-1	g-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	AFP, AFPD, FETA, HPAFP	g-g	hsa04390	expression
+WWTR1	pd	AFP, AFPD, FETA, HPAFP	g-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-g	hsa04390	expression
+WWTR1	pd	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-g	hsa04390	expression
+YAP1, COB1, YAP, YAP2, YAP65, YKI	pd	FGF1, AFGF, ECGF, ECGF-beta, ECGFA, ECGFB, FGF-1, FGF-alpha, FGFA, GLIO703, HBGF-1, HBGF1	g-g	hsa04390	expression
+WWTR1	pd	FGF1, AFGF, ECGF, ECGF-beta, ECGFA, ECGFB, FGF-1, FGF-alpha, FGFA, GLIO703, HBGF-1, HBGF1	g-g	hsa04390	expression
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-g	hsa04390	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR2	g-g	hsa04390	activation
+TGFB2	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-g	hsa04390	activation
+TGFB3	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-g	hsa04390	activation
+TGFB2	pp	TGFBR2	g-g	hsa04390	activation
+TGFB3	pp	TGFBR2	g-g	hsa04390	activation
+GDF7, BMP12	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+GDF7, BMP12	pp	BMPR1B	g-g	hsa04390	activation
+GDF7, BMP12	pp	BMPR2	g-g	hsa04390	activation
+AMH	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP8A	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+GDF6	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP2	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP4	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP5	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP6	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP7	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+BMP8B	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+GDF5	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+AMH	pp	BMPR1B	g-g	hsa04390	activation
+AMH	pp	BMPR2	g-g	hsa04390	activation
+BMP8A	pp	BMPR1B	g-g	hsa04390	activation
+BMP8A	pp	BMPR2	g-g	hsa04390	activation
+GDF6	pp	BMPR1B	g-g	hsa04390	activation
+GDF6	pp	BMPR2	g-g	hsa04390	activation
+BMP2	pp	BMPR1B	g-g	hsa04390	activation
+BMP2	pp	BMPR2	g-g	hsa04390	activation
+BMP4	pp	BMPR1B	g-g	hsa04390	activation
+BMP4	pp	BMPR2	g-g	hsa04390	activation
+BMP5	pp	BMPR1B	g-g	hsa04390	activation
+BMP5	pp	BMPR2	g-g	hsa04390	activation
+BMP6	pp	BMPR1B	g-g	hsa04390	activation
+BMP6	pp	BMPR2	g-g	hsa04390	activation
+BMP7	pp	BMPR1B	g-g	hsa04390	activation
+BMP7	pp	BMPR2	g-g	hsa04390	activation
+BMP8B	pp	BMPR1B	g-g	hsa04390	activation
+BMP8B	pp	BMPR2	g-g	hsa04390	activation
+GDF5	pp	BMPR1B	g-g	hsa04390	activation
+GDF5	pp	BMPR2	g-g	hsa04390	activation
+WNT16	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT16	pp	FZD2	g-g	hsa04390	activation
+WNT16	pp	FZD5	g-g	hsa04390	activation
+WNT16	pp	FZD3	g-g	hsa04390	activation
+WNT16	pp	FZD1	g-g	hsa04390	activation
+WNT16	pp	FZD4	g-g	hsa04390	activation
+WNT16	pp	FZD6	g-g	hsa04390	activation
+WNT16	pp	FZD7	g-g	hsa04390	activation
+WNT16	pp	FZD8	g-g	hsa04390	activation
+WNT16	pp	FZD9	g-g	hsa04390	activation
+WNT4	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT1	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT2	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT3	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT5A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT6	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT7A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT7B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT8A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT8B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT10B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT11	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT2B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT9A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT9B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT10A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT5B	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT3A	pp	FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	g-g	hsa04390	activation
+WNT4	pp	FZD2	g-g	hsa04390	activation
+WNT4	pp	FZD5	g-g	hsa04390	activation
+WNT4	pp	FZD3	g-g	hsa04390	activation
+WNT4	pp	FZD1	g-g	hsa04390	activation
+WNT4	pp	FZD4	g-g	hsa04390	activation
+WNT4	pp	FZD6	g-g	hsa04390	activation
+WNT4	pp	FZD7	g-g	hsa04390	activation
+WNT4	pp	FZD8	g-g	hsa04390	activation
+WNT4	pp	FZD9	g-g	hsa04390	activation
+WNT1	pp	FZD2	g-g	hsa04390	activation
+WNT1	pp	FZD5	g-g	hsa04390	activation
+WNT1	pp	FZD3	g-g	hsa04390	activation
+WNT1	pp	FZD1	g-g	hsa04390	activation
+WNT1	pp	FZD4	g-g	hsa04390	activation
+WNT1	pp	FZD6	g-g	hsa04390	activation
+WNT1	pp	FZD7	g-g	hsa04390	activation
+WNT1	pp	FZD8	g-g	hsa04390	activation
+WNT1	pp	FZD9	g-g	hsa04390	activation
+WNT2	pp	FZD2	g-g	hsa04390	activation
+WNT2	pp	FZD5	g-g	hsa04390	activation
+WNT2	pp	FZD3	g-g	hsa04390	activation
+WNT2	pp	FZD1	g-g	hsa04390	activation
+WNT2	pp	FZD4	g-g	hsa04390	activation
+WNT2	pp	FZD6	g-g	hsa04390	activation
+WNT2	pp	FZD7	g-g	hsa04390	activation
+WNT2	pp	FZD8	g-g	hsa04390	activation
+WNT2	pp	FZD9	g-g	hsa04390	activation
+WNT3	pp	FZD2	g-g	hsa04390	activation
+WNT3	pp	FZD5	g-g	hsa04390	activation
+WNT3	pp	FZD3	g-g	hsa04390	activation
+WNT3	pp	FZD1	g-g	hsa04390	activation
+WNT3	pp	FZD4	g-g	hsa04390	activation
+WNT3	pp	FZD6	g-g	hsa04390	activation
+WNT3	pp	FZD7	g-g	hsa04390	activation
+WNT3	pp	FZD8	g-g	hsa04390	activation
+WNT3	pp	FZD9	g-g	hsa04390	activation
+WNT5A	pp	FZD2	g-g	hsa04390	activation
+WNT5A	pp	FZD5	g-g	hsa04390	activation
+WNT5A	pp	FZD3	g-g	hsa04390	activation
+WNT5A	pp	FZD1	g-g	hsa04390	activation
+WNT5A	pp	FZD4	g-g	hsa04390	activation
+WNT5A	pp	FZD6	g-g	hsa04390	activation
+WNT5A	pp	FZD7	g-g	hsa04390	activation
+WNT5A	pp	FZD8	g-g	hsa04390	activation
+WNT5A	pp	FZD9	g-g	hsa04390	activation
+WNT6	pp	FZD2	g-g	hsa04390	activation
+WNT6	pp	FZD5	g-g	hsa04390	activation
+WNT6	pp	FZD3	g-g	hsa04390	activation
+WNT6	pp	FZD1	g-g	hsa04390	activation
+WNT6	pp	FZD4	g-g	hsa04390	activation
+WNT6	pp	FZD6	g-g	hsa04390	activation
+WNT6	pp	FZD7	g-g	hsa04390	activation
+WNT6	pp	FZD8	g-g	hsa04390	activation
+WNT6	pp	FZD9	g-g	hsa04390	activation
+WNT7A	pp	FZD2	g-g	hsa04390	activation
+WNT7A	pp	FZD5	g-g	hsa04390	activation
+WNT7A	pp	FZD3	g-g	hsa04390	activation
+WNT7A	pp	FZD1	g-g	hsa04390	activation
+WNT7A	pp	FZD4	g-g	hsa04390	activation
+WNT7A	pp	FZD6	g-g	hsa04390	activation
+WNT7A	pp	FZD7	g-g	hsa04390	activation
+WNT7A	pp	FZD8	g-g	hsa04390	activation
+WNT7A	pp	FZD9	g-g	hsa04390	activation
+WNT7B	pp	FZD2	g-g	hsa04390	activation
+WNT7B	pp	FZD5	g-g	hsa04390	activation
+WNT7B	pp	FZD3	g-g	hsa04390	activation
+WNT7B	pp	FZD1	g-g	hsa04390	activation
+WNT7B	pp	FZD4	g-g	hsa04390	activation
+WNT7B	pp	FZD6	g-g	hsa04390	activation
+WNT7B	pp	FZD7	g-g	hsa04390	activation
+WNT7B	pp	FZD8	g-g	hsa04390	activation
+WNT7B	pp	FZD9	g-g	hsa04390	activation
+WNT8A	pp	FZD2	g-g	hsa04390	activation
+WNT8A	pp	FZD5	g-g	hsa04390	activation
+WNT8A	pp	FZD3	g-g	hsa04390	activation
+WNT8A	pp	FZD1	g-g	hsa04390	activation
+WNT8A	pp	FZD4	g-g	hsa04390	activation
+WNT8A	pp	FZD6	g-g	hsa04390	activation
+WNT8A	pp	FZD7	g-g	hsa04390	activation
+WNT8A	pp	FZD8	g-g	hsa04390	activation
+WNT8A	pp	FZD9	g-g	hsa04390	activation
+WNT8B	pp	FZD2	g-g	hsa04390	activation
+WNT8B	pp	FZD5	g-g	hsa04390	activation
+WNT8B	pp	FZD3	g-g	hsa04390	activation
+WNT8B	pp	FZD1	g-g	hsa04390	activation
+WNT8B	pp	FZD4	g-g	hsa04390	activation
+WNT8B	pp	FZD6	g-g	hsa04390	activation
+WNT8B	pp	FZD7	g-g	hsa04390	activation
+WNT8B	pp	FZD8	g-g	hsa04390	activation
+WNT8B	pp	FZD9	g-g	hsa04390	activation
+WNT10B	pp	FZD2	g-g	hsa04390	activation
+WNT10B	pp	FZD5	g-g	hsa04390	activation
+WNT10B	pp	FZD3	g-g	hsa04390	activation
+WNT10B	pp	FZD1	g-g	hsa04390	activation
+WNT10B	pp	FZD4	g-g	hsa04390	activation
+WNT10B	pp	FZD6	g-g	hsa04390	activation
+WNT10B	pp	FZD7	g-g	hsa04390	activation
+WNT10B	pp	FZD8	g-g	hsa04390	activation
+WNT10B	pp	FZD9	g-g	hsa04390	activation
+WNT11	pp	FZD2	g-g	hsa04390	activation
+WNT11	pp	FZD5	g-g	hsa04390	activation
+WNT11	pp	FZD3	g-g	hsa04390	activation
+WNT11	pp	FZD1	g-g	hsa04390	activation
+WNT11	pp	FZD4	g-g	hsa04390	activation
+WNT11	pp	FZD6	g-g	hsa04390	activation
+WNT11	pp	FZD7	g-g	hsa04390	activation
+WNT11	pp	FZD8	g-g	hsa04390	activation
+WNT11	pp	FZD9	g-g	hsa04390	activation
+WNT2B	pp	FZD2	g-g	hsa04390	activation
+WNT2B	pp	FZD5	g-g	hsa04390	activation
+WNT2B	pp	FZD3	g-g	hsa04390	activation
+WNT2B	pp	FZD1	g-g	hsa04390	activation
+WNT2B	pp	FZD4	g-g	hsa04390	activation
+WNT2B	pp	FZD6	g-g	hsa04390	activation
+WNT2B	pp	FZD7	g-g	hsa04390	activation
+WNT2B	pp	FZD8	g-g	hsa04390	activation
+WNT2B	pp	FZD9	g-g	hsa04390	activation
+WNT9A	pp	FZD2	g-g	hsa04390	activation
+WNT9A	pp	FZD5	g-g	hsa04390	activation
+WNT9A	pp	FZD3	g-g	hsa04390	activation
+WNT9A	pp	FZD1	g-g	hsa04390	activation
+WNT9A	pp	FZD4	g-g	hsa04390	activation
+WNT9A	pp	FZD6	g-g	hsa04390	activation
+WNT9A	pp	FZD7	g-g	hsa04390	activation
+WNT9A	pp	FZD8	g-g	hsa04390	activation
+WNT9A	pp	FZD9	g-g	hsa04390	activation
+WNT9B	pp	FZD2	g-g	hsa04390	activation
+WNT9B	pp	FZD5	g-g	hsa04390	activation
+WNT9B	pp	FZD3	g-g	hsa04390	activation
+WNT9B	pp	FZD1	g-g	hsa04390	activation
+WNT9B	pp	FZD4	g-g	hsa04390	activation
+WNT9B	pp	FZD6	g-g	hsa04390	activation
+WNT9B	pp	FZD7	g-g	hsa04390	activation
+WNT9B	pp	FZD8	g-g	hsa04390	activation
+WNT9B	pp	FZD9	g-g	hsa04390	activation
+WNT10A	pp	FZD2	g-g	hsa04390	activation
+WNT10A	pp	FZD5	g-g	hsa04390	activation
+WNT10A	pp	FZD3	g-g	hsa04390	activation
+WNT10A	pp	FZD1	g-g	hsa04390	activation
+WNT10A	pp	FZD4	g-g	hsa04390	activation
+WNT10A	pp	FZD6	g-g	hsa04390	activation
+WNT10A	pp	FZD7	g-g	hsa04390	activation
+WNT10A	pp	FZD8	g-g	hsa04390	activation
+WNT10A	pp	FZD9	g-g	hsa04390	activation
+WNT5B	pp	FZD2	g-g	hsa04390	activation
+WNT5B	pp	FZD5	g-g	hsa04390	activation
+WNT5B	pp	FZD3	g-g	hsa04390	activation
+WNT5B	pp	FZD1	g-g	hsa04390	activation
+WNT5B	pp	FZD4	g-g	hsa04390	activation
+WNT5B	pp	FZD6	g-g	hsa04390	activation
+WNT5B	pp	FZD7	g-g	hsa04390	activation
+WNT5B	pp	FZD8	g-g	hsa04390	activation
+WNT5B	pp	FZD9	g-g	hsa04390	activation
+WNT3A	pp	FZD2	g-g	hsa04390	activation
+WNT3A	pp	FZD5	g-g	hsa04390	activation
+WNT3A	pp	FZD3	g-g	hsa04390	activation
+WNT3A	pp	FZD1	g-g	hsa04390	activation
+WNT3A	pp	FZD4	g-g	hsa04390	activation
+WNT3A	pp	FZD6	g-g	hsa04390	activation
+WNT3A	pp	FZD7	g-g	hsa04390	activation
+WNT3A	pp	FZD8	g-g	hsa04390	activation
+WNT3A	pp	FZD9	g-g	hsa04390	activation
+FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	pp	DVL2	g-g	hsa04390	activation
+FZD10, CD350, FZ-10, Fz10, FzE7, hFz10	pp	DVL3	g-g	hsa04390	activation
+FZD2	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD5	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD3	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD1	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD4	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD6	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD7	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD8	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD9	pp	DVL1, DRS2, DVL, DVL1L1, DVL1P1	g-g	hsa04390	activation
+FZD2	pp	DVL2	g-g	hsa04390	activation
+FZD2	pp	DVL3	g-g	hsa04390	activation
+FZD5	pp	DVL2	g-g	hsa04390	activation
+FZD5	pp	DVL3	g-g	hsa04390	activation
+FZD3	pp	DVL2	g-g	hsa04390	activation
+FZD3	pp	DVL3	g-g	hsa04390	activation
+FZD1	pp	DVL2	g-g	hsa04390	activation
+FZD1	pp	DVL3	g-g	hsa04390	activation
+FZD4	pp	DVL2	g-g	hsa04390	activation
+FZD4	pp	DVL3	g-g	hsa04390	activation
+FZD6	pp	DVL2	g-g	hsa04390	activation
+FZD6	pp	DVL3	g-g	hsa04390	activation
+FZD7	pp	DVL2	g-g	hsa04390	activation
+FZD7	pp	DVL3	g-g	hsa04390	activation
+FZD8	pp	DVL2	g-g	hsa04390	activation
+FZD8	pp	DVL3	g-g	hsa04390	activation
+FZD9	pp	DVL2	g-g	hsa04390	activation
+FZD9	pp	DVL3	g-g	hsa04390	activation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04390	activation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD3	g-g	hsa04390	activation
+TGFBR2	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04390	activation
+TGFBR2	pp	SMAD3	g-g	hsa04390	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	BMPR1B	g-g	hsa04390	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	BMPR2	g-g	hsa04390	activation
+SMAD3	pp	BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	g-g	hsa04390	activation
+SMAD3	pp	BMPR1B	g-g	hsa04390	activation
+SMAD3	pp	BMPR2	g-g	hsa04390	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04390	activation
+SMAD3	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04390	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2CA, PP2Ac, PP2CA, PP2Calpha, RP-C	pp	WWTR1	g-g	hsa04390	activation
+PPP2CB	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R1A	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R1B	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R2A	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R2B	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R2C	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2R2D	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	activation
+PPP2CB	pp	WWTR1	g-g	hsa04390	activation
+PPP2R1A	pp	WWTR1	g-g	hsa04390	activation
+PPP2R1B	pp	WWTR1	g-g	hsa04390	activation
+PPP2R2A	pp	WWTR1	g-g	hsa04390	activation
+PPP2R2B	pp	WWTR1	g-g	hsa04390	activation
+PPP2R2C	pp	WWTR1	g-g	hsa04390	activation
+PPP2R2D	pp	WWTR1	g-g	hsa04390	activation
+CTNNB1, CTNNB, MRD19, armadillo	pp	LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	g-g	hsa04390	activation
+CTNNB1, CTNNB, MRD19, armadillo	pp	TCF7	g-g	hsa04390	activation
+CTNNB1, CTNNB, MRD19, armadillo	pp	TCF7L2	g-g	hsa04390	activation
+CTNNB1, CTNNB, MRD19, armadillo	pp	TCF7L1	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAQ, 14-3-3, 1C5, HS1	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAB	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAE	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAG	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAH	g-g	hsa04390	activation
+CTNNA1, CAP102, MDPT2	pp	YWHAZ	g-g	hsa04390	activation
+CTNNA2	pp	YWHAQ, 14-3-3, 1C5, HS1	g-g	hsa04390	activation
+CTNNA3	pp	YWHAQ, 14-3-3, 1C5, HS1	g-g	hsa04390	activation
+CTNNA2	pp	YWHAB	g-g	hsa04390	activation
+CTNNA2	pp	YWHAE	g-g	hsa04390	activation
+CTNNA2	pp	YWHAG	g-g	hsa04390	activation
+CTNNA2	pp	YWHAH	g-g	hsa04390	activation
+CTNNA2	pp	YWHAZ	g-g	hsa04390	activation
+CTNNA3	pp	YWHAB	g-g	hsa04390	activation
+CTNNA3	pp	YWHAE	g-g	hsa04390	activation
+CTNNA3	pp	YWHAG	g-g	hsa04390	activation
+CTNNA3	pp	YWHAH	g-g	hsa04390	activation
+CTNNA3	pp	YWHAZ	g-g	hsa04390	activation
+YWHAQ, 14-3-3, 1C5, HS1	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAQ, 14-3-3, 1C5, HS1	pp	WWTR1	g-g	hsa04390	binding/association
+YWHAB	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAE	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAG	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAH	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAZ	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	binding/association
+YWHAB	pp	WWTR1	g-g	hsa04390	binding/association
+YWHAE	pp	WWTR1	g-g	hsa04390	binding/association
+YWHAG	pp	WWTR1	g-g	hsa04390	binding/association
+YWHAH	pp	WWTR1	g-g	hsa04390	binding/association
+YWHAZ	pp	WWTR1	g-g	hsa04390	binding/association
+RASSF6	pp	STK3, KRS1, MST2	g-g	hsa04390	inhibition
+RASSF1, 123F2, NORE2A, RASSF1A, RDA32, REH3P21	pp	STK3, KRS1, MST2	g-g	hsa04390	activation
+ACTB, BRWS1, PS1TP5BP1	pp	STK3, KRS1, MST2	g-g	hsa04390	activation
+ACTG1	pp	STK3, KRS1, MST2	g-g	hsa04390	activation
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04390	binding/association
+SMAD3	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04390	binding/association
+SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa04390	binding/association
+BMPR1A, 10q23del, ACVRLK3, ALK3, CD292, SKR5	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04390	activation
+BMPR1B	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04390	activation
+BMPR2	pp	SMAD1, BSP-1, BSP1, JV4-1, JV41, MADH1, MADR1	g-g	hsa04390	activation
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+FBXW11, BTRC2, BTRCP2, FBW1B, FBXW1B, Fbw11, Hos	pp	WWTR1	g-g	hsa04390	inhibition
+BTRC	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+BTRC	pp	WWTR1	g-g	hsa04390	inhibition
+102800317	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+102800317	pp	WWTR1	g-g	hsa04390	inhibition
+CSNK1D	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+CSNK1E	pp	YAP1, COB1, YAP, YAP2, YAP65, YKI	g-g	hsa04390	inhibition
+CSNK1D	pp	WWTR1	g-g	hsa04390	inhibition
+CSNK1E	pp	WWTR1	g-g	hsa04390	inhibition

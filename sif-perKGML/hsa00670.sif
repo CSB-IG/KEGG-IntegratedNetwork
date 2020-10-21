@@ -1,0 +1,341 @@
+TYMS, HST422, TMS, TS	ec	DHFR, DHFRP1, DYR	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	DHFR2	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	DHFR, DHFRP1, DYR	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	DHFR2	g-g	hsa00670	compound
+MTR, HMAG, MS, cblG	ec	MTHFR	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFR	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFR	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFR	g-g	hsa00670	compound
+MTHFR	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+MTHFR	ec	MTHFD2	g-g	hsa00670	compound
+MTHFR	ec	MTHFD2L	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTHFR	g-g	hsa00670	compound
+SHMT2	ec	MTHFR	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFR	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFD2L	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFD2	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	MTHFD2L	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	SHMT2	g-g	hsa00670	compound
+TYMS, HST422, TMS, TS	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	SHMT2	g-g	hsa00670	compound
+MTHFD2L	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+MTHFD2L	ec	SHMT2	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD2L	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTHFD2	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTHFD2L	g-g	hsa00670	compound
+SHMT2	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+SHMT2	ec	MTHFD2	g-g	hsa00670	compound
+SHMT2	ec	MTHFD2L	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2L	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ST20-MTHFS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTHFD1	g-g	hsa00670	compound
+DHFR2	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+DHFR2	ec	MTHFD1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+DHFR2	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	SHMT2	g-g	hsa00670	compound
+DHFR2	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+DHFR2	ec	SHMT2	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+DHFR2	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ALDH1L2	g-g	hsa00670	compound
+DHFR2	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+DHFR2	ec	ALDH1L2	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+DHFR2	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+DHFR2	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD1	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	SHMT2	g-g	hsa00670	compound
+MTHFD1	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+MTHFD1	ec	SHMT2	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD1	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD1	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD1	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+MTHFD1	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	SHMT2	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	SHMT2	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+FTCD, LCHC1	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+FTCD, LCHC1	ec	SHMT2	g-g	hsa00670	compound
+FTCD, LCHC1	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+FTCD, LCHC1	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+FTCD, LCHC1	ec	ALDH1L2	g-g	hsa00670	compound
+FTCD, LCHC1	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+FTCD, LCHC1	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+FTCD, LCHC1	ec	FTCD, LCHC1	g-g	hsa00670	compound
+FTCD, LCHC1	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	ALDH1L2	g-g	hsa00670	compound
+SHMT2	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+SHMT2	ec	ALDH1L2	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+SHMT2	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+SHMT2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	FTCD, LCHC1	g-g	hsa00670	compound
+SHMT2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+SHMT1, CSHMT, SHMT	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+SHMT2	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	ALDH1L2	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	FTCD, LCHC1	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+ALDH1L2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ALDH1L2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+ALDH1L2	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+MTFMT, COXPD15, FMT1	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTFMT, COXPD15, FMT1	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTFMT, COXPD15, FMT1	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+FTCD, LCHC1	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD1	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD1	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2L	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+MTHFD2L	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	ALDH1L2	g-g	hsa00670	compound
+MTHFD2L	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+MTHFD2L	ec	ALDH1L2	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+MTHFD2L	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD2L	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	ST20-MTHFS, MTHFS	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	ST20-MTHFS	g-g	hsa00670	compound
+MTHFD2L	ec	ST20-MTHFS, MTHFS	g-g	hsa00670	compound
+MTHFD2L	ec	ST20-MTHFS	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD2	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2L	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2L	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2L	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	MTHFD2L	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	FTCD, LCHC1	g-g	hsa00670	compound
+AMT, GCE, GCST, GCVT, NKH	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	MTHFD2	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	MTHFD2L	g-g	hsa00670	compound
+ST20-MTHFS	ec	MTHFD1, CIMAH, MTHFC, MTHFD	g-g	hsa00670	compound
+ST20-MTHFS	ec	MTHFD2	g-g	hsa00670	compound
+ST20-MTHFS	ec	MTHFD2L	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	MTHFD2L	g-g	hsa00670	compound
+ST20-MTHFS	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+ST20-MTHFS	ec	MTHFD2L	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ST20-MTHFS	ec	FTCD, LCHC1	g-g	hsa00670	compound
+ST20-MTHFS, MTHFS	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+ST20-MTHFS	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD1, CIMAH, MTHFC, MTHFD	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+MTHFD1, CIMAH, MTHFC, MTHFD	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2, NMDMC	g-g	hsa00670	compound
+MTHFD2	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD2L	ec	MTHFD2L	g-g	hsa00670	compound
+MTHFD1, CIMAH, MTHFC, MTHFD	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2L	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD1, CIMAH, MTHFC, MTHFD	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2L	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2L	ec	FTCD, LCHC1	g-g	hsa00670	compound
+MTHFD2, NMDMC	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+MTHFD2L	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+FTCD, LCHC1	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+DHFR2	ec	AMT, GCE, GCST, GCVT, NKH	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	SHMT2	g-g	hsa00670	compound
+DHFR2	ec	SHMT1, CSHMT, SHMT	g-g	hsa00670	compound
+DHFR2	ec	SHMT2	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+DHFR2	ec	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTHFD1	g-g	hsa00670	compound
+DHFR2	ec	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	g-g	hsa00670	compound
+DHFR2	ec	MTHFD1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	ALDH1L2	g-g	hsa00670	compound
+DHFR2	ec	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	g-g	hsa00670	compound
+DHFR2	ec	ALDH1L2	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+DHFR2	ec	MTFMT, COXPD15, FMT1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR2	ec	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR2	ec	FTCD, LCHC1	g-g	hsa00670	compound
+DHFR, DHFRP1, DYR	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+DHFR2	ec	MTR, HMAG, MS, cblG	g-g	hsa00670	compound
+C00143	rt	TYMS, HST422, TMS, TS	reversible	hsa00670	se
+TYMS, HST422, TMS, TS	rt	C00143	reversible	hsa00670	ep
+TYMS, HST422, TMS, TS	rt	C00415	reversible	hsa00670	ep
+C00415	rt	TYMS, HST422, TMS, TS	reversible	hsa00670	se
+C00440	rt	MTR, HMAG, MS, cblG	reversible	hsa00670	se
+MTR, HMAG, MS, cblG	rt	C00440	reversible	hsa00670	ep
+MTR, HMAG, MS, cblG	rt	C00101	reversible	hsa00670	ep
+C00101	rt	MTR, HMAG, MS, cblG	reversible	hsa00670	se
+C00664	rt	FTCD, LCHC1	reversible	hsa00670	se
+FTCD, LCHC1	rt	C00664	reversible	hsa00670	ep
+FTCD, LCHC1	rt	C00101	reversible	hsa00670	ep
+C00101	rt	FTCD, LCHC1	reversible	hsa00670	se
+C00445	rt	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	irreversible	hsa00670	se
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	rt	C00101	irreversible	hsa00670	ep
+C00445	rt	FTCD, LCHC1	reversible	hsa00670	se
+FTCD, LCHC1	rt	C00445	reversible	hsa00670	ep
+FTCD, LCHC1	rt	C00664	reversible	hsa00670	ep
+C00664	rt	FTCD, LCHC1	reversible	hsa00670	se
+C00143	rt	MTHFD2, NMDMC	reversible	hsa00670	se
+C00143	rt	MTHFD2L	reversible	hsa00670	se
+MTHFD2, NMDMC	rt	C00143	reversible	hsa00670	ep
+MTHFD2L	rt	C00143	reversible	hsa00670	ep
+MTHFD2, NMDMC	rt	C00445	reversible	hsa00670	ep
+MTHFD2L	rt	C00445	reversible	hsa00670	ep
+C00445	rt	MTHFD2, NMDMC	reversible	hsa00670	se
+C00445	rt	MTHFD2L	reversible	hsa00670	se
+C03479	rt	ST20-MTHFS, MTHFS	irreversible	hsa00670	se
+C03479	rt	ST20-MTHFS	irreversible	hsa00670	se
+ST20-MTHFS, MTHFS	rt	C00445	irreversible	hsa00670	ep
+ST20-MTHFS	rt	C00445	irreversible	hsa00670	ep
+C00445	rt	AMT, GCE, GCST, GCVT, NKH	irreversible	hsa00670	se
+AMT, GCE, GCST, GCVT, NKH	rt	C03479	irreversible	hsa00670	ep
+C00234	rt	MTFMT, COXPD15, FMT1	irreversible	hsa00670	se
+MTFMT, COXPD15, FMT1	rt	C00101	irreversible	hsa00670	ep
+C00234	rt	ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	irreversible	hsa00670	se
+C00234	rt	ALDH1L2	irreversible	hsa00670	se
+ALDH1L1, 10-FTHFDH, 10-fTHF, FDH, FTHFD	rt	C00101	irreversible	hsa00670	ep
+ALDH1L2	rt	C00101	irreversible	hsa00670	ep
+C00101	rt	MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	irreversible	hsa00670	se
+C00101	rt	MTHFD1	irreversible	hsa00670	se
+MTHFD1L, FTHFSDC1, MTC1THFS, dJ292B182	rt	C00234	irreversible	hsa00670	ep
+MTHFD1	rt	C00234	irreversible	hsa00670	ep
+C00234	rt	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	reversible	hsa00670	se
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	rt	C00234	reversible	hsa00670	ep
+GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	rt	C00101	reversible	hsa00670	ep
+C00101	rt	GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS	reversible	hsa00670	se
+C00234	rt	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	reversible	hsa00670	se
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	rt	C00234	reversible	hsa00670	ep
+ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	rt	C00101	reversible	hsa00670	ep
+C00101	rt	ATIC, AICAR, AICARFT, HEL-S-70p, IMPCHASE, PURH	reversible	hsa00670	se
+C00415	rt	DHFR, DHFRP1, DYR	reversible	hsa00670	se
+C00415	rt	DHFR2	reversible	hsa00670	se
+DHFR, DHFRP1, DYR	rt	C00415	reversible	hsa00670	ep
+DHFR2	rt	C00415	reversible	hsa00670	ep
+DHFR, DHFRP1, DYR	rt	C00101	reversible	hsa00670	ep
+DHFR2	rt	C00101	reversible	hsa00670	ep
+C00101	rt	DHFR, DHFRP1, DYR	reversible	hsa00670	se
+C00101	rt	DHFR2	reversible	hsa00670	se
+C00504	rt	DHFR, DHFRP1, DYR	reversible	hsa00670	se
+C00504	rt	DHFR2	reversible	hsa00670	se
+DHFR, DHFRP1, DYR	rt	C00504	reversible	hsa00670	ep
+DHFR2	rt	C00504	reversible	hsa00670	ep
+DHFR, DHFRP1, DYR	rt	C00415	reversible	hsa00670	ep
+DHFR2	rt	C00415	reversible	hsa00670	ep
+C00415	rt	DHFR, DHFRP1, DYR	reversible	hsa00670	se
+C00415	rt	DHFR2	reversible	hsa00670	se
+C03479	rt	FTCD, LCHC1	irreversible	hsa00670	se
+FTCD, LCHC1	rt	C00101	irreversible	hsa00670	ep
+C00143	rt	SHMT1, CSHMT, SHMT	reversible	hsa00670	se
+C00143	rt	SHMT2	reversible	hsa00670	se
+SHMT1, CSHMT, SHMT	rt	C00143	reversible	hsa00670	ep
+SHMT2	rt	C00143	reversible	hsa00670	ep
+SHMT1, CSHMT, SHMT	rt	C00101	reversible	hsa00670	ep
+SHMT2	rt	C00101	reversible	hsa00670	ep
+C00101	rt	SHMT1, CSHMT, SHMT	reversible	hsa00670	se
+C00101	rt	SHMT2	reversible	hsa00670	se
+C00101	rt	AMT, GCE, GCST, GCVT, NKH	reversible	hsa00670	se
+AMT, GCE, GCST, GCVT, NKH	rt	C00101	reversible	hsa00670	ep
+AMT, GCE, GCST, GCVT, NKH	rt	C00143	reversible	hsa00670	ep
+C00143	rt	AMT, GCE, GCST, GCVT, NKH	reversible	hsa00670	se
+C00143	rt	MTHFR	irreversible	hsa00670	se
+MTHFR	rt	C00440	irreversible	hsa00670	ep
+C00445	rt	MTHFD2, NMDMC	reversible	hsa00670	se
+C00445	rt	MTHFD2L	reversible	hsa00670	se
+MTHFD2, NMDMC	rt	C00445	reversible	hsa00670	ep
+MTHFD2L	rt	C00445	reversible	hsa00670	ep
+MTHFD2, NMDMC	rt	C00234	reversible	hsa00670	ep
+MTHFD2L	rt	C00234	reversible	hsa00670	ep
+C00234	rt	MTHFD2, NMDMC	reversible	hsa00670	se
+C00234	rt	MTHFD2L	reversible	hsa00670	se
+C00143	rt	MTHFD1, CIMAH, MTHFC, MTHFD	reversible	hsa00670	se
+C00143	rt	MTHFD2	reversible	hsa00670	se
+C00143	rt	MTHFD2L	reversible	hsa00670	se
+MTHFD1, CIMAH, MTHFC, MTHFD	rt	C00143	reversible	hsa00670	ep
+MTHFD2	rt	C00143	reversible	hsa00670	ep
+MTHFD2L	rt	C00143	reversible	hsa00670	ep
+MTHFD1, CIMAH, MTHFC, MTHFD	rt	C00445	reversible	hsa00670	ep
+MTHFD2	rt	C00445	reversible	hsa00670	ep
+MTHFD2L	rt	C00445	reversible	hsa00670	ep
+C00445	rt	MTHFD1, CIMAH, MTHFC, MTHFD	reversible	hsa00670	se
+C00445	rt	MTHFD2	reversible	hsa00670	se
+C00445	rt	MTHFD2L	reversible	hsa00670	se
+C00504	rt	DHFR, DHFRP1, DYR	irreversible	hsa00670	se
+C00504	rt	DHFR2	irreversible	hsa00670	se
+DHFR, DHFRP1, DYR	rt	C00101	irreversible	hsa00670	ep
+DHFR2	rt	C00101	irreversible	hsa00670	ep

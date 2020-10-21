@@ -1,0 +1,82 @@
+TP53, BCC7, LFS1, P53, TRP53	pd	SLC7A11, CCBR1, xCT	g-g	hsa04216	repression
+TP53, BCC7, LFS1, P53, TRP53	pd	SAT2, SSAT2	g-g	hsa04216	expression
+TP53, BCC7, LFS1, P53, TRP53	pd	SAT1	g-g	hsa04216	expression
+SAT2, SSAT2	pp	ALOX15, 12-LOX, 15-LOX-1, 15LOX-1	g-g	hsa04216	indirect effect
+SAT1	pp	ALOX15, 12-LOX, 15-LOX-1, 15LOX-1	g-g	hsa04216	indirect effect
+C21478	pc	SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE	c-g	hsa04216	inhibition
+C00025	pc	SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE	c-g	hsa04216	inhibition
+C21478	pc	SLC7A11, CCBR1, xCT	c-g	hsa04216	inhibition
+C00025	pc	SLC7A11, CCBR1, xCT	c-g	hsa04216	inhibition
+C21479	pc	GPX4, GPx-4, GSHPx-4, MCSP, PHGPx, SMDS, snGPx, snPHGPx	c-g	hsa04216	inhibition
+C02477	pc	ALOX15, 12-LOX, 15-LOX-1, 15LOX-1	c-g	hsa04216	inhibition
+SLC3A2, 4F2, 4F2HC, 4T2HC, CD98, CD98HC, MDU1, NACAE	pp	SLC7A11, CCBR1, xCT	g-g	hsa04216	binding/association
+C14819	pc	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	c-g	hsa04216	binding/association
+TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	pp	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	g-g	hsa04216	binding/association
+TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	pp	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	g-g	hsa04216	binding/association
+C14819	pc	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	c-g	hsa04216	binding/association
+C14819	pc	TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	c-g	hsa04216	binding/association
+TF, HEL-S-71p, PRO1557, PRO2086, TFQTL1	pp	TFRC, CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	g-g	hsa04216	binding/association
+PCBP2, HNRNPE2, HNRPE2, hnRNP-E2	pc	C14818	g-c	hsa04216	binding/association
+PCBP1	pc	C14818	g-c	hsa04216	binding/association
+C14819	pc	FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF	c-g	hsa04216	binding/association
+C14819	pc	FTL	c-g	hsa04216	binding/association
+C14819	pc	FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF	c-g	hsa04216	binding/association
+C14819	pc	FTL	c-g	hsa04216	binding/association
+NCOA4, ARA70, ELE1, PTC3, RFG	pp	FTH1, FHC, FTH, FTHL6, HFE5, PIG15, PLIF	g-g	hsa04216	binding/association
+NCOA4, ARA70, ELE1, PTC3, RFG	pp	FTL	g-g	hsa04216	binding/association
+C14818	pc	FTMT, MTF	c-g	hsa04216	binding/association
+C11378	pc	C16844	c-c	hsa04216	inhibition
+C11378	pc	C00027	c-c	hsa04216	inhibition
+C21483	pc	C16844	c-c	hsa04216	activation
+C21483	pc	C00027	c-c	hsa04216	activation
+VDAC2, POR	pc	C16844	g-c	hsa04216	activation
+VDAC2, POR	pc	C00027	g-c	hsa04216	activation
+VDAC3	pc	C16844	g-c	hsa04216	activation
+VDAC3	pc	C00027	g-c	hsa04216	activation
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	pc	C16844	g-c	hsa04216	activation
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	pc	C00027	g-c	hsa04216	activation
+C00491				hsa04216	
+C00051				hsa04216	
+C00097				hsa04216	
+GCLC, GCL, GCS, GLCL, GLCLC				hsa04216	
+GCLM				hsa04216	
+C00669				hsa04216	
+C00024				hsa04216	
+C00356				hsa04216	
+C00418				hsa04216	
+CP, CP-2				hsa04216	
+STEAP3, AHMIO2, STMP3, TSAP6, dudlin-2, dudulin-2, pHyde				hsa04216	
+C00127				hsa04216	
+GSS, GSHS, HEL-S-64p, HEL-S-88n				hsa04216	
+PCBP1, HEL-S-85, HNRPE1, HNRPX, hnRNP-E1, hnRNP-X				hsa04216	
+PCBP2				hsa04216	
+SLC40A1, FPN1, HFE4, IREG1, MST079, MSTP079, MTP1, SLC11A3				hsa04216	
+ATG7, APG7-LIKE, APG7L, GSA7				hsa04216	
+ATG5				hsa04216	
+SLC39A14, HMNDYT2, LZT-Hs4, NET34, ZIP14, cig19				hsa04216	
+SLC39A8				hsa04216	
+SLC11A2, AHMIO1, DCT1, DMT1, NRAMP2				hsa04216	
+MAP1LC3C, ATG8J, LC3C				hsa04216	
+MAP1LC3B				hsa04216	
+MAP1LC3A				hsa04216	
+SLC39A14, HMNDYT2, LZT-Hs4, NET34, ZIP14, cig19				hsa04216	
+SLC39A8				hsa04216	
+PRNP, ASCR, AltPrP, CD230, CJD, GSS, KURU, PRIP, PrP, PrP27-30, PrP33-35C, PrPc, p27-30				hsa04216	
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10				hsa04216	
+C00032				hsa04216	
+C21480				hsa04216	
+C21481				hsa04216	
+C02249				hsa04216	
+C16170				hsa04216	
+ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2				hsa04216	
+ACSL3				hsa04216	
+ACSL4				hsa04216	
+ACSL6				hsa04216	
+ACSL5				hsa04216	
+LPCAT3, C3F, LPCAT, LPLAT_5, LPSAT, MBOAT5, OACT5, nessy				hsa04216	
+C00219				hsa04216	
+C16527				hsa04216	
+C00010				hsa04216	
+C21484				hsa04216	
+C00129				hsa04216	
+C21482				hsa04216	

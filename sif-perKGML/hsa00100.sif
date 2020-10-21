@@ -1,0 +1,141 @@
+CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	ec	TM7SF2, ANG1, DHCR14A, NET47	g-g	hsa00100	compound
+TM7SF2, ANG1, DHCR14A, NET47	ec	EBP, CDPX2, CHO2, CPX, CPXD, MEND	g-g	hsa00100	compound
+SC5D, ERG3, S5DES, SC5DL	ec	DHCR7, SLOS	g-g	hsa00100	compound
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	ec	DHCR7, SLOS	g-g	hsa00100	compound
+DHCR7, SLOS	ec	SC5D, ERG3, S5DES, SC5DL	g-g	hsa00100	compound
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	ec	DHCR7, SLOS	g-g	hsa00100	compound
+LSS, CTRCT44, OSC	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+LSS, CTRCT44, OSC	ec	CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	g-g	hsa00100	compound
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	ec	CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	g-g	hsa00100	compound
+TM7SF2, ANG1, DHCR14A, NET47	ec	CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	g-g	hsa00100	compound
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	ec	TM7SF2, ANG1, DHCR14A, NET47	g-g	hsa00100	compound
+TM7SF2, ANG1, DHCR14A, NET47	ec	MSMO1, DESP4, ERG25, MCCPD, SC4MOL	g-g	hsa00100	compound
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	ec	MSMO1, DESP4, ERG25, MCCPD, SC4MOL	g-g	hsa00100	compound
+NSDHL, H105E3, SDR31E1, XAP104	ec	MSMO1, DESP4, ERG25, MCCPD, SC4MOL	g-g	hsa00100	compound
+NSDHL, H105E3, SDR31E1, XAP104	ec	HSD17B7, PRAP, SDR37C1	g-g	hsa00100	compound
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+SC5D, ERG3, S5DES, SC5DL	ec	EBP, CDPX2, CHO2, CPX, CPXD, MEND	g-g	hsa00100	compound
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+SC5D, ERG3, S5DES, SC5DL	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+DHCR7, SLOS	ec	SC5D, ERG3, S5DES, SC5DL	g-g	hsa00100	compound
+SC5D, ERG3, S5DES, SC5DL	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+DHCR7, SLOS	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR	ec	CYP2R1	g-g	hsa00100	compound
+DHCR7, SLOS	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+DHCR7, SLOS	ec	CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8	g-g	hsa00100	compound
+DHCR7, SLOS	ec	CEL	g-g	hsa00100	compound
+DHCR7, SLOS	ec	SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	g-g	hsa00100	compound
+DHCR7, SLOS	ec	SOAT2	g-g	hsa00100	compound
+CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+CEL	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+SOAT2	ec	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	g-g	hsa00100	compound
+CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR	ec	CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	g-g	hsa00100	compound
+CYP2R1	ec	CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	g-g	hsa00100	compound
+CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR	ec	CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	g-g	hsa00100	compound
+FDFT1, DGPT, ERG9, SQS, SS	ec	SQLE	g-g	hsa00100	compound
+SQLE	ec	LSS, CTRCT44, OSC	g-g	hsa00100	compound
+C05443	rt	CYP2R1	irreversible	hsa00100	se
+CYP2R1	rt	C01561	irreversible	hsa00100	ep
+C15782	rt	SC5D, ERG3, S5DES, SC5DL	irreversible	hsa00100	se
+SC5D, ERG3, S5DES, SC5DL	rt	C15783	irreversible	hsa00100	ep
+C05437	rt	EBP, CDPX2, CHO2, CPX, CPXD, MEND	irreversible	hsa00100	se
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	rt	C05439	irreversible	hsa00100	ep
+C01561	rt	CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR	irreversible	hsa00100	se
+CYP27B1, CP2B, CYP1, CYP1alpha, CYP27B, P450c1, PDDR, VDD1, VDDR, VDDRI, VDR	rt	C01673	irreversible	hsa00100	ep
+C01164	rt	DHCR7, SLOS	irreversible	hsa00100	se
+DHCR7, SLOS	rt	C00187	irreversible	hsa00100	ep
+C01189	rt	SC5D, ERG3, S5DES, SC5DL	irreversible	hsa00100	se
+SC5D, ERG3, S5DES, SC5DL	rt	C01164	irreversible	hsa00100	ep
+C03845	rt	EBP, CDPX2, CHO2, CPX, CPXD, MEND	irreversible	hsa00100	se
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	rt	C01189	irreversible	hsa00100	ep
+C15777	rt	SC5D, ERG3, S5DES, SC5DL	irreversible	hsa00100	se
+SC5D, ERG3, S5DES, SC5DL	rt	C15778	irreversible	hsa00100	ep
+C15781	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	irreversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01789	irreversible	hsa00100	ep
+C15780	rt	DHCR7, SLOS	irreversible	hsa00100	se
+DHCR7, SLOS	rt	C15781	irreversible	hsa00100	ep
+C15777	rt	SC5D, ERG3, S5DES, SC5DL	irreversible	hsa00100	se
+SC5D, ERG3, S5DES, SC5DL	rt	C15780	irreversible	hsa00100	ep
+C00187	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C00187	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01802	reversible	hsa00100	ep
+C01802	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C05107	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C05107	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01164	reversible	hsa00100	ep
+C01164	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C01189	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01189	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C05439	reversible	hsa00100	ep
+C05439	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C05437	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C05437	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C03845	reversible	hsa00100	ep
+C03845	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C05108	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C05108	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C15915	reversible	hsa00100	ep
+C15915	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C08821	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	irreversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01753	irreversible	hsa00100	ep
+C01943	rt	CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	irreversible	hsa00100	se
+CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	rt	C11508	irreversible	hsa00100	ep
+C11508	rt	TM7SF2, ANG1, DHCR14A, NET47	irreversible	hsa00100	se
+TM7SF2, ANG1, DHCR14A, NET47	rt	C15776	irreversible	hsa00100	ep
+C15783	rt	DHCR7, SLOS	irreversible	hsa00100	se
+DHCR7, SLOS	rt	C08821	irreversible	hsa00100	ep
+C01054	rt	LSS, CTRCT44, OSC	irreversible	hsa00100	se
+LSS, CTRCT44, OSC	rt	C01724	irreversible	hsa00100	ep
+C11455	rt	TM7SF2, ANG1, DHCR14A, NET47	irreversible	hsa00100	se
+TM7SF2, ANG1, DHCR14A, NET47	rt	C05108	irreversible	hsa00100	ep
+C15776	rt	EBP, CDPX2, CHO2, CPX, CPXD, MEND	irreversible	hsa00100	se
+EBP, CDPX2, CHO2, CPX, CPXD, MEND	rt	C11522	irreversible	hsa00100	ep
+C15808	rt	NSDHL, H105E3, SDR31E1, XAP104	irreversible	hsa00100	se
+NSDHL, H105E3, SDR31E1, XAP104	rt	C15816	irreversible	hsa00100	ep
+C01724	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C01724	reversible	hsa00100	ep
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C05109	reversible	hsa00100	ep
+C05109	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	reversible	hsa00100	se
+C05108	rt	MSMO1, DESP4, ERG25, MCCPD, SC4MOL	irreversible	hsa00100	se
+MSMO1, DESP4, ERG25, MCCPD, SC4MOL	rt	C15808	irreversible	hsa00100	ep
+C01724	rt	CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	irreversible	hsa00100	se
+CYP51A1, CP51, CYP51, CYPL1, LDM, P450-14DM, P450L1	rt	C11455	irreversible	hsa00100	ep
+C15816	rt	HSD17B7, PRAP, SDR37C1	irreversible	hsa00100	se
+HSD17B7, PRAP, SDR37C1	rt	C05103	irreversible	hsa00100	ep
+C02530	rt	CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8	irreversible	hsa00100	se
+C02530	rt	CEL	irreversible	hsa00100	se
+CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8	rt	C00187	irreversible	hsa00100	ep
+CEL	rt	C00187	irreversible	hsa00100	ep
+C00187	rt	SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	reversible	hsa00100	se
+C00187	rt	SOAT2	reversible	hsa00100	se
+SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	rt	C00187	reversible	hsa00100	ep
+SOAT2	rt	C00187	reversible	hsa00100	ep
+SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	rt	C02530	reversible	hsa00100	ep
+SOAT2	rt	C02530	reversible	hsa00100	ep
+C02530	rt	SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT	reversible	hsa00100	se
+C02530	rt	SOAT2	reversible	hsa00100	se
+C01673	rt	CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	irreversible	hsa00100	se
+CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	rt	C18231	irreversible	hsa00100	ep
+C01561	rt	CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	irreversible	hsa00100	se
+CYP24A1, CP24, CYP24, HCAI, HCINF1, P450-CC24	rt	C07712	irreversible	hsa00100	ep
+C00751	rt	SQLE	irreversible	hsa00100	se
+SQLE	rt	C01054	irreversible	hsa00100	ep
+C03428	rt	FDFT1, DGPT, ERG9, SQS, SS	irreversible	hsa00100	se
+FDFT1, DGPT, ERG9, SQS, SS	rt	C00751	irreversible	hsa00100	ep
+C00448	rt	FDFT1, DGPT, ERG9, SQS, SS	irreversible	hsa00100	se
+FDFT1, DGPT, ERG9, SQS, SS	rt	C03428	irreversible	hsa00100	ep
+C15781	rt	DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	irreversible	hsa00100	se
+DHCR24, DCE, Nbla03646, SELADIN1, seladin-1	rt	C21106	irreversible	hsa00100	ep
+C01902				hsa00100	
+C05442				hsa00100	
+C08830				hsa00100	
+C02141				hsa00100	
+C11523				hsa00100	
+C04525				hsa00100	
+C05440				hsa00100	
+C01694				hsa00100	
+C05441				hsa00100	
+C08813				hsa00100	

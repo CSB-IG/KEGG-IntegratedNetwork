@@ -1,0 +1,143 @@
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	HIF1A	g-g	hsa05211	binding/association
+EP300	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+EP300	pp	HIF1A	g-g	hsa05211	binding/association
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pp	HIF1A	g-g	hsa05211	binding/association
+ARNT2	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+ARNT2	pp	HIF1A	g-g	hsa05211	binding/association
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	HIF1A	g-g	hsa05211	binding/association
+EP300	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+EP300	pp	HIF1A	g-g	hsa05211	binding/association
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+ARNT, HIF-1-beta, HIF-1beta, HIF1-beta, HIF1B, HIF1BETA, TANGO, bHLHe2	pp	HIF1A	g-g	hsa05211	binding/association
+ARNT2	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	binding/association
+ARNT2	pp	HIF1A	g-g	hsa05211	binding/association
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	g-g	hsa05211	expression
+HIF1A	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05211	expression
+HIF1A	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB2	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB3	g-g	hsa05211	expression
+HIF1A	pd	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa05211	expression
+HIF1A	pd	TGFB2	g-g	hsa05211	expression
+HIF1A	pd	TGFB3	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	PDGFB, IBGC5, PDGF-2, PDGF2, SIS, SSV, c-sis	g-g	hsa05211	expression
+HIF1A	pd	PDGFB, IBGC5, PDGF-2, PDGF2, SIS, SSV, c-sis	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFA, TFGA	g-g	hsa05211	expression
+HIF1A	pd	TGFA, TFGA	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	g-g	hsa05211	expression
+HIF1A	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05211	expression
+HIF1A	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB2	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFB3	g-g	hsa05211	expression
+HIF1A	pd	TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	g-g	hsa05211	expression
+HIF1A	pd	TGFB2	g-g	hsa05211	expression
+HIF1A	pd	TGFB3	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	PDGFB, IBGC5, PDGF-2, PDGF2, SIS, SSV, c-sis	g-g	hsa05211	expression
+HIF1A	pd	PDGFB, IBGC5, PDGF-2, PDGF2, SIS, SSV, c-sis	g-g	hsa05211	expression
+EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	pd	TGFA, TFGA	g-g	hsa05211	expression
+HIF1A	pd	TGFA, TFGA	g-g	hsa05211	expression
+EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	activation
+EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	pp	HIF1A	g-g	hsa05211	activation
+EGLN3	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	activation
+EGLN1	pp	EPAS1, ECYT4, HIF2A, HLF, MOP2, PASD2, bHLHe73	g-g	hsa05211	activation
+EGLN3	pp	HIF1A	g-g	hsa05211	activation
+EGLN1	pp	HIF1A	g-g	hsa05211	activation
+HGF, DFNB39, F-TCF, HGFB, HPTA, SF	pp	MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	g-g	hsa05211	activation
+MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	pp	GAB1	g-g	hsa05211	activation
+ARAF, A-RAF, ARAF1, PKS2, RAFA1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05211	activation
+ARAF, A-RAF, ARAF1, PKS2, RAFA1	pp	MAP2K2	g-g	hsa05211	activation
+RAF1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05211	activation
+BRAF	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05211	activation
+RAF1	pp	MAP2K2	g-g	hsa05211	activation
+BRAF	pp	MAP2K2	g-g	hsa05211	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa05211	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa05211	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa05211	activation
+MAP2K2	pp	MAPK3	g-g	hsa05211	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ETS1, ETS-1, EWSR2, c-ets-1, p54	g-g	hsa05211	activation
+MAPK3	pp	ETS1, ETS-1, EWSR2, c-ets-1, p54	g-g	hsa05211	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	JUN, AP-1, AP1, c-Jun, p39	g-g	hsa05211	activation
+MAPK3	pp	JUN, AP-1, AP1, c-Jun, p39	g-g	hsa05211	activation
+GAB1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa05211	activation
+GAB1	pp	PIK3CB	g-g	hsa05211	activation
+GAB1	pp	PIK3CD	g-g	hsa05211	activation
+GAB1	pp	PIK3R1	g-g	hsa05211	activation
+GAB1	pp	PIK3R2	g-g	hsa05211	activation
+GAB1	pp	PIK3R3	g-g	hsa05211	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT2	g-g	hsa05211	indirect effect
+PIK3CB	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3CD	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3R1	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3R2	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3R3	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05211	indirect effect
+PIK3CB	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3CB	pp	AKT2	g-g	hsa05211	indirect effect
+PIK3CD	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3CD	pp	AKT2	g-g	hsa05211	indirect effect
+PIK3R1	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3R1	pp	AKT2	g-g	hsa05211	indirect effect
+PIK3R2	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3R2	pp	AKT2	g-g	hsa05211	indirect effect
+PIK3R3	pp	AKT1	g-g	hsa05211	indirect effect
+PIK3R3	pp	AKT2	g-g	hsa05211	indirect effect
+GAB1	pp	CRK, CRKII, p38	g-g	hsa05211	activation
+GAB1	pp	CRKL	g-g	hsa05211	activation
+CRK, CRKII, p38	pp	RAPGEF1, C3G, GRF2	g-g	hsa05211	activation
+CRKL	pp	RAPGEF1, C3G, GRF2	g-g	hsa05211	activation
+RAPGEF1, C3G, GRF2	pp	RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	g-g	hsa05211	activation
+RAPGEF1, C3G, GRF2	pp	RAP1B	g-g	hsa05211	activation
+GAB1	pp	PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	g-g	hsa05211	activation
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa05211	indirect effect
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	pp	MAPK3	g-g	hsa05211	indirect effect
+GAB1	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa05211	activation
+MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	pp	GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	g-g	hsa05211	activation
+GRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2	pp	SOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK4	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	BUB1B-PAK6	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK1	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK2	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK3	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK6	g-g	hsa05211	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	PAK5	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK4	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	BUB1B-PAK6	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK1	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK2	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK3	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK6	g-g	hsa05211	activation
+CDC42, CDC42Hs, G25K, TKS	pp	PAK5	g-g	hsa05211	activation
+C00122	pc	EGLN2, EIT6, HIF-PH1, HIFPH1, HPH-1, HPH-3, PHD1	c-g	hsa05211	inhibition
+C00122	pc	EGLN3	c-g	hsa05211	inhibition
+C00122	pc	EGLN1	c-g	hsa05211	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	BAD, BBC2, BCL2L8	g-g	hsa05211	inhibition
+AKT1	pp	BAD, BBC2, BCL2L8	g-g	hsa05211	inhibition
+AKT2	pp	BAD, BBC2, BCL2L8	g-g	hsa05211	inhibition
+CUL2				hsa05211	
+RBX1, BA554C121, RNF75, ROC1				hsa05211	
+ELOB, SIII, TCEB2				hsa05211	
+ELOC, SIII, TCEB1				hsa05211	
+VHL, HRCA1, RCA1, VHL1, pVHL				hsa05211	
+C00007				hsa05211	
+C00149				hsa05211	
+CUL2				hsa05211	
+RBX1, BA554C121, RNF75, ROC1				hsa05211	
+ELOB, SIII, TCEB2				hsa05211	
+ELOC, SIII, TCEB1				hsa05211	
+C00007				hsa05211	
+FLCN, BHD, FLCL				hsa05211	
+FH, FMRD, HLRCC, LRCC, MCL, MCUL1				hsa05211	
+VHL, HRCA1, RCA1, VHL1, pVHL				hsa05211	
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras				hsa05211	
+KRAS				hsa05211	
+NRAS				hsa05211	
+PRCC, RCCP1, TPRC				hsa05211	
+TFE3, RCCP2, RCCX1, TFEA, bHLHe33				hsa05211	
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1				hsa05211	

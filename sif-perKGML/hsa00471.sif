@@ -1,0 +1,31 @@
+GLUD1, GDH, GDH1, GLUD	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00471	compound
+GLUD1, GDH, GDH1, GLUD	ec	GLS2	g-g	hsa00471	compound
+GLUD2	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00471	compound
+GLUD2	ec	GLS2	g-g	hsa00471	compound
+DGLUCY, C14orf159	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00471	compound
+DGLUCY, C14orf159	ec	GLS2	g-g	hsa00471	compound
+C00217	rt	DGLUCY, C14orf159	irreversible	hsa00471	se
+DGLUCY, C14orf159	rt	C02237	irreversible	hsa00471	ep
+C00025	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00471	se
+C00025	rt	GLUD2	reversible	hsa00471	se
+GLUD1, GDH, GDH1, GLUD	rt	C00025	reversible	hsa00471	ep
+GLUD2	rt	C00025	reversible	hsa00471	ep
+GLUD1, GDH, GDH1, GLUD	rt	C00026	reversible	hsa00471	ep
+GLUD2	rt	C00026	reversible	hsa00471	ep
+C00026	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00471	se
+C00026	rt	GLUD2	reversible	hsa00471	se
+C00819	rt	GLS2, GA, GLS, LGA, hLGA	irreversible	hsa00471	se
+C00819	rt	GLS2	irreversible	hsa00471	se
+GLS2, GA, GLS, LGA, hLGA	rt	C00217	irreversible	hsa00471	ep
+GLS2	rt	C00217	irreversible	hsa00471	ep
+C00064	rt	GLS2, GA, GLS, LGA, hLGA	irreversible	hsa00471	se
+C00064	rt	GLS2	irreversible	hsa00471	se
+GLS2, GA, GLS, LGA, hLGA	rt	C00025	irreversible	hsa00471	ep
+GLS2	rt	C00025	irreversible	hsa00471	ep
+C03933				hsa00471	
+C05723				hsa00471	
+C02671				hsa00471	
+C00692				hsa00471	
+C01212				hsa00471	
+C01050				hsa00471	
+C22053				hsa00471	

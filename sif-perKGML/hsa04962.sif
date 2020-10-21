@@ -1,0 +1,79 @@
+AVP, ADH, ARVP, AVP-NPII, AVRP, VP	pp	AVPR2, ADHR, DI1, DIR, DIR3, NDI, V2R	g-g	hsa04962	activation
+AVPR2, ADHR, DI1, DIR, DIR3, NDI, V2R	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04962	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY3, AC-III, AC3	g-g	hsa04962	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04962	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04962	activation
+ADCY3, AC-III, AC3	pc	C00575	g-c	hsa04962	activation
+ADCY6	pc	C00575	g-c	hsa04962	activation
+ADCY9	pc	C00575	g-c	hsa04962	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04962	activation
+C00575	pc	PRKACB	c-g	hsa04962	activation
+C00575	pc	PRKACG	c-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	ARHGDIA, GDIA1, HEL-S-47e, NPHS8, RHOGDI, RHOGDI-1	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	ARHGDIB	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	ARHGDIG	g-g	hsa04962	activation
+PRKACB	pp	ARHGDIA, GDIA1, HEL-S-47e, NPHS8, RHOGDI, RHOGDI-1	g-g	hsa04962	activation
+PRKACG	pp	ARHGDIA, GDIA1, HEL-S-47e, NPHS8, RHOGDI, RHOGDI-1	g-g	hsa04962	activation
+PRKACB	pp	ARHGDIB	g-g	hsa04962	activation
+PRKACB	pp	ARHGDIG	g-g	hsa04962	activation
+PRKACG	pp	ARHGDIB	g-g	hsa04962	activation
+PRKACG	pp	ARHGDIG	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB1	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L4	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L2	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L3	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L1	g-g	hsa04962	activation
+PRKACA, PKACA, PPNAD4	pp	CREB5	g-g	hsa04962	activation
+PRKACB	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04962	activation
+PRKACG	pp	CREB3, LUMAN, LZIP, sLZIP	g-g	hsa04962	activation
+PRKACB	pp	CREB1	g-g	hsa04962	activation
+PRKACB	pp	CREB3L4	g-g	hsa04962	activation
+PRKACB	pp	CREB3L2	g-g	hsa04962	activation
+PRKACB	pp	CREB3L3	g-g	hsa04962	activation
+PRKACB	pp	CREB3L1	g-g	hsa04962	activation
+PRKACB	pp	CREB5	g-g	hsa04962	activation
+PRKACG	pp	CREB1	g-g	hsa04962	activation
+PRKACG	pp	CREB3L4	g-g	hsa04962	activation
+PRKACG	pp	CREB3L2	g-g	hsa04962	activation
+PRKACG	pp	CREB3L3	g-g	hsa04962	activation
+PRKACG	pp	CREB3L1	g-g	hsa04962	activation
+PRKACG	pp	CREB5	g-g	hsa04962	activation
+CREB3, LUMAN, LZIP, sLZIP	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB1	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB3L4	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB3L2	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB3L3	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB3L1	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+CREB5	pd	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	expression
+PRKACA, PKACA, PPNAD4	pp	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	activation
+PRKACB	pp	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	activation
+PRKACG	pp	AQP2, AQP-CD, WCH-CD	g-g	hsa04962	activation
+VAMP2, SYB2, VAMP-2	pp	STX4, STX4A, p35-2	g-g	hsa04962	binding/association
+C00001				hsa04962	
+AQP4, MIWC, WCH4				hsa04962	
+C00001				hsa04962	
+AQP3, AQP-3, GIL				hsa04962	
+C00001				hsa04962	
+AQP3, AQP-3, GIL				hsa04962	
+C00001				hsa04962	
+RAB11A, YL8				hsa04962	
+RAB11B				hsa04962	
+RAB5A, RAB5				hsa04962	
+RAB5B				hsa04962	
+RAB5C				hsa04962	
+NSF, SKD2				hsa04962	
+DCTN2, DCTN50, DYNAMITIN, HEL-S-77, RBP50				hsa04962	
+DCTN6				hsa04962	
+DCTN1				hsa04962	
+DCTN4				hsa04962	
+DCTN5				hsa04962	
+DYNLL2, DNCL1B, Dlc2, RSPH22				hsa04962	
+DYNC1H1				hsa04962	
+DYNC1I1				hsa04962	
+DYNC1I2				hsa04962	
+DYNC1LI2				hsa04962	
+DYNC1LI1				hsa04962	
+DYNC2LI1				hsa04962	
+DYNC2H1				hsa04962	
+DYNLL1				hsa04962	

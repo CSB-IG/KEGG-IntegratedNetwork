@@ -1,0 +1,315 @@
+ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	ec	ALAD, ALADH, PBGS	g-g	hsa00860	compound
+ALAS2	ec	ALAD, ALADH, PBGS	g-g	hsa00860	compound
+HMBS, PBG-D, PBGD, PORC, UPS	ec	ALAD, ALADH, PBGS	g-g	hsa00860	compound
+UROS, UROIIIS	ec	HMBS, PBG-D, PBGD, PORC, UPS	g-g	hsa00860	compound
+UROD, PCT, UPD	ec	UROS, UROIIIS	g-g	hsa00860	compound
+CPOX, CPO, CPX, HCP	ec	UROD, PCT, UPD	g-g	hsa00860	compound
+PPOX, PPO, V290M, VP	ec	CPOX, CPO, CPX, HCP	g-g	hsa00860	compound
+COX10	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+COX15, CEMCOX2	ec	COX10	g-g	hsa00860	compound
+HCCS, CCHL, LSDMCA1, MCOPS7, MLS	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+COX10	ec	HCCS, CCHL, LSDMCA1, MCOPS7, MLS	g-g	hsa00860	compound
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	ec	BLVRA, BLVR, BVR, BVRA	g-g	hsa00860	compound
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	ec	BLVRB	g-g	hsa00860	compound
+HMOX2	ec	BLVRA, BLVR, BVR, BVRA	g-g	hsa00860	compound
+HMOX2	ec	BLVRB	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B11	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2A1	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B28	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A10	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A8	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A7	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A6	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A5	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A9	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A4	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A1	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT1A3	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2A2	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B4	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B7	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B10	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B15	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2B17	g-g	hsa00860	compound
+BLVRA, BLVR, BVR, BVRA	ec	UGT2A3	g-g	hsa00860	compound
+BLVRB	ec	UGT2B11	g-g	hsa00860	compound
+BLVRB	ec	UGT2A1	g-g	hsa00860	compound
+BLVRB	ec	UGT2B28	g-g	hsa00860	compound
+BLVRB	ec	UGT1A10	g-g	hsa00860	compound
+BLVRB	ec	UGT1A8	g-g	hsa00860	compound
+BLVRB	ec	UGT1A7	g-g	hsa00860	compound
+BLVRB	ec	UGT1A6	g-g	hsa00860	compound
+BLVRB	ec	UGT1A5	g-g	hsa00860	compound
+BLVRB	ec	UGT1A9	g-g	hsa00860	compound
+BLVRB	ec	UGT1A4	g-g	hsa00860	compound
+BLVRB	ec	UGT1A1	g-g	hsa00860	compound
+BLVRB	ec	UGT1A3	g-g	hsa00860	compound
+BLVRB	ec	UGT2A2	g-g	hsa00860	compound
+BLVRB	ec	UGT2B4	g-g	hsa00860	compound
+BLVRB	ec	UGT2B7	g-g	hsa00860	compound
+BLVRB	ec	UGT2B10	g-g	hsa00860	compound
+BLVRB	ec	UGT2B15	g-g	hsa00860	compound
+BLVRB	ec	UGT2B17	g-g	hsa00860	compound
+BLVRB	ec	UGT2A3	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B11	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2A1	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B28	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A10	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A8	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A7	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A6	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A5	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A9	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A4	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A1	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT1A3	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2A2	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B4	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B7	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B10	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B15	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2B17	g-g	hsa00860	compound
+GUSB, BG, MPS7	ec	UGT2A3	g-g	hsa00860	compound
+CP, CP-2	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+FXN	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+HEPH	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+PPOX, PPO, V290M, VP	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+PPOX, PPO, V290M, VP	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+UROD, PCT, UPD	ec	PPOX, PPO, V290M, VP	g-g	hsa00860	compound
+CPOX, CPO, CPX, HCP	ec	PPOX, PPO, V290M, VP	g-g	hsa00860	compound
+CP, CP-2	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+FXN	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+HEPH	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	FECH, EPP, FCE	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX2	g-g	hsa00860	compound
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	ec	COX10	g-g	hsa00860	compound
+HMOX2	ec	COX10	g-g	hsa00860	compound
+HCCS, CCHL, LSDMCA1, MCOPS7, MLS	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+HCCS, CCHL, LSDMCA1, MCOPS7, MLS	ec	HMOX2	g-g	hsa00860	compound
+CP, CP-2	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+CP, CP-2	ec	HMOX2	g-g	hsa00860	compound
+FXN	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+HEPH	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+FXN	ec	HMOX2	g-g	hsa00860	compound
+HEPH	ec	HMOX2	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX2	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	g-g	hsa00860	compound
+FECH, EPP, FCE	ec	HMOX2	g-g	hsa00860	compound
+C05774	rt	MMAB, ATR, CFAP23, cblB, cob	irreversible	hsa00860	se
+MMAB, ATR, CFAP23, cblB, cob	rt	C06508	irreversible	hsa00860	ep
+C15672	rt	COX15, CEMCOX2	irreversible	hsa00860	se
+COX15, CEMCOX2	rt	C15670	irreversible	hsa00860	ep
+C00032	rt	COX10	irreversible	hsa00860	se
+COX10	rt	C15672	irreversible	hsa00860	ep
+C00037	rt	ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	irreversible	hsa00860	se
+C00037	rt	ALAS2	irreversible	hsa00860	se
+ALAS1, ALAS, ALAS-H, ALAS3, ALASH, MIG4	rt	C00430	irreversible	hsa00860	ep
+ALAS2	rt	C00430	irreversible	hsa00860	ep
+C05787	rt	GUSB, BG, MPS7	irreversible	hsa00860	se
+GUSB, BG, MPS7	rt	C05791	irreversible	hsa00860	ep
+C06505	rt	MMAB, ATR, CFAP23, cblB, cob	irreversible	hsa00860	se
+MMAB, ATR, CFAP23, cblB, cob	rt	C06506	irreversible	hsa00860	ep
+C14818	rt	CP, CP-2	irreversible	hsa00860	se
+C14818	rt	FXN	irreversible	hsa00860	se
+C14818	rt	HEPH	irreversible	hsa00860	se
+CP, CP-2	rt	C14819	irreversible	hsa00860	ep
+FXN	rt	C14819	irreversible	hsa00860	ep
+HEPH	rt	C14819	irreversible	hsa00860	ep
+C00032	rt	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	reversible	hsa00860	se
+C00032	rt	HMOX2	reversible	hsa00860	se
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	rt	C00032	reversible	hsa00860	ep
+HMOX2	rt	C00032	reversible	hsa00860	ep
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	rt	C14818	reversible	hsa00860	ep
+HMOX2	rt	C14818	reversible	hsa00860	ep
+C14818	rt	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	reversible	hsa00860	se
+C14818	rt	HMOX2	reversible	hsa00860	se
+HMOX1, HMOX1D, HO-1, HSP32, bK286B10	rt	C00500	reversible	hsa00860	ep
+HMOX2	rt	C00500	reversible	hsa00860	ep
+C00500	rt	HMOX1, HMOX1D, HO-1, HSP32, bK286B10	reversible	hsa00860	se
+C00500	rt	HMOX2	reversible	hsa00860	se
+C00500	rt	BLVRA, BLVR, BVR, BVRA	irreversible	hsa00860	se
+C00500	rt	BLVRB	irreversible	hsa00860	se
+BLVRA, BLVR, BVR, BVRA	rt	C00486	irreversible	hsa00860	ep
+BLVRB	rt	C00486	irreversible	hsa00860	ep
+C00853	rt	MMAB, ATR, CFAP23, cblB, cob	irreversible	hsa00860	se
+MMAB, ATR, CFAP23, cblB, cob	rt	C00194	irreversible	hsa00860	ep
+C01079	rt	PPOX, PPO, V290M, VP	irreversible	hsa00860	se
+PPOX, PPO, V290M, VP	rt	C02191	irreversible	hsa00860	ep
+C03263	rt	CPOX, CPO, CPX, HCP	irreversible	hsa00860	se
+CPOX, CPO, CPX, HCP	rt	C01079	irreversible	hsa00860	ep
+C01051	rt	UROD, PCT, UPD	irreversible	hsa00860	se
+UROD, PCT, UPD	rt	C03263	irreversible	hsa00860	ep
+C01024	rt	UROS, UROIIIS	irreversible	hsa00860	se
+UROS, UROIIIS	rt	C01051	irreversible	hsa00860	ep
+C00931	rt	HMBS, PBG-D, PBGD, PORC, UPS	irreversible	hsa00860	se
+HMBS, PBG-D, PBGD, PORC, UPS	rt	C01024	irreversible	hsa00860	ep
+C00430	rt	ALAD, ALADH, PBGS	irreversible	hsa00860	se
+ALAD, ALADH, PBGS	rt	C00931	irreversible	hsa00860	ep
+C05766	rt	UROD, PCT, UPD	irreversible	hsa00860	se
+UROD, PCT, UPD	rt	C05768	irreversible	hsa00860	ep
+C00025	rt	EARS2, COXPD12, MSE1, gluRS	irreversible	hsa00860	se
+C00025	rt	EPRS	irreversible	hsa00860	se
+EARS2, COXPD12, MSE1, gluRS	rt	C02987	irreversible	hsa00860	ep
+EPRS	rt	C02987	irreversible	hsa00860	ep
+C00032	rt	HCCS, CCHL, LSDMCA1, MCOPS7, MLS	irreversible	hsa00860	se
+HCCS, CCHL, LSDMCA1, MCOPS7, MLS	rt	C00524	irreversible	hsa00860	ep
+C00486	rt	UGT2B11	irreversible	hsa00860	se
+C00486	rt	UGT2A1	irreversible	hsa00860	se
+C00486	rt	UGT2B28	irreversible	hsa00860	se
+C00486	rt	UGT1A10	irreversible	hsa00860	se
+C00486	rt	UGT1A8	irreversible	hsa00860	se
+C00486	rt	UGT1A7	irreversible	hsa00860	se
+C00486	rt	UGT1A6	irreversible	hsa00860	se
+C00486	rt	UGT1A5	irreversible	hsa00860	se
+C00486	rt	UGT1A9	irreversible	hsa00860	se
+C00486	rt	UGT1A4	irreversible	hsa00860	se
+C00486	rt	UGT1A1	irreversible	hsa00860	se
+C00486	rt	UGT1A3	irreversible	hsa00860	se
+C00486	rt	UGT2A2	irreversible	hsa00860	se
+C00486	rt	UGT2B4	irreversible	hsa00860	se
+C00486	rt	UGT2B7	irreversible	hsa00860	se
+C00486	rt	UGT2B10	irreversible	hsa00860	se
+C00486	rt	UGT2B15	irreversible	hsa00860	se
+C00486	rt	UGT2B17	irreversible	hsa00860	se
+C00486	rt	UGT2A3	irreversible	hsa00860	se
+UGT2B11	rt	C05787	irreversible	hsa00860	ep
+UGT2A1	rt	C05787	irreversible	hsa00860	ep
+UGT2B28	rt	C05787	irreversible	hsa00860	ep
+UGT1A10	rt	C05787	irreversible	hsa00860	ep
+UGT1A8	rt	C05787	irreversible	hsa00860	ep
+UGT1A7	rt	C05787	irreversible	hsa00860	ep
+UGT1A6	rt	C05787	irreversible	hsa00860	ep
+UGT1A5	rt	C05787	irreversible	hsa00860	ep
+UGT1A9	rt	C05787	irreversible	hsa00860	ep
+UGT1A4	rt	C05787	irreversible	hsa00860	ep
+UGT1A1	rt	C05787	irreversible	hsa00860	ep
+UGT1A3	rt	C05787	irreversible	hsa00860	ep
+UGT2A2	rt	C05787	irreversible	hsa00860	ep
+UGT2B4	rt	C05787	irreversible	hsa00860	ep
+UGT2B7	rt	C05787	irreversible	hsa00860	ep
+UGT2B10	rt	C05787	irreversible	hsa00860	ep
+UGT2B15	rt	C05787	irreversible	hsa00860	ep
+UGT2B17	rt	C05787	irreversible	hsa00860	ep
+UGT2A3	rt	C05787	irreversible	hsa00860	ep
+C14818	rt	FECH, EPP, FCE	irreversible	hsa00860	se
+C02191	rt	FECH, EPP, FCE	irreversible	hsa00860	se
+FECH, EPP, FCE	rt	C00032	irreversible	hsa00860	ep
+C03263	rt	PPOX, PPO, V290M, VP	irreversible	hsa00860	se
+PPOX, PPO, V290M, VP	rt	C05770	irreversible	hsa00860	ep
+C14818	rt	FECH, EPP, FCE	irreversible	hsa00860	se
+C05770	rt	FECH, EPP, FCE	irreversible	hsa00860	se
+FECH, EPP, FCE	rt	C21284	irreversible	hsa00860	ep
+C16243				hsa00860	
+C16244				hsa00860	
+C04122				hsa00860	
+C12147				hsa00860	
+C11851				hsa00860	
+C11850				hsa00860	
+C11830				hsa00860	
+C11829				hsa00860	
+C05793				hsa00860	
+C05794				hsa00860	
+C05790				hsa00860	
+C05777				hsa00860	
+C11630				hsa00860	
+C00992				hsa00860	
+C05795				hsa00860	
+C03194				hsa00860	
+C06320				hsa00860	
+C03516				hsa00860	
+C11538				hsa00860	
+C06406				hsa00860	
+C06509				hsa00860	
+C06510				hsa00860	
+C03114				hsa00860	
+C04778				hsa00860	
+C05775				hsa00860	
+C00541				hsa00860	
+C02463				hsa00860	
+C03741				hsa00860	
+C02800				hsa00860	
+C05767				hsa00860	
+C05769				hsa00860	
+C02469				hsa00860	
+C05779				hsa00860	
+C03029				hsa00860	
+C05913				hsa00860	
+C05786				hsa00860	
+C05912				hsa00860	
+C04536				hsa00860	
+C05772				hsa00860	
+C06416				hsa00860	
+C16242				hsa00860	
+C11540				hsa00860	
+C02880				hsa00860	
+C11545				hsa00860	
+C05798				hsa00860	
+C06407				hsa00860	
+C17401				hsa00860	
+C05778				hsa00860	
+C06507				hsa00860	
+C05797				hsa00860	
+C05307				hsa00860	
+C06319				hsa00860	
+C11543				hsa00860	
+C11542				hsa00860	
+C06408				hsa00860	
+C02139				hsa00860	
+C06399				hsa00860	
+C02823				hsa00860	
+C06503				hsa00860	
+C05773				hsa00860	
+C05780				hsa00860	
+C03179				hsa00860	
+C06504				hsa00860	
+C05306				hsa00860	
+C01708				hsa00860	
+C05781				hsa00860	
+C05785				hsa00860	
+C05782				hsa00860	
+C05783				hsa00860	
+C05784				hsa00860	
+C11539				hsa00860	
+C11832				hsa00860	
+C11831				hsa00860	
+C18021				hsa00860	
+C18022				hsa00860	
+C18098				hsa00860	
+C16541				hsa00860	
+C18151				hsa00860	
+C16540				hsa00860	
+C18152				hsa00860	
+C18154				hsa00860	
+C18153				hsa00860	
+C18157				hsa00860	
+C18064				hsa00860	
+C18155				hsa00860	
+C11242				hsa00860	
+C18160				hsa00860	
+C21431				hsa00860	
+C21432				hsa00860	
+C21433				hsa00860	
+C21434				hsa00860	
+C18162				hsa00860	
+C18163				hsa00860	
+C18156				hsa00860	
+C11243				hsa00860	
+C21217				hsa00860	
+C21435				hsa00860	
+C21427				hsa00860	
+C21428				hsa00860	
+C21429				hsa00860	
+C20666				hsa00860	
+C05789				hsa00860	
+C21510				hsa00860	
+C21511				hsa00860	
+C21512				hsa00860	
+C21582				hsa00860	
+C18161				hsa00860	
+C21723				hsa00860	
+C21724				hsa00860	
+C00748				hsa00860	
+C21835				hsa00860	
+C00188				hsa00860	

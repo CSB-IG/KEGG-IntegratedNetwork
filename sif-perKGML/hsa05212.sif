@@ -1,0 +1,151 @@
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	gr	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	group	hsa05212	group
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	gr	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	group	hsa05212	group
+CDK4, CMM3, PSK-J3	gr	CCND1, BCL1, D11S287E, PRAD1, U21B31	group	hsa05212	group
+CDK6	gr	CCND1, BCL1, D11S287E, PRAD1, U21B31	group	hsa05212	group
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	g-g	hsa05212	binding/association
+CDK4, CMM3, PSK-J3	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa05212	binding/association
+CDK6	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa05212	binding/association
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	g-g	hsa05212	binding/association
+BRCA2, BRCC2, BROVCA2, FACD, FAD, FAD1, FANCD, FANCD1, GLM3, PNCA2, XRCC11	pp	RAD51, BRCC5, FANCR, HRAD51, HsRad51, HsT16930, MRMV2, RAD51A, RECA	g-g	hsa05212	binding/association
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3CB	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3CD	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3R1	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3R2	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	PIK3R3	g-g	hsa05212	activation
+C05981	pc	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	c-g	hsa05212	activation
+C05981	pc	PIK3CB	c-g	hsa05212	activation
+C05981	pc	PIK3CD	c-g	hsa05212	activation
+C05981	pc	PIK3R1	c-g	hsa05212	activation
+C05981	pc	PIK3R2	c-g	hsa05212	activation
+C05981	pc	PIK3R3	c-g	hsa05212	activation
+C05981	pc	ARHGEF6, COOL2, Cool-2, MRX46, PIXA, alpha-PIX, alphaPIX	c-g	hsa05212	activation
+ARHGEF6, COOL2, Cool-2, MRX46, PIXA, alpha-PIX, alphaPIX	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa05212	activation
+ARHGEF6, COOL2, Cool-2, MRX46, PIXA, alpha-PIX, alphaPIX	pp	RAC2	g-g	hsa05212	activation
+ARHGEF6, COOL2, Cool-2, MRX46, PIXA, alpha-PIX, alphaPIX	pp	RAC3	g-g	hsa05212	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	RELA	g-g	hsa05212	activation
+RAC2	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+RAC3	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+RAC2	pp	RELA	g-g	hsa05212	activation
+RAC3	pp	RELA	g-g	hsa05212	activation
+C05981	pc	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	c-g	hsa05212	activation
+C05981	pc	AKT1	c-g	hsa05212	activation
+C05981	pc	AKT2	c-g	hsa05212	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	RELA	g-g	hsa05212	activation
+IKBKB	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+IKBKG	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	activation
+IKBKB	pp	RELA	g-g	hsa05212	activation
+IKBKG	pp	RELA	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	ARAF, A-RAF, ARAF1, PKS2, RAFA1	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	RAF1	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	BRAF	g-g	hsa05212	activation
+KRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2	pp	RALGDS, RGDS, RGF, RalGEF	g-g	hsa05212	activation
+RALGDS, RGDS, RGF, RalGEF	pp	RALA, RAL	g-g	hsa05212	activation
+RALGDS, RGDS, RGF, RalGEF	pp	RALB	g-g	hsa05212	activation
+RALA, RAL	pp	RALBP1, RIP1, RLIP1, RLIP76	g-g	hsa05212	activation
+RALB	pp	RALBP1, RIP1, RLIP1, RLIP76	g-g	hsa05212	activation
+RALA, RAL	pp	PLD1	g-g	hsa05212	activation
+RALB	pp	PLD1	g-g	hsa05212	activation
+PLD1	pc	C00416	g-c	hsa05212	activation
+TGFA, TFGA	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa05212	activation
+EGF, HOMG4, URG	pp	EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	g-g	hsa05212	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pc	C05981	g-c	hsa05212	activation
+PIK3CB	pc	C05981	g-c	hsa05212	activation
+PIK3CD	pc	C05981	g-c	hsa05212	activation
+PIK3R1	pc	C05981	g-c	hsa05212	activation
+PIK3R2	pc	C05981	g-c	hsa05212	activation
+PIK3R3	pc	C05981	g-c	hsa05212	activation
+C05981	pc	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	c-g	hsa05212	activation
+C05981	pc	AKT1	c-g	hsa05212	activation
+C05981	pc	AKT2	c-g	hsa05212	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05212	activation
+AKT1	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05212	activation
+AKT2	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05212	activation
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	JAK1, JAK1A, JAK1B, JTK3	gr-g	hsa05212	activation
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	JAK1, JAK1A, JAK1B, JTK3	gr-g	hsa05212	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-gr	hsa05212	activation
+TGFB2	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-gr	hsa05212	activation
+TGFB3	pp	TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	g-gr	hsa05212	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	g-gr	hsa05212	activation
+TGFB2	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	g-gr	hsa05212	activation
+TGFB3	pp	TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	g-gr	hsa05212	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05212	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	IKBKB	g-g	hsa05212	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	IKBKG	g-g	hsa05212	activation
+AKT1	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05212	activation
+AKT2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05212	activation
+AKT1	pp	IKBKB	g-g	hsa05212	activation
+AKT1	pp	IKBKG	g-g	hsa05212	activation
+AKT2	pp	IKBKB	g-g	hsa05212	activation
+AKT2	pp	IKBKG	g-g	hsa05212	activation
+ARAF, A-RAF, ARAF1, PKS2, RAFA1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05212	activation
+RAF1	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05212	activation
+BRAF	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa05212	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa05212	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa05212	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK8, JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	g-g	hsa05212	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK9	g-g	hsa05212	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK10	g-g	hsa05212	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT3, ADMIO, ADMIO1, APRF, HIES	g-g	hsa05212	activation
+JAK1, JAK1A, JAK1B, JTK3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa05212	activation
+CDK4, CMM3, PSK-J3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05212	activation
+CDK6	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05212	activation
+CCND1, BCL1, D11S287E, PRAD1, U21B31	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05212	activation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa05212	activation
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD3	gr-g	hsa05212	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	gr-g	hsa05212	activation
+TGFBR2, AAT3, FAA3, LDS1B, LDS2, LDS2B, MFS2, RIIC, TAAD2, TGFR-2, TGFbeta-RII	pp	SMAD3	gr-g	hsa05212	activation
+BAD, BBC2, BCL2L8	pp	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05212	inhibition
+RALBP1, RIP1, RLIP1, RLIP76	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa05212	inhibition
+RALBP1, RIP1, RLIP1, RLIP76	pp	RAC2	g-g	hsa05212	inhibition
+RALBP1, RIP1, RLIP1, RLIP76	pp	RAC3	g-g	hsa05212	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	BAD, BBC2, BCL2L8	g-g	hsa05212	inhibition
+AKT1	pp	BAD, BBC2, BCL2L8	g-g	hsa05212	inhibition
+AKT2	pp	BAD, BBC2, BCL2L8	g-g	hsa05212	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05212	inhibition
+AKT1	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05212	inhibition
+AKT2	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05212	inhibition
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa05212	binding/association
+SMAD3	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-g	hsa05212	binding/association
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F1, E2F-1, RBAP1, RBBP3, RBP3	g-g	hsa05212	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F2	g-g	hsa05212	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F3	g-g	hsa05212	dissociation
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CDK4, CMM3, PSK-J3	g-g	hsa05212	dissociation
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CDK6	g-g	hsa05212	dissociation
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	gr-g	hsa05212	indirect effect
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3CB	gr-g	hsa05212	indirect effect
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3CD	gr-g	hsa05212	indirect effect
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3R1	gr-g	hsa05212	indirect effect
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3R2	gr-g	hsa05212	indirect effect
+ERBB2, CD340, HER-2, HER-2/neu, HER2, MLN_19, NEU, NGL, TKR1	pp	PIK3R3	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CB	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3CD	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R1	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R2	gr-g	hsa05212	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	PIK3R3	gr-g	hsa05212	indirect effect
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	indirect effect
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	RELA	g-g	hsa05212	indirect effect
+AKT1	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	indirect effect
+AKT2	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05212	indirect effect
+AKT1	pp	RELA	g-g	hsa05212	indirect effect
+AKT2	pp	RELA	g-g	hsa05212	indirect effect
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05212	expression
+RELA	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05212	expression
+STAT3, ADMIO, ADMIO1, APRF, HIES	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05212	expression
+STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	pd	VEGFA, MVCD1, VEGF, VPF	g-g	hsa05212	expression
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa05212	activation
+AKT1	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa05212	activation
+AKT2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa05212	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha	g-g	hsa05212	activation
+MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	pp	RPS6KB2	g-g	hsa05212	activation
+TP53, BCC7, LFS1, P53, TRP53	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45A	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45B	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	BAX, BCL2L4	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	BAK1, BAK, BAK-LIKE, BCL2L7, CDN1	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	DDB2, DDBB, UV-DDB2, XPE	g-g	hsa05212	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	POLK, DINB1, DINP, POLQ	g-g	hsa05212	missing interaction

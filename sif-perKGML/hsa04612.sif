@@ -1,0 +1,321 @@
+HLA-A, HLAA	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-B	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-C	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-E	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-F	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-G	g-g	hsa04612	state change
+HLA-B	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-C	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-E	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-F	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-G	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-B	pp	HLA-B	g-g	hsa04612	state change
+HLA-B	pp	HLA-C	g-g	hsa04612	state change
+HLA-B	pp	HLA-E	g-g	hsa04612	state change
+HLA-B	pp	HLA-F	g-g	hsa04612	state change
+HLA-B	pp	HLA-G	g-g	hsa04612	state change
+HLA-C	pp	HLA-B	g-g	hsa04612	state change
+HLA-C	pp	HLA-C	g-g	hsa04612	state change
+HLA-C	pp	HLA-E	g-g	hsa04612	state change
+HLA-C	pp	HLA-F	g-g	hsa04612	state change
+HLA-C	pp	HLA-G	g-g	hsa04612	state change
+HLA-E	pp	HLA-B	g-g	hsa04612	state change
+HLA-E	pp	HLA-C	g-g	hsa04612	state change
+HLA-E	pp	HLA-E	g-g	hsa04612	state change
+HLA-E	pp	HLA-F	g-g	hsa04612	state change
+HLA-E	pp	HLA-G	g-g	hsa04612	state change
+HLA-F	pp	HLA-B	g-g	hsa04612	state change
+HLA-F	pp	HLA-C	g-g	hsa04612	state change
+HLA-F	pp	HLA-E	g-g	hsa04612	state change
+HLA-F	pp	HLA-F	g-g	hsa04612	state change
+HLA-F	pp	HLA-G	g-g	hsa04612	state change
+HLA-G	pp	HLA-B	g-g	hsa04612	state change
+HLA-G	pp	HLA-C	g-g	hsa04612	state change
+HLA-G	pp	HLA-E	g-g	hsa04612	state change
+HLA-G	pp	HLA-F	g-g	hsa04612	state change
+HLA-G	pp	HLA-G	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-B	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-C	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-E	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-F	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-G	g-g	hsa04612	state change
+HLA-B	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-C	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-E	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-F	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-G	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-B	pp	HLA-B	g-g	hsa04612	state change
+HLA-B	pp	HLA-C	g-g	hsa04612	state change
+HLA-B	pp	HLA-E	g-g	hsa04612	state change
+HLA-B	pp	HLA-F	g-g	hsa04612	state change
+HLA-B	pp	HLA-G	g-g	hsa04612	state change
+HLA-C	pp	HLA-B	g-g	hsa04612	state change
+HLA-C	pp	HLA-C	g-g	hsa04612	state change
+HLA-C	pp	HLA-E	g-g	hsa04612	state change
+HLA-C	pp	HLA-F	g-g	hsa04612	state change
+HLA-C	pp	HLA-G	g-g	hsa04612	state change
+HLA-E	pp	HLA-B	g-g	hsa04612	state change
+HLA-E	pp	HLA-C	g-g	hsa04612	state change
+HLA-E	pp	HLA-E	g-g	hsa04612	state change
+HLA-E	pp	HLA-F	g-g	hsa04612	state change
+HLA-E	pp	HLA-G	g-g	hsa04612	state change
+HLA-F	pp	HLA-B	g-g	hsa04612	state change
+HLA-F	pp	HLA-C	g-g	hsa04612	state change
+HLA-F	pp	HLA-E	g-g	hsa04612	state change
+HLA-F	pp	HLA-F	g-g	hsa04612	state change
+HLA-F	pp	HLA-G	g-g	hsa04612	state change
+HLA-G	pp	HLA-B	g-g	hsa04612	state change
+HLA-G	pp	HLA-C	g-g	hsa04612	state change
+HLA-G	pp	HLA-E	g-g	hsa04612	state change
+HLA-G	pp	HLA-F	g-g	hsa04612	state change
+HLA-G	pp	HLA-G	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-B	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-C	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-E	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-F	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-G	g-g	hsa04612	state change
+HLA-B	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-C	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-E	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-F	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-G	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-B	pp	HLA-B	g-g	hsa04612	state change
+HLA-B	pp	HLA-C	g-g	hsa04612	state change
+HLA-B	pp	HLA-E	g-g	hsa04612	state change
+HLA-B	pp	HLA-F	g-g	hsa04612	state change
+HLA-B	pp	HLA-G	g-g	hsa04612	state change
+HLA-C	pp	HLA-B	g-g	hsa04612	state change
+HLA-C	pp	HLA-C	g-g	hsa04612	state change
+HLA-C	pp	HLA-E	g-g	hsa04612	state change
+HLA-C	pp	HLA-F	g-g	hsa04612	state change
+HLA-C	pp	HLA-G	g-g	hsa04612	state change
+HLA-E	pp	HLA-B	g-g	hsa04612	state change
+HLA-E	pp	HLA-C	g-g	hsa04612	state change
+HLA-E	pp	HLA-E	g-g	hsa04612	state change
+HLA-E	pp	HLA-F	g-g	hsa04612	state change
+HLA-E	pp	HLA-G	g-g	hsa04612	state change
+HLA-F	pp	HLA-B	g-g	hsa04612	state change
+HLA-F	pp	HLA-C	g-g	hsa04612	state change
+HLA-F	pp	HLA-E	g-g	hsa04612	state change
+HLA-F	pp	HLA-F	g-g	hsa04612	state change
+HLA-F	pp	HLA-G	g-g	hsa04612	state change
+HLA-G	pp	HLA-B	g-g	hsa04612	state change
+HLA-G	pp	HLA-C	g-g	hsa04612	state change
+HLA-G	pp	HLA-E	g-g	hsa04612	state change
+HLA-G	pp	HLA-F	g-g	hsa04612	state change
+HLA-G	pp	HLA-G	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-B	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-C	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-E	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-F	g-g	hsa04612	state change
+HLA-A, HLAA	pp	HLA-G	g-g	hsa04612	state change
+HLA-B	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-C	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-E	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-F	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-G	pp	HLA-A, HLAA	g-g	hsa04612	state change
+HLA-B	pp	HLA-B	g-g	hsa04612	state change
+HLA-B	pp	HLA-C	g-g	hsa04612	state change
+HLA-B	pp	HLA-E	g-g	hsa04612	state change
+HLA-B	pp	HLA-F	g-g	hsa04612	state change
+HLA-B	pp	HLA-G	g-g	hsa04612	state change
+HLA-C	pp	HLA-B	g-g	hsa04612	state change
+HLA-C	pp	HLA-C	g-g	hsa04612	state change
+HLA-C	pp	HLA-E	g-g	hsa04612	state change
+HLA-C	pp	HLA-F	g-g	hsa04612	state change
+HLA-C	pp	HLA-G	g-g	hsa04612	state change
+HLA-E	pp	HLA-B	g-g	hsa04612	state change
+HLA-E	pp	HLA-C	g-g	hsa04612	state change
+HLA-E	pp	HLA-E	g-g	hsa04612	state change
+HLA-E	pp	HLA-F	g-g	hsa04612	state change
+HLA-E	pp	HLA-G	g-g	hsa04612	state change
+HLA-F	pp	HLA-B	g-g	hsa04612	state change
+HLA-F	pp	HLA-C	g-g	hsa04612	state change
+HLA-F	pp	HLA-E	g-g	hsa04612	state change
+HLA-F	pp	HLA-F	g-g	hsa04612	state change
+HLA-F	pp	HLA-G	g-g	hsa04612	state change
+HLA-G	pp	HLA-B	g-g	hsa04612	state change
+HLA-G	pp	HLA-C	g-g	hsa04612	state change
+HLA-G	pp	HLA-E	g-g	hsa04612	state change
+HLA-G	pp	HLA-F	g-g	hsa04612	state change
+HLA-G	pp	HLA-G	g-g	hsa04612	state change
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	HLA-DMA, D6S222E, DMA, HLADM, RING6	g-g	hsa04612	state change
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	HLA-DMB	g-g	hsa04612	state change
+HLA-DMB	pp	HLA-DMA, D6S222E, DMA, HLADM, RING6	g-g	hsa04612	state change
+HLA-DMB	pp	HLA-DMB	g-g	hsa04612	state change
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	HLA-DMA, D6S222E, DMA, HLADM, RING6	g-g	hsa04612	state change
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	HLA-DMB	g-g	hsa04612	state change
+HLA-DMB	pp	HLA-DMA, D6S222E, DMA, HLADM, RING6	g-g	hsa04612	state change
+HLA-DMB	pp	HLA-DMB	g-g	hsa04612	state change
+CD74, DHLAG, HLADG, II, Ia-GAMMA	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	state change
+CD74, DHLAG, HLADG, II, Ia-GAMMA	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	state change
+CD74, DHLAG, HLADG, II, Ia-GAMMA	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	state change
+IFNG, IFG, IFI	pp	PSME3, HEL-S-283, Ki, PA28-gamma, PA28G, PA28gamma, REG-GAMMA	g-g	hsa04612	activation
+IFNG, IFG, IFI	pp	PSME1	g-g	hsa04612	activation
+IFNG, IFG, IFI	pp	PSME2	g-g	hsa04612	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	PSME3, HEL-S-283, Ki, PA28-gamma, PA28G, PA28gamma, REG-GAMMA	g-g	hsa04612	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	PSME1	g-g	hsa04612	activation
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F	pp	PSME2	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	RFX5	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	RFXAP	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	RFXANK	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	CREB1, CREB, CREB-1	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	NFYA, CBF-A, CBF-B, HAP2, NF-YA	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	NFYB	g-g	hsa04612	activation
+CIITA, C2TA, CIITAIV, MHC2TA, NLRA	pp	NFYC	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KLRC1	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KLRC2	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KLRC3	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KLRD1	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-A, HLAA	pp	KLRC4	g-g	hsa04612	activation
+HLA-B	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-C	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-E	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-F	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-G	pp	KIR2DS2, 183ActI, CD158J, CD158b, KIR-2DS2, NKAT-5, NKAT5, cl-49	g-g	hsa04612	activation
+HLA-B	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-B	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-B	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-B	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-B	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-B	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-B	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-B	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-B	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-B	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-B	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-B	pp	KLRC1	g-g	hsa04612	activation
+HLA-B	pp	KLRC2	g-g	hsa04612	activation
+HLA-B	pp	KLRC3	g-g	hsa04612	activation
+HLA-B	pp	KLRD1	g-g	hsa04612	activation
+HLA-B	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-B	pp	KLRC4	g-g	hsa04612	activation
+HLA-C	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-C	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-C	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-C	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-C	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-C	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-C	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-C	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-C	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-C	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-C	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-C	pp	KLRC1	g-g	hsa04612	activation
+HLA-C	pp	KLRC2	g-g	hsa04612	activation
+HLA-C	pp	KLRC3	g-g	hsa04612	activation
+HLA-C	pp	KLRD1	g-g	hsa04612	activation
+HLA-C	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-C	pp	KLRC4	g-g	hsa04612	activation
+HLA-E	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-E	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-E	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-E	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-E	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-E	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-E	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-E	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-E	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-E	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-E	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-E	pp	KLRC1	g-g	hsa04612	activation
+HLA-E	pp	KLRC2	g-g	hsa04612	activation
+HLA-E	pp	KLRC3	g-g	hsa04612	activation
+HLA-E	pp	KLRD1	g-g	hsa04612	activation
+HLA-E	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-E	pp	KLRC4	g-g	hsa04612	activation
+HLA-F	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-F	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-F	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-F	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-F	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-F	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-F	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-F	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-F	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-F	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-F	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-F	pp	KLRC1	g-g	hsa04612	activation
+HLA-F	pp	KLRC2	g-g	hsa04612	activation
+HLA-F	pp	KLRC3	g-g	hsa04612	activation
+HLA-F	pp	KLRD1	g-g	hsa04612	activation
+HLA-F	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-F	pp	KLRC4	g-g	hsa04612	activation
+HLA-G	pp	KIR3DL3	g-g	hsa04612	activation
+HLA-G	pp	KIR2DL1	g-g	hsa04612	activation
+HLA-G	pp	KIR2DL2	g-g	hsa04612	activation
+HLA-G	pp	KIR2DL3	g-g	hsa04612	activation
+HLA-G	pp	KIR2DL4	g-g	hsa04612	activation
+HLA-G	pp	KIR2DS1	g-g	hsa04612	activation
+HLA-G	pp	KIR2DS3	g-g	hsa04612	activation
+HLA-G	pp	KIR2DS4	g-g	hsa04612	activation
+HLA-G	pp	KIR2DS5	g-g	hsa04612	activation
+HLA-G	pp	KIR3DL1	g-g	hsa04612	activation
+HLA-G	pp	KIR3DL2	g-g	hsa04612	activation
+HLA-G	pp	KLRC1	g-g	hsa04612	activation
+HLA-G	pp	KLRC2	g-g	hsa04612	activation
+HLA-G	pp	KLRC3	g-g	hsa04612	activation
+HLA-G	pp	KLRD1	g-g	hsa04612	activation
+HLA-G	pp	KIR2DL5A	g-g	hsa04612	activation
+HLA-G	pp	KLRC4	g-g	hsa04612	activation
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-A, HLAA	g-g	hsa04612	binding/association
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-B	g-g	hsa04612	binding/association
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-C	g-g	hsa04612	binding/association
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-E	g-g	hsa04612	binding/association
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-F	g-g	hsa04612	binding/association
+CD8A, CD8, Leu2, MAL, p32	pp	HLA-G	g-g	hsa04612	binding/association
+CD8B	pp	HLA-A, HLAA	g-g	hsa04612	binding/association
+CD8B	pp	HLA-B	g-g	hsa04612	binding/association
+CD8B	pp	HLA-C	g-g	hsa04612	binding/association
+CD8B	pp	HLA-E	g-g	hsa04612	binding/association
+CD8B	pp	HLA-F	g-g	hsa04612	binding/association
+CD8B	pp	HLA-G	g-g	hsa04612	binding/association
+CD4, CD4mut	pp	HLA-DMA, D6S222E, DMA, HLADM, RING6	g-g	hsa04612	binding/association
+CD4, CD4mut	pp	HLA-DMB	g-g	hsa04612	binding/association
+HLA-DMA, D6S222E, DMA, HLADM, RING6	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+HLA-DMB	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+CTSB, APPS, CPSB	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+CTSL	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+CTSS	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+LGMN, AEP, LGMN1, PRSC1	pp	CD74, DHLAG, HLADG, II, Ia-GAMMA	g-g	hsa04612	activation
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-A, HLAA	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-B	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-C	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-E	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-F	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	HLA-G	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	TAP1, ABC17, ABCB2, APT1, D6S114E, PSF-1, PSF1, RING4, TAP1*0102N, TAP1N	g-g	hsa04612	binding/association
+TAPBP, NGS17, TAPA, TPN, TPSN	pp	TAP2	g-g	hsa04612	binding/association
+IFI30, GILT, IFI-30, IP-30, IP30				hsa04612	
+CALR, CRT, HEL-S-99n, RO, SSA, cC1qR				hsa04612	
+PDIA3, ER60, ERp57, ERp60, ERp61, GRP57, GRP58, HEL-S-269, HEL-S-93n, HsT17083, P58, PI-PLC				hsa04612	
+B2M, IMD43				hsa04612	
+B2M, IMD43				hsa04612	
+B2M, IMD43				hsa04612	
+CANX, CNX, IP90, P90				hsa04612	
+HSPA5, BIP, GRP78, HEL-S-89n, MIF2				hsa04612	
+HSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2				hsa04612	
+HSP90AB1				hsa04612	
+HSPA1A, HEL-S-103, HSP70-1, HSP70-1A, HSP701, HSP70I, HSP72, HSPA1				hsa04612	
+HSPA1B				hsa04612	
+HSPA1L				hsa04612	
+HSPA2				hsa04612	
+HSPA4				hsa04612	
+HSPA6				hsa04612	
+HSPA8				hsa04612	

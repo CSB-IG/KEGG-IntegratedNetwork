@@ -1,0 +1,162 @@
+CTNNB1, CTNNB, EVR7, MRD19, armadillo	pp	CTNNA1, CAP102, MDPT2	g-g	hsa05100	NA
+CTNNB1, CTNNB, EVR7, MRD19, armadillo	pp	CTNNA2	g-g	hsa05100	NA
+CTNNB1, CTNNB, EVR7, MRD19, armadillo	pp	CTNNA3	g-g	hsa05100	NA
+CTNNB1, CTNNB, EVR7, MRD19, armadillo	pp	ARHGAP10, GRAF2, PS-GAP, PSGAP	g-g	hsa05100	NA
+CDH1, Arc-1, BCDS1, CD324, CDHE, ECAD, LCAM, UVO	pp	CTNNB1, CTNNB, EVR7, MRD19, armadillo	g-g	hsa05100	activation
+ARHGAP10, GRAF2, PS-GAP, PSGAP	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARHGAP10, GRAF2, PS-GAP, PSGAP	pp	ACTG1	g-g	hsa05100	activation
+MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	pp	GAB1	g-g	hsa05100	phosphorylation
+GAB1	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa05100	activation
+GAB1	pp	PIK3CB	g-g	hsa05100	activation
+GAB1	pp	PIK3CD	g-g	hsa05100	activation
+GAB1	pp	PIK3R1	g-g	hsa05100	activation
+GAB1	pp	PIK3R2	g-g	hsa05100	activation
+GAB1	pp	PIK3R3	g-g	hsa05100	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+PIK3CB	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+PIK3CD	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+PIK3R1	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+PIK3R2	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+PIK3R3	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa05100	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	g-g	hsa05100	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WASL	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC4	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC3	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1B	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC2	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1A	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5L	g-g	hsa05100	activation
+WASL	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASL	pp	ARPC4	g-g	hsa05100	activation
+WASL	pp	ARPC3	g-g	hsa05100	activation
+WASL	pp	ARPC1B	g-g	hsa05100	activation
+WASL	pp	ARPC2	g-g	hsa05100	activation
+WASL	pp	ARPC1A	g-g	hsa05100	activation
+WASL	pp	ARPC5L	g-g	hsa05100	activation
+GAB1	pp	CRK, CRKII, p38	g-g	hsa05100	activation
+GAB1	pp	CRKL	g-g	hsa05100	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	g-g	hsa05100	activation
+RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	pp	WASF1	g-g	hsa05100	activation
+CRK, CRKII, p38	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+CRKL	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+DOCK1, DOCK180, ced5	pp	RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC4	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC3	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC1B	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC2	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC1A	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC5L	g-g	hsa05100	activation
+WASF1	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASF1	pp	ARPC4	g-g	hsa05100	activation
+WASF1	pp	ARPC3	g-g	hsa05100	activation
+WASF1	pp	ARPC1B	g-g	hsa05100	activation
+WASF1	pp	ARPC2	g-g	hsa05100	activation
+WASF1	pp	ARPC1A	g-g	hsa05100	activation
+WASF1	pp	ARPC5L	g-g	hsa05100	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTG1	g-g	hsa05100	activation
+ARPC4	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC3	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC1B	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC1A	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC5L	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC4	pp	ACTG1	g-g	hsa05100	activation
+ARPC3	pp	ACTG1	g-g	hsa05100	activation
+ARPC1B	pp	ACTG1	g-g	hsa05100	activation
+ARPC2	pp	ACTG1	g-g	hsa05100	activation
+ARPC1A	pp	ACTG1	g-g	hsa05100	activation
+ARPC5L	pp	ACTG1	g-g	hsa05100	activation
+FN1, CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF	pp	ITGA5, CD49e, FNRA, VLA-5, VLA5A	g-g	hsa05100	activation
+FN1, CIG, ED-B, FINC, FN, FNZ, GFND, GFND2, LETS, MSF, SMDCF	pp	ITGB1	g-g	hsa05100	activation
+ITGA5, CD49e, FNRA, VLA-5, VLA5A	pp	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	g-g	hsa05100	activation
+ITGB1	pp	ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	g-g	hsa05100	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	CTTN, EMS1	g-g	hsa05100	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	HCLS1	g-g	hsa05100	activation
+CTTN, EMS1	pp	DNM1, DNM, EIEE31	g-g	hsa05100	activation
+CTTN, EMS1	pp	DNM2	g-g	hsa05100	activation
+CTTN, EMS1	pp	DNM3	g-g	hsa05100	activation
+HCLS1	pp	DNM1, DNM, EIEE31	g-g	hsa05100	activation
+HCLS1	pp	DNM2	g-g	hsa05100	activation
+HCLS1	pp	DNM3	g-g	hsa05100	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	g-g	hsa05100	activation
+PXN	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+PXN	pp	ACTG1	g-g	hsa05100	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ACTG1	g-g	hsa05100	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	g-g	hsa05100	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WASL	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC4	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC3	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1B	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC2	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC1A	g-g	hsa05100	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ARPC5L	g-g	hsa05100	activation
+WASL	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASL	pp	ARPC4	g-g	hsa05100	activation
+WASL	pp	ARPC3	g-g	hsa05100	activation
+WASL	pp	ARPC1B	g-g	hsa05100	activation
+WASL	pp	ARPC2	g-g	hsa05100	activation
+WASL	pp	ARPC1A	g-g	hsa05100	activation
+WASL	pp	ARPC5L	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC4	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC3	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC1B	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC2	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC1A	g-g	hsa05100	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ARPC5L	g-g	hsa05100	activation
+WASF1	pp	ARPC5, ARC16, dJ127C73, p16-Arc	g-g	hsa05100	activation
+WASF1	pp	ARPC4	g-g	hsa05100	activation
+WASF1	pp	ARPC3	g-g	hsa05100	activation
+WASF1	pp	ARPC1B	g-g	hsa05100	activation
+WASF1	pp	ARPC2	g-g	hsa05100	activation
+WASF1	pp	ARPC1A	g-g	hsa05100	activation
+WASF1	pp	ARPC5L	g-g	hsa05100	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC5, ARC16, dJ127C73, p16-Arc	pp	ACTG1	g-g	hsa05100	activation
+ARPC4	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC3	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC1B	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC1A	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC5L	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+ARPC4	pp	ACTG1	g-g	hsa05100	activation
+ARPC3	pp	ACTG1	g-g	hsa05100	activation
+ARPC1B	pp	ACTG1	g-g	hsa05100	activation
+ARPC2	pp	ACTG1	g-g	hsa05100	activation
+ARPC1A	pp	ACTG1	g-g	hsa05100	activation
+ARPC5L	pp	ACTG1	g-g	hsa05100	activation
+VCL, CMD1W, CMH15, HEL114, MV, MVCL	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa05100	activation
+VCL, CMD1W, CMH15, HEL114, MV, MVCL	pp	ACTG1	g-g	hsa05100	activation
+ARHGEF26, CSGEF, HMFN1864, SGEF	pp	RHOG, ARHG	g-g	hsa05100	activation
+RHOG, ARHG	pp	ELMO2, CED-12, CED12, Ced-12A, ELMO-2, VMPI	g-g	hsa05100	activation
+RHOG, ARHG	pp	ELMO3	g-g	hsa05100	activation
+RHOG, ARHG	pp	ELMO1	g-g	hsa05100	activation
+ELMO2, CED-12, CED12, Ced-12A, ELMO-2, VMPI	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+ELMO3	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+ELMO1	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+DOCK1, DOCK180, ced5	pp	RAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1	g-g	hsa05100	activation
+CRK, CRKII, p38	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+CRKL	pp	DOCK1, DOCK180, ced5	g-g	hsa05100	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	g-g	hsa05100	activation
+BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	pp	PXN	g-g	hsa05100	phosphorylation
+ILK, HEL-S-28, ILK-1, ILK-2, P59, p59ILK	pp	PXN	g-g	hsa05100	phosphorylation
+CBL, C-CBL, CBL2, FRA11B, NSLL, RNF55	pp	MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	g-g	hsa05100	ubiquitination
+SEPT9, AF17q25, MSF, MSF1, NAPB, PNUTL4, SINT1, SeptD1				hsa05100	
+CD2AP, CMS				hsa05100	
+CLTA, LCA				hsa05100	
+CLTB				hsa05100	
+CLTC				hsa05100	
+CLTCL1				hsa05100	
+SHC2, SCK, SHCB, SLI				hsa05100	
+SHC4				hsa05100	
+SHC3				hsa05100	
+SHC1				hsa05100	
+CAV1, BSCL3, CGL3, LCCNS, MSTP085, PPH3, VIP21, CAV				hsa05100	
+CAV2				hsa05100	
+CAV3				hsa05100	
+MAD2L2, FANCV, MAD2B, POLZ2, REV7				hsa05100	

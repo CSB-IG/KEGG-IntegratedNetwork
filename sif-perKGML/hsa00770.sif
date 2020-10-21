@@ -1,0 +1,143 @@
+PANK1, PANK	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK1, PANK	ec	VNN2	g-g	hsa00770	compound
+PANK1, PANK	ec	VNN1	g-g	hsa00770	compound
+PANK4	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK3	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK2	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK4	ec	VNN2	g-g	hsa00770	compound
+PANK4	ec	VNN1	g-g	hsa00770	compound
+PANK3	ec	VNN2	g-g	hsa00770	compound
+PANK3	ec	VNN1	g-g	hsa00770	compound
+PANK2	ec	VNN2	g-g	hsa00770	compound
+PANK2	ec	VNN1	g-g	hsa00770	compound
+PPCDC, MDS018, PPC-DC, coaC	ec	PANK1, PANK	g-g	hsa00770	compound
+PPCDC, MDS018, PPC-DC, coaC	ec	PANK4	g-g	hsa00770	compound
+PPCDC, MDS018, PPC-DC, coaC	ec	PANK3	g-g	hsa00770	compound
+PPCDC, MDS018, PPC-DC, coaC	ec	PANK2	g-g	hsa00770	compound
+PANK1, PANK	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK1, PANK	ec	VNN2	g-g	hsa00770	compound
+PANK1, PANK	ec	VNN1	g-g	hsa00770	compound
+PANK4	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK3	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK2	ec	VNN3, HSA238982	g-g	hsa00770	compound
+PANK4	ec	VNN2	g-g	hsa00770	compound
+PANK4	ec	VNN1	g-g	hsa00770	compound
+PANK3	ec	VNN2	g-g	hsa00770	compound
+PANK3	ec	VNN1	g-g	hsa00770	compound
+PANK2	ec	VNN2	g-g	hsa00770	compound
+PANK2	ec	VNN1	g-g	hsa00770	compound
+PANK1, PANK	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+PANK4	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+PANK3	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+PANK2	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+PPCDC, MDS018, PPC-DC, coaC	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+ENPP3	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+PANK1, PANK	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+PANK4	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+PANK3	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+PANK2	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PANK1, PANK	g-g	hsa00770	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PANK4	g-g	hsa00770	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PANK3	g-g	hsa00770	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PANK2	g-g	hsa00770	compound
+ENPP3	ec	PANK1, PANK	g-g	hsa00770	compound
+ENPP3	ec	PANK4	g-g	hsa00770	compound
+ENPP3	ec	PANK3	g-g	hsa00770	compound
+ENPP3	ec	PANK2	g-g	hsa00770	compound
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	ec	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	g-g	hsa00770	compound
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	ec	ENPP3	g-g	hsa00770	compound
+UPB1, BUP1	ec	DPYS, DHP, DHPase	g-g	hsa00770	compound
+DPYS, DHP, DHPase	ec	DPYD, DHP, DHPDHASE, DPD	g-g	hsa00770	compound
+UPB1, BUP1	ec	GADL1, ADC, CSADC, HuADC, HuCSADC	g-g	hsa00770	compound
+AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5	ec	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	g-g	hsa00770	compound
+PANK1, PANK	ec	PPCS	g-g	hsa00770	compound
+PANK4	ec	PPCS	g-g	hsa00770	compound
+PANK3	ec	PPCS	g-g	hsa00770	compound
+PANK2	ec	PPCS	g-g	hsa00770	compound
+PPCS	ec	PANK1, PANK	g-g	hsa00770	compound
+PPCS	ec	PANK4	g-g	hsa00770	compound
+PPCS	ec	PANK3	g-g	hsa00770	compound
+PPCS	ec	PANK2	g-g	hsa00770	compound
+PPCS	ec	PPCDC, MDS018, PPC-DC, coaC	g-g	hsa00770	compound
+C00882	rt	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	irreversible	hsa00770	se
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	rt	C00010	irreversible	hsa00770	ep
+C01134	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	reversible	hsa00770	se
+C01134	rt	ENPP3	reversible	hsa00770	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C01134	reversible	hsa00770	ep
+ENPP3	rt	C01134	reversible	hsa00770	ep
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00882	reversible	hsa00770	ep
+ENPP3	rt	C00882	reversible	hsa00770	ep
+C00882	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	reversible	hsa00770	se
+C00882	rt	ENPP3	reversible	hsa00770	se
+C00831	rt	PANK1, PANK	irreversible	hsa00770	se
+C00831	rt	PANK4	irreversible	hsa00770	se
+C00831	rt	PANK3	irreversible	hsa00770	se
+C00831	rt	PANK2	irreversible	hsa00770	se
+PANK1, PANK	rt	C01134	irreversible	hsa00770	ep
+PANK4	rt	C01134	irreversible	hsa00770	ep
+PANK3	rt	C01134	irreversible	hsa00770	ep
+PANK2	rt	C01134	irreversible	hsa00770	ep
+C04352	rt	PPCDC, MDS018, PPC-DC, coaC	irreversible	hsa00770	se
+PPCDC, MDS018, PPC-DC, coaC	rt	C01134	irreversible	hsa00770	ep
+C04079	rt	PANK1, PANK	irreversible	hsa00770	se
+C04079	rt	PANK4	irreversible	hsa00770	se
+C04079	rt	PANK3	irreversible	hsa00770	se
+C04079	rt	PANK2	irreversible	hsa00770	se
+PANK1, PANK	rt	C04352	irreversible	hsa00770	ep
+PANK4	rt	C04352	irreversible	hsa00770	ep
+PANK3	rt	C04352	irreversible	hsa00770	ep
+PANK2	rt	C04352	irreversible	hsa00770	ep
+C00864	rt	PANK1, PANK	irreversible	hsa00770	se
+C00864	rt	PANK4	irreversible	hsa00770	se
+C00864	rt	PANK3	irreversible	hsa00770	se
+C00864	rt	PANK2	irreversible	hsa00770	se
+PANK1, PANK	rt	C03492	irreversible	hsa00770	ep
+PANK4	rt	C03492	irreversible	hsa00770	ep
+PANK3	rt	C03492	irreversible	hsa00770	ep
+PANK2	rt	C03492	irreversible	hsa00770	ep
+C02642	rt	UPB1, BUP1	irreversible	hsa00770	se
+UPB1, BUP1	rt	C00099	irreversible	hsa00770	ep
+C00429	rt	DPYS, DHP, DHPase	irreversible	hsa00770	se
+DPYS, DHP, DHPase	rt	C02642	irreversible	hsa00770	ep
+C00429	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00770	se
+DPYD, DHP, DHPDHASE, DPD	rt	C00429	reversible	hsa00770	ep
+DPYD, DHP, DHPDHASE, DPD	rt	C00106	reversible	hsa00770	ep
+C00106	rt	DPYD, DHP, DHPDHASE, DPD	reversible	hsa00770	se
+C00831	rt	VNN3, HSA238982	irreversible	hsa00770	se
+C00831	rt	VNN2	irreversible	hsa00770	se
+C00831	rt	VNN1	irreversible	hsa00770	se
+VNN3, HSA238982	rt	C00864	irreversible	hsa00770	ep
+VNN2	rt	C00864	irreversible	hsa00770	ep
+VNN1	rt	C00864	irreversible	hsa00770	ep
+C00183	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00770	se
+C00183	rt	BCAT2	reversible	hsa00770	se
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00183	reversible	hsa00770	ep
+BCAT2	rt	C00183	reversible	hsa00770	ep
+BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	rt	C00141	reversible	hsa00770	ep
+BCAT2	rt	C00141	reversible	hsa00770	ep
+C00141	rt	BCAT1, BCATC, BCT1, ECA39, MECA39, PNAS121, PP18	reversible	hsa00770	se
+C00141	rt	BCAT2	reversible	hsa00770	se
+C01134	rt	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	reversible	hsa00770	se
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	rt	C01134	reversible	hsa00770	ep
+COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	rt	C00882	reversible	hsa00770	ep
+C00882	rt	COASY, DPCK, NBIA6, NBP, PPAT, UKR1, pOV-2	reversible	hsa00770	se
+C00049	rt	GADL1, ADC, CSADC, HuADC, HuCSADC	irreversible	hsa00770	se
+GADL1, ADC, CSADC, HuADC, HuCSADC	rt	C00099	irreversible	hsa00770	ep
+C03688	rt	AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5	irreversible	hsa00770	se
+C00010	rt	AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5	irreversible	hsa00770	se
+AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5	rt	C00054	irreversible	hsa00770	ep
+AASDHPPT, AASD-PPT, ACPS, CGI-80, LYS2, LYS5	rt	C00229	irreversible	hsa00770	ep
+C03492	rt	PPCS	irreversible	hsa00770	se
+C00097	rt	PPCS	irreversible	hsa00770	se
+PPCS	rt	C04352	irreversible	hsa00770	ep
+C00022				hsa00770	
+C04272				hsa00770	
+C00966				hsa00770	
+C00522				hsa00770	
+C01053				hsa00770	
+C01088				hsa00770	
+C18911				hsa00770	
+C05944				hsa00770	
+C06010				hsa00770	

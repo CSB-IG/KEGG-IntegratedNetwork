@@ -1,0 +1,214 @@
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	gr	BAIAP2, BAP2, FLAF3, IRSP53	group	hsa04520	group
+WASF3	gr	BAIAP2, BAP2, FLAF3, IRSP53	group	hsa04520	group
+WASF1	gr	BAIAP2, BAP2, FLAF3, IRSP53	group	hsa04520	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	group	hsa04520	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	SMAD3	group	hsa04520	group
+MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+ERBB2	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+IGF1R, CD221, IGFIR, IGFR, JTK13	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+MET, AUTS9, DFNB97, HGFR, RCCP2, c-Met	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+ERBB2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+FER, PPP1R74, TYK3, p94-Fer	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+FYN, SLK, SYN, p59-FYN	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+FER, PPP1R74, TYK3, p94-Fer	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+FYN, SLK, SYN, p59-FYN	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+YES1, HsT441, P61-YES, Yes, c-yes	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	inhibition
+ACP1, HAAP, LMW-PTP	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+PTPRM, PTPRL1, R-PTP-MU, RPTPM, RPTPU, hR-PTPu	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+PTPRB, HPTP-BETA, HPTPB, PTPB, R-PTP-BETA, VEPTP	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+PTPRF, BNAH2, LAR	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+PTPRM, PTPRL1, R-PTP-MU, RPTPM, RPTPU, hR-PTPu	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	activation
+PTPN1, PTP1B	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+PTPN6, HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	activation
+PTPRJ, CD148, DEP1, HPTPeta, R-PTP-ETA, SCC1	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04520	activation
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04520	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN1	g-g	hsa04520	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN2	g-g	hsa04520	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	NECTIN4	g-g	hsa04520	binding/association
+NECTIN1	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04520	binding/association
+NECTIN2	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04520	binding/association
+NECTIN4	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04520	binding/association
+NECTIN1	pp	NECTIN1	g-g	hsa04520	binding/association
+NECTIN1	pp	NECTIN2	g-g	hsa04520	binding/association
+NECTIN1	pp	NECTIN4	g-g	hsa04520	binding/association
+NECTIN2	pp	NECTIN1	g-g	hsa04520	binding/association
+NECTIN2	pp	NECTIN2	g-g	hsa04520	binding/association
+NECTIN2	pp	NECTIN4	g-g	hsa04520	binding/association
+NECTIN4	pp	NECTIN1	g-g	hsa04520	binding/association
+NECTIN4	pp	NECTIN2	g-g	hsa04520	binding/association
+NECTIN4	pp	NECTIN4	g-g	hsa04520	binding/association
+AFDN, AF6, MLL-AF6, MLLT4	pp	NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	g-g	hsa04520	binding/association
+AFDN, AF6, MLL-AF6, MLLT4	pp	NECTIN1	g-g	hsa04520	binding/association
+AFDN, AF6, MLL-AF6, MLLT4	pp	NECTIN2	g-g	hsa04520	binding/association
+AFDN, AF6, MLL-AF6, MLLT4	pp	NECTIN4	g-g	hsa04520	binding/association
+LMO7, FBX20, FBXO20, LOMP	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+SSX2IP, ADIP	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+ACTN4, ACTININ-4, FSGS, FSGS1	pp	LMO7, FBX20, FBXO20, LOMP	g-g	hsa04520	binding/association
+ACTN1	pp	LMO7, FBX20, FBXO20, LOMP	g-g	hsa04520	binding/association
+ACTN4, ACTININ-4, FSGS, FSGS1	pp	SSX2IP, ADIP	g-g	hsa04520	binding/association
+ACTN1	pp	SSX2IP, ADIP	g-g	hsa04520	binding/association
+VCL, CMD1W, CMH15, HEL114, MV, MVCL	pp	SORBS1, CAP, FLAF2, R85FL, SH3D5, SH3P12, SORB1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA2	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA3	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA2	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA3	pp	ACTN1	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	ACTN1	g-g	hsa04520	binding/association
+ACTG1	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+ACTG1	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+CTNNA2	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+CTNNA3	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+ACTG1	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+ACTG1	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04520	binding/association
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+CTNNA2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+CTNNA3	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA1, CAP102, MDPT2	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA2	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA3	g-g	hsa04520	binding/association
+ACTG1	pp	CTNNA1, CAP102, MDPT2	g-g	hsa04520	binding/association
+ACTG1	pp	CTNNA2	g-g	hsa04520	binding/association
+ACTG1	pp	CTNNA3	g-g	hsa04520	binding/association
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	FARP2, FIR, FRG, PLEKHC3	g-g	hsa04520	activation
+CSNK2A1, CK2A1, CKII, CSNK2A3, OCNDS	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+CSNK2A1	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+CSNK2A2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+CSNK2B	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+FARP2, FIR, FRG, PLEKHC3	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa04520	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WASL, N-WASP, NWASP, WASPB	g-g	hsa04520	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WAS	g-g	hsa04520	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	g-g	hsa04520	activation
+CDC42, CDC42Hs, G25K, TKS	pp	WASL	g-g	hsa04520	activation
+CDC42, CDC42Hs, G25K, TKS	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	activation
+AFDN, AF6, MLL-AF6, MLLT4	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+AFDN, AF6, MLL-AF6, MLLT4	pp	ACTG1	g-g	hsa04520	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ACTG1	g-g	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	activation
+RAC2	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	activation
+RAC3	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	g-gr	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	WASF3	g-gr	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	WASF1	g-gr	hsa04520	activation
+RAC2	pp	WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	g-gr	hsa04520	activation
+RAC3	pp	WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	g-gr	hsa04520	activation
+RAC2	pp	WASF3	g-gr	hsa04520	activation
+RAC2	pp	WASF1	g-gr	hsa04520	activation
+RAC3	pp	WASF3	g-gr	hsa04520	activation
+RAC3	pp	WASF1	g-gr	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	BAIAP2, BAP2, FLAF3, IRSP53	g-gr	hsa04520	activation
+RAC2	pp	BAIAP2, BAP2, FLAF3, IRSP53	g-gr	hsa04520	activation
+RAC3	pp	BAIAP2, BAP2, FLAF3, IRSP53	g-gr	hsa04520	activation
+LEF1, LEF-1, TCF10, TCF1ALPHA, TCF7L3	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+TCF7	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+TCF7L2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+TCF7L1	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	binding/association
+CTNNB1, CTNNB, MRD19, armadillo	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	activation
+IQGAP1, HUMORFA01, SAR1, p195	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	inhibition
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	g-g	hsa04520	dissociation
+CDH1, Arc-1, CD324, CDHE, ECAD, LCAM, UVO	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	dissociation
+CTNNA1, CAP102, MDPT2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	dissociation
+CTNNA2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	dissociation
+CTNNA3	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04520	dissociation
+CTNNA1, CAP102, MDPT2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	dissociation
+CTNNA1, CAP102, MDPT2	pp	ACTG1	g-g	hsa04520	dissociation
+CTNNA2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	dissociation
+CTNNA3	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	dissociation
+CTNNA2	pp	ACTG1	g-g	hsa04520	dissociation
+CTNNA3	pp	ACTG1	g-g	hsa04520	dissociation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04520	inhibition
+CTNNA1, CAP102, MDPT2	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA2	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA3	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+CTNNA2	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA3	pp	ACTN1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+CTNNA2	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+CTNNA3	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+CTNNA2	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+CTNNA3	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+CTNNA1, CAP102, MDPT2	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+CTNNA2	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+CTNNA3	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	ACTN1	g-g	hsa04520	binding/association
+ACTG1	pp	ACTN4, ACTININ-4, FSGS, FSGS1	g-g	hsa04520	binding/association
+ACTG1	pp	ACTN1	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+ACTG1	pp	VCL, CMD1W, CMH15, HEL114, MV, MVCL	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+ACTG1	pp	TJP1, ZO-1	g-g	hsa04520	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+ACTG1	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04520	binding/association
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	g-g	hsa04520	activation
+NECTIN1	pp	PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	g-g	hsa04520	activation
+NECTIN2	pp	PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	g-g	hsa04520	activation
+NECTIN4	pp	PARD3, ASIP, Baz, PAR3, PAR3alpha, PARD-3, PARD3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2	g-g	hsa04520	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04520	indirect effect
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	RAC2	g-g	hsa04520	indirect effect
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	RAC3	g-g	hsa04520	indirect effect
+CDC42, CDC42Hs, G25K, TKS	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04520	indirect effect
+CDC42, CDC42Hs, G25K, TKS	pp	RAC2	g-g	hsa04520	indirect effect
+CDC42, CDC42Hs, G25K, TKS	pp	RAC3	g-g	hsa04520	indirect effect
+NECTIN3, CD113, CDW113, NECTIN-3, PPR3, PRR3, PVRL3, PVRR3	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04520	indirect effect
+NECTIN1	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04520	indirect effect
+NECTIN2	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04520	indirect effect
+NECTIN4	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	g-g	hsa04520	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04520	indirect effect
+EGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA	pp	MAPK3	g-g	hsa04520	indirect effect
+ERBB2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04520	indirect effect
+ERBB2	pp	MAPK3	g-g	hsa04520	indirect effect
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	g-g	hsa04520	indirect effect
+MAPK3	pp	SNAI2, SLUG, SLUGH1, SNAIL2, WS2D	g-g	hsa04520	indirect effect
+FGFR1, BFGFR, CD331, CEK, ECCL, FGFBR, FGFR-1, FLG, FLT-2, FLT2, HBGFR, HH2, HRTFDS, KAL2, N-SAM, OGD, bFGF-R-1	pp	SNAI1, SLUGH2, SNA, SNAH, SNAIL, SNAIL1, dJ710H131	g-g	hsa04520	indirect effect
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SNAI1, SLUGH2, SNA, SNAH, SNAIL, SNAIL1, dJ710H131	g-g	hsa04520	indirect effect
+TGFBR2	pp	SNAI1, SLUGH2, SNA, SNAH, SNAIL, SNAIL1, dJ710H131	g-g	hsa04520	indirect effect
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-gr	hsa04520	indirect effect
+TGFBR2	pp	SMAD4, DPC4, JIP, MADH4, MYHRS	g-gr	hsa04520	indirect effect
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-gr	hsa04520	indirect effect
+TGFBR1, AAT5, ACVRLK4, ALK-5, ALK5, ESS1, LDS1, LDS1A, LDS2A, MSSE, SKR4, TGFR-1, tbetaR-I	pp	SMAD3	g-gr	hsa04520	indirect effect
+TGFBR2	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-gr	hsa04520	indirect effect
+TGFBR2	pp	SMAD3	g-gr	hsa04520	indirect effect
+MAP3K7, MEKK7, TAK1, TGF1a	pp	NLK	g-g	hsa04520	activation
+WASL, N-WASP, NWASP, WASPB	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+WASL, N-WASP, NWASP, WASPB	pp	ACTG1	g-g	hsa04520	activation
+WAS	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+WAS	pp	ACTG1	g-g	hsa04520	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+WAS, IMD2, SCNX, THC, THC1, WASP, WASPA	pp	ACTG1	g-g	hsa04520	activation
+WASL	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+WASL	pp	ACTG1	g-g	hsa04520	activation
+IQGAP1, HUMORFA01, SAR1, p195	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04520	activation
+IQGAP1, HUMORFA01, SAR1, p195	pp	ACTG1	g-g	hsa04520	activation
+CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04520	activation
+CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	pp	RAC2	g-g	hsa04520	activation
+CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	pp	RAC3	g-g	hsa04520	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	inhibition
+RAC2	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	inhibition
+RAC3	pp	IQGAP1, HUMORFA01, SAR1, p195	g-g	hsa04520	inhibition
+YES1, HsT441, P61-YES, Yes, c-yes	pp	FYN, SLK, SYN, p59-FYN	g-g	hsa04520	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ACTB, BRWS1, PS1TP5BP1	gr-g	hsa04520	activation
+WASF2, IMD2, SCAR2, WASF4, WAVE2, dJ393P122	pp	ACTG1	gr-g	hsa04520	activation
+WASF3	pp	ACTB, BRWS1, PS1TP5BP1	gr-g	hsa04520	activation
+WASF1	pp	ACTB, BRWS1, PS1TP5BP1	gr-g	hsa04520	activation
+WASF3	pp	ACTG1	gr-g	hsa04520	activation
+WASF1	pp	ACTG1	gr-g	hsa04520	activation
+BAIAP2, BAP2, FLAF3, IRSP53	pp	ACTB, BRWS1, PS1TP5BP1	gr-g	hsa04520	activation
+BAIAP2, BAP2, FLAF3, IRSP53	pp	ACTG1	gr-g	hsa04520	activation
+YES1, HsT441, P61-YES, Yes, c-yes	pp	FER, PPP1R74, TYK3, p94-Fer	g-g	hsa04520	activation
+CREBBP, CBP, KAT3A, RSTS				hsa04520	
+EP300				hsa04520	
+INSR, CD220, HHF5				hsa04520	

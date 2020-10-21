@@ -1,0 +1,69 @@
+IL4I1, FIG1, LAAO, LAO	ec	PAH, PH, PKU, PKU1	g-g	hsa00400	compound
+TAT	ec	PAH, PH, PKU, PKU1	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	GOT2	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	GOT2	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	TAT	g-g	hsa00400	compound
+PAH, PH, PKU, PKU1	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00400	compound
+C00166	rt	TAT	reversible	hsa00400	se
+TAT	rt	C00166	reversible	hsa00400	ep
+TAT	rt	C00079	reversible	hsa00400	ep
+C00079	rt	TAT	reversible	hsa00400	se
+C00079	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00400	se
+IL4I1, FIG1, LAAO, LAO	rt	C00166	irreversible	hsa00400	ep
+C00079	rt	PAH, PH, PKU, PKU1	irreversible	hsa00400	se
+PAH, PH, PKU, PKU1	rt	C00082	irreversible	hsa00400	ep
+C00082	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00400	se
+IL4I1, FIG1, LAAO, LAO	rt	C01179	irreversible	hsa00400	ep
+C00082	rt	TAT	reversible	hsa00400	se
+TAT	rt	C00082	reversible	hsa00400	ep
+TAT	rt	C01179	reversible	hsa00400	ep
+C01179	rt	TAT	reversible	hsa00400	se
+C00166	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00400	se
+C00166	rt	GOT2	reversible	hsa00400	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00166	reversible	hsa00400	ep
+GOT2	rt	C00166	reversible	hsa00400	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00079	reversible	hsa00400	ep
+GOT2	rt	C00079	reversible	hsa00400	ep
+C00079	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00400	se
+C00079	rt	GOT2	reversible	hsa00400	se
+C00082	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00400	se
+C00082	rt	GOT2	reversible	hsa00400	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00082	reversible	hsa00400	ep
+GOT2	rt	C00082	reversible	hsa00400	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C01179	reversible	hsa00400	ep
+GOT2	rt	C01179	reversible	hsa00400	ep
+C01179	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00400	se
+C01179	rt	GOT2	reversible	hsa00400	se
+C00279				hsa00400	
+C00074				hsa00400	
+C04691				hsa00400	
+C00944				hsa00400	
+C00296				hsa00400	
+C02637				hsa00400	
+C00230				hsa00400	
+C00493				hsa00400	
+C03175				hsa00400	
+C01269				hsa00400	
+C00251				hsa00400	
+C00119				hsa00400	
+C00108				hsa00400	
+C04302				hsa00400	
+C01302				hsa00400	
+C03506				hsa00400	
+C00463				hsa00400	
+C00078				hsa00400	
+C00254				hsa00400	
+C00826				hsa00400	
+C16850				hsa00400	
+C00441				hsa00400	
+C16848				hsa00400	
+C01094				hsa00400	
+C00354				hsa00400	
+C20653				hsa00400	
+C20654				hsa00400	
+C20327				hsa00400	
+C17235				hsa00400	
+C00587				hsa00400	
+C20710				hsa00400	

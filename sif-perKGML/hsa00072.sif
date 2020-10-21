@@ -1,0 +1,77 @@
+HMGCL, HL	ec	BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	g-g	hsa00072	compound
+HMGCL, HL	ec	BDH1	g-g	hsa00072	compound
+HMGCLL1	ec	BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	g-g	hsa00072	compound
+HMGCLL1	ec	BDH1	g-g	hsa00072	compound
+HMGCL, HL	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+HMGCL, HL	ec	OXCT2	g-g	hsa00072	compound
+HMGCLL1	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+HMGCLL1	ec	OXCT2	g-g	hsa00072	compound
+BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	ec	OXCT2	g-g	hsa00072	compound
+BDH1	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+BDH1	ec	OXCT2	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	HMGCL, HL	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	HMGCLL1	g-g	hsa00072	compound
+HMGCS2	ec	HMGCL, HL	g-g	hsa00072	compound
+HMGCS2	ec	HMGCLL1	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	HMGCL, HL	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	HMGCLL1	g-g	hsa00072	compound
+HMGCS2	ec	HMGCL, HL	g-g	hsa00072	compound
+HMGCS2	ec	HMGCLL1	g-g	hsa00072	compound
+HMGCL, HL	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCL, HL	ec	ACAT2	g-g	hsa00072	compound
+HMGCLL1	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCLL1	ec	ACAT2	g-g	hsa00072	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	OXCT2	g-g	hsa00072	compound
+ACAT2	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+ACAT2	ec	OXCT2	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	ACAT2	g-g	hsa00072	compound
+HMGCS2	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCS2	ec	ACAT2	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	ACAT2	g-g	hsa00072	compound
+HMGCS2	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00072	compound
+HMGCS2	ec	ACAT2	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+HMGCS1, HMGCS	ec	OXCT2	g-g	hsa00072	compound
+HMGCS2	ec	OXCT1, OXCT, SCOT	g-g	hsa00072	compound
+HMGCS2	ec	OXCT2	g-g	hsa00072	compound
+C00332	rt	HMGCS1, HMGCS	irreversible	hsa00072	se
+C00332	rt	HMGCS2	irreversible	hsa00072	se
+C00024	rt	HMGCS1, HMGCS	irreversible	hsa00072	se
+C00024	rt	HMGCS2	irreversible	hsa00072	se
+HMGCS1, HMGCS	rt	C00356	irreversible	hsa00072	ep
+HMGCS2	rt	C00356	irreversible	hsa00072	ep
+C00356	rt	HMGCL, HL	irreversible	hsa00072	se
+C00356	rt	HMGCLL1	irreversible	hsa00072	se
+HMGCL, HL	rt	C00164	irreversible	hsa00072	ep
+HMGCLL1	rt	C00164	irreversible	hsa00072	ep
+HMGCL, HL	rt	C00024	irreversible	hsa00072	ep
+HMGCLL1	rt	C00024	irreversible	hsa00072	ep
+C00024	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00072	se
+C00024	rt	ACAT2	reversible	hsa00072	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	reversible	hsa00072	ep
+ACAT2	rt	C00024	reversible	hsa00072	ep
+ACAT1, ACAT, MAT, T2, THIL	rt	C00332	reversible	hsa00072	ep
+ACAT2	rt	C00332	reversible	hsa00072	ep
+C00332	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00072	se
+C00332	rt	ACAT2	reversible	hsa00072	se
+C01089	rt	BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	reversible	hsa00072	se
+C01089	rt	BDH1	reversible	hsa00072	se
+BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	rt	C01089	reversible	hsa00072	ep
+BDH1	rt	C01089	reversible	hsa00072	ep
+BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	rt	C00164	reversible	hsa00072	ep
+BDH1	rt	C00164	reversible	hsa00072	ep
+C00164	rt	BDH2, DHRS6, EFA6R, PRO20933, SDR15C1, UCPA-OR, UNQ6308	reversible	hsa00072	se
+C00164	rt	BDH1	reversible	hsa00072	se
+C00164	rt	OXCT1, OXCT, SCOT	reversible	hsa00072	se
+C00164	rt	OXCT2	reversible	hsa00072	se
+OXCT1, OXCT, SCOT	rt	C00164	reversible	hsa00072	ep
+OXCT2	rt	C00164	reversible	hsa00072	ep
+OXCT1, OXCT, SCOT	rt	C00332	reversible	hsa00072	ep
+OXCT2	rt	C00332	reversible	hsa00072	ep
+C00332	rt	OXCT1, OXCT, SCOT	reversible	hsa00072	se
+C00332	rt	OXCT2	reversible	hsa00072	se
+C00207				hsa00072	

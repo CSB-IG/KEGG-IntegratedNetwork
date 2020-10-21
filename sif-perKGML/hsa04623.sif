@@ -1,0 +1,97 @@
+DDX58, RIG-I, RIGI, RLR-1, SGMRT2	pp	MAVS, CARDIF, IPS-1, IPS1, VISA	g-g	hsa04623	activation
+MAVS, CARDIF, IPS-1, IPS1, VISA	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04623	activation
+MAVS, CARDIF, IPS-1, IPS1, VISA	pp	RELA	g-g	hsa04623	activation
+MAVS, CARDIF, IPS-1, IPS1, VISA	pp	TMEM173, ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, hMITA, hSTING	g-g	hsa04623	binding/association
+TMEM173, ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, hMITA, hSTING	pp	TBK1, FTDALS4, IIAE8, NAK, T2K	g-g	hsa04623	activation
+TMEM173, ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, hMITA, hSTING	pp	IKBKE, IKK-E, IKK-i, IKKE, IKKI	g-g	hsa04623	activation
+TBK1, FTDALS4, IIAE8, NAK, T2K	pp	IRF3, IIAE7	g-g	hsa04623	binding/association
+IKBKE, IKK-E, IKK-i, IKKE, IKKI	pp	IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	g-g	hsa04623	binding/association
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	TBK1, FTDALS4, IIAE8, NAK, T2K	g-g	hsa04623	activation
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	IKBKE, IKK-E, IKK-i, IKKE, IKKI	g-g	hsa04623	activation
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	IRF3, IIAE7	g-g	hsa04623	binding/association
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	g-g	hsa04623	binding/association
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	RIPK1, RIP, RIP-1, RIP1	g-g	hsa04623	binding/association
+RIPK1, RIP, RIP-1, RIP1	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa04623	activation
+RIPK1, RIP, RIP-1, RIP1	pp	IKBKB	g-g	hsa04623	activation
+RIPK1, RIP, RIP-1, RIP1	pp	IKBKG	g-g	hsa04623	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04623	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIB	g-g	hsa04623	activation
+IKBKB	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04623	activation
+IKBKG	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa04623	activation
+IKBKB	pp	NFKBIB	g-g	hsa04623	activation
+IKBKG	pp	NFKBIB	g-g	hsa04623	activation
+NFKBIA, IKBA, MAD-3, NFKBI	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04623	dissociation
+NFKBIA, IKBA, MAD-3, NFKBI	pp	RELA	g-g	hsa04623	dissociation
+NFKBIB	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa04623	dissociation
+NFKBIB	pp	RELA	g-g	hsa04623	dissociation
+ZBP1, C20orf183, DAI, DLM-1, DLM1	pp	RIPK3, RIP3	g-g	hsa04623	binding/association
+AIM2, PYHIN4	pp	PYCARD, ASC, CARD5, TMS, TMS-1, TMS1	g-g	hsa04623	binding/association
+PYCARD, ASC, CARD5, TMS, TMS-1, TMS1	pp	CASP1, ICE, IL1BC, P45	g-g	hsa04623	binding/association
+TBK1, FTDALS4, IIAE8, NAK, T2K	pp	IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	g-g	hsa04623	binding/association
+IKBKE, IKK-E, IKK-i, IKKE, IKKI	pp	IRF3, IIAE7	g-g	hsa04623	binding/association
+C20640	pc	TMEM173, ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, hMITA, hSTING	c-g	hsa04623	activation
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	g-g	hsa04623	expression
+RELA	pd	IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA1	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA2	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA4	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA5	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA6	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA7	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA8	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA10	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA14	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA16	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA17	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNA21	g-g	hsa04623	expression
+IRF3, IIAE7	pd	IFNB1, IFB, IFF, IFN-beta, IFNB	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA1, IFL, IFN, IFN-ALPHA, IFN-alphaD, IFNA13, IFNA@	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA1	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA2	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA4	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA5	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA6	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA7	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA8	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA10	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA14	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA16	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA17	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNA21	g-g	hsa04623	expression
+IRF7, IMD39, IRF-7H, IRF7A, IRF7B, IRF7C, IRF7H	pd	IFNB1, IFB, IFF, IFN-beta, IFNB	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	g-g	hsa04623	expression
+RELA	pd	IL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CCL4L1, AT7442, CCL4L, LAG-1, LAG1, MIP-1-beta, SCYA4L, SCYA4L1, SCYA4L2	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CCL4	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CCL4L2	g-g	hsa04623	expression
+RELA	pd	CCL4L1, AT7442, CCL4L, LAG-1, LAG1, MIP-1-beta, SCYA4L, SCYA4L1, SCYA4L2	g-g	hsa04623	expression
+RELA	pd	CCL4	g-g	hsa04623	expression
+RELA	pd	CCL4L2	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CCL5, D17S136E, RANTES, SCYA5, SIS-delta, SISd, TCP228, eoCP	g-g	hsa04623	expression
+RELA	pd	CCL5, D17S136E, RANTES, SCYA5, SIS-delta, SISd, TCP228, eoCP	g-g	hsa04623	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CXCL10, C7, IFI10, INP10, IP-10, SCYB10, crg-2, gIP-10, mob-1	g-g	hsa04623	expression
+RELA	pd	CXCL10, C7, IFI10, INP10, IP-10, SCYB10, crg-2, gIP-10, mob-1	g-g	hsa04623	expression
+CASP1, ICE, IL1BC, P45	pp	IL1B, IL-1, IL1-BETA, IL1F2	g-g	hsa04623	activation
+CASP1, ICE, IL1BC, P45	pp	IL18, IGIF, IL-18, IL-1g, IL1F4	g-g	hsa04623	activation
+CASP1, ICE, IL1BC, P45	pp	IL33, C9orf26, DVS27, IL1F11, NF-HEV, NFEHEV	g-g	hsa04623	activation
+ADAR, ADAR1, AGS6, DRADA, DSH, DSRAD, G1P1, IFI-4, IFI4, K88DSRBP, P136				hsa04623	
+POLR3F, RPC39, RPC6				hsa04623	
+POLR3G				hsa04623	
+POLR3C				hsa04623	
+POLR3A				hsa04623	
+POLR3H				hsa04623	
+POLR1D				hsa04623	
+POLR3K				hsa04623	
+POLR2E				hsa04623	
+POLR2F				hsa04623	
+POLR2H				hsa04623	
+POLR2K				hsa04623	
+POLR2L				hsa04623	
+POLR3B				hsa04623	
+POLR3E				hsa04623	
+POLR3D				hsa04623	
+POLR3GL				hsa04623	
+POLR1C				hsa04623	
+TREX1, AGS1, CRV, DRN3, HERNS				hsa04623	
+CGAS, C6orf150, MB21D1, h-cGAS				hsa04623	

@@ -1,0 +1,91 @@
+PIGL, CHIME	ec	GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGW, Gwt1, HPMRS5	g-g	hsa00563	compound
+GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD	ec	PIGW, Gwt1, HPMRS5	g-g	hsa00563	compound
+PIGM, GPI-MT-I	ec	PIGW, Gwt1, HPMRS5	g-g	hsa00563	compound
+PIGX, PIG-X	ec	PIGW, Gwt1, HPMRS5	g-g	hsa00563	compound
+PIGM, GPI-MT-I	ec	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	g-g	hsa00563	compound
+PIGX, PIG-X	ec	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	g-g	hsa00563	compound
+PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	ec	PIGV, GPI-MT-II, HPMRS1, PIG-V	g-g	hsa00563	compound
+PIGB, GPI-MT-III, PIG-B	ec	PIGV, GPI-MT-II, HPMRS1, PIG-V	g-g	hsa00563	compound
+PIGF	ec	PIGB, GPI-MT-III, PIG-B	g-g	hsa00563	compound
+PIGB, GPI-MT-III, PIG-B	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+PIGF	ec	GPAA1, GAA1, GPIBD15, hGAA1	g-g	hsa00563	compound
+PIGF	ec	PIGK, GPI8	g-g	hsa00563	compound
+PIGS	ec	PIGF	g-g	hsa00563	compound
+PIGT, CGI-06, MCAHS3, NDAP, PNH2	ec	PIGF	g-g	hsa00563	compound
+PIGU, CDC91L1, GAB1	ec	PIGF	g-g	hsa00563	compound
+GPAA1, GAA1, GPIBD15, hGAA1	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+PIGK, GPI8	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+PIGS	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+PIGT, CGI-06, MCAHS3, NDAP, PNH2	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+PIGU, CDC91L1, GAB1	ec	PIGO, HPMRS2	g-g	hsa00563	compound
+GPAA1, GAA1, GPIBD15, hGAA1	ec	PGAP1, Bst1, ISPD3024, MRT42, SPG67	g-g	hsa00563	compound
+PIGK, GPI8	ec	PGAP1, Bst1, ISPD3024, MRT42, SPG67	g-g	hsa00563	compound
+PIGS	ec	PGAP1, Bst1, ISPD3024, MRT42, SPG67	g-g	hsa00563	compound
+PIGT, CGI-06, MCAHS3, NDAP, PNH2	ec	PGAP1, Bst1, ISPD3024, MRT42, SPG67	g-g	hsa00563	compound
+PIGU, CDC91L1, GAB1	ec	PGAP1, Bst1, ISPD3024, MRT42, SPG67	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGA, GPI3, MCAHS2, PIG-A, PNH1	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGC, GPI2, GPIBD16, MRT62	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGH, GPI-H	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGP, DCRC, DCRC-S, DSCR5, DSRC, EIEE55, PIG-P	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGQ, GPI1, c407A101	g-g	hsa00563	compound
+PIGL, CHIME	ec	PIGY, HPMRS6, PIG-Y	g-g	hsa00563	compound
+PIGL, CHIME	ec	DPM2, CDG1U	g-g	hsa00563	compound
+PIGM, GPI-MT-I	ec	PIGV, GPI-MT-II, HPMRS1, PIG-V	g-g	hsa00563	compound
+PIGM, GPI-MT-I	ec	PIGB, GPI-MT-III, PIG-B	g-g	hsa00563	compound
+PIGX, PIG-X	ec	PIGV, GPI-MT-II, HPMRS1, PIG-V	g-g	hsa00563	compound
+PIGX, PIG-X	ec	PIGB, GPI-MT-III, PIG-B	g-g	hsa00563	compound
+PIGV, GPI-MT-II, HPMRS1, PIG-V	ec	PIGB, GPI-MT-III, PIG-B	g-g	hsa00563	compound
+G10610	rt	PIGY, HPMRS6, PIG-Y	irreversible	hsa00563	se
+C01194	rt	PIGY, HPMRS6, PIG-Y	irreversible	hsa00563	se
+PIGY, HPMRS6, PIG-Y	rt	G00143	irreversible	hsa00563	ep
+G10610	rt	DPM2, CDG1U	irreversible	hsa00563	se
+C01194	rt	DPM2, CDG1U	irreversible	hsa00563	se
+DPM2, CDG1U	rt	G00143	irreversible	hsa00563	ep
+G10610	rt	PIGQ, GPI1, c407A101	irreversible	hsa00563	se
+C01194	rt	PIGQ, GPI1, c407A101	irreversible	hsa00563	se
+PIGQ, GPI1, c407A101	rt	G00143	irreversible	hsa00563	ep
+G10610	rt	PIGP, DCRC, DCRC-S, DSCR5, DSRC, EIEE55, PIG-P	irreversible	hsa00563	se
+C01194	rt	PIGP, DCRC, DCRC-S, DSCR5, DSRC, EIEE55, PIG-P	irreversible	hsa00563	se
+PIGP, DCRC, DCRC-S, DSCR5, DSRC, EIEE55, PIG-P	rt	G00143	irreversible	hsa00563	ep
+G10610	rt	PIGH, GPI-H	irreversible	hsa00563	se
+C01194	rt	PIGH, GPI-H	irreversible	hsa00563	se
+PIGH, GPI-H	rt	G00143	irreversible	hsa00563	ep
+G10610	rt	PIGC, GPI2, GPIBD16, MRT62	irreversible	hsa00563	se
+C01194	rt	PIGC, GPI2, GPIBD16, MRT62	irreversible	hsa00563	se
+PIGC, GPI2, GPIBD16, MRT62	rt	G00143	irreversible	hsa00563	ep
+G00145	rt	PIGX, PIG-X	irreversible	hsa00563	se
+G10617	rt	PIGX, PIG-X	irreversible	hsa00563	se
+PIGX, PIG-X	rt	G00146	irreversible	hsa00563	ep
+G00145	rt	PIGM, GPI-MT-I	irreversible	hsa00563	se
+G10617	rt	PIGM, GPI-MT-I	irreversible	hsa00563	se
+PIGM, GPI-MT-I	rt	G00146	irreversible	hsa00563	ep
+G00149	rt	PIGF	irreversible	hsa00563	se
+C00350	rt	PIGF	irreversible	hsa00563	se
+PIGF	rt	G13044	irreversible	hsa00563	ep
+G00143	rt	PIGL, CHIME	irreversible	hsa00563	se
+PIGL, CHIME	rt	G00144	irreversible	hsa00563	ep
+G00148	rt	PIGB, GPI-MT-III, PIG-B	irreversible	hsa00563	se
+G10617	rt	PIGB, GPI-MT-III, PIG-B	irreversible	hsa00563	se
+PIGB, GPI-MT-III, PIG-B	rt	G00149	irreversible	hsa00563	ep
+G00146	rt	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	irreversible	hsa00563	se
+C00350	rt	PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	irreversible	hsa00563	se
+PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N	rt	G00147	irreversible	hsa00563	ep
+G10610	rt	PIGA, GPI3, MCAHS2, PIG-A, PNH1	irreversible	hsa00563	se
+C01194	rt	PIGA, GPI3, MCAHS2, PIG-A, PNH1	irreversible	hsa00563	se
+PIGA, GPI3, MCAHS2, PIG-A, PNH1	rt	G00143	irreversible	hsa00563	ep
+G00144	rt	GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD	irreversible	hsa00563	se
+GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD	rt	G12396	irreversible	hsa00563	ep
+G00149	rt	PIGO, HPMRS2	irreversible	hsa00563	se
+C00350	rt	PIGO, HPMRS2	irreversible	hsa00563	se
+PIGO, HPMRS2	rt	G13044	irreversible	hsa00563	ep
+G00144	rt	PIGW, Gwt1, HPMRS5	irreversible	hsa00563	se
+C00154	rt	PIGW, Gwt1, HPMRS5	irreversible	hsa00563	se
+PIGW, Gwt1, HPMRS5	rt	G00145	irreversible	hsa00563	ep
+G00147	rt	PIGV, GPI-MT-II, HPMRS1, PIG-V	irreversible	hsa00563	se
+G10617	rt	PIGV, GPI-MT-II, HPMRS1, PIG-V	irreversible	hsa00563	se
+PIGV, GPI-MT-II, HPMRS1, PIG-V	rt	G00148	irreversible	hsa00563	ep
+G13045				hsa00563	
+G13046				hsa00563	
+PIGZ, GPI-MT-IV, PIG-Z, SMP3				hsa00563	
+PIGG, GPI7, LAS21, MRT53, PRO4405, RLGS1930				hsa00563	

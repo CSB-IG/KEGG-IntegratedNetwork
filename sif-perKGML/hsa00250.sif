@@ -1,0 +1,235 @@
+ASL, ASAL	ec	ADSL, AMPS, ASASE, ASL	g-g	hsa00250	compound
+GLUD1, GDH, GDH1, GLUD	ec	NIT2, HEL-S-8a	g-g	hsa00250	compound
+GLUD2	ec	NIT2, HEL-S-8a	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	GFPT2	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	GLS2	g-g	hsa00250	compound
+PPAT, ATASE, GPAT, PRAT	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GFPT2	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GLS2	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	ec	GLS2	g-g	hsa00250	compound
+GFPT2	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+GFPT2	ec	GLS2	g-g	hsa00250	compound
+GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GFPT2	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GLS2	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	CPS1, CPSASE1, PHN	g-g	hsa00250	compound
+CPS1, CPSASE1, PHN	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+CPS1, CPSASE1, PHN	ec	GLS2	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GLS2, GA, GLS, LGA, hLGA	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GLS2	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GLUD2	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+ALDH4A1, ALDH4, P5CD, P5CDh	ec	GAD2	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GLS2	ec	GLUL, GLNS, GS, PIG43, PIG59	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUD2	g-g	hsa00250	compound
+GLS2	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00250	compound
+GLS2	ec	GLUD2	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GAD2	g-g	hsa00250	compound
+GLS2	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+GLS2	ec	GAD2	g-g	hsa00250	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00250	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GLUD2	g-g	hsa00250	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GAD2	g-g	hsa00250	compound
+GLUD1, GDH, GDH1, GLUD	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+GLUD1, GDH, GDH1, GLUD	ec	GAD2	g-g	hsa00250	compound
+GLUD2	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+GLUD2	ec	GAD2	g-g	hsa00250	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	GAD1, CPSQ1, GAD, SCP	g-g	hsa00250	compound
+ABAT, GABA-AT, GABAT, NPD009	ec	GAD2	g-g	hsa00250	compound
+ALDH5A1, SSADH, SSDH	ec	ABAT, GABA-AT, GABAT, NPD009	g-g	hsa00250	compound
+NIT2, HEL-S-8a	ec	DDO, DASOX, DDO-1, DDO-2	g-g	hsa00250	compound
+NIT2, HEL-S-8a	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+NIT2, HEL-S-8a	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+NIT2, HEL-S-8a	ec	GOT2	g-g	hsa00250	compound
+DDO, DASOX, DDO-1, DDO-2	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+DDO, DASOX, DDO-1, DDO-2	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+DDO, DASOX, DDO-1, DDO-2	ec	GOT2	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	ADSSL1, MPD5	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	ADSS	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	ASNS, ASNSD, TS11	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	NAT8L, CML3, NACED, NAT8-LIKE	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	GOT2	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00250	compound
+ADSS	ec	CAD, CDG1Z, EIEE50, GATD4	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	ASNS, ASNSD, TS11	g-g	hsa00250	compound
+ADSS	ec	ASNS, ASNSD, TS11	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+ADSS	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	NAT8L, CML3, NACED, NAT8-LIKE	g-g	hsa00250	compound
+ADSS	ec	NAT8L, CML3, NACED, NAT8-LIKE	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+ADSS	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	GOT2	g-g	hsa00250	compound
+ADSS	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+ADSS	ec	GOT2	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	ASNS, ASNSD, TS11	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	NAT8L, CML3, NACED, NAT8-LIKE	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+CAD, CDG1Z, EIEE50, GATD4	ec	GOT2	g-g	hsa00250	compound
+ASNS, ASNSD, TS11	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+ASNS, ASNSD, TS11	ec	NAT8L, CML3, NACED, NAT8-LIKE	g-g	hsa00250	compound
+ASNS, ASNSD, TS11	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+ASNS, ASNSD, TS11	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+ASNS, ASNSD, TS11	ec	GOT2	g-g	hsa00250	compound
+ASPA, ACY2, ASP	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+ASPA, ACY2, ASP	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+ASPA, ACY2, ASP	ec	GOT2	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	GOT2	g-g	hsa00250	compound
+ASS1, ASS, CTLN1	ec	ASL, ASAL	g-g	hsa00250	compound
+ADSSL1, MPD5	ec	ADSL, AMPS, ASASE, ASL	g-g	hsa00250	compound
+ADSS	ec	ADSL, AMPS, ASASE, ASL	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	RIMKLA, FAM80A, NAAGS, NAAGS-II	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	RIMKLB	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+RIMKLB	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	g-g	hsa00250	compound
+RIMKLB	ec	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	RIMKLA, FAM80A, NAAGS, NAAGS-II	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	RIMKLB	g-g	hsa00250	compound
+RIMKLB	ec	RIMKLA, FAM80A, NAAGS, NAAGS-II	g-g	hsa00250	compound
+RIMKLB	ec	RIMKLB	g-g	hsa00250	compound
+FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	ec	RIMKLA, FAM80A, NAAGS, NAAGS-II	g-g	hsa00250	compound
+FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	ec	RIMKLB	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	RIMKLA, FAM80A, NAAGS, NAAGS-II	g-g	hsa00250	compound
+NAT8L, CML3, NACED, NAT8-LIKE	ec	RIMKLB	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+RIMKLB	ec	ASPA, ACY2, ASP	g-g	hsa00250	compound
+RIMKLA, FAM80A, NAAGS, NAAGS-II	ec	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	g-g	hsa00250	compound
+RIMKLB	ec	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	g-g	hsa00250	compound
+C01042	rt	ASPA, ACY2, ASP	irreversible	hsa00250	se
+ASPA, ACY2, ASP	rt	C00049	irreversible	hsa00250	ep
+C02362	rt	NIT2, HEL-S-8a	irreversible	hsa00250	se
+NIT2, HEL-S-8a	rt	C00036	irreversible	hsa00250	ep
+C00049	rt	ASNS, ASNSD, TS11	reversible	hsa00250	se
+ASNS, ASNSD, TS11	rt	C00049	reversible	hsa00250	ep
+ASNS, ASNSD, TS11	rt	C00152	reversible	hsa00250	ep
+C00152	rt	ASNS, ASNSD, TS11	reversible	hsa00250	se
+C00049	rt	NAT8L, CML3, NACED, NAT8-LIKE	irreversible	hsa00250	se
+NAT8L, CML3, NACED, NAT8-LIKE	rt	C01042	irreversible	hsa00250	ep
+C00049	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00250	se
+IL4I1, FIG1, LAAO, LAO	rt	C00036	irreversible	hsa00250	ep
+C00049	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00250	se
+C00049	rt	GOT2	reversible	hsa00250	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00049	reversible	hsa00250	ep
+GOT2	rt	C00049	reversible	hsa00250	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00036	reversible	hsa00250	ep
+GOT2	rt	C00036	reversible	hsa00250	ep
+C00036	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00250	se
+C00036	rt	GOT2	reversible	hsa00250	se
+C00402	rt	DDO, DASOX, DDO-1, DDO-2	irreversible	hsa00250	se
+DDO, DASOX, DDO-1, DDO-2	rt	C00036	irreversible	hsa00250	ep
+C00049	rt	ASS1, ASS, CTLN1	irreversible	hsa00250	se
+ASS1, ASS, CTLN1	rt	C03406	irreversible	hsa00250	ep
+C00049	rt	ADSSL1, MPD5	irreversible	hsa00250	se
+C00049	rt	ADSS	irreversible	hsa00250	se
+ADSSL1, MPD5	rt	C03794	irreversible	hsa00250	ep
+ADSS	rt	C03794	irreversible	hsa00250	ep
+C03406	rt	ASL, ASAL	irreversible	hsa00250	se
+ASL, ASAL	rt	C00122	irreversible	hsa00250	ep
+C03794	rt	ADSL, AMPS, ASASE, ASL	irreversible	hsa00250	se
+ADSL, AMPS, ASASE, ASL	rt	C00122	irreversible	hsa00250	ep
+C00041	rt	AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	irreversible	hsa00250	se
+C00041	rt	AGXT2	irreversible	hsa00250	se
+AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6	rt	C00022	irreversible	hsa00250	ep
+AGXT2	rt	C00022	irreversible	hsa00250	ep
+C00041	rt	GPT, AAT1, ALT1, GPT1	reversible	hsa00250	se
+C00041	rt	GPT2	reversible	hsa00250	se
+GPT, AAT1, ALT1, GPT1	rt	C00041	reversible	hsa00250	ep
+GPT2	rt	C00041	reversible	hsa00250	ep
+GPT, AAT1, ALT1, GPT1	rt	C00022	reversible	hsa00250	ep
+GPT2	rt	C00022	reversible	hsa00250	ep
+C00022	rt	GPT, AAT1, ALT1, GPT1	reversible	hsa00250	se
+C00022	rt	GPT2	reversible	hsa00250	se
+C00049	rt	CAD, CDG1Z, EIEE50, GATD4	irreversible	hsa00250	se
+CAD, CDG1Z, EIEE50, GATD4	rt	C00438	irreversible	hsa00250	ep
+C00232	rt	ALDH5A1, SSADH, SSDH	irreversible	hsa00250	se
+ALDH5A1, SSADH, SSDH	rt	C00042	irreversible	hsa00250	ep
+C00025	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00250	se
+C00025	rt	GLUD2	reversible	hsa00250	se
+GLUD1, GDH, GDH1, GLUD	rt	C00025	reversible	hsa00250	ep
+GLUD2	rt	C00025	reversible	hsa00250	ep
+GLUD1, GDH, GDH1, GLUD	rt	C00026	reversible	hsa00250	ep
+GLUD2	rt	C00026	reversible	hsa00250	ep
+C00026	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00250	se
+C00026	rt	GLUD2	reversible	hsa00250	se
+GLUD1, GDH, GDH1, GLUD	rt	C00014	reversible	hsa00250	ep
+GLUD2	rt	C00014	reversible	hsa00250	ep
+C00014	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00250	se
+C00014	rt	GLUD2	reversible	hsa00250	se
+C00334	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00250	se
+ABAT, GABA-AT, GABAT, NPD009	rt	C00334	reversible	hsa00250	ep
+ABAT, GABA-AT, GABAT, NPD009	rt	C00232	reversible	hsa00250	ep
+C00232	rt	ABAT, GABA-AT, GABAT, NPD009	reversible	hsa00250	se
+C00025	rt	GAD1, CPSQ1, GAD, SCP	irreversible	hsa00250	se
+C00025	rt	GAD2	irreversible	hsa00250	se
+GAD1, CPSQ1, GAD, SCP	rt	C00334	irreversible	hsa00250	ep
+GAD2	rt	C00334	irreversible	hsa00250	ep
+C00025	rt	GLUL, GLNS, GS, PIG43, PIG59	irreversible	hsa00250	se
+GLUL, GLNS, GS, PIG43, PIG59	rt	C00064	irreversible	hsa00250	ep
+C00064	rt	GLS2, GA, GLS, LGA, hLGA	irreversible	hsa00250	se
+C00064	rt	GLS2	irreversible	hsa00250	se
+GLS2, GA, GLS, LGA, hLGA	rt	C00025	irreversible	hsa00250	ep
+GLS2	rt	C00025	irreversible	hsa00250	ep
+GLS2, GA, GLS, LGA, hLGA	rt	C00014	irreversible	hsa00250	ep
+GLS2	rt	C00014	irreversible	hsa00250	ep
+C00064	rt	CAD, CDG1Z, EIEE50, GATD4	irreversible	hsa00250	se
+CAD, CDG1Z, EIEE50, GATD4	rt	C00169	irreversible	hsa00250	ep
+C00014	rt	CPS1, CPSASE1, PHN	irreversible	hsa00250	se
+CPS1, CPSASE1, PHN	rt	C00169	irreversible	hsa00250	ep
+C00940	rt	NIT2, HEL-S-8a	irreversible	hsa00250	se
+NIT2, HEL-S-8a	rt	C00026	irreversible	hsa00250	ep
+C03912	rt	ALDH4A1, ALDH4, P5CD, P5CDh	reversible	hsa00250	se
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C03912	reversible	hsa00250	ep
+ALDH4A1, ALDH4, P5CD, P5CDh	rt	C00025	reversible	hsa00250	ep
+C00025	rt	ALDH4A1, ALDH4, P5CD, P5CDh	reversible	hsa00250	se
+C00064	rt	GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	irreversible	hsa00250	se
+C00064	rt	GFPT2	irreversible	hsa00250	se
+GFPT1, CMS12, CMSTA1, GFA, GFAT, GFAT_1, GFAT1, GFAT1m, GFPT, GFPT1L, MSLG	rt	C00352	irreversible	hsa00250	ep
+GFPT2	rt	C00352	irreversible	hsa00250	ep
+C00064	rt	PPAT, ATASE, GPAT, PRAT	irreversible	hsa00250	se
+PPAT, ATASE, GPAT, PRAT	rt	C03090	irreversible	hsa00250	ep
+C01042	rt	RIMKLA, FAM80A, NAAGS, NAAGS-II	irreversible	hsa00250	se
+C01042	rt	RIMKLB	irreversible	hsa00250	se
+RIMKLA, FAM80A, NAAGS, NAAGS-II	rt	C12270	irreversible	hsa00250	ep
+RIMKLB	rt	C12270	irreversible	hsa00250	ep
+C12270	rt	RIMKLA, FAM80A, NAAGS, NAAGS-II	irreversible	hsa00250	se
+C12270	rt	RIMKLB	irreversible	hsa00250	se
+RIMKLA, FAM80A, NAAGS, NAAGS-II	rt	C20776	irreversible	hsa00250	ep
+RIMKLB	rt	C20776	irreversible	hsa00250	ep
+C12270	rt	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	irreversible	hsa00250	se
+FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	rt	C01042	irreversible	hsa00250	ep
+C20776	rt	FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	irreversible	hsa00250	se
+FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP	rt	C12270	irreversible	hsa00250	ep
+C00158	rt	RIMKLB, FAM80B, NAAGS, NAAGS-I	irreversible	hsa00250	se
+C00158	rt	RIMKLA	irreversible	hsa00250	se
+RIMKLB, FAM80B, NAAGS, NAAGS-I	rt	C20775	irreversible	hsa00250	ep
+RIMKLA	rt	C20775	irreversible	hsa00250	ep
+C01042	rt	RIMKLA, FAM80A, NAAGS, NAAGS-II	irreversible	hsa00250	se
+C01042	rt	RIMKLB	irreversible	hsa00250	se
+RIMKLA, FAM80A, NAAGS, NAAGS-II	rt	C12270	irreversible	hsa00250	ep
+RIMKLB	rt	C12270	irreversible	hsa00250	ep

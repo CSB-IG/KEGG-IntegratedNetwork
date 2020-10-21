@@ -1,0 +1,100 @@
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa05330	activation
+CD86	pp	CD28, Tp44	g-g	hsa05330	activation
+CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	pp	CD40, Bp50, CDW40, TNFRSF5, p50	g-g	hsa05330	activation
+FASLG, ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	pp	FAS, ALPS1A, APO-1, APT1, CD95, FAS1, FASTM, TNFRSF6	g-g	hsa05330	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa05330	activation
+CD86	pp	CD28, Tp44	g-g	hsa05330	activation
+CD80, B7, B7-1, B71, BB1, CD28LG, CD28LG1, LAB7	pp	CD28, Tp44	g-g	hsa05330	activation
+CD86	pp	CD28, Tp44	g-g	hsa05330	activation
+CD40LG, CD154, CD40L, HIGM1, IGM, IMD3, T-BAM, TNFSF5, TRAP, gp39, hCD40L	pp	CD40, Bp50, CDW40, TNFRSF5, p50	g-g	hsa05330	activation
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-A, Aw-33, Aw-74, HLA-A11, HLA-A33, HLA-DQB1, HLA-DRB1, HLAA	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-A	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-B	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-C	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DMA	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DMB	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DOA	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DOB	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DPA1	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DPB1	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DQA1	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DQA2	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DQB1	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DRA	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DRB3	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DRB4	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-DRB5	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-E	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-F	g-g	hsa05330	binding/association
+IGH, IGH@, IGHV4, IGHV4-30, IGHV4-b, IGVH, IGVH4-39, IGVH4-b, IGVH4b, IgA, IgT, ighv	pp	HLA-G	g-g	hsa05330	binding/association
+IL2, IL-2, TCGF, lymphokine				hsa05330	
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa05330	
+HLA-A				hsa05330	
+HLA-B				hsa05330	
+HLA-C				hsa05330	
+HLA-DMB				hsa05330	
+HLA-DOA				hsa05330	
+HLA-DOB				hsa05330	
+HLA-DPA1				hsa05330	
+HLA-DPB1				hsa05330	
+HLA-DQA1				hsa05330	
+HLA-DQA2				hsa05330	
+HLA-DQB1				hsa05330	
+HLA-DRA				hsa05330	
+HLA-DRB1				hsa05330	
+HLA-DRB3				hsa05330	
+HLA-DRB4				hsa05330	
+HLA-DRB5				hsa05330	
+HLA-E				hsa05330	
+HLA-F				hsa05330	
+HLA-G				hsa05330	
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa05330	
+HLA-A				hsa05330	
+HLA-B				hsa05330	
+HLA-C				hsa05330	
+HLA-DMB				hsa05330	
+HLA-DOA				hsa05330	
+HLA-DOB				hsa05330	
+HLA-DPA1				hsa05330	
+HLA-DPB1				hsa05330	
+HLA-DQA1				hsa05330	
+HLA-DQA2				hsa05330	
+HLA-DQB1				hsa05330	
+HLA-DRA				hsa05330	
+HLA-DRB1				hsa05330	
+HLA-DRB3				hsa05330	
+HLA-DRB4				hsa05330	
+HLA-DRB5				hsa05330	
+HLA-E				hsa05330	
+HLA-F				hsa05330	
+HLA-G				hsa05330	
+HLA-DMA, D6S222E, DMA, HLADM, RING6				hsa05330	
+HLA-A				hsa05330	
+HLA-B				hsa05330	
+HLA-C				hsa05330	
+HLA-DMB				hsa05330	
+HLA-DOA				hsa05330	
+HLA-DOB				hsa05330	
+HLA-DPA1				hsa05330	
+HLA-DPB1				hsa05330	
+HLA-DQA1				hsa05330	
+HLA-DQA2				hsa05330	
+HLA-DQB1				hsa05330	
+HLA-DRA				hsa05330	
+HLA-DRB1				hsa05330	
+HLA-DRB3				hsa05330	
+HLA-DRB4				hsa05330	
+HLA-DRB5				hsa05330	
+HLA-E				hsa05330	
+HLA-F				hsa05330	
+HLA-G				hsa05330	
+GZMB, CCPI, CGL-1, CGL1, CSP-B, CSPB, CTLA1, CTSGL1, HLP, SECT				hsa05330	
+PRF1, FLH2, HPLH2, P1, PFN1, PFP				hsa05330	
+IL4, BCGF-1, BCGF1, BSF-1, BSF1, IL-4				hsa05330	
+IL5, EDF, IL-5, TRF				hsa05330	
+IL10, CSIF, GVHDS, IL-10, IL10A, TGIF				hsa05330	
+IFNG, IFG, IFI				hsa05330	
+TNF, DIF, TNF-alpha, TNFA, TNFSF2, TNLG1F				hsa05330	
+C00533				hsa05330	
+IL12A, CLMF, IL-12A, NFSK, NKSF1, P35				hsa05330	
+IL12B				hsa05330	

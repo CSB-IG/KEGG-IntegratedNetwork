@@ -1,0 +1,61 @@
+G00157	rt	EXTL2, EXTR2	irreversible	hsa00534	se
+G00157	rt	EXTL3	irreversible	hsa00534	se
+EXTL2, EXTR2	rt	G00162	irreversible	hsa00534	ep
+EXTL3	rt	G00162	irreversible	hsa00534	ep
+G00163	rt	EXTL1, EXTL	irreversible	hsa00534	se
+G00163	rt	EXTL3	irreversible	hsa00534	se
+EXTL1, EXTL	rt	G00164	irreversible	hsa00534	ep
+EXTL3	rt	G00164	irreversible	hsa00534	ep
+G00162	rt	EXT1, EXT, LGCR, LGS, TRPS2, TTV	irreversible	hsa00534	se
+G00162	rt	EXT2	irreversible	hsa00534	se
+EXT1, EXT, LGCR, LGS, TRPS2, TTV	rt	G00163	irreversible	hsa00534	ep
+EXT2	rt	G00163	irreversible	hsa00534	ep
+G00157	rt	EXTL2, EXTR2	irreversible	hsa00534	se
+G00157	rt	EXTL3	irreversible	hsa00534	se
+EXTL2, EXTR2	rt	G00162	irreversible	hsa00534	ep
+EXTL3	rt	G00162	irreversible	hsa00534	ep
+G00162	rt	EXT1, EXT, LGCR, LGS, TRPS2, TTV	irreversible	hsa00534	se
+G00162	rt	EXT2	irreversible	hsa00534	se
+EXT1, EXT, LGCR, LGS, TRPS2, TTV	rt	G00163	irreversible	hsa00534	ep
+EXT2	rt	G00163	irreversible	hsa00534	ep
+G00163	rt	EXTL1, EXTL	irreversible	hsa00534	se
+G00163	rt	EXTL3	irreversible	hsa00534	se
+EXTL1, EXTL	rt	G00164	irreversible	hsa00534	ep
+EXTL3	rt	G00164	irreversible	hsa00534	ep
+XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I				hsa00534	
+XYLT2				hsa00534	
+NDST1, HSST, MRT46, NST1				hsa00534	
+NDST4				hsa00534	
+NDST2				hsa00534	
+NDST3				hsa00534	
+HS3ST2, 30ST2, 3OST2				hsa00534	
+HS3ST1, 3OST, 3OST1				hsa00534	
+HS6ST2				hsa00534	
+HS3ST1, 3OST, 3OST1				hsa00534	
+HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B				hsa00534	
+HS3ST3A1				hsa00534	
+HS3ST2, 30ST2, 3OST2				hsa00534	
+HS6ST1, HH15, HS6ST				hsa00534	
+GLCE, HSEPI				hsa00534	
+C00054				hsa00534	
+C00053				hsa00534	
+C00033				hsa00534	
+B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT1				hsa00534	
+HS2ST1, dJ604K52				hsa00534	
+GLCE, HSEPI				hsa00534	
+B3GALT6, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6				hsa00534	
+B3GAT3, GLCATI, JDSCD, glcUAT-I				hsa00534	
+HS2ST1, dJ604K52				hsa00534	
+HS6ST1, HH15, HS6ST				hsa00534	
+HS6ST3, HS6ST-3				hsa00534	
+HS6ST3, HS6ST-3				hsa00534	
+HS6ST3, HS6ST-3				hsa00534	
+NDST1, HSST, MRT46, NST1				hsa00534	
+NDST4				hsa00534	
+NDST2				hsa00534	
+NDST3				hsa00534	
+HS3ST5, 3-OST-5, 3OST5, HS3OST5, NBLA04021				hsa00534	
+HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B				hsa00534	
+HS3ST3A1				hsa00534	
+HS3ST3B1, 3-OST-3B, 3OST3B1, h3-OST-3B				hsa00534	
+HS3ST3A1				hsa00534	

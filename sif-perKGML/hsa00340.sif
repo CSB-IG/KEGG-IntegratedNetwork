@@ -1,0 +1,115 @@
+CARNMT1, C9orf41, UPF0586	ec	CARNS1, ATPGD1	g-g	hsa00340	compound
+CARNMT1, C9orf41, UPF0586	ec	CARNS1, ATPGD1	g-g	hsa00340	compound
+CARNMT1, C9orf41, UPF0586	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00340	compound
+CARNMT1, C9orf41, UPF0586	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00340	compound
+HAL, HIS, HSTD	ec	CARNS1, ATPGD1	g-g	hsa00340	compound
+CARNS1, ATPGD1	ec	HDC	g-g	hsa00340	compound
+HAL, HIS, HSTD	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00340	compound
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	ec	HDC	g-g	hsa00340	compound
+HAL, HIS, HSTD	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00340	compound
+HDC	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00340	compound
+HAL, HIS, HSTD	ec	HDC	g-g	hsa00340	compound
+UROC1, HMFN0320, UROCD	ec	HAL, HIS, HSTD	g-g	hsa00340	compound
+AMDHD1, HMFT1272	ec	UROC1, HMFN0320, UROCD	g-g	hsa00340	compound
+FTCD, LCHC1	ec	AMDHD1, HMFT1272	g-g	hsa00340	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+ALDH1B1	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+ALDH9A1	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+ALDH3A2	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+ALDH7A1	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+AOC1, ABP, ABP1, DAO, DAO1, KAO	ec	HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	g-g	hsa00340	compound
+HDC	ec	AOC1, ABP, ABP1, DAO, DAO1, KAO	g-g	hsa00340	compound
+HDC	ec	HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	g-g	hsa00340	compound
+MAOA, BRNRS, MAO-A	ec	HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	g-g	hsa00340	compound
+MAOB	ec	HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	g-g	hsa00340	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00340	compound
+MAOA, BRNRS, MAO-A	ec	ALDH1A3	g-g	hsa00340	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B1	g-g	hsa00340	compound
+MAOA, BRNRS, MAO-A	ec	ALDH3B2	g-g	hsa00340	compound
+MAOB	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00340	compound
+MAOB	ec	ALDH1A3	g-g	hsa00340	compound
+MAOB	ec	ALDH3B1	g-g	hsa00340	compound
+MAOB	ec	ALDH3B2	g-g	hsa00340	compound
+CARNS1, ATPGD1	ec	CNDP1, CN1, CPGL2, HsT2308	g-g	hsa00340	compound
+CARNS1, ATPGD1	ec	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	g-g	hsa00340	compound
+C00025	rt	FTCD, LCHC1	reversible	hsa00340	se
+FTCD, LCHC1	rt	C00025	reversible	hsa00340	ep
+FTCD, LCHC1	rt	C00439	reversible	hsa00340	ep
+C00439	rt	FTCD, LCHC1	reversible	hsa00340	se
+C03680	rt	AMDHD1, HMFT1272	irreversible	hsa00340	se
+AMDHD1, HMFT1272	rt	C00439	irreversible	hsa00340	ep
+C00785	rt	UROC1, HMFN0320, UROCD	irreversible	hsa00340	se
+UROC1, HMFN0320, UROCD	rt	C03680	irreversible	hsa00340	ep
+C00135	rt	HAL, HIS, HSTD	irreversible	hsa00340	se
+HAL, HIS, HSTD	rt	C00785	irreversible	hsa00340	ep
+C00386	rt	CARNMT1, C9orf41, UPF0586	irreversible	hsa00340	se
+CARNMT1, C9orf41, UPF0586	rt	C01262	irreversible	hsa00340	ep
+C00386	rt	CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	irreversible	hsa00340	se
+CNDP2, CN2, CPGL, HEL-S-13, HsT2298, PEPA	rt	C00135	irreversible	hsa00340	ep
+C00135	rt	CARNS1, ATPGD1	irreversible	hsa00340	se
+CARNS1, ATPGD1	rt	C00386	irreversible	hsa00340	ep
+C00135	rt	HDC	irreversible	hsa00340	se
+HDC	rt	C00388	irreversible	hsa00340	ep
+C05130	rt	ALDH2, ALDH-E2, ALDHI, ALDM	irreversible	hsa00340	se
+C05130	rt	ALDH1B1	irreversible	hsa00340	se
+C05130	rt	ALDH9A1	irreversible	hsa00340	se
+C05130	rt	ALDH3A2	irreversible	hsa00340	se
+C05130	rt	ALDH7A1	irreversible	hsa00340	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C02835	irreversible	hsa00340	ep
+ALDH1B1	rt	C02835	irreversible	hsa00340	ep
+ALDH9A1	rt	C02835	irreversible	hsa00340	ep
+ALDH3A2	rt	C02835	irreversible	hsa00340	ep
+ALDH7A1	rt	C02835	irreversible	hsa00340	ep
+C05127	rt	MAOA, BRNRS, MAO-A	irreversible	hsa00340	se
+C05127	rt	MAOB	irreversible	hsa00340	se
+MAOA, BRNRS, MAO-A	rt	C05827	irreversible	hsa00340	ep
+MAOB	rt	C05827	irreversible	hsa00340	ep
+C05827	rt	ALDH3A1, ALDH3, ALDHIII	irreversible	hsa00340	se
+C05827	rt	ALDH1A3	irreversible	hsa00340	se
+C05827	rt	ALDH3B1	irreversible	hsa00340	se
+C05827	rt	ALDH3B2	irreversible	hsa00340	se
+ALDH3A1, ALDH3, ALDHIII	rt	C05828	irreversible	hsa00340	ep
+ALDH1A3	rt	C05828	irreversible	hsa00340	ep
+ALDH3B1	rt	C05828	irreversible	hsa00340	ep
+ALDH3B2	rt	C05828	irreversible	hsa00340	ep
+C00388	rt	AOC1, ABP, ABP1, DAO, DAO1, KAO	irreversible	hsa00340	se
+AOC1, ABP, ABP1, DAO, DAO1, KAO	rt	C05130	irreversible	hsa00340	ep
+C00388	rt	HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	irreversible	hsa00340	se
+HNMT, HMT, HNMT-S1, HNMT-S2, MRT51	rt	C05127	irreversible	hsa00340	ep
+C00386	rt	CNDP1, CN1, CPGL2, HsT2308	irreversible	hsa00340	se
+CNDP1, CN1, CPGL2, HsT2308	rt	C00135	irreversible	hsa00340	ep
+C01152	rt	CARNS1, ATPGD1	irreversible	hsa00340	se
+CARNS1, ATPGD1	rt	C01262	irreversible	hsa00340	ep
+C01044	rt	ASPA, ACY2, ASP	irreversible	hsa00340	se
+ASPA, ACY2, ASP	rt	C00049	irreversible	hsa00340	ep
+C00119				hsa00340	
+C02739				hsa00340	
+C02741				hsa00340	
+C04896				hsa00340	
+C04916				hsa00340	
+C04677				hsa00340	
+C04666				hsa00340	
+C01267				hsa00340	
+C01100				hsa00340	
+C00860				hsa00340	
+C03409				hsa00340	
+C05133				hsa00340	
+C05131				hsa00340	
+C04437				hsa00340	
+C01929				hsa00340	
+C05135				hsa00340	
+C03277				hsa00340	
+C05568				hsa00340	
+C05571				hsa00340	
+C05570				hsa00340	
+C05575				hsa00340	
+C05572				hsa00340	
+C00026				hsa00340	
+C16673				hsa00340	
+C16674				hsa00340	
+C05565				hsa00340	
+C01045				hsa00340	
+C05829				hsa00340	
+C20522				hsa00340	
+C20995				hsa00340	
+C20994				hsa00340	

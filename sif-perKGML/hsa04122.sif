@@ -1,0 +1,29 @@
+NFS1, HUSSY-08, IscS, NIFS	pp	MPST, MST, TST2, TUM1	g-g	hsa04122	activation
+NFS1, HUSSY-08, IscS, NIFS	pp	TST	g-g	hsa04122	activation
+MPST, MST, TST2, TUM1	pp	MOCS3, UBA4	g-g	hsa04122	activation
+TST	pp	MOCS3, UBA4	g-g	hsa04122	activation
+NFS1, HUSSY-08, IscS, NIFS	pp	MOCS3, UBA4	g-g	hsa04122	activation
+URM1, C9orf74	pp	MOCS3, UBA4	g-g	hsa04122	activation
+CTU1, ATPBD3, NCS6	pp	CTU2, C16orf84, NCS2, UPF0432	g-g	hsa04122	activation
+MOCS2, MCBPE, MOCO1, MOCODB, MPTS	pp	MOCS3, UBA4	g-g	hsa04122	binding/association
+C00097				hsa04122	
+C00041				hsa04122	
+C00868				hsa04122	
+C17322				hsa04122	
+C00868				hsa04122	
+C17322				hsa04122	
+C00378				hsa04122	
+C05924				hsa04122	
+C18239				hsa04122	
+C00044				hsa04122	
+C00019				hsa04122	
+C18237				hsa04122	
+C05924				hsa04122	
+C18239				hsa04122	
+C00044				hsa04122	
+C00019				hsa04122	
+C18237				hsa04122	
+C00097				hsa04122	
+C00041				hsa04122	
+C00097				hsa04122	
+C00979				hsa04122	

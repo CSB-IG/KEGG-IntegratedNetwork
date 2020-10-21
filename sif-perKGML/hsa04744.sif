@@ -1,0 +1,84 @@
+GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	pc	C00942	g-c	hsa04744	activation
+GUCY2D	pc	C00942	g-c	hsa04744	activation
+RHO, CSNBAD1, OPN2, RP4	pp	GNAT1, CSNB1G, CSNBAD3, GBT1, GNATR	g-g	hsa04744	activation
+RHO, CSNBAD1, OPN2, RP4	pp	GNAT2	g-g	hsa04744	activation
+RHO, CSNBAD1, OPN2, RP4	pp	GNB1	g-g	hsa04744	activation
+RHO, CSNBAD1, OPN2, RP4	pp	GNGT1	g-g	hsa04744	activation
+GNAT1, CSNB1G, CSNBAD3, GBT1, GNATR	pp	PDE6A, CGPR-A, PDEA, RP43	g-g	hsa04744	activation
+GNAT1, CSNB1G, CSNBAD3, GBT1, GNATR	pp	PDE6G	g-g	hsa04744	activation
+GNAT1, CSNB1G, CSNBAD3, GBT1, GNATR	pp	PDE6B	g-g	hsa04744	activation
+GNAT2	pp	PDE6A, CGPR-A, PDEA, RP43	g-g	hsa04744	activation
+GNB1	pp	PDE6A, CGPR-A, PDEA, RP43	g-g	hsa04744	activation
+GNGT1	pp	PDE6A, CGPR-A, PDEA, RP43	g-g	hsa04744	activation
+GNAT2	pp	PDE6G	g-g	hsa04744	activation
+GNAT2	pp	PDE6B	g-g	hsa04744	activation
+GNB1	pp	PDE6G	g-g	hsa04744	activation
+GNB1	pp	PDE6B	g-g	hsa04744	activation
+GNGT1	pp	PDE6G	g-g	hsa04744	activation
+GNGT1	pp	PDE6B	g-g	hsa04744	activation
+GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	pc	C00942	g-c	hsa04744	activation
+GUCY2D	pc	C00942	g-c	hsa04744	activation
+RCVRN, RCV1	pp	GRK7, GPRK7	g-g	hsa04744	inhibition
+RCVRN, RCV1	pp	GRK1	g-g	hsa04744	inhibition
+SAG, RP47, S-AG	pp	RHO, CSNBAD1, OPN2, RP4	g-g	hsa04744	inhibition
+RGS9, PERRS, RGS9L	pp	GNAT1, CSNB1G, CSNBAD3, GBT1, GNATR	g-g	hsa04744	inhibition
+RGS9, PERRS, RGS9L	pp	GNAT2	g-g	hsa04744	inhibition
+RGS9, PERRS, RGS9L	pp	GNB1	g-g	hsa04744	inhibition
+RGS9, PERRS, RGS9L	pp	GNGT1	g-g	hsa04744	inhibition
+GRK7, GPRK7	pp	RHO, CSNBAD1, OPN2, RP4	g-g	hsa04744	inhibition
+GRK1	pp	RHO, CSNBAD1, OPN2, RP4	g-g	hsa04744	inhibition
+RCVRN, RCV1	pc	C00076	g-c	hsa04744	binding/association
+C00076	pc	GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	c-g	hsa04744	binding/association
+C00076	pc	GUCA1B	c-g	hsa04744	binding/association
+C00076	pc	GUCA1C	c-g	hsa04744	binding/association
+C00076	pc	CALML6, CAGLP	c-g	hsa04744	binding/association
+C00076	pc	CALML5	c-g	hsa04744	binding/association
+C00076	pc	CALM1	c-g	hsa04744	binding/association
+C00076	pc	CALM2	c-g	hsa04744	binding/association
+C00076	pc	CALM3	c-g	hsa04744	binding/association
+C00076	pc	CALML3	c-g	hsa04744	binding/association
+C00076	pc	CALML4	c-g	hsa04744	binding/association
+C00305	pc	GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	c-g	hsa04744	binding/association
+C00305	pc	GUCA1B	c-g	hsa04744	binding/association
+C00305	pc	GUCA1C	c-g	hsa04744	binding/association
+RCVRN, RCV1	pc	C00076	g-c	hsa04744	dissociation
+C00942	pc	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	c-g	hsa04744	dissociation
+C00942	pc	CNGA1	c-g	hsa04744	dissociation
+RHO, CSNBAD1, OPN2, RP4	pc	C02110	g-c	hsa04744	binding/association
+C00376	pc	RHO, CSNBAD1, OPN2, RP4	c-g	hsa04744	binding/association
+CALML6, CAGLP	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALML6, CAGLP	pp	CNGA1	g-g	hsa04744	inhibition
+CALML5	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALM1	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALM2	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALM3	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALML3	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALML4	pp	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	g-g	hsa04744	inhibition
+CALML5	pp	CNGA1	g-g	hsa04744	inhibition
+CALM1	pp	CNGA1	g-g	hsa04744	inhibition
+CALM2	pp	CNGA1	g-g	hsa04744	inhibition
+CALM3	pp	CNGA1	g-g	hsa04744	inhibition
+CALML3	pp	CNGA1	g-g	hsa04744	inhibition
+CALML4	pp	CNGA1	g-g	hsa04744	inhibition
+C00942	pc	CNGB1, CNCG2, CNCG3L, CNCG4, CNG4, CNGB1B, GAR1, GARP, GARP2, RCNC2, RCNCb, RCNCbeta, RP45	c-g	hsa04744	binding/association
+C00942	pc	CNGA1	c-g	hsa04744	binding/association
+GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	activation
+GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	pp	GUCY2D	g-g	hsa04744	activation
+GUCA1B	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	activation
+GUCA1C	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	activation
+GUCA1B	pp	GUCY2D	g-g	hsa04744	activation
+GUCA1C	pp	GUCY2D	g-g	hsa04744	activation
+GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	inhibition
+GUCA1A, C6orf131, COD3, CORD14, GCAP, GCAP1, GUCA, GUCA1	pp	GUCY2D	g-g	hsa04744	inhibition
+GUCA1B	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	inhibition
+GUCA1C	pp	GUCY2F, CYGF, GC-F, GUC2DL, GUC2F, RETGC-2, ROS-GC2	g-g	hsa04744	inhibition
+GUCA1B	pp	GUCY2D	g-g	hsa04744	inhibition
+GUCA1C	pp	GUCY2D	g-g	hsa04744	inhibition
+C01330				hsa04744	
+C00144				hsa04744	
+SLC24A1, CSNB1D, HsT17412, NCKX, NCKX1, RODX				hsa04744	
+SLC24A1, CSNB1D, HsT17412, NCKX, NCKX1, RODX				hsa04744	
+C00238				hsa04744	
+C01330				hsa04744	
+C00238				hsa04744	
+C01330				hsa04744	

@@ -1,0 +1,159 @@
+DDC, AADC	ec	TAT	g-g	hsa00360	compound
+DDC, AADC	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00360	compound
+DDC, AADC	ec	GOT2	g-g	hsa00360	compound
+DDC, AADC	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00360	compound
+DDC, AADC	ec	MAOA, BRNRS, MAO-A	g-g	hsa00360	compound
+DDC, AADC	ec	MAOB	g-g	hsa00360	compound
+DDC, AADC	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00360	compound
+DDC, AADC	ec	AOC3	g-g	hsa00360	compound
+MIF, GIF, GLIF, MMIF	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00360	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00360	compound
+GOT2	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00360	compound
+TAT	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00360	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	MIF, GIF, GLIF, MMIF	g-g	hsa00360	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00360	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	g-g	hsa00360	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	GOT2	g-g	hsa00360	compound
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	ec	TAT	g-g	hsa00360	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOA, BRNRS, MAO-A	g-g	hsa00360	compound
+ALDH3A1, ALDH3, ALDHIII	ec	MAOB	g-g	hsa00360	compound
+ALDH1A3	ec	MAOA, BRNRS, MAO-A	g-g	hsa00360	compound
+ALDH3B1	ec	MAOA, BRNRS, MAO-A	g-g	hsa00360	compound
+ALDH3B2	ec	MAOA, BRNRS, MAO-A	g-g	hsa00360	compound
+ALDH1A3	ec	MAOB	g-g	hsa00360	compound
+ALDH3B1	ec	MAOB	g-g	hsa00360	compound
+ALDH3B2	ec	MAOB	g-g	hsa00360	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00360	compound
+ALDH3A1, ALDH3, ALDHIII	ec	AOC3	g-g	hsa00360	compound
+ALDH1A3	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00360	compound
+ALDH3B1	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00360	compound
+ALDH3B2	ec	AOC2, DAO2, RAO, SSAO	g-g	hsa00360	compound
+ALDH1A3	ec	AOC3	g-g	hsa00360	compound
+ALDH3B1	ec	AOC3	g-g	hsa00360	compound
+ALDH3B2	ec	AOC3	g-g	hsa00360	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	PAH, PH, PKU, PKU1	g-g	hsa00360	compound
+GOT2	ec	PAH, PH, PKU, PKU1	g-g	hsa00360	compound
+TAT	ec	PAH, PH, PKU, PKU1	g-g	hsa00360	compound
+DDC, AADC	ec	PAH, PH, PKU, PKU1	g-g	hsa00360	compound
+PAH, PH, PKU, PKU1	ec	IL4I1, FIG1, LAAO, LAO	g-g	hsa00360	compound
+C00601	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00360	se
+C00601	rt	ALDH1A3	reversible	hsa00360	se
+C00601	rt	ALDH3B1	reversible	hsa00360	se
+C00601	rt	ALDH3B2	reversible	hsa00360	se
+ALDH3A1, ALDH3, ALDHIII	rt	C00601	reversible	hsa00360	ep
+ALDH1A3	rt	C00601	reversible	hsa00360	ep
+ALDH3B1	rt	C00601	reversible	hsa00360	ep
+ALDH3B2	rt	C00601	reversible	hsa00360	ep
+ALDH3A1, ALDH3, ALDHIII	rt	C07086	reversible	hsa00360	ep
+ALDH1A3	rt	C07086	reversible	hsa00360	ep
+ALDH3B1	rt	C07086	reversible	hsa00360	ep
+ALDH3B2	rt	C07086	reversible	hsa00360	ep
+C07086	rt	ALDH3A1, ALDH3, ALDHIII	reversible	hsa00360	se
+C07086	rt	ALDH1A3	reversible	hsa00360	se
+C07086	rt	ALDH3B1	reversible	hsa00360	se
+C07086	rt	ALDH3B2	reversible	hsa00360	se
+C00079	rt	DDC, AADC	irreversible	hsa00360	se
+DDC, AADC	rt	C05332	irreversible	hsa00360	ep
+C05332	rt	AOC2, DAO2, RAO, SSAO	reversible	hsa00360	se
+C05332	rt	AOC3	reversible	hsa00360	se
+AOC2, DAO2, RAO, SSAO	rt	C05332	reversible	hsa00360	ep
+AOC3	rt	C05332	reversible	hsa00360	ep
+AOC2, DAO2, RAO, SSAO	rt	C00601	reversible	hsa00360	ep
+AOC3	rt	C00601	reversible	hsa00360	ep
+C00601	rt	AOC2, DAO2, RAO, SSAO	reversible	hsa00360	se
+C00601	rt	AOC3	reversible	hsa00360	se
+C05332	rt	MAOA, BRNRS, MAO-A	reversible	hsa00360	se
+C05332	rt	MAOB	reversible	hsa00360	se
+MAOA, BRNRS, MAO-A	rt	C05332	reversible	hsa00360	ep
+MAOB	rt	C05332	reversible	hsa00360	ep
+MAOA, BRNRS, MAO-A	rt	C00601	reversible	hsa00360	ep
+MAOB	rt	C00601	reversible	hsa00360	ep
+C00601	rt	MAOA, BRNRS, MAO-A	reversible	hsa00360	se
+C00601	rt	MAOB	reversible	hsa00360	se
+C00166	rt	HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	irreversible	hsa00360	se
+HPD, 4-HPPD, 4HPPD, GLOD3, HPPDASE, PPD	rt	C05852	irreversible	hsa00360	ep
+C00166	rt	TAT	reversible	hsa00360	se
+TAT	rt	C00166	reversible	hsa00360	ep
+TAT	rt	C00079	reversible	hsa00360	ep
+C00079	rt	TAT	reversible	hsa00360	se
+C00166	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00360	se
+C00166	rt	GOT2	reversible	hsa00360	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00166	reversible	hsa00360	ep
+GOT2	rt	C00166	reversible	hsa00360	ep
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00079	reversible	hsa00360	ep
+GOT2	rt	C00079	reversible	hsa00360	ep
+C00079	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	reversible	hsa00360	se
+C00079	rt	GOT2	reversible	hsa00360	se
+C00166	rt	MIF, GIF, GLIF, MMIF	reversible	hsa00360	se
+MIF, GIF, GLIF, MMIF	rt	C00166	reversible	hsa00360	ep
+MIF, GIF, GLIF, MMIF	rt	C02763	reversible	hsa00360	ep
+C02763	rt	MIF, GIF, GLIF, MMIF	reversible	hsa00360	se
+C00079	rt	IL4I1, FIG1, LAAO, LAO	irreversible	hsa00360	se
+IL4I1, FIG1, LAAO, LAO	rt	C00166	irreversible	hsa00360	ep
+C00512	rt	GLYAT, ACGNAT, CAT, GAT	irreversible	hsa00360	se
+GLYAT, ACGNAT, CAT, GAT	rt	C01586	irreversible	hsa00360	ep
+C00079	rt	PAH, PH, PKU, PKU1	irreversible	hsa00360	se
+PAH, PH, PKU, PKU1	rt	C00082	irreversible	hsa00360	ep
+C12621				hsa00360	
+C00084				hsa00360	
+C00022				hsa00360	
+C03589				hsa00360	
+C00596				hsa00360	
+C00122				hsa00360	
+C12624				hsa00360	
+C12623				hsa00360	
+C12622				hsa00360	
+C11588				hsa00360	
+C05853				hsa00360	
+C02265				hsa00360	
+C05620				hsa00360	
+C00156				hsa00360	
+C00811				hsa00360	
+C01772				hsa00360	
+C04044				hsa00360	
+C03519				hsa00360	
+C01198				hsa00360	
+C05629				hsa00360	
+C00180				hsa00360	
+C05607				hsa00360	
+C06207				hsa00360	
+C04148				hsa00360	
+C04479				hsa00360	
+C00042				hsa00360	
+C00582				hsa00360	
+C05593				hsa00360	
+C02505				hsa00360	
+C00642				hsa00360	
+C05598				hsa00360	
+C11457				hsa00360	
+C00805				hsa00360	
+C02137				hsa00360	
+C15524				hsa00360	
+C17268				hsa00360	
+C08301				hsa00360	
+C18202				hsa00360	
+C16666				hsa00360	
+C00630				hsa00360	
+C00323				hsa00360	
+C00223				hsa00360	
+C00755				hsa00360	
+C08300				hsa00360	
+C16719				hsa00360	
+C06866				hsa00360	
+C07303				hsa00360	
+C01575				hsa00360	
+C00406				hsa00360	
+C02765				hsa00360	
+C00083				hsa00360	
+C04351				hsa00360	
+C00423				hsa00360	
+C19975				hsa00360	
+C19946				hsa00360	
+C19945				hsa00360	
+C14144				hsa00360	
+C14145				hsa00360	
+C02232				hsa00360	
+C00091				hsa00360	
+C00024				hsa00360	
+C20062				hsa00360	
+C00024				hsa00360	

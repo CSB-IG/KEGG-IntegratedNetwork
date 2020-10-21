@@ -1,0 +1,111 @@
+GLS2, GA, GLS, LGA, hLGA	ec	CPS1, CPSASE1, PHN	g-g	hsa00220	compound
+GLS2	ec	CPS1, CPSASE1, PHN	g-g	hsa00220	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GLS2, GA, GLS, LGA, hLGA	ec	GLUD2	g-g	hsa00220	compound
+GLS2	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GLS2	ec	GLUD2	g-g	hsa00220	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	CPS1, CPSASE1, PHN	g-g	hsa00220	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GLUL, GLNS, GS, PIG43, PIG59	ec	GLUD2	g-g	hsa00220	compound
+CPS1, CPSASE1, PHN	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+CPS1, CPSASE1, PHN	ec	GLUD2	g-g	hsa00220	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	NAGS, AGAS, ARGA	g-g	hsa00220	compound
+GOT2	ec	NAGS, AGAS, ARGA	g-g	hsa00220	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	ec	GLUD2	g-g	hsa00220	compound
+GOT2	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GOT2	ec	GLUD2	g-g	hsa00220	compound
+GPT, AAT1, ALT1, GPT1	ec	NAGS, AGAS, ARGA	g-g	hsa00220	compound
+GPT2	ec	NAGS, AGAS, ARGA	g-g	hsa00220	compound
+GPT, AAT1, ALT1, GPT1	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GPT, AAT1, ALT1, GPT1	ec	GLUD2	g-g	hsa00220	compound
+GPT2	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+GPT2	ec	GLUD2	g-g	hsa00220	compound
+NAGS, AGAS, ARGA	ec	GLUD1, GDH, GDH1, GLUD	g-g	hsa00220	compound
+NAGS, AGAS, ARGA	ec	GLUD2	g-g	hsa00220	compound
+ABHD14A-ACY1	ec	ARG1	g-g	hsa00220	compound
+ABHD14A-ACY1	ec	ARG2	g-g	hsa00220	compound
+ACY1	ec	ARG1	g-g	hsa00220	compound
+ACY1	ec	ARG2	g-g	hsa00220	compound
+ABHD14A-ACY1	ec	OTC, OCTD	g-g	hsa00220	compound
+ACY1	ec	OTC, OCTD	g-g	hsa00220	compound
+ARG1	ec	OTC, OCTD	g-g	hsa00220	compound
+ARG2	ec	OTC, OCTD	g-g	hsa00220	compound
+ASL, ASAL	ec	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa00220	compound
+ASL, ASAL	ec	NOS2	g-g	hsa00220	compound
+ASL, ASAL	ec	NOS3	g-g	hsa00220	compound
+ASS1, ASS, CTLN1	ec	ASL, ASAL	g-g	hsa00220	compound
+ASS1, ASS, CTLN1	ec	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	g-g	hsa00220	compound
+ASS1, ASS, CTLN1	ec	NOS2	g-g	hsa00220	compound
+ASS1, ASS, CTLN1	ec	NOS3	g-g	hsa00220	compound
+ASS1, ASS, CTLN1	ec	OTC, OCTD	g-g	hsa00220	compound
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	ec	OTC, OCTD	g-g	hsa00220	compound
+NOS2	ec	OTC, OCTD	g-g	hsa00220	compound
+NOS3	ec	OTC, OCTD	g-g	hsa00220	compound
+CPS1, CPSASE1, PHN	ec	OTC, OCTD	g-g	hsa00220	compound
+C00025	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00220	se
+C00025	rt	GLUD2	reversible	hsa00220	se
+GLUD1, GDH, GDH1, GLUD	rt	C00025	reversible	hsa00220	ep
+GLUD2	rt	C00025	reversible	hsa00220	ep
+GLUD1, GDH, GDH1, GLUD	rt	C00014	reversible	hsa00220	ep
+GLUD2	rt	C00014	reversible	hsa00220	ep
+C00014	rt	GLUD1, GDH, GDH1, GLUD	reversible	hsa00220	se
+C00014	rt	GLUD2	reversible	hsa00220	se
+C00062	rt	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	reversible	hsa00220	se
+C00062	rt	NOS2	reversible	hsa00220	se
+C00062	rt	NOS3	reversible	hsa00220	se
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	rt	C00062	reversible	hsa00220	ep
+NOS2	rt	C00062	reversible	hsa00220	ep
+NOS3	rt	C00062	reversible	hsa00220	ep
+NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	rt	C00327	reversible	hsa00220	ep
+NOS2	rt	C00327	reversible	hsa00220	ep
+NOS3	rt	C00327	reversible	hsa00220	ep
+C00327	rt	NOS1, IHPS1, N-NOS, NC-NOS, NOS, bNOS, nNOS	reversible	hsa00220	se
+C00327	rt	NOS2	reversible	hsa00220	se
+C00327	rt	NOS3	reversible	hsa00220	se
+C00437	rt	ABHD14A-ACY1	irreversible	hsa00220	se
+C00437	rt	ACY1	irreversible	hsa00220	se
+ABHD14A-ACY1	rt	C00077	irreversible	hsa00220	ep
+ACY1	rt	C00077	irreversible	hsa00220	ep
+C00025	rt	NAGS, AGAS, ARGA	irreversible	hsa00220	se
+NAGS, AGAS, ARGA	rt	C00624	irreversible	hsa00220	ep
+C00062	rt	ARG1	irreversible	hsa00220	se
+C00062	rt	ARG2	irreversible	hsa00220	se
+ARG1	rt	C00086	irreversible	hsa00220	ep
+ARG2	rt	C00086	irreversible	hsa00220	ep
+ARG1	rt	C00077	irreversible	hsa00220	ep
+ARG2	rt	C00077	irreversible	hsa00220	ep
+C03406	rt	ASL, ASAL	irreversible	hsa00220	se
+ASL, ASAL	rt	C00062	irreversible	hsa00220	ep
+ASL, ASAL	rt	C00122	irreversible	hsa00220	ep
+C00327	rt	ASS1, ASS, CTLN1	irreversible	hsa00220	se
+C00049	rt	ASS1, ASS, CTLN1	irreversible	hsa00220	se
+ASS1, ASS, CTLN1	rt	C03406	irreversible	hsa00220	ep
+C00169	rt	OTC, OCTD	irreversible	hsa00220	se
+C00077	rt	OTC, OCTD	irreversible	hsa00220	se
+OTC, OCTD	rt	C00327	irreversible	hsa00220	ep
+C00014	rt	CPS1, CPSASE1, PHN	irreversible	hsa00220	se
+CPS1, CPSASE1, PHN	rt	C00169	irreversible	hsa00220	ep
+C00014	rt	GLUL, GLNS, GS, PIG43, PIG59	irreversible	hsa00220	se
+GLUL, GLNS, GS, PIG43, PIG59	rt	C00064	irreversible	hsa00220	ep
+C00064	rt	GLS2, GA, GLS, LGA, hLGA	irreversible	hsa00220	se
+C00064	rt	GLS2	irreversible	hsa00220	se
+GLS2, GA, GLS, LGA, hLGA	rt	C00014	irreversible	hsa00220	ep
+GLS2	rt	C00014	irreversible	hsa00220	ep
+C00026	rt	GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	irreversible	hsa00220	se
+C00026	rt	GOT2	irreversible	hsa00220	se
+GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT	rt	C00025	irreversible	hsa00220	ep
+GOT2	rt	C00025	irreversible	hsa00220	ep
+C00026	rt	GPT, AAT1, ALT1, GPT1	irreversible	hsa00220	se
+C00026	rt	GPT2	irreversible	hsa00220	se
+GPT, AAT1, ALT1, GPT1	rt	C00025	irreversible	hsa00220	ep
+GPT2	rt	C00025	irreversible	hsa00220	ep
+C04133				hsa00220	
+C01250				hsa00220	
+C01010				hsa00220	
+C00011				hsa00220	
+C15532				hsa00220	
+C20948				hsa00220	
+C20949				hsa00220	
+C20950				hsa00220	
+C20951				hsa00220	

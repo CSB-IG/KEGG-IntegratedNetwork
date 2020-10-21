@@ -1,0 +1,3054 @@
+GSTO2, GSTO_2-2, bA127L201	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP1A2	g-g	hsa00980	compound
+GSTA5	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+HPGDS	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA4	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM4	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM5	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTP1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTK1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT2B	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTO1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA5	ec	CYP1A2	g-g	hsa00980	compound
+HPGDS	ec	CYP1A2	g-g	hsa00980	compound
+GSTA1	ec	CYP1A2	g-g	hsa00980	compound
+GSTA2	ec	CYP1A2	g-g	hsa00980	compound
+GSTA3	ec	CYP1A2	g-g	hsa00980	compound
+GSTA4	ec	CYP1A2	g-g	hsa00980	compound
+GSTM1	ec	CYP1A2	g-g	hsa00980	compound
+GSTM2	ec	CYP1A2	g-g	hsa00980	compound
+GSTM3	ec	CYP1A2	g-g	hsa00980	compound
+GSTM4	ec	CYP1A2	g-g	hsa00980	compound
+GSTM5	ec	CYP1A2	g-g	hsa00980	compound
+GSTP1	ec	CYP1A2	g-g	hsa00980	compound
+GSTT1	ec	CYP1A2	g-g	hsa00980	compound
+GSTT2	ec	CYP1A2	g-g	hsa00980	compound
+GSTK1	ec	CYP1A2	g-g	hsa00980	compound
+MGST1	ec	CYP1A2	g-g	hsa00980	compound
+MGST2	ec	CYP1A2	g-g	hsa00980	compound
+MGST3	ec	CYP1A2	g-g	hsa00980	compound
+GSTT2B	ec	CYP1A2	g-g	hsa00980	compound
+GSTO1	ec	CYP1A2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	HPGDS	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTP1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTK1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2B	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP1A2	g-g	hsa00980	compound
+GSTA5	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+HPGDS	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA4	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM4	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTM5	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTP1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTK1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST2	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+MGST3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTT2B	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTO1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+GSTA5	ec	CYP1A2	g-g	hsa00980	compound
+HPGDS	ec	CYP1A2	g-g	hsa00980	compound
+GSTA1	ec	CYP1A2	g-g	hsa00980	compound
+GSTA2	ec	CYP1A2	g-g	hsa00980	compound
+GSTA3	ec	CYP1A2	g-g	hsa00980	compound
+GSTA4	ec	CYP1A2	g-g	hsa00980	compound
+GSTM1	ec	CYP1A2	g-g	hsa00980	compound
+GSTM2	ec	CYP1A2	g-g	hsa00980	compound
+GSTM3	ec	CYP1A2	g-g	hsa00980	compound
+GSTM4	ec	CYP1A2	g-g	hsa00980	compound
+GSTM5	ec	CYP1A2	g-g	hsa00980	compound
+GSTP1	ec	CYP1A2	g-g	hsa00980	compound
+GSTT1	ec	CYP1A2	g-g	hsa00980	compound
+GSTT2	ec	CYP1A2	g-g	hsa00980	compound
+GSTK1	ec	CYP1A2	g-g	hsa00980	compound
+MGST1	ec	CYP1A2	g-g	hsa00980	compound
+MGST2	ec	CYP1A2	g-g	hsa00980	compound
+MGST3	ec	CYP1A2	g-g	hsa00980	compound
+GSTT2B	ec	CYP1A2	g-g	hsa00980	compound
+GSTO1	ec	CYP1A2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	HPGDS	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTP1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTK1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2B	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	DHDH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	HPGDS	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTP1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTK1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2B	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	HPGDS	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTP1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTK1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2B	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+HPGDS	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTP1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTK1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2B	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTO1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+HPGDS	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTP1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTK1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2B	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTO1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTA5	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	HPGDS	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTA1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTA2	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTA3	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTA4	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTM1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTM2	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTM3	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTM4	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTM5	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTP1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTT1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTT2	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTK1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	MGST1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	MGST2	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	MGST3	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTT2B	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	GSTO1	g-g	hsa00980	compound
+GSTA5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+HPGDS	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTA1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTA2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTA3	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTA4	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTM1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTM2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTM3	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTM4	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTM5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTP1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTT1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTT2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTK1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+MGST1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+MGST2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+MGST3	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTT2B	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTO1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+GSTA5	ec	GSTA5	g-g	hsa00980	compound
+GSTA5	ec	HPGDS	g-g	hsa00980	compound
+GSTA5	ec	GSTA1	g-g	hsa00980	compound
+GSTA5	ec	GSTA2	g-g	hsa00980	compound
+GSTA5	ec	GSTA3	g-g	hsa00980	compound
+GSTA5	ec	GSTA4	g-g	hsa00980	compound
+GSTA5	ec	GSTM1	g-g	hsa00980	compound
+GSTA5	ec	GSTM2	g-g	hsa00980	compound
+GSTA5	ec	GSTM3	g-g	hsa00980	compound
+GSTA5	ec	GSTM4	g-g	hsa00980	compound
+GSTA5	ec	GSTM5	g-g	hsa00980	compound
+GSTA5	ec	GSTP1	g-g	hsa00980	compound
+GSTA5	ec	GSTT1	g-g	hsa00980	compound
+GSTA5	ec	GSTT2	g-g	hsa00980	compound
+GSTA5	ec	GSTK1	g-g	hsa00980	compound
+GSTA5	ec	MGST1	g-g	hsa00980	compound
+GSTA5	ec	MGST2	g-g	hsa00980	compound
+GSTA5	ec	MGST3	g-g	hsa00980	compound
+GSTA5	ec	GSTT2B	g-g	hsa00980	compound
+GSTA5	ec	GSTO1	g-g	hsa00980	compound
+HPGDS	ec	GSTA5	g-g	hsa00980	compound
+HPGDS	ec	HPGDS	g-g	hsa00980	compound
+HPGDS	ec	GSTA1	g-g	hsa00980	compound
+HPGDS	ec	GSTA2	g-g	hsa00980	compound
+HPGDS	ec	GSTA3	g-g	hsa00980	compound
+HPGDS	ec	GSTA4	g-g	hsa00980	compound
+HPGDS	ec	GSTM1	g-g	hsa00980	compound
+HPGDS	ec	GSTM2	g-g	hsa00980	compound
+HPGDS	ec	GSTM3	g-g	hsa00980	compound
+HPGDS	ec	GSTM4	g-g	hsa00980	compound
+HPGDS	ec	GSTM5	g-g	hsa00980	compound
+HPGDS	ec	GSTP1	g-g	hsa00980	compound
+HPGDS	ec	GSTT1	g-g	hsa00980	compound
+HPGDS	ec	GSTT2	g-g	hsa00980	compound
+HPGDS	ec	GSTK1	g-g	hsa00980	compound
+HPGDS	ec	MGST1	g-g	hsa00980	compound
+HPGDS	ec	MGST2	g-g	hsa00980	compound
+HPGDS	ec	MGST3	g-g	hsa00980	compound
+HPGDS	ec	GSTT2B	g-g	hsa00980	compound
+HPGDS	ec	GSTO1	g-g	hsa00980	compound
+GSTA1	ec	GSTA5	g-g	hsa00980	compound
+GSTA1	ec	HPGDS	g-g	hsa00980	compound
+GSTA1	ec	GSTA1	g-g	hsa00980	compound
+GSTA1	ec	GSTA2	g-g	hsa00980	compound
+GSTA1	ec	GSTA3	g-g	hsa00980	compound
+GSTA1	ec	GSTA4	g-g	hsa00980	compound
+GSTA1	ec	GSTM1	g-g	hsa00980	compound
+GSTA1	ec	GSTM2	g-g	hsa00980	compound
+GSTA1	ec	GSTM3	g-g	hsa00980	compound
+GSTA1	ec	GSTM4	g-g	hsa00980	compound
+GSTA1	ec	GSTM5	g-g	hsa00980	compound
+GSTA1	ec	GSTP1	g-g	hsa00980	compound
+GSTA1	ec	GSTT1	g-g	hsa00980	compound
+GSTA1	ec	GSTT2	g-g	hsa00980	compound
+GSTA1	ec	GSTK1	g-g	hsa00980	compound
+GSTA1	ec	MGST1	g-g	hsa00980	compound
+GSTA1	ec	MGST2	g-g	hsa00980	compound
+GSTA1	ec	MGST3	g-g	hsa00980	compound
+GSTA1	ec	GSTT2B	g-g	hsa00980	compound
+GSTA1	ec	GSTO1	g-g	hsa00980	compound
+GSTA2	ec	GSTA5	g-g	hsa00980	compound
+GSTA2	ec	HPGDS	g-g	hsa00980	compound
+GSTA2	ec	GSTA1	g-g	hsa00980	compound
+GSTA2	ec	GSTA2	g-g	hsa00980	compound
+GSTA2	ec	GSTA3	g-g	hsa00980	compound
+GSTA2	ec	GSTA4	g-g	hsa00980	compound
+GSTA2	ec	GSTM1	g-g	hsa00980	compound
+GSTA2	ec	GSTM2	g-g	hsa00980	compound
+GSTA2	ec	GSTM3	g-g	hsa00980	compound
+GSTA2	ec	GSTM4	g-g	hsa00980	compound
+GSTA2	ec	GSTM5	g-g	hsa00980	compound
+GSTA2	ec	GSTP1	g-g	hsa00980	compound
+GSTA2	ec	GSTT1	g-g	hsa00980	compound
+GSTA2	ec	GSTT2	g-g	hsa00980	compound
+GSTA2	ec	GSTK1	g-g	hsa00980	compound
+GSTA2	ec	MGST1	g-g	hsa00980	compound
+GSTA2	ec	MGST2	g-g	hsa00980	compound
+GSTA2	ec	MGST3	g-g	hsa00980	compound
+GSTA2	ec	GSTT2B	g-g	hsa00980	compound
+GSTA2	ec	GSTO1	g-g	hsa00980	compound
+GSTA3	ec	GSTA5	g-g	hsa00980	compound
+GSTA3	ec	HPGDS	g-g	hsa00980	compound
+GSTA3	ec	GSTA1	g-g	hsa00980	compound
+GSTA3	ec	GSTA2	g-g	hsa00980	compound
+GSTA3	ec	GSTA3	g-g	hsa00980	compound
+GSTA3	ec	GSTA4	g-g	hsa00980	compound
+GSTA3	ec	GSTM1	g-g	hsa00980	compound
+GSTA3	ec	GSTM2	g-g	hsa00980	compound
+GSTA3	ec	GSTM3	g-g	hsa00980	compound
+GSTA3	ec	GSTM4	g-g	hsa00980	compound
+GSTA3	ec	GSTM5	g-g	hsa00980	compound
+GSTA3	ec	GSTP1	g-g	hsa00980	compound
+GSTA3	ec	GSTT1	g-g	hsa00980	compound
+GSTA3	ec	GSTT2	g-g	hsa00980	compound
+GSTA3	ec	GSTK1	g-g	hsa00980	compound
+GSTA3	ec	MGST1	g-g	hsa00980	compound
+GSTA3	ec	MGST2	g-g	hsa00980	compound
+GSTA3	ec	MGST3	g-g	hsa00980	compound
+GSTA3	ec	GSTT2B	g-g	hsa00980	compound
+GSTA3	ec	GSTO1	g-g	hsa00980	compound
+GSTA4	ec	GSTA5	g-g	hsa00980	compound
+GSTA4	ec	HPGDS	g-g	hsa00980	compound
+GSTA4	ec	GSTA1	g-g	hsa00980	compound
+GSTA4	ec	GSTA2	g-g	hsa00980	compound
+GSTA4	ec	GSTA3	g-g	hsa00980	compound
+GSTA4	ec	GSTA4	g-g	hsa00980	compound
+GSTA4	ec	GSTM1	g-g	hsa00980	compound
+GSTA4	ec	GSTM2	g-g	hsa00980	compound
+GSTA4	ec	GSTM3	g-g	hsa00980	compound
+GSTA4	ec	GSTM4	g-g	hsa00980	compound
+GSTA4	ec	GSTM5	g-g	hsa00980	compound
+GSTA4	ec	GSTP1	g-g	hsa00980	compound
+GSTA4	ec	GSTT1	g-g	hsa00980	compound
+GSTA4	ec	GSTT2	g-g	hsa00980	compound
+GSTA4	ec	GSTK1	g-g	hsa00980	compound
+GSTA4	ec	MGST1	g-g	hsa00980	compound
+GSTA4	ec	MGST2	g-g	hsa00980	compound
+GSTA4	ec	MGST3	g-g	hsa00980	compound
+GSTA4	ec	GSTT2B	g-g	hsa00980	compound
+GSTA4	ec	GSTO1	g-g	hsa00980	compound
+GSTM1	ec	GSTA5	g-g	hsa00980	compound
+GSTM1	ec	HPGDS	g-g	hsa00980	compound
+GSTM1	ec	GSTA1	g-g	hsa00980	compound
+GSTM1	ec	GSTA2	g-g	hsa00980	compound
+GSTM1	ec	GSTA3	g-g	hsa00980	compound
+GSTM1	ec	GSTA4	g-g	hsa00980	compound
+GSTM1	ec	GSTM1	g-g	hsa00980	compound
+GSTM1	ec	GSTM2	g-g	hsa00980	compound
+GSTM1	ec	GSTM3	g-g	hsa00980	compound
+GSTM1	ec	GSTM4	g-g	hsa00980	compound
+GSTM1	ec	GSTM5	g-g	hsa00980	compound
+GSTM1	ec	GSTP1	g-g	hsa00980	compound
+GSTM1	ec	GSTT1	g-g	hsa00980	compound
+GSTM1	ec	GSTT2	g-g	hsa00980	compound
+GSTM1	ec	GSTK1	g-g	hsa00980	compound
+GSTM1	ec	MGST1	g-g	hsa00980	compound
+GSTM1	ec	MGST2	g-g	hsa00980	compound
+GSTM1	ec	MGST3	g-g	hsa00980	compound
+GSTM1	ec	GSTT2B	g-g	hsa00980	compound
+GSTM1	ec	GSTO1	g-g	hsa00980	compound
+GSTM2	ec	GSTA5	g-g	hsa00980	compound
+GSTM2	ec	HPGDS	g-g	hsa00980	compound
+GSTM2	ec	GSTA1	g-g	hsa00980	compound
+GSTM2	ec	GSTA2	g-g	hsa00980	compound
+GSTM2	ec	GSTA3	g-g	hsa00980	compound
+GSTM2	ec	GSTA4	g-g	hsa00980	compound
+GSTM2	ec	GSTM1	g-g	hsa00980	compound
+GSTM2	ec	GSTM2	g-g	hsa00980	compound
+GSTM2	ec	GSTM3	g-g	hsa00980	compound
+GSTM2	ec	GSTM4	g-g	hsa00980	compound
+GSTM2	ec	GSTM5	g-g	hsa00980	compound
+GSTM2	ec	GSTP1	g-g	hsa00980	compound
+GSTM2	ec	GSTT1	g-g	hsa00980	compound
+GSTM2	ec	GSTT2	g-g	hsa00980	compound
+GSTM2	ec	GSTK1	g-g	hsa00980	compound
+GSTM2	ec	MGST1	g-g	hsa00980	compound
+GSTM2	ec	MGST2	g-g	hsa00980	compound
+GSTM2	ec	MGST3	g-g	hsa00980	compound
+GSTM2	ec	GSTT2B	g-g	hsa00980	compound
+GSTM2	ec	GSTO1	g-g	hsa00980	compound
+GSTM3	ec	GSTA5	g-g	hsa00980	compound
+GSTM3	ec	HPGDS	g-g	hsa00980	compound
+GSTM3	ec	GSTA1	g-g	hsa00980	compound
+GSTM3	ec	GSTA2	g-g	hsa00980	compound
+GSTM3	ec	GSTA3	g-g	hsa00980	compound
+GSTM3	ec	GSTA4	g-g	hsa00980	compound
+GSTM3	ec	GSTM1	g-g	hsa00980	compound
+GSTM3	ec	GSTM2	g-g	hsa00980	compound
+GSTM3	ec	GSTM3	g-g	hsa00980	compound
+GSTM3	ec	GSTM4	g-g	hsa00980	compound
+GSTM3	ec	GSTM5	g-g	hsa00980	compound
+GSTM3	ec	GSTP1	g-g	hsa00980	compound
+GSTM3	ec	GSTT1	g-g	hsa00980	compound
+GSTM3	ec	GSTT2	g-g	hsa00980	compound
+GSTM3	ec	GSTK1	g-g	hsa00980	compound
+GSTM3	ec	MGST1	g-g	hsa00980	compound
+GSTM3	ec	MGST2	g-g	hsa00980	compound
+GSTM3	ec	MGST3	g-g	hsa00980	compound
+GSTM3	ec	GSTT2B	g-g	hsa00980	compound
+GSTM3	ec	GSTO1	g-g	hsa00980	compound
+GSTM4	ec	GSTA5	g-g	hsa00980	compound
+GSTM4	ec	HPGDS	g-g	hsa00980	compound
+GSTM4	ec	GSTA1	g-g	hsa00980	compound
+GSTM4	ec	GSTA2	g-g	hsa00980	compound
+GSTM4	ec	GSTA3	g-g	hsa00980	compound
+GSTM4	ec	GSTA4	g-g	hsa00980	compound
+GSTM4	ec	GSTM1	g-g	hsa00980	compound
+GSTM4	ec	GSTM2	g-g	hsa00980	compound
+GSTM4	ec	GSTM3	g-g	hsa00980	compound
+GSTM4	ec	GSTM4	g-g	hsa00980	compound
+GSTM4	ec	GSTM5	g-g	hsa00980	compound
+GSTM4	ec	GSTP1	g-g	hsa00980	compound
+GSTM4	ec	GSTT1	g-g	hsa00980	compound
+GSTM4	ec	GSTT2	g-g	hsa00980	compound
+GSTM4	ec	GSTK1	g-g	hsa00980	compound
+GSTM4	ec	MGST1	g-g	hsa00980	compound
+GSTM4	ec	MGST2	g-g	hsa00980	compound
+GSTM4	ec	MGST3	g-g	hsa00980	compound
+GSTM4	ec	GSTT2B	g-g	hsa00980	compound
+GSTM4	ec	GSTO1	g-g	hsa00980	compound
+GSTM5	ec	GSTA5	g-g	hsa00980	compound
+GSTM5	ec	HPGDS	g-g	hsa00980	compound
+GSTM5	ec	GSTA1	g-g	hsa00980	compound
+GSTM5	ec	GSTA2	g-g	hsa00980	compound
+GSTM5	ec	GSTA3	g-g	hsa00980	compound
+GSTM5	ec	GSTA4	g-g	hsa00980	compound
+GSTM5	ec	GSTM1	g-g	hsa00980	compound
+GSTM5	ec	GSTM2	g-g	hsa00980	compound
+GSTM5	ec	GSTM3	g-g	hsa00980	compound
+GSTM5	ec	GSTM4	g-g	hsa00980	compound
+GSTM5	ec	GSTM5	g-g	hsa00980	compound
+GSTM5	ec	GSTP1	g-g	hsa00980	compound
+GSTM5	ec	GSTT1	g-g	hsa00980	compound
+GSTM5	ec	GSTT2	g-g	hsa00980	compound
+GSTM5	ec	GSTK1	g-g	hsa00980	compound
+GSTM5	ec	MGST1	g-g	hsa00980	compound
+GSTM5	ec	MGST2	g-g	hsa00980	compound
+GSTM5	ec	MGST3	g-g	hsa00980	compound
+GSTM5	ec	GSTT2B	g-g	hsa00980	compound
+GSTM5	ec	GSTO1	g-g	hsa00980	compound
+GSTP1	ec	GSTA5	g-g	hsa00980	compound
+GSTP1	ec	HPGDS	g-g	hsa00980	compound
+GSTP1	ec	GSTA1	g-g	hsa00980	compound
+GSTP1	ec	GSTA2	g-g	hsa00980	compound
+GSTP1	ec	GSTA3	g-g	hsa00980	compound
+GSTP1	ec	GSTA4	g-g	hsa00980	compound
+GSTP1	ec	GSTM1	g-g	hsa00980	compound
+GSTP1	ec	GSTM2	g-g	hsa00980	compound
+GSTP1	ec	GSTM3	g-g	hsa00980	compound
+GSTP1	ec	GSTM4	g-g	hsa00980	compound
+GSTP1	ec	GSTM5	g-g	hsa00980	compound
+GSTP1	ec	GSTP1	g-g	hsa00980	compound
+GSTP1	ec	GSTT1	g-g	hsa00980	compound
+GSTP1	ec	GSTT2	g-g	hsa00980	compound
+GSTP1	ec	GSTK1	g-g	hsa00980	compound
+GSTP1	ec	MGST1	g-g	hsa00980	compound
+GSTP1	ec	MGST2	g-g	hsa00980	compound
+GSTP1	ec	MGST3	g-g	hsa00980	compound
+GSTP1	ec	GSTT2B	g-g	hsa00980	compound
+GSTP1	ec	GSTO1	g-g	hsa00980	compound
+GSTT1	ec	GSTA5	g-g	hsa00980	compound
+GSTT1	ec	HPGDS	g-g	hsa00980	compound
+GSTT1	ec	GSTA1	g-g	hsa00980	compound
+GSTT1	ec	GSTA2	g-g	hsa00980	compound
+GSTT1	ec	GSTA3	g-g	hsa00980	compound
+GSTT1	ec	GSTA4	g-g	hsa00980	compound
+GSTT1	ec	GSTM1	g-g	hsa00980	compound
+GSTT1	ec	GSTM2	g-g	hsa00980	compound
+GSTT1	ec	GSTM3	g-g	hsa00980	compound
+GSTT1	ec	GSTM4	g-g	hsa00980	compound
+GSTT1	ec	GSTM5	g-g	hsa00980	compound
+GSTT1	ec	GSTP1	g-g	hsa00980	compound
+GSTT1	ec	GSTT1	g-g	hsa00980	compound
+GSTT1	ec	GSTT2	g-g	hsa00980	compound
+GSTT1	ec	GSTK1	g-g	hsa00980	compound
+GSTT1	ec	MGST1	g-g	hsa00980	compound
+GSTT1	ec	MGST2	g-g	hsa00980	compound
+GSTT1	ec	MGST3	g-g	hsa00980	compound
+GSTT1	ec	GSTT2B	g-g	hsa00980	compound
+GSTT1	ec	GSTO1	g-g	hsa00980	compound
+GSTT2	ec	GSTA5	g-g	hsa00980	compound
+GSTT2	ec	HPGDS	g-g	hsa00980	compound
+GSTT2	ec	GSTA1	g-g	hsa00980	compound
+GSTT2	ec	GSTA2	g-g	hsa00980	compound
+GSTT2	ec	GSTA3	g-g	hsa00980	compound
+GSTT2	ec	GSTA4	g-g	hsa00980	compound
+GSTT2	ec	GSTM1	g-g	hsa00980	compound
+GSTT2	ec	GSTM2	g-g	hsa00980	compound
+GSTT2	ec	GSTM3	g-g	hsa00980	compound
+GSTT2	ec	GSTM4	g-g	hsa00980	compound
+GSTT2	ec	GSTM5	g-g	hsa00980	compound
+GSTT2	ec	GSTP1	g-g	hsa00980	compound
+GSTT2	ec	GSTT1	g-g	hsa00980	compound
+GSTT2	ec	GSTT2	g-g	hsa00980	compound
+GSTT2	ec	GSTK1	g-g	hsa00980	compound
+GSTT2	ec	MGST1	g-g	hsa00980	compound
+GSTT2	ec	MGST2	g-g	hsa00980	compound
+GSTT2	ec	MGST3	g-g	hsa00980	compound
+GSTT2	ec	GSTT2B	g-g	hsa00980	compound
+GSTT2	ec	GSTO1	g-g	hsa00980	compound
+GSTK1	ec	GSTA5	g-g	hsa00980	compound
+GSTK1	ec	HPGDS	g-g	hsa00980	compound
+GSTK1	ec	GSTA1	g-g	hsa00980	compound
+GSTK1	ec	GSTA2	g-g	hsa00980	compound
+GSTK1	ec	GSTA3	g-g	hsa00980	compound
+GSTK1	ec	GSTA4	g-g	hsa00980	compound
+GSTK1	ec	GSTM1	g-g	hsa00980	compound
+GSTK1	ec	GSTM2	g-g	hsa00980	compound
+GSTK1	ec	GSTM3	g-g	hsa00980	compound
+GSTK1	ec	GSTM4	g-g	hsa00980	compound
+GSTK1	ec	GSTM5	g-g	hsa00980	compound
+GSTK1	ec	GSTP1	g-g	hsa00980	compound
+GSTK1	ec	GSTT1	g-g	hsa00980	compound
+GSTK1	ec	GSTT2	g-g	hsa00980	compound
+GSTK1	ec	GSTK1	g-g	hsa00980	compound
+GSTK1	ec	MGST1	g-g	hsa00980	compound
+GSTK1	ec	MGST2	g-g	hsa00980	compound
+GSTK1	ec	MGST3	g-g	hsa00980	compound
+GSTK1	ec	GSTT2B	g-g	hsa00980	compound
+GSTK1	ec	GSTO1	g-g	hsa00980	compound
+MGST1	ec	GSTA5	g-g	hsa00980	compound
+MGST1	ec	HPGDS	g-g	hsa00980	compound
+MGST1	ec	GSTA1	g-g	hsa00980	compound
+MGST1	ec	GSTA2	g-g	hsa00980	compound
+MGST1	ec	GSTA3	g-g	hsa00980	compound
+MGST1	ec	GSTA4	g-g	hsa00980	compound
+MGST1	ec	GSTM1	g-g	hsa00980	compound
+MGST1	ec	GSTM2	g-g	hsa00980	compound
+MGST1	ec	GSTM3	g-g	hsa00980	compound
+MGST1	ec	GSTM4	g-g	hsa00980	compound
+MGST1	ec	GSTM5	g-g	hsa00980	compound
+MGST1	ec	GSTP1	g-g	hsa00980	compound
+MGST1	ec	GSTT1	g-g	hsa00980	compound
+MGST1	ec	GSTT2	g-g	hsa00980	compound
+MGST1	ec	GSTK1	g-g	hsa00980	compound
+MGST1	ec	MGST1	g-g	hsa00980	compound
+MGST1	ec	MGST2	g-g	hsa00980	compound
+MGST1	ec	MGST3	g-g	hsa00980	compound
+MGST1	ec	GSTT2B	g-g	hsa00980	compound
+MGST1	ec	GSTO1	g-g	hsa00980	compound
+MGST2	ec	GSTA5	g-g	hsa00980	compound
+MGST2	ec	HPGDS	g-g	hsa00980	compound
+MGST2	ec	GSTA1	g-g	hsa00980	compound
+MGST2	ec	GSTA2	g-g	hsa00980	compound
+MGST2	ec	GSTA3	g-g	hsa00980	compound
+MGST2	ec	GSTA4	g-g	hsa00980	compound
+MGST2	ec	GSTM1	g-g	hsa00980	compound
+MGST2	ec	GSTM2	g-g	hsa00980	compound
+MGST2	ec	GSTM3	g-g	hsa00980	compound
+MGST2	ec	GSTM4	g-g	hsa00980	compound
+MGST2	ec	GSTM5	g-g	hsa00980	compound
+MGST2	ec	GSTP1	g-g	hsa00980	compound
+MGST2	ec	GSTT1	g-g	hsa00980	compound
+MGST2	ec	GSTT2	g-g	hsa00980	compound
+MGST2	ec	GSTK1	g-g	hsa00980	compound
+MGST2	ec	MGST1	g-g	hsa00980	compound
+MGST2	ec	MGST2	g-g	hsa00980	compound
+MGST2	ec	MGST3	g-g	hsa00980	compound
+MGST2	ec	GSTT2B	g-g	hsa00980	compound
+MGST2	ec	GSTO1	g-g	hsa00980	compound
+MGST3	ec	GSTA5	g-g	hsa00980	compound
+MGST3	ec	HPGDS	g-g	hsa00980	compound
+MGST3	ec	GSTA1	g-g	hsa00980	compound
+MGST3	ec	GSTA2	g-g	hsa00980	compound
+MGST3	ec	GSTA3	g-g	hsa00980	compound
+MGST3	ec	GSTA4	g-g	hsa00980	compound
+MGST3	ec	GSTM1	g-g	hsa00980	compound
+MGST3	ec	GSTM2	g-g	hsa00980	compound
+MGST3	ec	GSTM3	g-g	hsa00980	compound
+MGST3	ec	GSTM4	g-g	hsa00980	compound
+MGST3	ec	GSTM5	g-g	hsa00980	compound
+MGST3	ec	GSTP1	g-g	hsa00980	compound
+MGST3	ec	GSTT1	g-g	hsa00980	compound
+MGST3	ec	GSTT2	g-g	hsa00980	compound
+MGST3	ec	GSTK1	g-g	hsa00980	compound
+MGST3	ec	MGST1	g-g	hsa00980	compound
+MGST3	ec	MGST2	g-g	hsa00980	compound
+MGST3	ec	MGST3	g-g	hsa00980	compound
+MGST3	ec	GSTT2B	g-g	hsa00980	compound
+MGST3	ec	GSTO1	g-g	hsa00980	compound
+GSTT2B	ec	GSTA5	g-g	hsa00980	compound
+GSTT2B	ec	HPGDS	g-g	hsa00980	compound
+GSTT2B	ec	GSTA1	g-g	hsa00980	compound
+GSTT2B	ec	GSTA2	g-g	hsa00980	compound
+GSTT2B	ec	GSTA3	g-g	hsa00980	compound
+GSTT2B	ec	GSTA4	g-g	hsa00980	compound
+GSTT2B	ec	GSTM1	g-g	hsa00980	compound
+GSTT2B	ec	GSTM2	g-g	hsa00980	compound
+GSTT2B	ec	GSTM3	g-g	hsa00980	compound
+GSTT2B	ec	GSTM4	g-g	hsa00980	compound
+GSTT2B	ec	GSTM5	g-g	hsa00980	compound
+GSTT2B	ec	GSTP1	g-g	hsa00980	compound
+GSTT2B	ec	GSTT1	g-g	hsa00980	compound
+GSTT2B	ec	GSTT2	g-g	hsa00980	compound
+GSTT2B	ec	GSTK1	g-g	hsa00980	compound
+GSTT2B	ec	MGST1	g-g	hsa00980	compound
+GSTT2B	ec	MGST2	g-g	hsa00980	compound
+GSTT2B	ec	MGST3	g-g	hsa00980	compound
+GSTT2B	ec	GSTT2B	g-g	hsa00980	compound
+GSTT2B	ec	GSTO1	g-g	hsa00980	compound
+GSTO1	ec	GSTA5	g-g	hsa00980	compound
+GSTO1	ec	HPGDS	g-g	hsa00980	compound
+GSTO1	ec	GSTA1	g-g	hsa00980	compound
+GSTO1	ec	GSTA2	g-g	hsa00980	compound
+GSTO1	ec	GSTA3	g-g	hsa00980	compound
+GSTO1	ec	GSTA4	g-g	hsa00980	compound
+GSTO1	ec	GSTM1	g-g	hsa00980	compound
+GSTO1	ec	GSTM2	g-g	hsa00980	compound
+GSTO1	ec	GSTM3	g-g	hsa00980	compound
+GSTO1	ec	GSTM4	g-g	hsa00980	compound
+GSTO1	ec	GSTM5	g-g	hsa00980	compound
+GSTO1	ec	GSTP1	g-g	hsa00980	compound
+GSTO1	ec	GSTT1	g-g	hsa00980	compound
+GSTO1	ec	GSTT2	g-g	hsa00980	compound
+GSTO1	ec	GSTK1	g-g	hsa00980	compound
+GSTO1	ec	MGST1	g-g	hsa00980	compound
+GSTO1	ec	MGST2	g-g	hsa00980	compound
+GSTO1	ec	MGST3	g-g	hsa00980	compound
+GSTO1	ec	GSTT2B	g-g	hsa00980	compound
+GSTO1	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1A, ADH1	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1B	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH1C	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH4	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH5	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH6	g-g	hsa00980	compound
+ALDH3A1, ALDH3, ALDHIII	ec	ADH7	g-g	hsa00980	compound
+ALDH1A3	ec	ADH1A, ADH1	g-g	hsa00980	compound
+ALDH3B1	ec	ADH1A, ADH1	g-g	hsa00980	compound
+ALDH3B2	ec	ADH1A, ADH1	g-g	hsa00980	compound
+ALDH1A3	ec	ADH1B	g-g	hsa00980	compound
+ALDH1A3	ec	ADH1C	g-g	hsa00980	compound
+ALDH1A3	ec	ADH4	g-g	hsa00980	compound
+ALDH1A3	ec	ADH5	g-g	hsa00980	compound
+ALDH1A3	ec	ADH6	g-g	hsa00980	compound
+ALDH1A3	ec	ADH7	g-g	hsa00980	compound
+ALDH3B1	ec	ADH1B	g-g	hsa00980	compound
+ALDH3B1	ec	ADH1C	g-g	hsa00980	compound
+ALDH3B1	ec	ADH4	g-g	hsa00980	compound
+ALDH3B1	ec	ADH5	g-g	hsa00980	compound
+ALDH3B1	ec	ADH6	g-g	hsa00980	compound
+ALDH3B1	ec	ADH7	g-g	hsa00980	compound
+ALDH3B2	ec	ADH1B	g-g	hsa00980	compound
+ALDH3B2	ec	ADH1C	g-g	hsa00980	compound
+ALDH3B2	ec	ADH4	g-g	hsa00980	compound
+ALDH3B2	ec	ADH5	g-g	hsa00980	compound
+ALDH3B2	ec	ADH6	g-g	hsa00980	compound
+ALDH3B2	ec	ADH7	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ALDH3A1, ALDH3, ALDHIII	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ALDH1A3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ALDH3B1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ALDH3B2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH1A, ADH1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH1B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH1C	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH6	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	ADH7	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B11	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2A1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B28	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A10	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A8	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A7	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A6	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A9	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT1A3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2A2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B7	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B10	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B15	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2B17	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	UGT2A3	g-g	hsa00980	compound
+UGT2B11	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B11	ec	ADH1B	g-g	hsa00980	compound
+UGT2B11	ec	ADH1C	g-g	hsa00980	compound
+UGT2B11	ec	ADH4	g-g	hsa00980	compound
+UGT2B11	ec	ADH5	g-g	hsa00980	compound
+UGT2B11	ec	ADH6	g-g	hsa00980	compound
+UGT2B11	ec	ADH7	g-g	hsa00980	compound
+UGT2A1	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B28	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A10	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A8	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A7	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A6	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A5	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A9	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A4	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A1	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT1A3	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2A2	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B4	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B7	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B10	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B15	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2B17	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2A3	ec	ADH1A, ADH1	g-g	hsa00980	compound
+UGT2A1	ec	ADH1B	g-g	hsa00980	compound
+UGT2A1	ec	ADH1C	g-g	hsa00980	compound
+UGT2A1	ec	ADH4	g-g	hsa00980	compound
+UGT2A1	ec	ADH5	g-g	hsa00980	compound
+UGT2A1	ec	ADH6	g-g	hsa00980	compound
+UGT2A1	ec	ADH7	g-g	hsa00980	compound
+UGT2B28	ec	ADH1B	g-g	hsa00980	compound
+UGT2B28	ec	ADH1C	g-g	hsa00980	compound
+UGT2B28	ec	ADH4	g-g	hsa00980	compound
+UGT2B28	ec	ADH5	g-g	hsa00980	compound
+UGT2B28	ec	ADH6	g-g	hsa00980	compound
+UGT2B28	ec	ADH7	g-g	hsa00980	compound
+UGT1A10	ec	ADH1B	g-g	hsa00980	compound
+UGT1A10	ec	ADH1C	g-g	hsa00980	compound
+UGT1A10	ec	ADH4	g-g	hsa00980	compound
+UGT1A10	ec	ADH5	g-g	hsa00980	compound
+UGT1A10	ec	ADH6	g-g	hsa00980	compound
+UGT1A10	ec	ADH7	g-g	hsa00980	compound
+UGT1A8	ec	ADH1B	g-g	hsa00980	compound
+UGT1A8	ec	ADH1C	g-g	hsa00980	compound
+UGT1A8	ec	ADH4	g-g	hsa00980	compound
+UGT1A8	ec	ADH5	g-g	hsa00980	compound
+UGT1A8	ec	ADH6	g-g	hsa00980	compound
+UGT1A8	ec	ADH7	g-g	hsa00980	compound
+UGT1A7	ec	ADH1B	g-g	hsa00980	compound
+UGT1A7	ec	ADH1C	g-g	hsa00980	compound
+UGT1A7	ec	ADH4	g-g	hsa00980	compound
+UGT1A7	ec	ADH5	g-g	hsa00980	compound
+UGT1A7	ec	ADH6	g-g	hsa00980	compound
+UGT1A7	ec	ADH7	g-g	hsa00980	compound
+UGT1A6	ec	ADH1B	g-g	hsa00980	compound
+UGT1A6	ec	ADH1C	g-g	hsa00980	compound
+UGT1A6	ec	ADH4	g-g	hsa00980	compound
+UGT1A6	ec	ADH5	g-g	hsa00980	compound
+UGT1A6	ec	ADH6	g-g	hsa00980	compound
+UGT1A6	ec	ADH7	g-g	hsa00980	compound
+UGT1A5	ec	ADH1B	g-g	hsa00980	compound
+UGT1A5	ec	ADH1C	g-g	hsa00980	compound
+UGT1A5	ec	ADH4	g-g	hsa00980	compound
+UGT1A5	ec	ADH5	g-g	hsa00980	compound
+UGT1A5	ec	ADH6	g-g	hsa00980	compound
+UGT1A5	ec	ADH7	g-g	hsa00980	compound
+UGT1A9	ec	ADH1B	g-g	hsa00980	compound
+UGT1A9	ec	ADH1C	g-g	hsa00980	compound
+UGT1A9	ec	ADH4	g-g	hsa00980	compound
+UGT1A9	ec	ADH5	g-g	hsa00980	compound
+UGT1A9	ec	ADH6	g-g	hsa00980	compound
+UGT1A9	ec	ADH7	g-g	hsa00980	compound
+UGT1A4	ec	ADH1B	g-g	hsa00980	compound
+UGT1A4	ec	ADH1C	g-g	hsa00980	compound
+UGT1A4	ec	ADH4	g-g	hsa00980	compound
+UGT1A4	ec	ADH5	g-g	hsa00980	compound
+UGT1A4	ec	ADH6	g-g	hsa00980	compound
+UGT1A4	ec	ADH7	g-g	hsa00980	compound
+UGT1A1	ec	ADH1B	g-g	hsa00980	compound
+UGT1A1	ec	ADH1C	g-g	hsa00980	compound
+UGT1A1	ec	ADH4	g-g	hsa00980	compound
+UGT1A1	ec	ADH5	g-g	hsa00980	compound
+UGT1A1	ec	ADH6	g-g	hsa00980	compound
+UGT1A1	ec	ADH7	g-g	hsa00980	compound
+UGT1A3	ec	ADH1B	g-g	hsa00980	compound
+UGT1A3	ec	ADH1C	g-g	hsa00980	compound
+UGT1A3	ec	ADH4	g-g	hsa00980	compound
+UGT1A3	ec	ADH5	g-g	hsa00980	compound
+UGT1A3	ec	ADH6	g-g	hsa00980	compound
+UGT1A3	ec	ADH7	g-g	hsa00980	compound
+UGT2A2	ec	ADH1B	g-g	hsa00980	compound
+UGT2A2	ec	ADH1C	g-g	hsa00980	compound
+UGT2A2	ec	ADH4	g-g	hsa00980	compound
+UGT2A2	ec	ADH5	g-g	hsa00980	compound
+UGT2A2	ec	ADH6	g-g	hsa00980	compound
+UGT2A2	ec	ADH7	g-g	hsa00980	compound
+UGT2B4	ec	ADH1B	g-g	hsa00980	compound
+UGT2B4	ec	ADH1C	g-g	hsa00980	compound
+UGT2B4	ec	ADH4	g-g	hsa00980	compound
+UGT2B4	ec	ADH5	g-g	hsa00980	compound
+UGT2B4	ec	ADH6	g-g	hsa00980	compound
+UGT2B4	ec	ADH7	g-g	hsa00980	compound
+UGT2B7	ec	ADH1B	g-g	hsa00980	compound
+UGT2B7	ec	ADH1C	g-g	hsa00980	compound
+UGT2B7	ec	ADH4	g-g	hsa00980	compound
+UGT2B7	ec	ADH5	g-g	hsa00980	compound
+UGT2B7	ec	ADH6	g-g	hsa00980	compound
+UGT2B7	ec	ADH7	g-g	hsa00980	compound
+UGT2B10	ec	ADH1B	g-g	hsa00980	compound
+UGT2B10	ec	ADH1C	g-g	hsa00980	compound
+UGT2B10	ec	ADH4	g-g	hsa00980	compound
+UGT2B10	ec	ADH5	g-g	hsa00980	compound
+UGT2B10	ec	ADH6	g-g	hsa00980	compound
+UGT2B10	ec	ADH7	g-g	hsa00980	compound
+UGT2B15	ec	ADH1B	g-g	hsa00980	compound
+UGT2B15	ec	ADH1C	g-g	hsa00980	compound
+UGT2B15	ec	ADH4	g-g	hsa00980	compound
+UGT2B15	ec	ADH5	g-g	hsa00980	compound
+UGT2B15	ec	ADH6	g-g	hsa00980	compound
+UGT2B15	ec	ADH7	g-g	hsa00980	compound
+UGT2B17	ec	ADH1B	g-g	hsa00980	compound
+UGT2B17	ec	ADH1C	g-g	hsa00980	compound
+UGT2B17	ec	ADH4	g-g	hsa00980	compound
+UGT2B17	ec	ADH5	g-g	hsa00980	compound
+UGT2B17	ec	ADH6	g-g	hsa00980	compound
+UGT2B17	ec	ADH7	g-g	hsa00980	compound
+UGT2A3	ec	ADH1B	g-g	hsa00980	compound
+UGT2A3	ec	ADH1C	g-g	hsa00980	compound
+UGT2A3	ec	ADH4	g-g	hsa00980	compound
+UGT2A3	ec	ADH5	g-g	hsa00980	compound
+UGT2A3	ec	ADH6	g-g	hsa00980	compound
+UGT2A3	ec	ADH7	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+HPGDS	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTP1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTK1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2B	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTO1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+HPGDS	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTP1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTK1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2B	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTO1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	CYP1A2	g-g	hsa00980	compound
+DHDH	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+DHDH	ec	CYP1A2	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	CYP1A2	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	CYP1A2	g-g	hsa00980	compound
+CBR3	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CBR3	ec	CYP1A2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CBR3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	DHDH	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CBR3	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CBR3	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B11	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2A1	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B28	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A10	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A8	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A7	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A6	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A5	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A9	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A4	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A1	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT1A3	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2A2	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B4	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B7	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B10	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B15	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2B17	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	UGT2A3	g-g	hsa00980	compound
+CBR3	ec	UGT2B11	g-g	hsa00980	compound
+CBR3	ec	UGT2A1	g-g	hsa00980	compound
+CBR3	ec	UGT2B28	g-g	hsa00980	compound
+CBR3	ec	UGT1A10	g-g	hsa00980	compound
+CBR3	ec	UGT1A8	g-g	hsa00980	compound
+CBR3	ec	UGT1A7	g-g	hsa00980	compound
+CBR3	ec	UGT1A6	g-g	hsa00980	compound
+CBR3	ec	UGT1A5	g-g	hsa00980	compound
+CBR3	ec	UGT1A9	g-g	hsa00980	compound
+CBR3	ec	UGT1A4	g-g	hsa00980	compound
+CBR3	ec	UGT1A1	g-g	hsa00980	compound
+CBR3	ec	UGT1A3	g-g	hsa00980	compound
+CBR3	ec	UGT2A2	g-g	hsa00980	compound
+CBR3	ec	UGT2B4	g-g	hsa00980	compound
+CBR3	ec	UGT2B7	g-g	hsa00980	compound
+CBR3	ec	UGT2B10	g-g	hsa00980	compound
+CBR3	ec	UGT2B15	g-g	hsa00980	compound
+CBR3	ec	UGT2B17	g-g	hsa00980	compound
+CBR3	ec	UGT2A3	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B11	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2A1	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B28	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A10	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A8	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A7	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A6	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A5	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A9	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A4	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A1	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT1A3	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2A2	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B4	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B7	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B10	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B15	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2B17	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	UGT2A3	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+DHDH	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+DHDH	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B11	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2A1	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B28	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A10	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A8	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A7	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A6	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A5	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A9	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A4	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A1	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT1A3	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2A2	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B4	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B7	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B10	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B15	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2B17	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	UGT2A3	g-g	hsa00980	compound
+DHDH	ec	UGT2B11	g-g	hsa00980	compound
+DHDH	ec	UGT2A1	g-g	hsa00980	compound
+DHDH	ec	UGT2B28	g-g	hsa00980	compound
+DHDH	ec	UGT1A10	g-g	hsa00980	compound
+DHDH	ec	UGT1A8	g-g	hsa00980	compound
+DHDH	ec	UGT1A7	g-g	hsa00980	compound
+DHDH	ec	UGT1A6	g-g	hsa00980	compound
+DHDH	ec	UGT1A5	g-g	hsa00980	compound
+DHDH	ec	UGT1A9	g-g	hsa00980	compound
+DHDH	ec	UGT1A4	g-g	hsa00980	compound
+DHDH	ec	UGT1A1	g-g	hsa00980	compound
+DHDH	ec	UGT1A3	g-g	hsa00980	compound
+DHDH	ec	UGT2A2	g-g	hsa00980	compound
+DHDH	ec	UGT2B4	g-g	hsa00980	compound
+DHDH	ec	UGT2B7	g-g	hsa00980	compound
+DHDH	ec	UGT2B10	g-g	hsa00980	compound
+DHDH	ec	UGT2B15	g-g	hsa00980	compound
+DHDH	ec	UGT2B17	g-g	hsa00980	compound
+DHDH	ec	UGT2A3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B11	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B28	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A10	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A8	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A7	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A6	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A9	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B7	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B10	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B15	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B17	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B11	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B28	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A10	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A8	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A7	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A6	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A9	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT1A3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B7	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B10	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B15	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2B17	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	UGT2A3	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	CYP2B6, CPB6, CYP2B, CYP2B7, CYP2B7P, CYPIIB6, EFVM, IIB1, P450	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1A2	g-g	hsa00980	compound
+CYP2B6, CPB6, CYP2B, CYP2B7, CYP2B7P, CYPIIB6, EFVM, IIB1, P450	ec	SULT2A1, DHEA-ST, DHEAS, HST, ST2, ST2A1, ST2A3, STD, hSTa	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP1A1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	MGST1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	MGST2	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	MGST3	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1	ec	MGST1	g-g	hsa00980	compound
+CYP1A1	ec	MGST2	g-g	hsa00980	compound
+CYP1A1	ec	MGST3	g-g	hsa00980	compound
+CYP1A1	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1	ec	GSTO1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	HPGDS	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTA4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM4	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTM5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTP1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTK1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST2	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	MGST3	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTT2B	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	GSTO1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR3	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	DHDH	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B11	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B28	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A10	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A8	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A7	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A6	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A5	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A9	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A4	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A3	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A2	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B4	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B7	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B10	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B15	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B17	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CBR1, CBR, SDR21C1, hCBR1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CBR3	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+DHDH	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B11	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B28	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A10	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A8	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A7	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A6	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A5	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A9	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A4	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT1A3	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A2	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B4	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B7	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B10	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B15	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2B17	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	UGT2A3	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP1A1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP1A1	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP3A5	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP1A1	ec	CYP3A5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP3A5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	HPGDS	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTP1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTK1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2B	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	HPGDS	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTP1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTK1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO1	g-g	hsa00980	compound
+CYP3A5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A5	ec	GSTA5	g-g	hsa00980	compound
+CYP3A5	ec	HPGDS	g-g	hsa00980	compound
+CYP3A5	ec	GSTA1	g-g	hsa00980	compound
+CYP3A5	ec	GSTA2	g-g	hsa00980	compound
+CYP3A5	ec	GSTA3	g-g	hsa00980	compound
+CYP3A5	ec	GSTA4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM1	g-g	hsa00980	compound
+CYP3A5	ec	GSTM2	g-g	hsa00980	compound
+CYP3A5	ec	GSTM3	g-g	hsa00980	compound
+CYP3A5	ec	GSTM4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM5	g-g	hsa00980	compound
+CYP3A5	ec	GSTP1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2	g-g	hsa00980	compound
+CYP3A5	ec	GSTK1	g-g	hsa00980	compound
+CYP3A5	ec	MGST1	g-g	hsa00980	compound
+CYP3A5	ec	MGST2	g-g	hsa00980	compound
+CYP3A5	ec	MGST3	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A5	ec	GSTO1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP1A2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP3A5	g-g	hsa00980	compound
+107987478	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+107987478	ec	CYP1A2	g-g	hsa00980	compound
+CYP2D6	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2D7	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2D6	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2D6	ec	CYP1A2	g-g	hsa00980	compound
+CYP2D7	ec	CYP1A2	g-g	hsa00980	compound
+CYP2D6	ec	CYP1A2	g-g	hsa00980	compound
+107987478	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2D6	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2D7	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2D6	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+107987478	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+107987478	ec	CYP3A5	g-g	hsa00980	compound
+CYP2D6	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2D7	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2D6	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2D6	ec	CYP3A5	g-g	hsa00980	compound
+CYP2D7	ec	CYP3A5	g-g	hsa00980	compound
+CYP2D6	ec	CYP3A5	g-g	hsa00980	compound
+107987478	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+107987478	ec	DHDH	g-g	hsa00980	compound
+CYP2D6	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2D7	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2D6	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2D6	ec	DHDH	g-g	hsa00980	compound
+CYP2D7	ec	DHDH	g-g	hsa00980	compound
+CYP2D6	ec	DHDH	g-g	hsa00980	compound
+107987478	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2D6	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2D7	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2D6	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+107987478	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+107987478	ec	CBR3	g-g	hsa00980	compound
+CYP2D6	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2D7	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2D6	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2D6	ec	CBR3	g-g	hsa00980	compound
+CYP2D7	ec	CBR3	g-g	hsa00980	compound
+CYP2D6	ec	CBR3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP1A2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP3A5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	DHDH	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CBR3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	DHDH	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CBR3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	DHDH	g-g	hsa00980	compound
+CYP3A5	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP3A5	ec	DHDH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP3A5	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	CBR3	g-g	hsa00980	compound
+CYP3A5	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP3A5	ec	CBR3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+107987478	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2D6	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2D7	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2D6	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP3A5	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP1A2	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	DHDH	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	DHDH	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR1, CBR, SDR21C1, hCBR1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CBR3	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP1A1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP1A1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+CYP2A13, CPAD, CYP2A, CYPIIA13	ec	CYP3A5	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTA5	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+HPGDS	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTA1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTA2	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTA3	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTA4	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTM1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTM2	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTM3	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTM4	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTM5	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTP1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTT1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTT2	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTK1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+MGST1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+MGST2	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+MGST3	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTT2B	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+GSTO1	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP2A13, CPAD, CYP2A, CYPIIA13	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTA5	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	HPGDS	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTA1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTA2	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTA3	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTA4	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTM1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTM2	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTM3	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTM4	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTM5	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTP1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTT1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTT2	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTK1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	MGST1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	MGST2	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	MGST3	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTT2B	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	GSTO1	g-g	hsa00980	compound
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTA5	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	HPGDS	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTA1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTA2	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTA3	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTA4	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTM1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTM2	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTM3	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTM4	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTM5	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTP1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTT1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTT2	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTK1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	MGST1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	MGST2	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	MGST3	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTT2B	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	GSTO1	g-g	hsa00980	compound
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP1A2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	HPGDS	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTP1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTK1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO1	g-g	hsa00980	compound
+CYP3A5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A5	ec	GSTA5	g-g	hsa00980	compound
+CYP3A5	ec	HPGDS	g-g	hsa00980	compound
+CYP3A5	ec	GSTA1	g-g	hsa00980	compound
+CYP3A5	ec	GSTA2	g-g	hsa00980	compound
+CYP3A5	ec	GSTA3	g-g	hsa00980	compound
+CYP3A5	ec	GSTA4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM1	g-g	hsa00980	compound
+CYP3A5	ec	GSTM2	g-g	hsa00980	compound
+CYP3A5	ec	GSTM3	g-g	hsa00980	compound
+CYP3A5	ec	GSTM4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM5	g-g	hsa00980	compound
+CYP3A5	ec	GSTP1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2	g-g	hsa00980	compound
+CYP3A5	ec	GSTK1	g-g	hsa00980	compound
+CYP3A5	ec	MGST1	g-g	hsa00980	compound
+CYP3A5	ec	MGST2	g-g	hsa00980	compound
+CYP3A5	ec	MGST3	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A5	ec	GSTO1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+HPGDS	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTA4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM4	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTM5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTP1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTK1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST2	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+MGST3	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTT2B	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+GSTO1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP3A5	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+EPHX1, EPHX, EPOX, HYL1, MEH	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP3A5	g-g	hsa00980	compound
+GSTA5	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+HPGDS	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTA1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTA2	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTA3	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTA4	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTM1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTM2	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTM3	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTM4	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTM5	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTP1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTT1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTT2	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTK1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+MGST1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+MGST2	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+MGST3	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTT2B	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTO1	ec	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	g-g	hsa00980	compound
+GSTA5	ec	CYP3A5	g-g	hsa00980	compound
+HPGDS	ec	CYP3A5	g-g	hsa00980	compound
+GSTA1	ec	CYP3A5	g-g	hsa00980	compound
+GSTA2	ec	CYP3A5	g-g	hsa00980	compound
+GSTA3	ec	CYP3A5	g-g	hsa00980	compound
+GSTA4	ec	CYP3A5	g-g	hsa00980	compound
+GSTM1	ec	CYP3A5	g-g	hsa00980	compound
+GSTM2	ec	CYP3A5	g-g	hsa00980	compound
+GSTM3	ec	CYP3A5	g-g	hsa00980	compound
+GSTM4	ec	CYP3A5	g-g	hsa00980	compound
+GSTM5	ec	CYP3A5	g-g	hsa00980	compound
+GSTP1	ec	CYP3A5	g-g	hsa00980	compound
+GSTT1	ec	CYP3A5	g-g	hsa00980	compound
+GSTT2	ec	CYP3A5	g-g	hsa00980	compound
+GSTK1	ec	CYP3A5	g-g	hsa00980	compound
+MGST1	ec	CYP3A5	g-g	hsa00980	compound
+MGST2	ec	CYP3A5	g-g	hsa00980	compound
+MGST3	ec	CYP3A5	g-g	hsa00980	compound
+GSTT2B	ec	CYP3A5	g-g	hsa00980	compound
+GSTO1	ec	CYP3A5	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTA5	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+HPGDS	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTA1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTA2	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTA3	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTA4	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTM1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTM2	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTM3	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTM4	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTM5	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTP1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTT1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTT2	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTK1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+MGST1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+MGST2	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+MGST3	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTT2B	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTO1	ec	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTA5	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+HPGDS	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTA1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTA2	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTA3	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTA4	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTM1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTM2	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTM3	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTM4	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTM5	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTP1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTT1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTT2	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTK1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+MGST1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+MGST2	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+MGST3	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTT2B	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+GSTO1	ec	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	HPGDS	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTP1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTK1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO1	g-g	hsa00980	compound
+CYP3A5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A5	ec	GSTA5	g-g	hsa00980	compound
+CYP3A5	ec	HPGDS	g-g	hsa00980	compound
+CYP3A5	ec	GSTA1	g-g	hsa00980	compound
+CYP3A5	ec	GSTA2	g-g	hsa00980	compound
+CYP3A5	ec	GSTA3	g-g	hsa00980	compound
+CYP3A5	ec	GSTA4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM1	g-g	hsa00980	compound
+CYP3A5	ec	GSTM2	g-g	hsa00980	compound
+CYP3A5	ec	GSTM3	g-g	hsa00980	compound
+CYP3A5	ec	GSTM4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM5	g-g	hsa00980	compound
+CYP3A5	ec	GSTP1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2	g-g	hsa00980	compound
+CYP3A5	ec	GSTK1	g-g	hsa00980	compound
+CYP3A5	ec	MGST1	g-g	hsa00980	compound
+CYP3A5	ec	MGST2	g-g	hsa00980	compound
+CYP3A5	ec	MGST3	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A5	ec	GSTO1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	HPGDS	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTP1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTK1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2B	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A5	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	HPGDS	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTA4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM4	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTM5	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTP1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTK1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST1	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST2	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	MGST3	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	ec	GSTO1	g-g	hsa00980	compound
+CYP3A5	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP3A5	ec	GSTA5	g-g	hsa00980	compound
+CYP3A5	ec	HPGDS	g-g	hsa00980	compound
+CYP3A5	ec	GSTA1	g-g	hsa00980	compound
+CYP3A5	ec	GSTA2	g-g	hsa00980	compound
+CYP3A5	ec	GSTA3	g-g	hsa00980	compound
+CYP3A5	ec	GSTA4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM1	g-g	hsa00980	compound
+CYP3A5	ec	GSTM2	g-g	hsa00980	compound
+CYP3A5	ec	GSTM3	g-g	hsa00980	compound
+CYP3A5	ec	GSTM4	g-g	hsa00980	compound
+CYP3A5	ec	GSTM5	g-g	hsa00980	compound
+CYP3A5	ec	GSTP1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT1	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2	g-g	hsa00980	compound
+CYP3A5	ec	GSTK1	g-g	hsa00980	compound
+CYP3A5	ec	MGST1	g-g	hsa00980	compound
+CYP3A5	ec	MGST2	g-g	hsa00980	compound
+CYP3A5	ec	MGST3	g-g	hsa00980	compound
+CYP3A5	ec	GSTT2B	g-g	hsa00980	compound
+CYP3A5	ec	GSTO1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	HPGDS	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTA4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM4	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTM5	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTP1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTK1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST1	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST2	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	MGST3	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTT2B	g-g	hsa00980	compound
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+CYP1A2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	CYP1A2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	HPGDS	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTA4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM4	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTM5	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTP1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTK1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST1	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST2	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	MGST3	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	ec	GSTO1	g-g	hsa00980	compound
+CYP1A2	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP1A2	ec	GSTA5	g-g	hsa00980	compound
+CYP1A2	ec	HPGDS	g-g	hsa00980	compound
+CYP1A2	ec	GSTA1	g-g	hsa00980	compound
+CYP1A2	ec	GSTA2	g-g	hsa00980	compound
+CYP1A2	ec	GSTA3	g-g	hsa00980	compound
+CYP1A2	ec	GSTA4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM1	g-g	hsa00980	compound
+CYP1A2	ec	GSTM2	g-g	hsa00980	compound
+CYP1A2	ec	GSTM3	g-g	hsa00980	compound
+CYP1A2	ec	GSTM4	g-g	hsa00980	compound
+CYP1A2	ec	GSTM5	g-g	hsa00980	compound
+CYP1A2	ec	GSTP1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT1	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2	g-g	hsa00980	compound
+CYP1A2	ec	GSTK1	g-g	hsa00980	compound
+CYP1A2	ec	MGST1	g-g	hsa00980	compound
+CYP1A2	ec	MGST2	g-g	hsa00980	compound
+CYP1A2	ec	MGST3	g-g	hsa00980	compound
+CYP1A2	ec	GSTT2B	g-g	hsa00980	compound
+CYP1A2	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+GSTO2, GSTO_2-2, bA127L201	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+HPGDS	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTA4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM4	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTM5	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTP1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTK1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST2	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+MGST3	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTT2B	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+GSTO1	ec	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	EPHX1, EPHX, EPOX, HYL1, MEH	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO2, GSTO_2-2, bA127L201	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	HPGDS	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTA4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM4	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTM5	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTP1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTK1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST1	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST2	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	MGST3	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTT2B	g-g	hsa00980	compound
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	ec	GSTO1	g-g	hsa00980	compound
+C07490	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C11150	irreversible	hsa00980	ep
+C14852	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C14852	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C14853	irreversible	hsa00980	ep
+CYP1A2	rt	C14853	irreversible	hsa00980	ep
+C14556	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C14556	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C14854	irreversible	hsa00980	ep
+CYP1A2	rt	C14854	irreversible	hsa00980	ep
+C14039	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14857	irreversible	hsa00980	ep
+C14453	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14845	irreversible	hsa00980	ep
+C06790	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	reversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C06790	reversible	hsa00980	ep
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14866	reversible	hsa00980	ep
+C14866	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	reversible	hsa00980	se
+C14870	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14870	rt	GSTA5	irreversible	hsa00980	se
+C14870	rt	HPGDS	irreversible	hsa00980	se
+C14870	rt	GSTA1	irreversible	hsa00980	se
+C14870	rt	GSTA2	irreversible	hsa00980	se
+C14870	rt	GSTA3	irreversible	hsa00980	se
+C14870	rt	GSTA4	irreversible	hsa00980	se
+C14870	rt	GSTM1	irreversible	hsa00980	se
+C14870	rt	GSTM2	irreversible	hsa00980	se
+C14870	rt	GSTM3	irreversible	hsa00980	se
+C14870	rt	GSTM4	irreversible	hsa00980	se
+C14870	rt	GSTM5	irreversible	hsa00980	se
+C14870	rt	GSTP1	irreversible	hsa00980	se
+C14870	rt	GSTT1	irreversible	hsa00980	se
+C14870	rt	GSTT2	irreversible	hsa00980	se
+C14870	rt	GSTK1	irreversible	hsa00980	se
+C14870	rt	MGST1	irreversible	hsa00980	se
+C14870	rt	MGST2	irreversible	hsa00980	se
+C14870	rt	MGST3	irreversible	hsa00980	se
+C14870	rt	GSTT2B	irreversible	hsa00980	se
+C14870	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14871	irreversible	hsa00980	ep
+GSTA5	rt	C14871	irreversible	hsa00980	ep
+HPGDS	rt	C14871	irreversible	hsa00980	ep
+GSTA1	rt	C14871	irreversible	hsa00980	ep
+GSTA2	rt	C14871	irreversible	hsa00980	ep
+GSTA3	rt	C14871	irreversible	hsa00980	ep
+GSTA4	rt	C14871	irreversible	hsa00980	ep
+GSTM1	rt	C14871	irreversible	hsa00980	ep
+GSTM2	rt	C14871	irreversible	hsa00980	ep
+GSTM3	rt	C14871	irreversible	hsa00980	ep
+GSTM4	rt	C14871	irreversible	hsa00980	ep
+GSTM5	rt	C14871	irreversible	hsa00980	ep
+GSTP1	rt	C14871	irreversible	hsa00980	ep
+GSTT1	rt	C14871	irreversible	hsa00980	ep
+GSTT2	rt	C14871	irreversible	hsa00980	ep
+GSTK1	rt	C14871	irreversible	hsa00980	ep
+MGST1	rt	C14871	irreversible	hsa00980	ep
+MGST2	rt	C14871	irreversible	hsa00980	ep
+MGST3	rt	C14871	irreversible	hsa00980	ep
+GSTT2B	rt	C14871	irreversible	hsa00980	ep
+GSTO1	rt	C14871	irreversible	hsa00980	ep
+C11088	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C11088	rt	GSTA5	irreversible	hsa00980	se
+C11088	rt	HPGDS	irreversible	hsa00980	se
+C11088	rt	GSTA1	irreversible	hsa00980	se
+C11088	rt	GSTA2	irreversible	hsa00980	se
+C11088	rt	GSTA3	irreversible	hsa00980	se
+C11088	rt	GSTA4	irreversible	hsa00980	se
+C11088	rt	GSTM1	irreversible	hsa00980	se
+C11088	rt	GSTM2	irreversible	hsa00980	se
+C11088	rt	GSTM3	irreversible	hsa00980	se
+C11088	rt	GSTM4	irreversible	hsa00980	se
+C11088	rt	GSTM5	irreversible	hsa00980	se
+C11088	rt	GSTP1	irreversible	hsa00980	se
+C11088	rt	GSTT1	irreversible	hsa00980	se
+C11088	rt	GSTT2	irreversible	hsa00980	se
+C11088	rt	GSTK1	irreversible	hsa00980	se
+C11088	rt	MGST1	irreversible	hsa00980	se
+C11088	rt	MGST2	irreversible	hsa00980	se
+C11088	rt	MGST3	irreversible	hsa00980	se
+C11088	rt	GSTT2B	irreversible	hsa00980	se
+C11088	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14874	irreversible	hsa00980	ep
+GSTA5	rt	C14874	irreversible	hsa00980	ep
+HPGDS	rt	C14874	irreversible	hsa00980	ep
+GSTA1	rt	C14874	irreversible	hsa00980	ep
+GSTA2	rt	C14874	irreversible	hsa00980	ep
+GSTA3	rt	C14874	irreversible	hsa00980	ep
+GSTA4	rt	C14874	irreversible	hsa00980	ep
+GSTM1	rt	C14874	irreversible	hsa00980	ep
+GSTM2	rt	C14874	irreversible	hsa00980	ep
+GSTM3	rt	C14874	irreversible	hsa00980	ep
+GSTM4	rt	C14874	irreversible	hsa00980	ep
+GSTM5	rt	C14874	irreversible	hsa00980	ep
+GSTP1	rt	C14874	irreversible	hsa00980	ep
+GSTT1	rt	C14874	irreversible	hsa00980	ep
+GSTT2	rt	C14874	irreversible	hsa00980	ep
+GSTK1	rt	C14874	irreversible	hsa00980	ep
+MGST1	rt	C14874	irreversible	hsa00980	ep
+MGST2	rt	C14874	irreversible	hsa00980	ep
+MGST3	rt	C14874	irreversible	hsa00980	ep
+GSTT2B	rt	C14874	irreversible	hsa00980	ep
+GSTO1	rt	C14874	irreversible	hsa00980	ep
+C11088	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14870	irreversible	hsa00980	ep
+C07490	rt	UGT2B11	reversible	hsa00980	se
+C07490	rt	UGT2A1	reversible	hsa00980	se
+C07490	rt	UGT2B28	reversible	hsa00980	se
+C07490	rt	UGT1A10	reversible	hsa00980	se
+C07490	rt	UGT1A8	reversible	hsa00980	se
+C07490	rt	UGT1A7	reversible	hsa00980	se
+C07490	rt	UGT1A6	reversible	hsa00980	se
+C07490	rt	UGT1A5	reversible	hsa00980	se
+C07490	rt	UGT1A9	reversible	hsa00980	se
+C07490	rt	UGT1A4	reversible	hsa00980	se
+C07490	rt	UGT1A1	reversible	hsa00980	se
+C07490	rt	UGT1A3	reversible	hsa00980	se
+C07490	rt	UGT2A2	reversible	hsa00980	se
+C07490	rt	UGT2B4	reversible	hsa00980	se
+C07490	rt	UGT2B7	reversible	hsa00980	se
+C07490	rt	UGT2B10	reversible	hsa00980	se
+C07490	rt	UGT2B15	reversible	hsa00980	se
+C07490	rt	UGT2B17	reversible	hsa00980	se
+C07490	rt	UGT2A3	reversible	hsa00980	se
+UGT2B11	rt	C07490	reversible	hsa00980	ep
+UGT2A1	rt	C07490	reversible	hsa00980	ep
+UGT2B28	rt	C07490	reversible	hsa00980	ep
+UGT1A10	rt	C07490	reversible	hsa00980	ep
+UGT1A8	rt	C07490	reversible	hsa00980	ep
+UGT1A7	rt	C07490	reversible	hsa00980	ep
+UGT1A6	rt	C07490	reversible	hsa00980	ep
+UGT1A5	rt	C07490	reversible	hsa00980	ep
+UGT1A9	rt	C07490	reversible	hsa00980	ep
+UGT1A4	rt	C07490	reversible	hsa00980	ep
+UGT1A1	rt	C07490	reversible	hsa00980	ep
+UGT1A3	rt	C07490	reversible	hsa00980	ep
+UGT2A2	rt	C07490	reversible	hsa00980	ep
+UGT2B4	rt	C07490	reversible	hsa00980	ep
+UGT2B7	rt	C07490	reversible	hsa00980	ep
+UGT2B10	rt	C07490	reversible	hsa00980	ep
+UGT2B15	rt	C07490	reversible	hsa00980	ep
+UGT2B17	rt	C07490	reversible	hsa00980	ep
+UGT2A3	rt	C07490	reversible	hsa00980	ep
+UGT2B11	rt	C14869	reversible	hsa00980	ep
+UGT2A1	rt	C14869	reversible	hsa00980	ep
+UGT2B28	rt	C14869	reversible	hsa00980	ep
+UGT1A10	rt	C14869	reversible	hsa00980	ep
+UGT1A8	rt	C14869	reversible	hsa00980	ep
+UGT1A7	rt	C14869	reversible	hsa00980	ep
+UGT1A6	rt	C14869	reversible	hsa00980	ep
+UGT1A5	rt	C14869	reversible	hsa00980	ep
+UGT1A9	rt	C14869	reversible	hsa00980	ep
+UGT1A4	rt	C14869	reversible	hsa00980	ep
+UGT1A1	rt	C14869	reversible	hsa00980	ep
+UGT1A3	rt	C14869	reversible	hsa00980	ep
+UGT2A2	rt	C14869	reversible	hsa00980	ep
+UGT2B4	rt	C14869	reversible	hsa00980	ep
+UGT2B7	rt	C14869	reversible	hsa00980	ep
+UGT2B10	rt	C14869	reversible	hsa00980	ep
+UGT2B15	rt	C14869	reversible	hsa00980	ep
+UGT2B17	rt	C14869	reversible	hsa00980	ep
+UGT2A3	rt	C14869	reversible	hsa00980	ep
+C14869	rt	UGT2B11	reversible	hsa00980	se
+C14869	rt	UGT2A1	reversible	hsa00980	se
+C14869	rt	UGT2B28	reversible	hsa00980	se
+C14869	rt	UGT1A10	reversible	hsa00980	se
+C14869	rt	UGT1A8	reversible	hsa00980	se
+C14869	rt	UGT1A7	reversible	hsa00980	se
+C14869	rt	UGT1A6	reversible	hsa00980	se
+C14869	rt	UGT1A5	reversible	hsa00980	se
+C14869	rt	UGT1A9	reversible	hsa00980	se
+C14869	rt	UGT1A4	reversible	hsa00980	se
+C14869	rt	UGT1A1	reversible	hsa00980	se
+C14869	rt	UGT1A3	reversible	hsa00980	se
+C14869	rt	UGT2A2	reversible	hsa00980	se
+C14869	rt	UGT2B4	reversible	hsa00980	se
+C14869	rt	UGT2B7	reversible	hsa00980	se
+C14869	rt	UGT2B10	reversible	hsa00980	se
+C14869	rt	UGT2B15	reversible	hsa00980	se
+C14869	rt	UGT2B17	reversible	hsa00980	se
+C14869	rt	UGT2A3	reversible	hsa00980	se
+C06899	rt	ALDH3A1, ALDH3, ALDHIII	irreversible	hsa00980	se
+C06899	rt	ALDH1A3	irreversible	hsa00980	se
+C06899	rt	ALDH3B1	irreversible	hsa00980	se
+C06899	rt	ALDH3B2	irreversible	hsa00980	se
+ALDH3A1, ALDH3, ALDHIII	rt	C11150	irreversible	hsa00980	ep
+ALDH1A3	rt	C11150	irreversible	hsa00980	ep
+ALDH3B1	rt	C11150	irreversible	hsa00980	ep
+ALDH3B2	rt	C11150	irreversible	hsa00980	ep
+C06899	rt	ADH1A, ADH1	irreversible	hsa00980	se
+C06899	rt	ADH1B	irreversible	hsa00980	se
+C06899	rt	ADH1C	irreversible	hsa00980	se
+C06899	rt	ADH4	irreversible	hsa00980	se
+C06899	rt	ADH5	irreversible	hsa00980	se
+C06899	rt	ADH6	irreversible	hsa00980	se
+C06899	rt	ADH7	irreversible	hsa00980	se
+ADH1A, ADH1	rt	C07490	irreversible	hsa00980	ep
+ADH1B	rt	C07490	irreversible	hsa00980	ep
+ADH1C	rt	C07490	irreversible	hsa00980	ep
+ADH4	rt	C07490	irreversible	hsa00980	ep
+ADH5	rt	C07490	irreversible	hsa00980	ep
+ADH6	rt	C07490	irreversible	hsa00980	ep
+ADH7	rt	C07490	irreversible	hsa00980	ep
+C06790	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C06790	rt	GSTA5	irreversible	hsa00980	se
+C06790	rt	HPGDS	irreversible	hsa00980	se
+C06790	rt	GSTA1	irreversible	hsa00980	se
+C06790	rt	GSTA2	irreversible	hsa00980	se
+C06790	rt	GSTA3	irreversible	hsa00980	se
+C06790	rt	GSTA4	irreversible	hsa00980	se
+C06790	rt	GSTM1	irreversible	hsa00980	se
+C06790	rt	GSTM2	irreversible	hsa00980	se
+C06790	rt	GSTM3	irreversible	hsa00980	se
+C06790	rt	GSTM4	irreversible	hsa00980	se
+C06790	rt	GSTM5	irreversible	hsa00980	se
+C06790	rt	GSTP1	irreversible	hsa00980	se
+C06790	rt	GSTT1	irreversible	hsa00980	se
+C06790	rt	GSTT2	irreversible	hsa00980	se
+C06790	rt	GSTK1	irreversible	hsa00980	se
+C06790	rt	MGST1	irreversible	hsa00980	se
+C06790	rt	MGST2	irreversible	hsa00980	se
+C06790	rt	MGST3	irreversible	hsa00980	se
+C06790	rt	GSTT2B	irreversible	hsa00980	se
+C06790	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14868	irreversible	hsa00980	ep
+GSTA5	rt	C14868	irreversible	hsa00980	ep
+HPGDS	rt	C14868	irreversible	hsa00980	ep
+GSTA1	rt	C14868	irreversible	hsa00980	ep
+GSTA2	rt	C14868	irreversible	hsa00980	ep
+GSTA3	rt	C14868	irreversible	hsa00980	ep
+GSTA4	rt	C14868	irreversible	hsa00980	ep
+GSTM1	rt	C14868	irreversible	hsa00980	ep
+GSTM2	rt	C14868	irreversible	hsa00980	ep
+GSTM3	rt	C14868	irreversible	hsa00980	ep
+GSTM4	rt	C14868	irreversible	hsa00980	ep
+GSTM5	rt	C14868	irreversible	hsa00980	ep
+GSTP1	rt	C14868	irreversible	hsa00980	ep
+GSTT1	rt	C14868	irreversible	hsa00980	ep
+GSTT2	rt	C14868	irreversible	hsa00980	ep
+GSTK1	rt	C14868	irreversible	hsa00980	ep
+MGST1	rt	C14868	irreversible	hsa00980	ep
+MGST2	rt	C14868	irreversible	hsa00980	ep
+MGST3	rt	C14868	irreversible	hsa00980	ep
+GSTT2B	rt	C14868	irreversible	hsa00980	ep
+GSTO1	rt	C14868	irreversible	hsa00980	ep
+C14840	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14840	rt	GSTA5	irreversible	hsa00980	se
+C14840	rt	HPGDS	irreversible	hsa00980	se
+C14840	rt	GSTA1	irreversible	hsa00980	se
+C14840	rt	GSTA2	irreversible	hsa00980	se
+C14840	rt	GSTA3	irreversible	hsa00980	se
+C14840	rt	GSTA4	irreversible	hsa00980	se
+C14840	rt	GSTM1	irreversible	hsa00980	se
+C14840	rt	GSTM2	irreversible	hsa00980	se
+C14840	rt	GSTM3	irreversible	hsa00980	se
+C14840	rt	GSTM4	irreversible	hsa00980	se
+C14840	rt	GSTM5	irreversible	hsa00980	se
+C14840	rt	GSTP1	irreversible	hsa00980	se
+C14840	rt	GSTT1	irreversible	hsa00980	se
+C14840	rt	GSTT2	irreversible	hsa00980	se
+C14840	rt	GSTK1	irreversible	hsa00980	se
+C14840	rt	MGST1	irreversible	hsa00980	se
+C14840	rt	MGST2	irreversible	hsa00980	se
+C14840	rt	MGST3	irreversible	hsa00980	se
+C14840	rt	GSTT2B	irreversible	hsa00980	se
+C14840	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14848	irreversible	hsa00980	ep
+GSTA5	rt	C14848	irreversible	hsa00980	ep
+HPGDS	rt	C14848	irreversible	hsa00980	ep
+GSTA1	rt	C14848	irreversible	hsa00980	ep
+GSTA2	rt	C14848	irreversible	hsa00980	ep
+GSTA3	rt	C14848	irreversible	hsa00980	ep
+GSTA4	rt	C14848	irreversible	hsa00980	ep
+GSTM1	rt	C14848	irreversible	hsa00980	ep
+GSTM2	rt	C14848	irreversible	hsa00980	ep
+GSTM3	rt	C14848	irreversible	hsa00980	ep
+GSTM4	rt	C14848	irreversible	hsa00980	ep
+GSTM5	rt	C14848	irreversible	hsa00980	ep
+GSTP1	rt	C14848	irreversible	hsa00980	ep
+GSTT1	rt	C14848	irreversible	hsa00980	ep
+GSTT2	rt	C14848	irreversible	hsa00980	ep
+GSTK1	rt	C14848	irreversible	hsa00980	ep
+MGST1	rt	C14848	irreversible	hsa00980	ep
+MGST2	rt	C14848	irreversible	hsa00980	ep
+MGST3	rt	C14848	irreversible	hsa00980	ep
+GSTT2B	rt	C14848	irreversible	hsa00980	ep
+GSTO1	rt	C14848	irreversible	hsa00980	ep
+C14857	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14857	rt	GSTA5	irreversible	hsa00980	se
+C14857	rt	HPGDS	irreversible	hsa00980	se
+C14857	rt	GSTA1	irreversible	hsa00980	se
+C14857	rt	GSTA2	irreversible	hsa00980	se
+C14857	rt	GSTA3	irreversible	hsa00980	se
+C14857	rt	GSTA4	irreversible	hsa00980	se
+C14857	rt	GSTM1	irreversible	hsa00980	se
+C14857	rt	GSTM2	irreversible	hsa00980	se
+C14857	rt	GSTM3	irreversible	hsa00980	se
+C14857	rt	GSTM4	irreversible	hsa00980	se
+C14857	rt	GSTM5	irreversible	hsa00980	se
+C14857	rt	GSTP1	irreversible	hsa00980	se
+C14857	rt	GSTT1	irreversible	hsa00980	se
+C14857	rt	GSTT2	irreversible	hsa00980	se
+C14857	rt	GSTK1	irreversible	hsa00980	se
+C14857	rt	MGST1	irreversible	hsa00980	se
+C14857	rt	MGST2	irreversible	hsa00980	se
+C14857	rt	MGST3	irreversible	hsa00980	se
+C14857	rt	GSTT2B	irreversible	hsa00980	se
+C14857	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14865	irreversible	hsa00980	ep
+GSTA5	rt	C14865	irreversible	hsa00980	ep
+HPGDS	rt	C14865	irreversible	hsa00980	ep
+GSTA1	rt	C14865	irreversible	hsa00980	ep
+GSTA2	rt	C14865	irreversible	hsa00980	ep
+GSTA3	rt	C14865	irreversible	hsa00980	ep
+GSTA4	rt	C14865	irreversible	hsa00980	ep
+GSTM1	rt	C14865	irreversible	hsa00980	ep
+GSTM2	rt	C14865	irreversible	hsa00980	ep
+GSTM3	rt	C14865	irreversible	hsa00980	ep
+GSTM4	rt	C14865	irreversible	hsa00980	ep
+GSTM5	rt	C14865	irreversible	hsa00980	ep
+GSTP1	rt	C14865	irreversible	hsa00980	ep
+GSTT1	rt	C14865	irreversible	hsa00980	ep
+GSTT2	rt	C14865	irreversible	hsa00980	ep
+GSTK1	rt	C14865	irreversible	hsa00980	ep
+MGST1	rt	C14865	irreversible	hsa00980	ep
+MGST2	rt	C14865	irreversible	hsa00980	ep
+MGST3	rt	C14865	irreversible	hsa00980	ep
+GSTT2B	rt	C14865	irreversible	hsa00980	ep
+GSTO1	rt	C14865	irreversible	hsa00980	ep
+C14852	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14852	rt	GSTA5	irreversible	hsa00980	se
+C14852	rt	HPGDS	irreversible	hsa00980	se
+C14852	rt	GSTA1	irreversible	hsa00980	se
+C14852	rt	GSTA2	irreversible	hsa00980	se
+C14852	rt	GSTA3	irreversible	hsa00980	se
+C14852	rt	GSTA4	irreversible	hsa00980	se
+C14852	rt	GSTM1	irreversible	hsa00980	se
+C14852	rt	GSTM2	irreversible	hsa00980	se
+C14852	rt	GSTM3	irreversible	hsa00980	se
+C14852	rt	GSTM4	irreversible	hsa00980	se
+C14852	rt	GSTM5	irreversible	hsa00980	se
+C14852	rt	GSTP1	irreversible	hsa00980	se
+C14852	rt	GSTT1	irreversible	hsa00980	se
+C14852	rt	GSTT2	irreversible	hsa00980	se
+C14852	rt	GSTK1	irreversible	hsa00980	se
+C14852	rt	MGST1	irreversible	hsa00980	se
+C14852	rt	MGST2	irreversible	hsa00980	se
+C14852	rt	MGST3	irreversible	hsa00980	se
+C14852	rt	GSTT2B	irreversible	hsa00980	se
+C14852	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14856	irreversible	hsa00980	ep
+GSTA5	rt	C14856	irreversible	hsa00980	ep
+HPGDS	rt	C14856	irreversible	hsa00980	ep
+GSTA1	rt	C14856	irreversible	hsa00980	ep
+GSTA2	rt	C14856	irreversible	hsa00980	ep
+GSTA3	rt	C14856	irreversible	hsa00980	ep
+GSTA4	rt	C14856	irreversible	hsa00980	ep
+GSTM1	rt	C14856	irreversible	hsa00980	ep
+GSTM2	rt	C14856	irreversible	hsa00980	ep
+GSTM3	rt	C14856	irreversible	hsa00980	ep
+GSTM4	rt	C14856	irreversible	hsa00980	ep
+GSTM5	rt	C14856	irreversible	hsa00980	ep
+GSTP1	rt	C14856	irreversible	hsa00980	ep
+GSTT1	rt	C14856	irreversible	hsa00980	ep
+GSTT2	rt	C14856	irreversible	hsa00980	ep
+GSTK1	rt	C14856	irreversible	hsa00980	ep
+MGST1	rt	C14856	irreversible	hsa00980	ep
+MGST2	rt	C14856	irreversible	hsa00980	ep
+MGST3	rt	C14856	irreversible	hsa00980	ep
+GSTT2B	rt	C14856	irreversible	hsa00980	ep
+GSTO1	rt	C14856	irreversible	hsa00980	ep
+C14851	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14851	rt	GSTA5	irreversible	hsa00980	se
+C14851	rt	HPGDS	irreversible	hsa00980	se
+C14851	rt	GSTA1	irreversible	hsa00980	se
+C14851	rt	GSTA2	irreversible	hsa00980	se
+C14851	rt	GSTA3	irreversible	hsa00980	se
+C14851	rt	GSTA4	irreversible	hsa00980	se
+C14851	rt	GSTM1	irreversible	hsa00980	se
+C14851	rt	GSTM2	irreversible	hsa00980	se
+C14851	rt	GSTM3	irreversible	hsa00980	se
+C14851	rt	GSTM4	irreversible	hsa00980	se
+C14851	rt	GSTM5	irreversible	hsa00980	se
+C14851	rt	GSTP1	irreversible	hsa00980	se
+C14851	rt	GSTT1	irreversible	hsa00980	se
+C14851	rt	GSTT2	irreversible	hsa00980	se
+C14851	rt	GSTK1	irreversible	hsa00980	se
+C14851	rt	MGST1	irreversible	hsa00980	se
+C14851	rt	MGST2	irreversible	hsa00980	se
+C14851	rt	MGST3	irreversible	hsa00980	se
+C14851	rt	GSTT2B	irreversible	hsa00980	se
+C14851	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14855	irreversible	hsa00980	ep
+GSTA5	rt	C14855	irreversible	hsa00980	ep
+HPGDS	rt	C14855	irreversible	hsa00980	ep
+GSTA1	rt	C14855	irreversible	hsa00980	ep
+GSTA2	rt	C14855	irreversible	hsa00980	ep
+GSTA3	rt	C14855	irreversible	hsa00980	ep
+GSTA4	rt	C14855	irreversible	hsa00980	ep
+GSTM1	rt	C14855	irreversible	hsa00980	ep
+GSTM2	rt	C14855	irreversible	hsa00980	ep
+GSTM3	rt	C14855	irreversible	hsa00980	ep
+GSTM4	rt	C14855	irreversible	hsa00980	ep
+GSTM5	rt	C14855	irreversible	hsa00980	ep
+GSTP1	rt	C14855	irreversible	hsa00980	ep
+GSTT1	rt	C14855	irreversible	hsa00980	ep
+GSTT2	rt	C14855	irreversible	hsa00980	ep
+GSTK1	rt	C14855	irreversible	hsa00980	ep
+MGST1	rt	C14855	irreversible	hsa00980	ep
+MGST2	rt	C14855	irreversible	hsa00980	ep
+MGST3	rt	C14855	irreversible	hsa00980	ep
+GSTT2B	rt	C14855	irreversible	hsa00980	ep
+GSTO1	rt	C14855	irreversible	hsa00980	ep
+C14850	rt	EPHX1, EPHX, EPOX, HYL1, MEH	irreversible	hsa00980	se
+EPHX1, EPHX, EPOX, HYL1, MEH	rt	C14852	irreversible	hsa00980	ep
+C14858	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14858	rt	GSTA5	irreversible	hsa00980	se
+C14858	rt	HPGDS	irreversible	hsa00980	se
+C14858	rt	GSTA1	irreversible	hsa00980	se
+C14858	rt	GSTA2	irreversible	hsa00980	se
+C14858	rt	GSTA3	irreversible	hsa00980	se
+C14858	rt	GSTA4	irreversible	hsa00980	se
+C14858	rt	GSTM1	irreversible	hsa00980	se
+C14858	rt	GSTM2	irreversible	hsa00980	se
+C14858	rt	GSTM3	irreversible	hsa00980	se
+C14858	rt	GSTM4	irreversible	hsa00980	se
+C14858	rt	GSTM5	irreversible	hsa00980	se
+C14858	rt	GSTP1	irreversible	hsa00980	se
+C14858	rt	GSTT1	irreversible	hsa00980	se
+C14858	rt	GSTT2	irreversible	hsa00980	se
+C14858	rt	GSTK1	irreversible	hsa00980	se
+C14858	rt	MGST1	irreversible	hsa00980	se
+C14858	rt	MGST2	irreversible	hsa00980	se
+C14858	rt	MGST3	irreversible	hsa00980	se
+C14858	rt	GSTT2B	irreversible	hsa00980	se
+C14858	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14861	irreversible	hsa00980	ep
+GSTA5	rt	C14861	irreversible	hsa00980	ep
+HPGDS	rt	C14861	irreversible	hsa00980	ep
+GSTA1	rt	C14861	irreversible	hsa00980	ep
+GSTA2	rt	C14861	irreversible	hsa00980	ep
+GSTA3	rt	C14861	irreversible	hsa00980	ep
+GSTA4	rt	C14861	irreversible	hsa00980	ep
+GSTM1	rt	C14861	irreversible	hsa00980	ep
+GSTM2	rt	C14861	irreversible	hsa00980	ep
+GSTM3	rt	C14861	irreversible	hsa00980	ep
+GSTM4	rt	C14861	irreversible	hsa00980	ep
+GSTM5	rt	C14861	irreversible	hsa00980	ep
+GSTP1	rt	C14861	irreversible	hsa00980	ep
+GSTT1	rt	C14861	irreversible	hsa00980	ep
+GSTT2	rt	C14861	irreversible	hsa00980	ep
+GSTK1	rt	C14861	irreversible	hsa00980	ep
+MGST1	rt	C14861	irreversible	hsa00980	ep
+MGST2	rt	C14861	irreversible	hsa00980	ep
+MGST3	rt	C14861	irreversible	hsa00980	ep
+GSTT2B	rt	C14861	irreversible	hsa00980	ep
+GSTO1	rt	C14861	irreversible	hsa00980	ep
+C14859	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14859	rt	GSTA5	irreversible	hsa00980	se
+C14859	rt	HPGDS	irreversible	hsa00980	se
+C14859	rt	GSTA1	irreversible	hsa00980	se
+C14859	rt	GSTA2	irreversible	hsa00980	se
+C14859	rt	GSTA3	irreversible	hsa00980	se
+C14859	rt	GSTA4	irreversible	hsa00980	se
+C14859	rt	GSTM1	irreversible	hsa00980	se
+C14859	rt	GSTM2	irreversible	hsa00980	se
+C14859	rt	GSTM3	irreversible	hsa00980	se
+C14859	rt	GSTM4	irreversible	hsa00980	se
+C14859	rt	GSTM5	irreversible	hsa00980	se
+C14859	rt	GSTP1	irreversible	hsa00980	se
+C14859	rt	GSTT1	irreversible	hsa00980	se
+C14859	rt	GSTT2	irreversible	hsa00980	se
+C14859	rt	GSTK1	irreversible	hsa00980	se
+C14859	rt	MGST1	irreversible	hsa00980	se
+C14859	rt	MGST2	irreversible	hsa00980	se
+C14859	rt	MGST3	irreversible	hsa00980	se
+C14859	rt	GSTT2B	irreversible	hsa00980	se
+C14859	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14864	irreversible	hsa00980	ep
+GSTA5	rt	C14864	irreversible	hsa00980	ep
+HPGDS	rt	C14864	irreversible	hsa00980	ep
+GSTA1	rt	C14864	irreversible	hsa00980	ep
+GSTA2	rt	C14864	irreversible	hsa00980	ep
+GSTA3	rt	C14864	irreversible	hsa00980	ep
+GSTA4	rt	C14864	irreversible	hsa00980	ep
+GSTM1	rt	C14864	irreversible	hsa00980	ep
+GSTM2	rt	C14864	irreversible	hsa00980	ep
+GSTM3	rt	C14864	irreversible	hsa00980	ep
+GSTM4	rt	C14864	irreversible	hsa00980	ep
+GSTM5	rt	C14864	irreversible	hsa00980	ep
+GSTP1	rt	C14864	irreversible	hsa00980	ep
+GSTT1	rt	C14864	irreversible	hsa00980	ep
+GSTT2	rt	C14864	irreversible	hsa00980	ep
+GSTK1	rt	C14864	irreversible	hsa00980	ep
+MGST1	rt	C14864	irreversible	hsa00980	ep
+MGST2	rt	C14864	irreversible	hsa00980	ep
+MGST3	rt	C14864	irreversible	hsa00980	ep
+GSTT2B	rt	C14864	irreversible	hsa00980	ep
+GSTO1	rt	C14864	irreversible	hsa00980	ep
+C14786	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14786	rt	GSTA5	irreversible	hsa00980	se
+C14786	rt	HPGDS	irreversible	hsa00980	se
+C14786	rt	GSTA1	irreversible	hsa00980	se
+C14786	rt	GSTA2	irreversible	hsa00980	se
+C14786	rt	GSTA3	irreversible	hsa00980	se
+C14786	rt	GSTA4	irreversible	hsa00980	se
+C14786	rt	GSTM1	irreversible	hsa00980	se
+C14786	rt	GSTM2	irreversible	hsa00980	se
+C14786	rt	GSTM3	irreversible	hsa00980	se
+C14786	rt	GSTM4	irreversible	hsa00980	se
+C14786	rt	GSTM5	irreversible	hsa00980	se
+C14786	rt	GSTP1	irreversible	hsa00980	se
+C14786	rt	GSTT1	irreversible	hsa00980	se
+C14786	rt	GSTT2	irreversible	hsa00980	se
+C14786	rt	GSTK1	irreversible	hsa00980	se
+C14786	rt	MGST1	irreversible	hsa00980	se
+C14786	rt	MGST2	irreversible	hsa00980	se
+C14786	rt	MGST3	irreversible	hsa00980	se
+C14786	rt	GSTT2B	irreversible	hsa00980	se
+C14786	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14791	irreversible	hsa00980	ep
+GSTA5	rt	C14791	irreversible	hsa00980	ep
+HPGDS	rt	C14791	irreversible	hsa00980	ep
+GSTA1	rt	C14791	irreversible	hsa00980	ep
+GSTA2	rt	C14791	irreversible	hsa00980	ep
+GSTA3	rt	C14791	irreversible	hsa00980	ep
+GSTA4	rt	C14791	irreversible	hsa00980	ep
+GSTM1	rt	C14791	irreversible	hsa00980	ep
+GSTM2	rt	C14791	irreversible	hsa00980	ep
+GSTM3	rt	C14791	irreversible	hsa00980	ep
+GSTM4	rt	C14791	irreversible	hsa00980	ep
+GSTM5	rt	C14791	irreversible	hsa00980	ep
+GSTP1	rt	C14791	irreversible	hsa00980	ep
+GSTT1	rt	C14791	irreversible	hsa00980	ep
+GSTT2	rt	C14791	irreversible	hsa00980	ep
+GSTK1	rt	C14791	irreversible	hsa00980	ep
+MGST1	rt	C14791	irreversible	hsa00980	ep
+MGST2	rt	C14791	irreversible	hsa00980	ep
+MGST3	rt	C14791	irreversible	hsa00980	ep
+GSTT2B	rt	C14791	irreversible	hsa00980	ep
+GSTO1	rt	C14791	irreversible	hsa00980	ep
+C14865	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14865	rt	GSTA5	irreversible	hsa00980	se
+C14865	rt	HPGDS	irreversible	hsa00980	se
+C14865	rt	GSTA1	irreversible	hsa00980	se
+C14865	rt	GSTA2	irreversible	hsa00980	se
+C14865	rt	GSTA3	irreversible	hsa00980	se
+C14865	rt	GSTA4	irreversible	hsa00980	se
+C14865	rt	GSTM1	irreversible	hsa00980	se
+C14865	rt	GSTM2	irreversible	hsa00980	se
+C14865	rt	GSTM3	irreversible	hsa00980	se
+C14865	rt	GSTM4	irreversible	hsa00980	se
+C14865	rt	GSTM5	irreversible	hsa00980	se
+C14865	rt	GSTP1	irreversible	hsa00980	se
+C14865	rt	GSTT1	irreversible	hsa00980	se
+C14865	rt	GSTT2	irreversible	hsa00980	se
+C14865	rt	GSTK1	irreversible	hsa00980	se
+C14865	rt	MGST1	irreversible	hsa00980	se
+C14865	rt	MGST2	irreversible	hsa00980	se
+C14865	rt	MGST3	irreversible	hsa00980	se
+C14865	rt	GSTT2B	irreversible	hsa00980	se
+C14865	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14863	irreversible	hsa00980	ep
+GSTA5	rt	C14863	irreversible	hsa00980	ep
+HPGDS	rt	C14863	irreversible	hsa00980	ep
+GSTA1	rt	C14863	irreversible	hsa00980	ep
+GSTA2	rt	C14863	irreversible	hsa00980	ep
+GSTA3	rt	C14863	irreversible	hsa00980	ep
+GSTA4	rt	C14863	irreversible	hsa00980	ep
+GSTM1	rt	C14863	irreversible	hsa00980	ep
+GSTM2	rt	C14863	irreversible	hsa00980	ep
+GSTM3	rt	C14863	irreversible	hsa00980	ep
+GSTM4	rt	C14863	irreversible	hsa00980	ep
+GSTM5	rt	C14863	irreversible	hsa00980	ep
+GSTP1	rt	C14863	irreversible	hsa00980	ep
+GSTT1	rt	C14863	irreversible	hsa00980	ep
+GSTT2	rt	C14863	irreversible	hsa00980	ep
+GSTK1	rt	C14863	irreversible	hsa00980	ep
+MGST1	rt	C14863	irreversible	hsa00980	ep
+MGST2	rt	C14863	irreversible	hsa00980	ep
+MGST3	rt	C14863	irreversible	hsa00980	ep
+GSTT2B	rt	C14863	irreversible	hsa00980	ep
+GSTO1	rt	C14863	irreversible	hsa00980	ep
+C14839	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C14839	rt	GSTA5	irreversible	hsa00980	se
+C14839	rt	HPGDS	irreversible	hsa00980	se
+C14839	rt	GSTA1	irreversible	hsa00980	se
+C14839	rt	GSTA2	irreversible	hsa00980	se
+C14839	rt	GSTA3	irreversible	hsa00980	se
+C14839	rt	GSTA4	irreversible	hsa00980	se
+C14839	rt	GSTM1	irreversible	hsa00980	se
+C14839	rt	GSTM2	irreversible	hsa00980	se
+C14839	rt	GSTM3	irreversible	hsa00980	se
+C14839	rt	GSTM4	irreversible	hsa00980	se
+C14839	rt	GSTM5	irreversible	hsa00980	se
+C14839	rt	GSTP1	irreversible	hsa00980	se
+C14839	rt	GSTT1	irreversible	hsa00980	se
+C14839	rt	GSTT2	irreversible	hsa00980	se
+C14839	rt	GSTK1	irreversible	hsa00980	se
+C14839	rt	MGST1	irreversible	hsa00980	se
+C14839	rt	MGST2	irreversible	hsa00980	se
+C14839	rt	MGST3	irreversible	hsa00980	se
+C14839	rt	GSTT2B	irreversible	hsa00980	se
+C14839	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C14847	irreversible	hsa00980	ep
+GSTA5	rt	C14847	irreversible	hsa00980	ep
+HPGDS	rt	C14847	irreversible	hsa00980	ep
+GSTA1	rt	C14847	irreversible	hsa00980	ep
+GSTA2	rt	C14847	irreversible	hsa00980	ep
+GSTA3	rt	C14847	irreversible	hsa00980	ep
+GSTA4	rt	C14847	irreversible	hsa00980	ep
+GSTM1	rt	C14847	irreversible	hsa00980	ep
+GSTM2	rt	C14847	irreversible	hsa00980	ep
+GSTM3	rt	C14847	irreversible	hsa00980	ep
+GSTM4	rt	C14847	irreversible	hsa00980	ep
+GSTM5	rt	C14847	irreversible	hsa00980	ep
+GSTP1	rt	C14847	irreversible	hsa00980	ep
+GSTT1	rt	C14847	irreversible	hsa00980	ep
+GSTT2	rt	C14847	irreversible	hsa00980	ep
+GSTK1	rt	C14847	irreversible	hsa00980	ep
+MGST1	rt	C14847	irreversible	hsa00980	ep
+MGST2	rt	C14847	irreversible	hsa00980	ep
+MGST3	rt	C14847	irreversible	hsa00980	ep
+GSTT2B	rt	C14847	irreversible	hsa00980	ep
+GSTO1	rt	C14847	irreversible	hsa00980	ep
+C06205	rt	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	irreversible	hsa00980	se
+C06205	rt	DHDH	irreversible	hsa00980	se
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	rt	C03012	irreversible	hsa00980	ep
+DHDH	rt	C03012	irreversible	hsa00980	ep
+C14800	rt	EPHX1, EPHX, EPOX, HYL1, MEH	irreversible	hsa00980	se
+EPHX1, EPHX, EPOX, HYL1, MEH	rt	C14801	irreversible	hsa00980	ep
+C19574	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C19580	irreversible	hsa00980	ep
+C19574	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C19577	irreversible	hsa00980	ep
+C16453	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C16453	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C19566	irreversible	hsa00980	ep
+CYP1A2	rt	C19566	irreversible	hsa00980	ep
+C16453	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C19563	irreversible	hsa00980	ep
+C19604	rt	EPHX1, EPHX, EPOX, HYL1, MEH	irreversible	hsa00980	se
+EPHX1, EPHX, EPOX, HYL1, MEH	rt	C19607	irreversible	hsa00980	ep
+C19586	rt	GSTO2, GSTO_2-2, bA127L201	irreversible	hsa00980	se
+C19586	rt	GSTA5	irreversible	hsa00980	se
+C19586	rt	HPGDS	irreversible	hsa00980	se
+C19586	rt	GSTA1	irreversible	hsa00980	se
+C19586	rt	GSTA2	irreversible	hsa00980	se
+C19586	rt	GSTA3	irreversible	hsa00980	se
+C19586	rt	GSTA4	irreversible	hsa00980	se
+C19586	rt	GSTM1	irreversible	hsa00980	se
+C19586	rt	GSTM2	irreversible	hsa00980	se
+C19586	rt	GSTM3	irreversible	hsa00980	se
+C19586	rt	GSTM4	irreversible	hsa00980	se
+C19586	rt	GSTM5	irreversible	hsa00980	se
+C19586	rt	GSTP1	irreversible	hsa00980	se
+C19586	rt	GSTT1	irreversible	hsa00980	se
+C19586	rt	GSTT2	irreversible	hsa00980	se
+C19586	rt	GSTK1	irreversible	hsa00980	se
+C19586	rt	MGST1	irreversible	hsa00980	se
+C19586	rt	MGST2	irreversible	hsa00980	se
+C19586	rt	MGST3	irreversible	hsa00980	se
+C19586	rt	GSTT2B	irreversible	hsa00980	se
+C19586	rt	GSTO1	irreversible	hsa00980	se
+GSTO2, GSTO_2-2, bA127L201	rt	C11278	irreversible	hsa00980	ep
+GSTA5	rt	C11278	irreversible	hsa00980	ep
+HPGDS	rt	C11278	irreversible	hsa00980	ep
+GSTA1	rt	C11278	irreversible	hsa00980	ep
+GSTA2	rt	C11278	irreversible	hsa00980	ep
+GSTA3	rt	C11278	irreversible	hsa00980	ep
+GSTA4	rt	C11278	irreversible	hsa00980	ep
+GSTM1	rt	C11278	irreversible	hsa00980	ep
+GSTM2	rt	C11278	irreversible	hsa00980	ep
+GSTM3	rt	C11278	irreversible	hsa00980	ep
+GSTM4	rt	C11278	irreversible	hsa00980	ep
+GSTM5	rt	C11278	irreversible	hsa00980	ep
+GSTP1	rt	C11278	irreversible	hsa00980	ep
+GSTT1	rt	C11278	irreversible	hsa00980	ep
+GSTT2	rt	C11278	irreversible	hsa00980	ep
+GSTK1	rt	C11278	irreversible	hsa00980	ep
+MGST1	rt	C11278	irreversible	hsa00980	ep
+MGST2	rt	C11278	irreversible	hsa00980	ep
+MGST3	rt	C11278	irreversible	hsa00980	ep
+GSTT2B	rt	C11278	irreversible	hsa00980	ep
+GSTO1	rt	C11278	irreversible	hsa00980	ep
+C16756	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19594	irreversible	hsa00980	ep
+C06800	rt	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	irreversible	hsa00980	se
+C06800	rt	CYP1A1	irreversible	hsa00980	se
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	rt	C19595	irreversible	hsa00980	ep
+CYP1A1	rt	C19595	irreversible	hsa00980	ep
+C16453	rt	CBR1, CBR, SDR21C1, hCBR1	irreversible	hsa00980	se
+C16453	rt	CBR3	irreversible	hsa00980	se
+CBR1, CBR, SDR21C1, hCBR1	rt	C19574	irreversible	hsa00980	ep
+CBR3	rt	C19574	irreversible	hsa00980	ep
+C16453	rt	AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	irreversible	hsa00980	se
+C16453	rt	DHDH	irreversible	hsa00980	se
+AKR1C1, 2-ALPHA-HSD, 20-ALPHA-HSD, C9, DD1, DD1/DD2, DDH, DDH1, H-37, HAKRC, HBAB, MBAB	rt	C19574	irreversible	hsa00980	ep
+DHDH	rt	C19574	irreversible	hsa00980	ep
+C16453	rt	HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	irreversible	hsa00980	se
+HSD11B1, 11-DH, 11-beta-HSD1, CORTRD2, HDL, HSD11, HSD11B, HSD11L, SDR26C1	rt	C19574	irreversible	hsa00980	ep
+C06800	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C06800	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C19585	irreversible	hsa00980	ep
+CYP3A5	rt	C19585	irreversible	hsa00980	ep
+C19586	rt	EPHX1, EPHX, EPOX, HYL1, MEH	irreversible	hsa00980	se
+EPHX1, EPHX, EPOX, HYL1, MEH	rt	C19588	irreversible	hsa00980	ep
+C06800	rt	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	irreversible	hsa00980	se
+C06800	rt	CYP1A1	irreversible	hsa00980	se
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	rt	C16756	irreversible	hsa00980	ep
+CYP1A1	rt	C16756	irreversible	hsa00980	ep
+C19561	rt	SULT2A1, DHEA-ST, DHEAS, HST, ST2, ST2A1, ST2A3, STD, hSTa	irreversible	hsa00980	se
+SULT2A1, DHEA-ST, DHEAS, HST, ST2, ST2A1, ST2A3, STD, hSTa	rt	C19562	irreversible	hsa00980	ep
+C19489	rt	EPHX1, EPHX, EPOX, HYL1, MEH	irreversible	hsa00980	se
+EPHX1, EPHX, EPOX, HYL1, MEH	rt	C19490	irreversible	hsa00980	ep
+C19488	rt	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	irreversible	hsa00980	se
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C19489	irreversible	hsa00980	ep
+C19488	rt	CYP2B6, CPB6, CYP2B, CYP2B7, CYP2B7P, CYPIIB6, EFVM, IIB1, P450	irreversible	hsa00980	se
+CYP2B6, CPB6, CYP2B, CYP2B7, CYP2B7P, CYPIIB6, EFVM, IIB1, P450	rt	C19561	irreversible	hsa00980	ep
+C19488	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C19488	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C19604	irreversible	hsa00980	ep
+CYP1A2	rt	C19604	irreversible	hsa00980	ep
+C19490	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C19490	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C19559	irreversible	hsa00980	ep
+CYP1A2	rt	C19559	irreversible	hsa00980	ep
+C06800	rt	CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	irreversible	hsa00980	se
+C06800	rt	CYP1A1	irreversible	hsa00980	se
+CYP1A2, CP12, CYPIA2, P3-450, P450(PA)	rt	C19586	irreversible	hsa00980	ep
+CYP1A1	rt	C19586	irreversible	hsa00980	ep
+C14039	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14858	irreversible	hsa00980	ep
+C14039	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14859	irreversible	hsa00980	ep
+C06790	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C11148	irreversible	hsa00980	ep
+C06800	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C06800	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C19586	irreversible	hsa00980	ep
+CYP3A5	rt	C19586	irreversible	hsa00980	ep
+C06800	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C19586	irreversible	hsa00980	ep
+C19574	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19577	irreversible	hsa00980	ep
+C19574	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19580	irreversible	hsa00980	ep
+C16453	rt	107987478	irreversible	hsa00980	se
+C16453	rt	CYP2D6	irreversible	hsa00980	se
+C16453	rt	CYP2D7	irreversible	hsa00980	se
+C16453	rt	CYP2D6	irreversible	hsa00980	se
+107987478	rt	C19563	irreversible	hsa00980	ep
+CYP2D6	rt	C19563	irreversible	hsa00980	ep
+CYP2D7	rt	C19563	irreversible	hsa00980	ep
+CYP2D6	rt	C19563	irreversible	hsa00980	ep
+C16453	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C19563	irreversible	hsa00980	ep
+C16453	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C19566	irreversible	hsa00980	ep
+C16453	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C16453	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C19566	irreversible	hsa00980	ep
+CYP3A5	rt	C19566	irreversible	hsa00980	ep
+C16453	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19563	irreversible	hsa00980	ep
+C16453	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19566	irreversible	hsa00980	ep
+C06800	rt	CYP2A13, CPAD, CYP2A, CYPIIA13	irreversible	hsa00980	se
+CYP2A13, CPAD, CYP2A, CYPIIA13	rt	C19586	irreversible	hsa00980	ep
+C07535	rt	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	irreversible	hsa00980	se
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	rt	C14850	irreversible	hsa00980	ep
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	rt	C14851	irreversible	hsa00980	ep
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	rt	C14849	irreversible	hsa00980	ep
+C07535	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C07535	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14850	irreversible	hsa00980	ep
+CYP3A5	rt	C14850	irreversible	hsa00980	ep
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14851	irreversible	hsa00980	ep
+CYP3A5	rt	C14851	irreversible	hsa00980	ep
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14849	irreversible	hsa00980	ep
+CYP3A5	rt	C14849	irreversible	hsa00980	ep
+C07535	rt	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	irreversible	hsa00980	se
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C14850	irreversible	hsa00980	ep
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C14851	irreversible	hsa00980	ep
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C14849	irreversible	hsa00980	ep
+C14556	rt	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	irreversible	hsa00980	se
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	rt	C14854	irreversible	hsa00980	ep
+C14852	rt	CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	irreversible	hsa00980	se
+CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9	rt	C14853	irreversible	hsa00980	ep
+C14852	rt	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	irreversible	hsa00980	se
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C14853	irreversible	hsa00980	ep
+C14852	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C14852	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14853	irreversible	hsa00980	ep
+CYP3A5	rt	C14853	irreversible	hsa00980	ep
+C14556	rt	CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	irreversible	hsa00980	se
+CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1	rt	C14854	irreversible	hsa00980	ep
+C14556	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C14556	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14854	irreversible	hsa00980	ep
+CYP3A5	rt	C14854	irreversible	hsa00980	ep
+C00829	rt	CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	irreversible	hsa00980	se
+C00829	rt	CYP3A5	irreversible	hsa00980	se
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14786	irreversible	hsa00980	ep
+CYP3A5	rt	C14786	irreversible	hsa00980	ep
+CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	rt	C14787	irreversible	hsa00980	ep
+CYP3A5	rt	C14787	irreversible	hsa00980	ep
+C00829	rt	CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	irreversible	hsa00980	se
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C14786	irreversible	hsa00980	ep
+CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB	rt	C14787	irreversible	hsa00980	ep
+C06790	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C06790	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C11148	irreversible	hsa00980	ep
+CYP1A2	rt	C11148	irreversible	hsa00980	ep
+C06790	rt	CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	irreversible	hsa00980	se
+C06790	rt	CYP1A2	irreversible	hsa00980	se
+CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX	rt	C14866	irreversible	hsa00980	ep
+CYP1A2	rt	C14866	irreversible	hsa00980	ep
+C14040	rt	CYP2E1, CPE1, CYP2E, P450-J, P450C2E	irreversible	hsa00980	se
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14800	irreversible	hsa00980	ep
+CYP2E1, CPE1, CYP2E, P450-J, P450C2E	rt	C14802	irreversible	hsa00980	ep
+C14876				hsa00980	
+C14875				hsa00980	
+C14877				hsa00980	
+C14873				hsa00980	
+C14872				hsa00980	
+C11149				hsa00980	
+C14867				hsa00980	
+C14862				hsa00980	
+C06755				hsa00980	
+C14860				hsa00980	
+C11036				hsa00980	
+C14842				hsa00980	
+C14844				hsa00980	
+C14846				hsa00980	
+C14843				hsa00980	
+C14841				hsa00980	
+C14805				hsa00980	
+C14790				hsa00980	
+C14803				hsa00980	
+C14789				hsa00980	
+C14806				hsa00980	
+C14804				hsa00980	
+C14788				hsa00980	
+AKR7A3, AFAR2				hsa00980	
+AKR7A2				hsa00980	
+C19591				hsa00980	
+C19592				hsa00980	
+C19590				hsa00980	
+AKR7A3, AFAR2				hsa00980	
+AKR7A2				hsa00980	
+C19589				hsa00980	
+C14784				hsa00980	
+C14798				hsa00980	
+C14797				hsa00980	
+C11713				hsa00980	
+C14783				hsa00980	
+C14799				hsa00980	
+C14793				hsa00980	
+C14792				hsa00980	
+C02617				hsa00980	
+C14796				hsa00980	
+C11714				hsa00980	
+C14785				hsa00980	
+C19567				hsa00980	
+C19568				hsa00980	
+C19564				hsa00980	
+C19565				hsa00980	
+C19569				hsa00980	
+C19578				hsa00980	
+C19581				hsa00980	
+C19582				hsa00980	
+C19579				hsa00980	
+C00745				hsa00980	
+C19602				hsa00980	
+C19603				hsa00980	
+C19605				hsa00980	
+C19606				hsa00980	

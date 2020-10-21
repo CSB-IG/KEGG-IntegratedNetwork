@@ -1,0 +1,140 @@
+MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	ec	MTFMT, COXPD15, FMT1	g-g	hsa00970	compound
+MARS2	ec	MTFMT, COXPD15, FMT1	g-g	hsa00970	compound
+SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS	ec	PSTK, C10orf89	g-g	hsa00970	compound
+SARS2	ec	PSTK, C10orf89	g-g	hsa00970	compound
+PSTK, C10orf89	ec	SEPSECS, LP, PCH2D, SLA, SLA/LP	g-g	hsa00970	compound
+GATC, 15E12	ec	QARS, GLNRS, MSCCA, PRO2195	g-g	hsa00970	compound
+GATB	ec	QARS, GLNRS, MSCCA, PRO2195	g-g	hsa00970	compound
+QRSL1	ec	QARS, GLNRS, MSCCA, PRO2195	g-g	hsa00970	compound
+GATC, 15E12	ec	NARS, ASNRS, NARS1	g-g	hsa00970	compound
+GATC, 15E12	ec	NARS2	g-g	hsa00970	compound
+GATB	ec	NARS, ASNRS, NARS1	g-g	hsa00970	compound
+QRSL1	ec	NARS, ASNRS, NARS1	g-g	hsa00970	compound
+GATB	ec	NARS2	g-g	hsa00970	compound
+QRSL1	ec	NARS2	g-g	hsa00970	compound
+C00152	rt	NARS, ASNRS, NARS1	irreversible	hsa00970	se
+C00152	rt	NARS2	irreversible	hsa00970	se
+NARS, ASNRS, NARS1	rt	C03402	irreversible	hsa00970	ep
+NARS2	rt	C03402	irreversible	hsa00970	ep
+C00135	rt	HARS2, HARSL, HARSR, HO3, HisRS, PRLTS2	irreversible	hsa00970	se
+C00135	rt	HARS	irreversible	hsa00970	se
+HARS2, HARSL, HARSR, HO3, HisRS, PRLTS2	rt	C02988	irreversible	hsa00970	ep
+HARS	rt	C02988	irreversible	hsa00970	ep
+C00079	rt	FARSB, FARSLB, FRSB, HSPC173, NEDBLLA, PheHB, PheRS	irreversible	hsa00970	se
+C00079	rt	FARS2	irreversible	hsa00970	se
+C00079	rt	FARSA	irreversible	hsa00970	se
+FARSB, FARSLB, FRSB, HSPC173, NEDBLLA, PheHB, PheRS	rt	C03511	irreversible	hsa00970	ep
+FARS2	rt	C03511	irreversible	hsa00970	ep
+FARSA	rt	C03511	irreversible	hsa00970	ep
+C00062	rt	RARS2, ArgRS, DALRD2, PCH6, PRO1992, RARSL	irreversible	hsa00970	se
+C00062	rt	RARS	irreversible	hsa00970	se
+RARS2, ArgRS, DALRD2, PCH6, PRO1992, RARSL	rt	C02163	irreversible	hsa00970	ep
+RARS	rt	C02163	irreversible	hsa00970	ep
+C00064	rt	QARS, GLNRS, MSCCA, PRO2195	irreversible	hsa00970	se
+QARS, GLNRS, MSCCA, PRO2195	rt	C02282	irreversible	hsa00970	ep
+C00097	rt	CARS2, COXPD27, cysRS	irreversible	hsa00970	se
+C00097	rt	CARS	irreversible	hsa00970	se
+CARS2, COXPD27, cysRS	rt	C03125	irreversible	hsa00970	ep
+CARS	rt	C03125	irreversible	hsa00970	ep
+C00037	rt	GARS, CMT2D, DSMAV, GlyRS, HMN5, SMAD1	irreversible	hsa00970	se
+GARS, CMT2D, DSMAV, GlyRS, HMN5, SMAD1	rt	C02412	irreversible	hsa00970	ep
+C00049	rt	DARS, HBSL, aspRS	irreversible	hsa00970	se
+C00049	rt	DARS2	irreversible	hsa00970	se
+DARS, HBSL, aspRS	rt	C02984	irreversible	hsa00970	ep
+DARS2	rt	C02984	irreversible	hsa00970	ep
+C00065	rt	SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS	irreversible	hsa00970	se
+C00065	rt	SARS2	irreversible	hsa00970	se
+SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS	rt	C02553	irreversible	hsa00970	ep
+SARS2	rt	C02553	irreversible	hsa00970	ep
+C00073	rt	MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	irreversible	hsa00970	se
+C00073	rt	MARS2	irreversible	hsa00970	se
+MARS, CMT2U, ILFS2, ILLD, METRS, MRS, MTRNS, SPG70	rt	C02430	irreversible	hsa00970	ep
+MARS2	rt	C02430	irreversible	hsa00970	ep
+C00183	rt	VARS2, COXPD20, VALRS, VARS2L, VARSL	irreversible	hsa00970	se
+C00183	rt	VARS	irreversible	hsa00970	se
+VARS2, COXPD20, VALRS, VARS2L, VARSL	rt	C02554	irreversible	hsa00970	ep
+VARS	rt	C02554	irreversible	hsa00970	ep
+C00041	rt	AARS, CMT2N, EIEE29	irreversible	hsa00970	se
+C00041	rt	AARS2	irreversible	hsa00970	se
+AARS, CMT2N, EIEE29	rt	C00886	irreversible	hsa00970	ep
+AARS2	rt	C00886	irreversible	hsa00970	ep
+C00047	rt	KARS, CMTRIB, DFNB89, KARS1, KARS2, KRS	irreversible	hsa00970	se
+KARS, CMTRIB, DFNB89, KARS1, KARS2, KRS	rt	C01931	irreversible	hsa00970	ep
+C00407	rt	IARS, GRIDHH, IARS1, ILERS, ILRS, IRS, PRO0785	irreversible	hsa00970	se
+C00407	rt	IARS2	irreversible	hsa00970	se
+IARS, GRIDHH, IARS1, ILERS, ILRS, IRS, PRO0785	rt	C03127	irreversible	hsa00970	ep
+IARS2	rt	C03127	irreversible	hsa00970	ep
+C00123	rt	LARS2, HLASA, LEURS, PRLTS4, mtLeuRS	irreversible	hsa00970	se
+C00123	rt	LARS	irreversible	hsa00970	se
+LARS2, HLASA, LEURS, PRLTS4, mtLeuRS	rt	C02047	irreversible	hsa00970	ep
+LARS	rt	C02047	irreversible	hsa00970	ep
+C00188	rt	TARSL2	irreversible	hsa00970	se
+C00188	rt	TARS	irreversible	hsa00970	se
+C00188	rt	TARS2	irreversible	hsa00970	se
+TARSL2	rt	C02992	irreversible	hsa00970	ep
+TARS	rt	C02992	irreversible	hsa00970	ep
+TARS2	rt	C02992	irreversible	hsa00970	ep
+C00078	rt	WARS2, NEMMLAS, TrpRS	irreversible	hsa00970	se
+C00078	rt	WARS	irreversible	hsa00970	se
+WARS2, NEMMLAS, TrpRS	rt	C03512	irreversible	hsa00970	ep
+WARS	rt	C03512	irreversible	hsa00970	ep
+C02430	rt	MTFMT, COXPD15, FMT1	irreversible	hsa00970	se
+C00234	rt	MTFMT, COXPD15, FMT1	irreversible	hsa00970	se
+MTFMT, COXPD15, FMT1	rt	C00101	irreversible	hsa00970	ep
+MTFMT, COXPD15, FMT1	rt	C03294	irreversible	hsa00970	ep
+C00082	rt	YARS2, CGI-04, MLASA2, MT-TYRRS, TYRRS	irreversible	hsa00970	se
+C00082	rt	YARS	irreversible	hsa00970	se
+YARS2, CGI-04, MLASA2, MT-TYRRS, TYRRS	rt	C02839	irreversible	hsa00970	ep
+YARS	rt	C02839	irreversible	hsa00970	ep
+C00148	rt	EPRS, EARS, GLUPRORS, HLD15, PARS, PIG32, QARS, QPRS	irreversible	hsa00970	se
+EPRS, EARS, GLUPRORS, HLD15, PARS, PIG32, QARS, QPRS	rt	C02702	irreversible	hsa00970	ep
+C00025	rt	EARS2, COXPD12, MSE1, gluRS	irreversible	hsa00970	se
+C00025	rt	EPRS	irreversible	hsa00970	se
+EARS2, COXPD12, MSE1, gluRS	rt	C02987	irreversible	hsa00970	ep
+EPRS	rt	C02987	irreversible	hsa00970	ep
+C02282	rt	GATC, 15E12	irreversible	hsa00970	se
+C02282	rt	GATB	irreversible	hsa00970	se
+C02282	rt	QRSL1	irreversible	hsa00970	se
+GATC, 15E12	rt	C06112	irreversible	hsa00970	ep
+GATB	rt	C06112	irreversible	hsa00970	ep
+QRSL1	rt	C06112	irreversible	hsa00970	ep
+C03402	rt	GATC, 15E12	irreversible	hsa00970	se
+C03402	rt	GATB	irreversible	hsa00970	se
+C03402	rt	QRSL1	irreversible	hsa00970	se
+GATC, 15E12	rt	C06113	irreversible	hsa00970	ep
+GATB	rt	C06113	irreversible	hsa00970	ep
+QRSL1	rt	C06113	irreversible	hsa00970	ep
+C00065	rt	SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS	irreversible	hsa00970	se
+C00065	rt	SARS2	irreversible	hsa00970	se
+SARS2, SARS, SARSM, SERS, SYS, SerRS, SerRSmt, mtSerRS	rt	C06481	irreversible	hsa00970	ep
+SARS2	rt	C06481	irreversible	hsa00970	ep
+C06481	rt	PSTK, C10orf89	irreversible	hsa00970	se
+PSTK, C10orf89	rt	C16638	irreversible	hsa00970	ep
+C16638	rt	SEPSECS, LP, PCH2D, SLA, SLA/LP	irreversible	hsa00970	se
+SEPSECS, LP, PCH2D, SLA, SLA/LP	rt	C06482	irreversible	hsa00970	ep
+C17022				hsa00970	
+C16138				hsa00970	
+C17027				hsa00970	
+C01005				hsa00970	
+TRNE, MTTE, MT-TE				hsa00970	
+TRNQ, MTTQ, MT-TQ				hsa00970	
+TRNA, MTTA, MT-TA				hsa00970	
+TRND, MTTD, MT-TD				hsa00970	
+TRNS1, MTTS1, MT-TS1				hsa00970	
+TRNS2				hsa00970	
+TRNT, MTTT, MT-TT, LIMM				hsa00970	
+TRNN, MTTN, MT-TN				hsa00970	
+TRNG, MTTG, MT-TG				hsa00970	
+TRNC, MTTC, MT-TC				hsa00970	
+TRNM, MTTM, MT-TM				hsa00970	
+TRNV, MTTV, MT-TV				hsa00970	
+TRNL1, MTTL1, MT-TL1				hsa00970	
+TRNL2				hsa00970	
+TRNI, MTTI, MT-TI				hsa00970	
+TRNK, MTTK, MT-TK, MERRF				hsa00970	
+TRNR, MTTR, MT-TR				hsa00970	
+TRNP, MTTP, MT-TP				hsa00970	
+TRNH, MTTH, MT-TH				hsa00970	
+TRNF, MT-TF, MTTF				hsa00970	
+TRNY, MTTY, MT-TY				hsa00970	
+TRNW, MTTW, MT-TW				hsa00970	

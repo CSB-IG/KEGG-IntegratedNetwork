@@ -1,0 +1,874 @@
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr	CYBA, p22-PHOX	group	hsa04670	group
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	group	hsa04670	group
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	group	hsa04670	group
+CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	group	hsa04670	group
+CYBA, p22-PHOX	gr	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	group	hsa04670	group
+CYBA, p22-PHOX	gr	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	group	hsa04670	group
+CYBA, p22-PHOX	gr	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	group	hsa04670	group
+NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	group	hsa04670	group
+NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	group	hsa04670	group
+NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	group	hsa04670	group
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	group	hsa04670	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA4, CD49D, IA4	group	hsa04670	group
+ITGAL, CD11A, LFA-1, LFA1A	gr	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	group	hsa04670	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA4, CD49D, IA4	group	hsa04670	group
+ITGAL, CD11A, LFA-1, LFA1A	gr	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	group	hsa04670	group
+ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	gr	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	group	hsa04670	group
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	gr	RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	group	hsa04670	group
+RAP1B	gr	RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	group	hsa04670	group
+GNAI1, Gi	ec	RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	g-g	hsa04670	activation
+GNAI1, Gi	ec	RAPGEF4	g-g	hsa04670	activation
+GNAI2	ec	RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	g-g	hsa04670	activation
+GNAI3	ec	RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	g-g	hsa04670	activation
+GNAI2	ec	RAPGEF4	g-g	hsa04670	activation
+GNAI3	ec	RAPGEF4	g-g	hsa04670	activation
+VCAM1, CD106, INCAM-100	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	g-gr	hsa04670	activation
+VCAM1, CD106, INCAM-100	ec	CYBA, p22-PHOX	g-gr	hsa04670	activation
+VCAM1, CD106, INCAM-100	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	g-gr	hsa04670	activation
+VCAM1, CD106, INCAM-100	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	g-gr	hsa04670	activation
+VCAM1, CD106, INCAM-100	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	g-gr	hsa04670	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	ec	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04670	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	ec	PRKCB	g-g	hsa04670	activation
+PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	ec	PRKCG	g-g	hsa04670	activation
+PLCG2	ec	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	g-g	hsa04670	activation
+PLCG2	ec	PRKCB	g-g	hsa04670	activation
+PLCG2	ec	PRKCG	g-g	hsa04670	activation
+MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MMP9	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MMP9	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MMP9	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MMP9	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MMP2, CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+MMP9	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MAPK11	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MAPK13	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MAPK12	ec	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	gr-g	hsa04670	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MAPK11	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MAPK13	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MAPK12	ec	CYBA, p22-PHOX	gr-g	hsa04670	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MAPK11	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MAPK13	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MAPK12	ec	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	gr-g	hsa04670	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MAPK11	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MAPK13	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MAPK12	ec	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	gr-g	hsa04670	activation
+MAPK14, CSBP, CSBP1, CSBP2, CSPB1, EXIP, Mxi2, PRKM14, PRKM15, RK, SAPK2A, p38, p38ALPHA	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+MAPK11	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+MAPK13	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+MAPK12	ec	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	gr-g	hsa04670	activation
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04670	binding/association
+JAM3, JAM-2, JAM-3, JAM-C, JAMC	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	g-gr	hsa04670	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa04670	binding/association
+JAM2, C21orf43, CD322, JAM-B, JAMB, PRO245, VE-JAM, VEJAM	pp	ITGA4, CD49D, IA4	g-gr	hsa04670	binding/association
+CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	pp	CD99, HBA71, MIC2, MIC2X, MIC2Y, MSK5X	g-g	hsa04670	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04670	binding/association
+F11R, CD321, JAM, JAM1, JAMA, JCAM, KAT, PAM-1	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04670	binding/association
+PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04670	binding/association
+CDH5, 7B4, CD144	pp	CTNND1, CAS, CTNND, P120CAS, P120CTN, p120, p120(CAS), p120(CTN)	g-g	hsa04670	binding/association
+CDH5, 7B4, CD144	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04670	binding/association
+CTNNA1, CAP102, MDPT2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04670	binding/association
+CTNNA2	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04670	binding/association
+CTNNA3	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04670	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA1, CAP102, MDPT2	g-g	hsa04670	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA2	g-g	hsa04670	binding/association
+ACTB, BRWS1, PS1TP5BP1	pp	CTNNA3	g-g	hsa04670	binding/association
+ACTG1	pp	CTNNA1, CAP102, MDPT2	g-g	hsa04670	binding/association
+ACTG1	pp	CTNNA2	g-g	hsa04670	binding/association
+ACTG1	pp	CTNNA3	g-g	hsa04670	binding/association
+VCAM1, CD106, INCAM-100	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa04670	binding/association
+VCAM1, CD106, INCAM-100	pp	ITGA4, CD49D, IA4	g-gr	hsa04670	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGAL, CD11A, LFA-1, LFA1A	g-gr	hsa04670	binding/association
+ICAM1, BB2, CD54, P358	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04670	binding/association
+THY1, CD90, CDw90	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	g-gr	hsa04670	binding/association
+THY1, CD90, CDw90	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	g-gr	hsa04670	binding/association
+CXCR4, CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	pp	GNAI1, Gi	g-g	hsa04670	binding/association
+CXCR4, CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	pp	GNAI2	g-g	hsa04670	binding/association
+CXCR4, CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	pp	GNAI3	g-g	hsa04670	binding/association
+CXCL12, IRH, PBSF, SCYB12, SDF1, TLSF, TPAR1, SDF1A, SDF1B	pp	CXCR4, CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	g-g	hsa04670	binding/association
+CDH5, 7B4, CD144	pp	CDH5, 7B4, CD144	g-g	hsa04670	dissociation
+PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	pp	PECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM	g-g	hsa04670	dissociation
+VCAM1, CD106, INCAM-100	pp	MSN, HEL70, IMD50	g-g	hsa04670	binding/association
+VCAM1, CD106, INCAM-100	pp	EZR	g-g	hsa04670	binding/association
+MSN, HEL70, IMD50	pp	ICAM1, BB2, CD54, P358	g-g	hsa04670	binding/association
+EZR	pp	ICAM1, BB2, CD54, P358	g-g	hsa04670	binding/association
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr-gr	hsa04670	activation
+RAP1B	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr-gr	hsa04670	activation
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGA4, CD49D, IA4	gr-gr	hsa04670	activation
+RAP1B	pp	ITGA4, CD49D, IA4	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGA4, CD49D, IA4	gr-gr	hsa04670	activation
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGAL, CD11A, LFA-1, LFA1A	gr-gr	hsa04670	activation
+RAP1B	pp	ITGAL, CD11A, LFA-1, LFA1A	gr-gr	hsa04670	activation
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RAP1B	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGAL, CD11A, LFA-1, LFA1A	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	gr-gr	hsa04670	activation
+RAP1B	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	gr-gr	hsa04670	activation
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RAP1B	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGAM, CD11B, CR3A, MAC-1, MAC1A, MO1A, SLEB6	gr-gr	hsa04670	activation
+RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	pp	ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	gr-gr	hsa04670	activation
+RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	pp	RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	g-gr	hsa04670	activation
+RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	pp	RAP1B	g-gr	hsa04670	activation
+RAPGEF4	pp	RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	g-gr	hsa04670	activation
+RAPGEF4	pp	RAP1B	g-gr	hsa04670	activation
+RAPGEF3, CAMP-GEFI, EPAC, EPAC1, HSU79275, bcm910	pp	RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	g-gr	hsa04670	activation
+RAPGEF4	pp	RASSF5, Maxp1, NORE1, NORE1A, NORE1B, RAPL, RASSF3	g-gr	hsa04670	activation
+ITK, EMT, LPFS1, LYK, PSCTK2	pp	VAV3	g-g	hsa04670	activation
+ITK, EMT, LPFS1, LYK, PSCTK2	pp	VAV1	g-g	hsa04670	activation
+ITK, EMT, LPFS1, LYK, PSCTK2	pp	VAV2	g-g	hsa04670	activation
+TXK	pp	VAV3	g-g	hsa04670	activation
+TXK	pp	VAV1	g-g	hsa04670	activation
+TXK	pp	VAV2	g-g	hsa04670	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	TXK	g-g	hsa04670	activation
+PIK3CB	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3CD	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3R1	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3R2	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3R3	pp	ITK, EMT, LPFS1, LYK, PSCTK2	g-g	hsa04670	activation
+PIK3CB	pp	TXK	g-g	hsa04670	activation
+PIK3CD	pp	TXK	g-g	hsa04670	activation
+PIK3R1	pp	TXK	g-g	hsa04670	activation
+PIK3R2	pp	TXK	g-g	hsa04670	activation
+PIK3R3	pp	TXK	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3CB	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3CD	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3R1	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3R2	g-g	hsa04670	activation
+GNAI1, Gi	pp	PIK3R3	g-g	hsa04670	activation
+GNAI2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04670	activation
+GNAI3	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04670	activation
+GNAI2	pp	PIK3CB	g-g	hsa04670	activation
+GNAI2	pp	PIK3CD	g-g	hsa04670	activation
+GNAI2	pp	PIK3R1	g-g	hsa04670	activation
+GNAI2	pp	PIK3R2	g-g	hsa04670	activation
+GNAI2	pp	PIK3R3	g-g	hsa04670	activation
+GNAI3	pp	PIK3CB	g-g	hsa04670	activation
+GNAI3	pp	PIK3CD	g-g	hsa04670	activation
+GNAI3	pp	PIK3R1	g-g	hsa04670	activation
+GNAI3	pp	PIK3R2	g-g	hsa04670	activation
+GNAI3	pp	PIK3R3	g-g	hsa04670	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	VAV3	gr-g	hsa04670	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	VAV1	gr-g	hsa04670	activation
+ITGAL, CD11A, LFA-1, LFA1A	pp	VAV2	gr-g	hsa04670	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	VAV3	gr-g	hsa04670	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	VAV1	gr-g	hsa04670	activation
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	VAV2	gr-g	hsa04670	activation
+VAV3	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	activation
+VAV1	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	activation
+VAV2	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK1, P160ROCK, ROCK-I	g-g	hsa04670	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK2	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL12B, MLC-B, MRLC2	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL9	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL12A	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYLPF	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL2	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL5	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL7	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL10	g-g	hsa04670	activation
+ROCK2	pp	MYL12B, MLC-B, MRLC2	g-g	hsa04670	activation
+ROCK2	pp	MYL9	g-g	hsa04670	activation
+ROCK2	pp	MYL12A	g-g	hsa04670	activation
+ROCK2	pp	MYLPF	g-g	hsa04670	activation
+ROCK2	pp	MYL2	g-g	hsa04670	activation
+ROCK2	pp	MYL5	g-g	hsa04670	activation
+ROCK2	pp	MYL7	g-g	hsa04670	activation
+ROCK2	pp	MYL10	g-g	hsa04670	activation
+VAV3	pp	RAC2, EN-7, Gx, HSPC022, p21-Rac2	g-g	hsa04670	activation
+VAV1	pp	RAC2, EN-7, Gx, HSPC022, p21-Rac2	g-g	hsa04670	activation
+VAV2	pp	RAC2, EN-7, Gx, HSPC022, p21-Rac2	g-g	hsa04670	activation
+VAV3	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa04670	activation
+VAV1	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa04670	activation
+VAV2	pp	CDC42, CDC42Hs, G25K, TKS	g-g	hsa04670	activation
+VAV3	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	activation
+VAV1	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	activation
+VAV2	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	activation
+ICAM1, BB2, CD54, P358	pp	PLCG1, NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	g-g	hsa04670	activation
+ICAM1, BB2, CD54, P358	pp	PLCG2	g-g	hsa04670	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	CYBB, AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	g-gr	hsa04670	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	CYBA, p22-PHOX	g-gr	hsa04670	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	NCF2, NCF-2, NOXA2, P67-PHOX, P67PHOX	g-gr	hsa04670	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	NCF1, NCF1A, NOXO2, SH3PXD1A, p47phox	g-gr	hsa04670	activation
+RAC1, MIG5, Rac-1, TC-25, p21-Rac1	pp	NCF4, CGD3, NCF, P40PHOX, SH3PXD4	g-gr	hsa04670	activation
+PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	pp	VAV3	g-g	hsa04670	indirect effect
+PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	pp	VAV1	g-g	hsa04670	indirect effect
+PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	pp	VAV2	g-g	hsa04670	indirect effect
+ITGAL, CD11A, LFA-1, LFA1A	pp	PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	gr-g	hsa04670	indirect effect
+ITGB2, CD18, LAD, LCAMB, LFA-1, MAC-1, MF17, MFI7	pp	PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	gr-g	hsa04670	indirect effect
+CXCR4, CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	pp	PTK2B, CADTK, CAKB, FADK2, FAK2, PKB, PTK, PYK2, RAFTK	g-g	hsa04670	indirect effect
+ICAM1, BB2, CD54, P358	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	indirect effect
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	g-g	hsa04670	indirect effect
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	PXN	g-g	hsa04670	indirect effect
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	g-g	hsa04670	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	g-g	hsa04670	indirect effect
+PRKCB	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	g-g	hsa04670	indirect effect
+PRKCG	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	g-g	hsa04670	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	PXN	g-g	hsa04670	indirect effect
+PRKCB	pp	PXN	g-g	hsa04670	indirect effect
+PRKCG	pp	PXN	g-g	hsa04670	indirect effect
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	g-g	hsa04670	indirect effect
+PRKCB	pp	BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	g-g	hsa04670	indirect effect
+PRKCG	pp	BCAR1, CAS, CAS1, CASS1, CRKAS, P130Cas	g-g	hsa04670	indirect effect
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK1, P160ROCK, ROCK-I	g-g	hsa04670	activation
+RHOA, ARH12, ARHA, RHO12, RHOH12	pp	ROCK2	g-g	hsa04670	activation
+MYL12B, MLC-B, MRLC2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL12B, MLC-B, MRLC2	pp	ACTG1	g-g	hsa04670	activation
+MYL9	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL12A	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYLPF	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL2	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL5	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL7	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL10	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	activation
+MYL9	pp	ACTG1	g-g	hsa04670	activation
+MYL12A	pp	ACTG1	g-g	hsa04670	activation
+MYLPF	pp	ACTG1	g-g	hsa04670	activation
+MYL2	pp	ACTG1	g-g	hsa04670	activation
+MYL5	pp	ACTG1	g-g	hsa04670	activation
+MYL7	pp	ACTG1	g-g	hsa04670	activation
+MYL10	pp	ACTG1	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL12B, MLC-B, MRLC2	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL9	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL12A	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYLPF	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL2	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL5	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL7	g-g	hsa04670	activation
+ROCK1, P160ROCK, ROCK-I	pp	MYL10	g-g	hsa04670	activation
+ROCK2	pp	MYL12B, MLC-B, MRLC2	g-g	hsa04670	activation
+ROCK2	pp	MYL9	g-g	hsa04670	activation
+ROCK2	pp	MYL12A	g-g	hsa04670	activation
+ROCK2	pp	MYLPF	g-g	hsa04670	activation
+ROCK2	pp	MYL2	g-g	hsa04670	activation
+ROCK2	pp	MYL5	g-g	hsa04670	activation
+ROCK2	pp	MYL7	g-g	hsa04670	activation
+ROCK2	pp	MYL10	g-g	hsa04670	activation
+MSN, HEL70, IMD50	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	indirect effect
+MSN, HEL70, IMD50	pp	ACTG1	g-g	hsa04670	indirect effect
+EZR	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	indirect effect
+EZR	pp	ACTG1	g-g	hsa04670	indirect effect
+MSN, HEL70, IMD50	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	indirect effect
+MSN, HEL70, IMD50	pp	ACTG1	g-g	hsa04670	indirect effect
+EZR	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04670	indirect effect
+EZR	pp	ACTG1	g-g	hsa04670	indirect effect
+THY1, CD90, CDw90	pp	ARHGAP35, GRF-1, GRLF1, P190-A, P190A, p190ARhoGAP, p190RhoGAP	g-g	hsa04670	inhibition
+THY1, CD90, CDw90	pp	ARHGAP5	g-g	hsa04670	inhibition
+ARHGAP35, GRF-1, GRLF1, P190-A, P190A, p190ARhoGAP, p190RhoGAP	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	inhibition
+ARHGAP5	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	inhibition
+VCAM1, CD106, INCAM-100	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04670	indirect effect
+VCAM1, CD106, INCAM-100	pp	PIK3CB	g-g	hsa04670	indirect effect
+VCAM1, CD106, INCAM-100	pp	PIK3CD	g-g	hsa04670	indirect effect
+VCAM1, CD106, INCAM-100	pp	PIK3R1	g-g	hsa04670	indirect effect
+VCAM1, CD106, INCAM-100	pp	PIK3R2	g-g	hsa04670	indirect effect
+VCAM1, CD106, INCAM-100	pp	PIK3R3	g-g	hsa04670	indirect effect
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+PIK3CB	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+PIK3CD	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+PIK3R1	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+PIK3R2	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+PIK3R3	pp	RAC1, MIG5, Rac-1, TC-25, p21-Rac1	g-g	hsa04670	indirect effect
+CLDN24, CLDN21	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	OCLN	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN24, CLDN21	pp	ESAM	g-g	hsa04670	binding/association
+OCLN	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+ESAM	pp	CLDN24, CLDN21	g-g	hsa04670	binding/association
+OCLN	pp	OCLN	g-g	hsa04670	binding/association
+OCLN	pp	CLDN16	g-g	hsa04670	binding/association
+OCLN	pp	CLDN4	g-g	hsa04670	binding/association
+OCLN	pp	CLDN3	g-g	hsa04670	binding/association
+OCLN	pp	CLDN7	g-g	hsa04670	binding/association
+OCLN	pp	CLDN23	g-g	hsa04670	binding/association
+OCLN	pp	CLDN19	g-g	hsa04670	binding/association
+OCLN	pp	CLDN14	g-g	hsa04670	binding/association
+OCLN	pp	CLDN15	g-g	hsa04670	binding/association
+OCLN	pp	CLDN17	g-g	hsa04670	binding/association
+OCLN	pp	CLDN20	g-g	hsa04670	binding/association
+OCLN	pp	CLDN11	g-g	hsa04670	binding/association
+OCLN	pp	CLDN18	g-g	hsa04670	binding/association
+OCLN	pp	CLDN22	g-g	hsa04670	binding/association
+OCLN	pp	CLDN25	g-g	hsa04670	binding/association
+OCLN	pp	CLDN5	g-g	hsa04670	binding/association
+OCLN	pp	CLDN10	g-g	hsa04670	binding/association
+OCLN	pp	CLDN8	g-g	hsa04670	binding/association
+OCLN	pp	CLDN6	g-g	hsa04670	binding/association
+OCLN	pp	CLDN2	g-g	hsa04670	binding/association
+OCLN	pp	CLDN1	g-g	hsa04670	binding/association
+OCLN	pp	CLDN9	g-g	hsa04670	binding/association
+OCLN	pp	ESAM	g-g	hsa04670	binding/association
+CLDN16	pp	OCLN	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN16	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN16	pp	ESAM	g-g	hsa04670	binding/association
+CLDN4	pp	OCLN	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN4	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN4	pp	ESAM	g-g	hsa04670	binding/association
+CLDN3	pp	OCLN	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN3	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN3	pp	ESAM	g-g	hsa04670	binding/association
+CLDN7	pp	OCLN	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN7	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN7	pp	ESAM	g-g	hsa04670	binding/association
+CLDN23	pp	OCLN	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN23	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN23	pp	ESAM	g-g	hsa04670	binding/association
+CLDN19	pp	OCLN	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN19	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN19	pp	ESAM	g-g	hsa04670	binding/association
+CLDN14	pp	OCLN	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN14	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN14	pp	ESAM	g-g	hsa04670	binding/association
+CLDN15	pp	OCLN	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN15	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN15	pp	ESAM	g-g	hsa04670	binding/association
+CLDN17	pp	OCLN	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN17	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN17	pp	ESAM	g-g	hsa04670	binding/association
+CLDN20	pp	OCLN	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN20	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN20	pp	ESAM	g-g	hsa04670	binding/association
+CLDN11	pp	OCLN	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN11	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN11	pp	ESAM	g-g	hsa04670	binding/association
+CLDN18	pp	OCLN	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN18	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN18	pp	ESAM	g-g	hsa04670	binding/association
+CLDN22	pp	OCLN	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN22	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN22	pp	ESAM	g-g	hsa04670	binding/association
+CLDN25	pp	OCLN	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN25	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN25	pp	ESAM	g-g	hsa04670	binding/association
+CLDN5	pp	OCLN	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN5	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN5	pp	ESAM	g-g	hsa04670	binding/association
+CLDN10	pp	OCLN	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN10	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN10	pp	ESAM	g-g	hsa04670	binding/association
+CLDN8	pp	OCLN	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN8	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN8	pp	ESAM	g-g	hsa04670	binding/association
+CLDN6	pp	OCLN	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN6	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN6	pp	ESAM	g-g	hsa04670	binding/association
+CLDN2	pp	OCLN	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN2	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN2	pp	ESAM	g-g	hsa04670	binding/association
+CLDN1	pp	OCLN	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN1	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN1	pp	ESAM	g-g	hsa04670	binding/association
+CLDN9	pp	OCLN	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN16	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN4	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN3	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN7	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN23	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN19	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN14	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN15	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN17	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN20	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN11	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN18	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN22	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN25	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN5	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN10	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN8	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN6	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN2	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN1	g-g	hsa04670	binding/association
+CLDN9	pp	CLDN9	g-g	hsa04670	binding/association
+CLDN9	pp	ESAM	g-g	hsa04670	binding/association
+ESAM	pp	OCLN	g-g	hsa04670	binding/association
+ESAM	pp	CLDN16	g-g	hsa04670	binding/association
+ESAM	pp	CLDN4	g-g	hsa04670	binding/association
+ESAM	pp	CLDN3	g-g	hsa04670	binding/association
+ESAM	pp	CLDN7	g-g	hsa04670	binding/association
+ESAM	pp	CLDN23	g-g	hsa04670	binding/association
+ESAM	pp	CLDN19	g-g	hsa04670	binding/association
+ESAM	pp	CLDN14	g-g	hsa04670	binding/association
+ESAM	pp	CLDN15	g-g	hsa04670	binding/association
+ESAM	pp	CLDN17	g-g	hsa04670	binding/association
+ESAM	pp	CLDN20	g-g	hsa04670	binding/association
+ESAM	pp	CLDN11	g-g	hsa04670	binding/association
+ESAM	pp	CLDN18	g-g	hsa04670	binding/association
+ESAM	pp	CLDN22	g-g	hsa04670	binding/association
+ESAM	pp	CLDN25	g-g	hsa04670	binding/association
+ESAM	pp	CLDN5	g-g	hsa04670	binding/association
+ESAM	pp	CLDN10	g-g	hsa04670	binding/association
+ESAM	pp	CLDN8	g-g	hsa04670	binding/association
+ESAM	pp	CLDN6	g-g	hsa04670	binding/association
+ESAM	pp	CLDN2	g-g	hsa04670	binding/association
+ESAM	pp	CLDN1	g-g	hsa04670	binding/association
+ESAM	pp	CLDN9	g-g	hsa04670	binding/association
+ESAM	pp	ESAM	g-g	hsa04670	binding/association
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	inhibition
+RAP1B	pp	RHOA, ARH12, ARHA, RHO12, RHOH12	g-g	hsa04670	inhibition
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04670	binding/association
+RAP1B	pp	AFDN, AF6, MLL-AF6, MLLT4	g-g	hsa04670	binding/association
+RAP1A, C21KG, G-22K, KREV-1, KREV1, RAP1, SMGP21	pp	SIPA1, SPA1	g-g	hsa04670	inhibition
+RAP1B	pp	SIPA1, SPA1	g-g	hsa04670	inhibition
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2				hsa04670	
+C00027				hsa04670	
+C00076				hsa04670	
+PTPN11, BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2				hsa04670	
+C00076				hsa04670	
+C00575				hsa04670	
+C04637				hsa04670	
+RHOH, ARHH, TTF				hsa04670	
+VCL, CMD1W, CMH15, HEL114, MV, MVCL				hsa04670	
+VASP				hsa04670	
+ACTN4, ACTININ-4, FSGS, FSGS1				hsa04670	
+ACTN1				hsa04670	

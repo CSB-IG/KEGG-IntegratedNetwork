@@ -1,0 +1,461 @@
+MGAM, MG, MGA	ec	SI	g-g	hsa00500	compound
+GAA	ec	SI	g-g	hsa00500	compound
+GANC	ec	SI	g-g	hsa00500	compound
+MGAM2	ec	SI	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	SI	g-g	hsa00500	compound
+GAA	ec	SI	g-g	hsa00500	compound
+GANC	ec	SI	g-g	hsa00500	compound
+MGAM2	ec	SI	g-g	hsa00500	compound
+GAA, LYAG	ec	SI	g-g	hsa00500	compound
+GANC	ec	SI	g-g	hsa00500	compound
+MGAM	ec	SI	g-g	hsa00500	compound
+MGAM2	ec	SI	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	SI	g-g	hsa00500	compound
+GAA	ec	SI	g-g	hsa00500	compound
+GANC	ec	SI	g-g	hsa00500	compound
+MGAM2	ec	SI	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	GAA, LYAG	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	GANC	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	MGAM	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	MGAM2	g-g	hsa00500	compound
+GAA	ec	GAA, LYAG	g-g	hsa00500	compound
+GANC	ec	GAA, LYAG	g-g	hsa00500	compound
+MGAM2	ec	GAA, LYAG	g-g	hsa00500	compound
+GAA	ec	GANC	g-g	hsa00500	compound
+GAA	ec	MGAM	g-g	hsa00500	compound
+GAA	ec	MGAM2	g-g	hsa00500	compound
+GANC	ec	GANC	g-g	hsa00500	compound
+GANC	ec	MGAM	g-g	hsa00500	compound
+GANC	ec	MGAM2	g-g	hsa00500	compound
+MGAM2	ec	GANC	g-g	hsa00500	compound
+MGAM2	ec	MGAM	g-g	hsa00500	compound
+MGAM2	ec	MGAM2	g-g	hsa00500	compound
+GAA, LYAG	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+GAA, LYAG	ec	GAA	g-g	hsa00500	compound
+GAA, LYAG	ec	GANC	g-g	hsa00500	compound
+GAA, LYAG	ec	MGAM2	g-g	hsa00500	compound
+GANC	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+MGAM	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+MGAM2	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+GANC	ec	GAA	g-g	hsa00500	compound
+GANC	ec	GANC	g-g	hsa00500	compound
+GANC	ec	MGAM2	g-g	hsa00500	compound
+MGAM	ec	GAA	g-g	hsa00500	compound
+MGAM	ec	GANC	g-g	hsa00500	compound
+MGAM	ec	MGAM2	g-g	hsa00500	compound
+MGAM2	ec	GAA	g-g	hsa00500	compound
+MGAM2	ec	GANC	g-g	hsa00500	compound
+MGAM2	ec	MGAM2	g-g	hsa00500	compound
+GAA, LYAG	ec	SI	g-g	hsa00500	compound
+GANC	ec	SI	g-g	hsa00500	compound
+MGAM	ec	SI	g-g	hsa00500	compound
+MGAM2	ec	SI	g-g	hsa00500	compound
+GBE1, APBD, GBE, GSD4	ec	AGL, GDE	g-g	hsa00500	compound
+GBE1, APBD, GBE, GSD4	ec	PYGB	g-g	hsa00500	compound
+GBE1, APBD, GBE, GSD4	ec	PYGL	g-g	hsa00500	compound
+GBE1, APBD, GBE, GSD4	ec	PYGM	g-g	hsa00500	compound
+GYG1, GSD15, GYG	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+GYS1	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+GYS2	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+GYG2	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HK2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HK3	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HKDC1	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+PGM2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	g-g	hsa00500	compound
+PGM2	ec	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	HK2	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	HK3	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	HKDC1	g-g	hsa00500	compound
+PGM2	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+PGM2	ec	HK2	g-g	hsa00500	compound
+PGM2	ec	HK3	g-g	hsa00500	compound
+PGM2	ec	HKDC1	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	G6PC2	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	G6PC3	g-g	hsa00500	compound
+PGM2	ec	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	g-g	hsa00500	compound
+PGM2	ec	G6PC2	g-g	hsa00500	compound
+PGM2	ec	G6PC3	g-g	hsa00500	compound
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HK2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HK3	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+HKDC1	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+G6PC2	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+G6PC3	ec	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GYG1, GSD15, GYG	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GYS1	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GYS2	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	GYG2	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	GYG1, GSD15, GYG	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	GYS1	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	GYS2	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	GYG2	g-g	hsa00500	compound
+ENPP3	ec	GYG1, GSD15, GYG	g-g	hsa00500	compound
+ENPP3	ec	GYS1	g-g	hsa00500	compound
+ENPP3	ec	GYS2	g-g	hsa00500	compound
+ENPP3	ec	GYG2	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	AGL, GDE	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	PYGB	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	PYGL	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	PYGM	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	PGM1, CDG1T, GSD14	g-g	hsa00500	compound
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	ec	PGM2	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	AGL, GDE	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	PYGB	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	PYGL	g-g	hsa00500	compound
+PGM1, CDG1T, GSD14	ec	PYGM	g-g	hsa00500	compound
+PGM2	ec	AGL, GDE	g-g	hsa00500	compound
+PGM2	ec	PYGB	g-g	hsa00500	compound
+PGM2	ec	PYGL	g-g	hsa00500	compound
+PGM2	ec	PYGM	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	AGL, GDE	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	PYGB	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	PYGL	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	PYGM	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	AGL, GDE	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PYGB	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PYGL	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PYGM	g-g	hsa00500	compound
+ENPP3	ec	AGL, GDE	g-g	hsa00500	compound
+ENPP3	ec	PYGB	g-g	hsa00500	compound
+ENPP3	ec	PYGL	g-g	hsa00500	compound
+ENPP3	ec	PYGM	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	PGM1, CDG1T, GSD14	g-g	hsa00500	compound
+PGM2L1, BM32A, PMMLP	ec	PGM2	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PGM1, CDG1T, GSD14	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PGM2	g-g	hsa00500	compound
+ENPP3	ec	PGM1, CDG1T, GSD14	g-g	hsa00500	compound
+ENPP3	ec	PGM2	g-g	hsa00500	compound
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	ec	PGM2L1, BM32A, PMMLP	g-g	hsa00500	compound
+ENPP3	ec	PGM2L1, BM32A, PMMLP	g-g	hsa00500	compound
+GAA, LYAG	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+GAA, LYAG	ec	HK2	g-g	hsa00500	compound
+GAA, LYAG	ec	HK3	g-g	hsa00500	compound
+GAA, LYAG	ec	HKDC1	g-g	hsa00500	compound
+GANC	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+MGAM	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+MGAM2	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+GANC	ec	HK2	g-g	hsa00500	compound
+GANC	ec	HK3	g-g	hsa00500	compound
+GANC	ec	HKDC1	g-g	hsa00500	compound
+MGAM	ec	HK2	g-g	hsa00500	compound
+MGAM	ec	HK3	g-g	hsa00500	compound
+MGAM	ec	HKDC1	g-g	hsa00500	compound
+MGAM2	ec	HK2	g-g	hsa00500	compound
+MGAM2	ec	HK3	g-g	hsa00500	compound
+MGAM2	ec	HKDC1	g-g	hsa00500	compound
+SI	ec	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	g-g	hsa00500	compound
+SI	ec	HK2	g-g	hsa00500	compound
+SI	ec	HK3	g-g	hsa00500	compound
+SI	ec	HKDC1	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+GAA	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+GANC	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+MGAM2	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AGL, GDE	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	PYGB	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	PYGL	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	PYGM	g-g	hsa00500	compound
+GAA	ec	AGL, GDE	g-g	hsa00500	compound
+GANC	ec	AGL, GDE	g-g	hsa00500	compound
+MGAM2	ec	AGL, GDE	g-g	hsa00500	compound
+GAA	ec	PYGB	g-g	hsa00500	compound
+GAA	ec	PYGL	g-g	hsa00500	compound
+GAA	ec	PYGM	g-g	hsa00500	compound
+GANC	ec	PYGB	g-g	hsa00500	compound
+GANC	ec	PYGL	g-g	hsa00500	compound
+GANC	ec	PYGM	g-g	hsa00500	compound
+MGAM2	ec	PYGB	g-g	hsa00500	compound
+MGAM2	ec	PYGL	g-g	hsa00500	compound
+MGAM2	ec	PYGM	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GAA, LYAG	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GANC	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM2	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	SI	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GAA, LYAG	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GANC	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM2	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	SI	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GAA, LYAG	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	GANC	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	MGAM2	g-g	hsa00500	compound
+GBA3, CBG, CBGL1, GLUC, KLRP	ec	SI	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GANC	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM2	g-g	hsa00500	compound
+AMY1B	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1C	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY2A	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY2B	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1B	ec	GANC	g-g	hsa00500	compound
+AMY1B	ec	MGAM	g-g	hsa00500	compound
+AMY1B	ec	MGAM2	g-g	hsa00500	compound
+AMY1C	ec	GANC	g-g	hsa00500	compound
+AMY1C	ec	MGAM	g-g	hsa00500	compound
+AMY1C	ec	MGAM2	g-g	hsa00500	compound
+AMY2A	ec	GANC	g-g	hsa00500	compound
+AMY2A	ec	MGAM	g-g	hsa00500	compound
+AMY2A	ec	MGAM2	g-g	hsa00500	compound
+AMY2B	ec	GANC	g-g	hsa00500	compound
+AMY2B	ec	MGAM	g-g	hsa00500	compound
+AMY2B	ec	MGAM2	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AMY1A, AMY1	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AMY1B	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AMY1C	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AMY2A	g-g	hsa00500	compound
+MGAM, MG, MGA	ec	AMY2B	g-g	hsa00500	compound
+GAA	ec	AMY1A, AMY1	g-g	hsa00500	compound
+GANC	ec	AMY1A, AMY1	g-g	hsa00500	compound
+MGAM2	ec	AMY1A, AMY1	g-g	hsa00500	compound
+GAA	ec	AMY1B	g-g	hsa00500	compound
+GAA	ec	AMY1C	g-g	hsa00500	compound
+GAA	ec	AMY2A	g-g	hsa00500	compound
+GAA	ec	AMY2B	g-g	hsa00500	compound
+GANC	ec	AMY1B	g-g	hsa00500	compound
+GANC	ec	AMY1C	g-g	hsa00500	compound
+GANC	ec	AMY2A	g-g	hsa00500	compound
+GANC	ec	AMY2B	g-g	hsa00500	compound
+MGAM2	ec	AMY1B	g-g	hsa00500	compound
+MGAM2	ec	AMY1C	g-g	hsa00500	compound
+MGAM2	ec	AMY2A	g-g	hsa00500	compound
+MGAM2	ec	AMY2B	g-g	hsa00500	compound
+AMY1A, AMY1	ec	SI	g-g	hsa00500	compound
+AMY1B	ec	SI	g-g	hsa00500	compound
+AMY1C	ec	SI	g-g	hsa00500	compound
+AMY2A	ec	SI	g-g	hsa00500	compound
+AMY2B	ec	SI	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+AMY1B	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+AMY1C	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+AMY2A	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+AMY2B	ec	GBE1, APBD, GBE, GSD4	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GAA	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GANC	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM2	g-g	hsa00500	compound
+AMY1B	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+AMY1C	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+AMY2A	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+AMY2B	ec	MGAM, MG, MGA	g-g	hsa00500	compound
+AMY1B	ec	GAA	g-g	hsa00500	compound
+AMY1B	ec	GANC	g-g	hsa00500	compound
+AMY1B	ec	MGAM2	g-g	hsa00500	compound
+AMY1C	ec	GAA	g-g	hsa00500	compound
+AMY1C	ec	GANC	g-g	hsa00500	compound
+AMY1C	ec	MGAM2	g-g	hsa00500	compound
+AMY2A	ec	GAA	g-g	hsa00500	compound
+AMY2A	ec	GANC	g-g	hsa00500	compound
+AMY2A	ec	MGAM2	g-g	hsa00500	compound
+AMY2B	ec	GAA	g-g	hsa00500	compound
+AMY2B	ec	GANC	g-g	hsa00500	compound
+AMY2B	ec	MGAM2	g-g	hsa00500	compound
+AMY1A, AMY1	ec	AGL, GDE	g-g	hsa00500	compound
+AMY1A, AMY1	ec	PYGB	g-g	hsa00500	compound
+AMY1A, AMY1	ec	PYGL	g-g	hsa00500	compound
+AMY1A, AMY1	ec	PYGM	g-g	hsa00500	compound
+AMY1B	ec	AGL, GDE	g-g	hsa00500	compound
+AMY1C	ec	AGL, GDE	g-g	hsa00500	compound
+AMY2A	ec	AGL, GDE	g-g	hsa00500	compound
+AMY2B	ec	AGL, GDE	g-g	hsa00500	compound
+AMY1B	ec	PYGB	g-g	hsa00500	compound
+AMY1B	ec	PYGL	g-g	hsa00500	compound
+AMY1B	ec	PYGM	g-g	hsa00500	compound
+AMY1C	ec	PYGB	g-g	hsa00500	compound
+AMY1C	ec	PYGL	g-g	hsa00500	compound
+AMY1C	ec	PYGM	g-g	hsa00500	compound
+AMY2A	ec	PYGB	g-g	hsa00500	compound
+AMY2A	ec	PYGL	g-g	hsa00500	compound
+AMY2A	ec	PYGM	g-g	hsa00500	compound
+AMY2B	ec	PYGB	g-g	hsa00500	compound
+AMY2B	ec	PYGL	g-g	hsa00500	compound
+AMY2B	ec	PYGM	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1A, AMY1	ec	GANC	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM	g-g	hsa00500	compound
+AMY1A, AMY1	ec	MGAM2	g-g	hsa00500	compound
+AMY1B	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1C	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY2A	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY2B	ec	GAA, LYAG	g-g	hsa00500	compound
+AMY1B	ec	GANC	g-g	hsa00500	compound
+AMY1B	ec	MGAM	g-g	hsa00500	compound
+AMY1B	ec	MGAM2	g-g	hsa00500	compound
+AMY1C	ec	GANC	g-g	hsa00500	compound
+AMY1C	ec	MGAM	g-g	hsa00500	compound
+AMY1C	ec	MGAM2	g-g	hsa00500	compound
+AMY2A	ec	GANC	g-g	hsa00500	compound
+AMY2A	ec	MGAM	g-g	hsa00500	compound
+AMY2A	ec	MGAM2	g-g	hsa00500	compound
+AMY2B	ec	GANC	g-g	hsa00500	compound
+AMY2B	ec	MGAM	g-g	hsa00500	compound
+AMY2B	ec	MGAM2	g-g	hsa00500	compound
+C01898	rt	GBA3, CBG, CBGL1, GLUC, KLRP	irreversible	hsa00500	se
+GBA3, CBG, CBGL1, GLUC, KLRP	rt	C00185	irreversible	hsa00500	ep
+GBA3, CBG, CBGL1, GLUC, KLRP	rt	C00031	irreversible	hsa00500	ep
+C00185	rt	GBA3, CBG, CBGL1, GLUC, KLRP	irreversible	hsa00500	se
+GBA3, CBG, CBGL1, GLUC, KLRP	rt	C00031	irreversible	hsa00500	ep
+C00095	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	irreversible	hsa00500	se
+C00095	rt	HK2	irreversible	hsa00500	se
+C00095	rt	HK3	irreversible	hsa00500	se
+C00095	rt	HKDC1	irreversible	hsa00500	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00085	irreversible	hsa00500	ep
+HK2	rt	C00085	irreversible	hsa00500	ep
+HK3	rt	C00085	irreversible	hsa00500	ep
+HKDC1	rt	C00085	irreversible	hsa00500	ep
+C00089	rt	GAA, LYAG	irreversible	hsa00500	se
+C00089	rt	GANC	irreversible	hsa00500	se
+C00089	rt	MGAM	irreversible	hsa00500	se
+C00089	rt	MGAM2	irreversible	hsa00500	se
+GAA, LYAG	rt	C00031	irreversible	hsa00500	ep
+GANC	rt	C00031	irreversible	hsa00500	ep
+MGAM	rt	C00031	irreversible	hsa00500	ep
+MGAM2	rt	C00031	irreversible	hsa00500	ep
+GAA, LYAG	rt	C00095	irreversible	hsa00500	ep
+GANC	rt	C00095	irreversible	hsa00500	ep
+MGAM	rt	C00095	irreversible	hsa00500	ep
+MGAM2	rt	C00095	irreversible	hsa00500	ep
+C00089	rt	SI	irreversible	hsa00500	se
+SI	rt	C00031	irreversible	hsa00500	ep
+SI	rt	C00095	irreversible	hsa00500	ep
+C00963	rt	GBA3, CBG, CBGL1, GLUC, KLRP	irreversible	hsa00500	se
+GBA3, CBG, CBGL1, GLUC, KLRP	rt	C00031	irreversible	hsa00500	ep
+C00029	rt	ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	irreversible	hsa00500	se
+C00029	rt	ENPP3	irreversible	hsa00500	se
+ENPP1, ARHR2, COLED, M6S1, NPP1, NPPS, PC-1, PCA1, PDNP1	rt	C00103	irreversible	hsa00500	ep
+ENPP3	rt	C00103	irreversible	hsa00500	ep
+C00103	rt	PGM2L1, BM32A, PMMLP	irreversible	hsa00500	se
+PGM2L1, BM32A, PMMLP	rt	C01231	irreversible	hsa00500	ep
+C00103	rt	UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	irreversible	hsa00500	se
+UGP2, UDPG, UDPGP, UDPGP2, UGP1, UGPP1, UGPP2, pHC379	rt	C00029	irreversible	hsa00500	ep
+C00029	rt	GYG1, GSD15, GYG	irreversible	hsa00500	se
+C00029	rt	GYS1	irreversible	hsa00500	se
+C00029	rt	GYS2	irreversible	hsa00500	se
+C00029	rt	GYG2	irreversible	hsa00500	se
+GYG1, GSD15, GYG	rt	C00718	irreversible	hsa00500	ep
+GYS1	rt	C00718	irreversible	hsa00500	ep
+GYS2	rt	C00718	irreversible	hsa00500	ep
+GYG2	rt	C00718	irreversible	hsa00500	ep
+C00103	rt	PGM1, CDG1T, GSD14	reversible	hsa00500	se
+C00103	rt	PGM2	reversible	hsa00500	se
+PGM1, CDG1T, GSD14	rt	C00103	reversible	hsa00500	ep
+PGM2	rt	C00103	reversible	hsa00500	ep
+PGM1, CDG1T, GSD14	rt	C00092	reversible	hsa00500	ep
+PGM2	rt	C00092	reversible	hsa00500	ep
+C00092	rt	PGM1, CDG1T, GSD14	reversible	hsa00500	se
+C00092	rt	PGM2	reversible	hsa00500	se
+C00092	rt	G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	irreversible	hsa00500	se
+C00092	rt	G6PC2	irreversible	hsa00500	se
+C00092	rt	G6PC3	irreversible	hsa00500	se
+G6PC, G6PC1, G6PT, G6Pase, GSD1, GSD1a	rt	C00031	irreversible	hsa00500	ep
+G6PC2	rt	C00031	irreversible	hsa00500	ep
+G6PC3	rt	C00031	irreversible	hsa00500	ep
+C00031	rt	HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	irreversible	hsa00500	se
+C00031	rt	HK2	irreversible	hsa00500	se
+C00031	rt	HK3	irreversible	hsa00500	se
+C00031	rt	HKDC1	irreversible	hsa00500	se
+HK1, HK, HK1-ta, HK1-tb, HK1-tc, HKD, HKI, HMSNR, HXK1, RP79, hexokinase	rt	C00092	irreversible	hsa00500	ep
+HK2	rt	C00092	irreversible	hsa00500	ep
+HK3	rt	C00092	irreversible	hsa00500	ep
+HKDC1	rt	C00092	irreversible	hsa00500	ep
+C00031	rt	GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	irreversible	hsa00500	se
+GCK, FGQTL3, GK, GLK, HHF3, HK4, HKIV, HXKP, LGLK, MODY2	rt	C00092	irreversible	hsa00500	ep
+C00092	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00500	se
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C00092	reversible	hsa00500	ep
+GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	rt	C00085	reversible	hsa00500	ep
+C00085	rt	GPI, AMF, GNPI, NLK, PGI, PHI, SA-36, SA36	reversible	hsa00500	se
+C00718	rt	GBE1, APBD, GBE, GSD4	irreversible	hsa00500	se
+GBE1, APBD, GBE, GSD4	rt	C00369	irreversible	hsa00500	ep
+C01083	rt	TREH, TRE, TREA, TREHD	irreversible	hsa00500	se
+TREH, TRE, TREA, TREHD	rt	C00031	irreversible	hsa00500	ep
+C01935	rt	AMY1A, AMY1	irreversible	hsa00500	se
+C01935	rt	AMY1B	irreversible	hsa00500	se
+C01935	rt	AMY1C	irreversible	hsa00500	se
+C01935	rt	AMY2A	irreversible	hsa00500	se
+C01935	rt	AMY2B	irreversible	hsa00500	se
+AMY1A, AMY1	rt	C00208	irreversible	hsa00500	ep
+AMY1B	rt	C00208	irreversible	hsa00500	ep
+AMY1C	rt	C00208	irreversible	hsa00500	ep
+AMY2A	rt	C00208	irreversible	hsa00500	ep
+AMY2B	rt	C00208	irreversible	hsa00500	ep
+C00369	rt	MGAM, MG, MGA	irreversible	hsa00500	se
+C00369	rt	GAA	irreversible	hsa00500	se
+C00369	rt	GANC	irreversible	hsa00500	se
+C00369	rt	MGAM2	irreversible	hsa00500	se
+MGAM, MG, MGA	rt	C00031	irreversible	hsa00500	ep
+GAA	rt	C00031	irreversible	hsa00500	ep
+GANC	rt	C00031	irreversible	hsa00500	ep
+MGAM2	rt	C00031	irreversible	hsa00500	ep
+C00208	rt	GAA, LYAG	irreversible	hsa00500	se
+C00208	rt	GANC	irreversible	hsa00500	se
+C00208	rt	MGAM	irreversible	hsa00500	se
+C00208	rt	MGAM2	irreversible	hsa00500	se
+GAA, LYAG	rt	C00031	irreversible	hsa00500	ep
+GANC	rt	C00031	irreversible	hsa00500	ep
+MGAM	rt	C00031	irreversible	hsa00500	ep
+MGAM2	rt	C00031	irreversible	hsa00500	ep
+C00369	rt	AGL, GDE	irreversible	hsa00500	se
+C00369	rt	PYGB	irreversible	hsa00500	se
+C00369	rt	PYGL	irreversible	hsa00500	se
+C00369	rt	PYGM	irreversible	hsa00500	se
+AGL, GDE	rt	C00103	irreversible	hsa00500	ep
+PYGB	rt	C00103	irreversible	hsa00500	ep
+PYGL	rt	C00103	irreversible	hsa00500	ep
+PYGM	rt	C00103	irreversible	hsa00500	ep
+C00721	rt	SI	irreversible	hsa00500	se
+SI	rt	C00031	irreversible	hsa00500	ep
+C00721	rt	MGAM, MG, MGA	irreversible	hsa00500	se
+C00721	rt	GAA	irreversible	hsa00500	se
+C00721	rt	GANC	irreversible	hsa00500	se
+C00721	rt	MGAM2	irreversible	hsa00500	se
+MGAM, MG, MGA	rt	C00031	irreversible	hsa00500	ep
+GAA	rt	C00031	irreversible	hsa00500	ep
+GANC	rt	C00031	irreversible	hsa00500	ep
+MGAM2	rt	C00031	irreversible	hsa00500	ep
+C00252	rt	SI	irreversible	hsa00500	se
+SI	rt	C00031	irreversible	hsa00500	ep
+C00369	rt	AMY1A, AMY1	irreversible	hsa00500	se
+C00369	rt	AMY1B	irreversible	hsa00500	se
+C00369	rt	AMY1C	irreversible	hsa00500	se
+C00369	rt	AMY2A	irreversible	hsa00500	se
+C00369	rt	AMY2B	irreversible	hsa00500	se
+AMY1A, AMY1	rt	C00721	irreversible	hsa00500	ep
+AMY1B	rt	C00721	irreversible	hsa00500	ep
+AMY1C	rt	C00721	irreversible	hsa00500	ep
+AMY2A	rt	C00721	irreversible	hsa00500	ep
+AMY2B	rt	C00721	irreversible	hsa00500	ep
+AMY1A, AMY1	rt	C00208	irreversible	hsa00500	ep
+AMY1B	rt	C00208	irreversible	hsa00500	ep
+AMY1C	rt	C00208	irreversible	hsa00500	ep
+AMY2A	rt	C00208	irreversible	hsa00500	ep
+AMY2B	rt	C00208	irreversible	hsa00500	ep
+C05731				hsa00500	
+C02591				hsa00500	
+C00501				hsa00500	
+C00394				hsa00500	
+C00965				hsa00500	
+C00498				hsa00500	
+C00973				hsa00500	
+C00689				hsa00500	
+C00663				hsa00500	
+C02995				hsa00500	
+C01725				hsa00500	
+C06215				hsa00500	
+C16688				hsa00500	
+C00760				hsa00500	
+C20237				hsa00500	
+C06400				hsa00500	
+C00372				hsa00500	
+C03323				hsa00500	
+C00372				hsa00500	
+C04534				hsa00500	

@@ -1,0 +1,3174 @@
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	group	hsa04110	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	gr	SMAD3	group	hsa04110	group
+CDK2, CDKN2, p33(CDK2)	gr	CCNE1, CCNE, pCCNE1	group	hsa04110	group
+CDK2, CDKN2, p33(CDK2)	gr	CCNE2	group	hsa04110	group
+CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15	gr	CCNH, CAK, CycH, p34, p37	group	hsa04110	group
+CDK2, CDKN2, p33(CDK2)	gr	CCNA2, CCN1, CCNA	group	hsa04110	group
+CDK2, CDKN2, p33(CDK2)	gr	CCNA1	group	hsa04110	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNA2, CCN1, CCNA	group	hsa04110	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNA1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC6	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC3	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC2	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC1	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC2	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC4	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC5	gr	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC6	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC3	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC2	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC1	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC2	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC4	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC5	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC2, ORC2L	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC6	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC3	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC4	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC2, ORC2L	group	hsa04110	group
+ORC1	gr	ORC2, ORC2L	group	hsa04110	group
+ORC2	gr	ORC2, ORC2L	group	hsa04110	group
+ORC4	gr	ORC2, ORC2L	group	hsa04110	group
+ORC5	gr	ORC2, ORC2L	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC6	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC3	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC2	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC4	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC1	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC2	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC4	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC5	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC6, ORC6L	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC3	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC1	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC2	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC4	group	hsa04110	group
+ORC3, LAT, LATHEO, ORC3L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC6, ORC6L	group	hsa04110	group
+ORC1	gr	ORC6, ORC6L	group	hsa04110	group
+ORC2	gr	ORC6, ORC6L	group	hsa04110	group
+ORC4	gr	ORC6, ORC6L	group	hsa04110	group
+ORC5	gr	ORC6, ORC6L	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC6	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC3	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC1	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC2	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC3	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC1	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC2	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC4	gr	ORC4, ORC4L, ORC4P	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC2, ORC2L	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC6	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC3	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC1	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC4	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC2, ORC2L	group	hsa04110	group
+ORC3	gr	ORC2, ORC2L	group	hsa04110	group
+ORC1	gr	ORC2, ORC2L	group	hsa04110	group
+ORC2	gr	ORC2, ORC2L	group	hsa04110	group
+ORC4	gr	ORC2, ORC2L	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC6	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC3	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC2	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC4	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC3	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC1	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC2	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC4	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC6, ORC6L	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC3	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC1	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC2	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC4	group	hsa04110	group
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC6, ORC6L	group	hsa04110	group
+ORC3	gr	ORC6, ORC6L	group	hsa04110	group
+ORC1	gr	ORC6, ORC6L	group	hsa04110	group
+ORC2	gr	ORC6, ORC6L	group	hsa04110	group
+ORC4	gr	ORC6, ORC6L	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC2, ORC2L	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC6	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC3	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC1	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC4	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC2, ORC2L	group	hsa04110	group
+ORC3	gr	ORC2, ORC2L	group	hsa04110	group
+ORC1	gr	ORC2, ORC2L	group	hsa04110	group
+ORC2	gr	ORC2, ORC2L	group	hsa04110	group
+ORC5	gr	ORC2, ORC2L	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC6	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC3	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC2	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC4	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC3	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC1	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC2	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC5	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC6	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC6, ORC6L	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC3	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC1	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC2	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC4	group	hsa04110	group
+ORC4, ORC4L, ORC4P	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC6, ORC6L	group	hsa04110	group
+ORC3	gr	ORC6, ORC6L	group	hsa04110	group
+ORC1	gr	ORC6, ORC6L	group	hsa04110	group
+ORC2	gr	ORC6, ORC6L	group	hsa04110	group
+ORC5	gr	ORC6, ORC6L	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC2, ORC2L	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC2, ORC2L	gr	ORC6	group	hsa04110	group
+ORC2, ORC2L	gr	ORC3	group	hsa04110	group
+ORC2, ORC2L	gr	ORC2	group	hsa04110	group
+ORC2, ORC2L	gr	ORC4	group	hsa04110	group
+ORC2, ORC2L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC3	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC1	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC4	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC5	gr	ORC1, HSORC1, ORC1L, PARC1	group	hsa04110	group
+ORC6	gr	ORC6	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC6	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC6	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC6	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC6	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC2, ORC2L	gr	ORC6, ORC6L	group	hsa04110	group
+ORC2, ORC2L	gr	ORC3	group	hsa04110	group
+ORC2, ORC2L	gr	ORC1	group	hsa04110	group
+ORC2, ORC2L	gr	ORC2	group	hsa04110	group
+ORC2, ORC2L	gr	ORC4	group	hsa04110	group
+ORC2, ORC2L	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC6, ORC6L	group	hsa04110	group
+ORC3	gr	ORC6, ORC6L	group	hsa04110	group
+ORC1	gr	ORC6, ORC6L	group	hsa04110	group
+ORC4	gr	ORC6, ORC6L	group	hsa04110	group
+ORC5	gr	ORC6, ORC6L	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC1	gr	ORC3	group	hsa04110	group
+ORC1	gr	ORC1	group	hsa04110	group
+ORC1	gr	ORC2	group	hsa04110	group
+ORC1	gr	ORC4	group	hsa04110	group
+ORC1	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC6, ORC6L	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC3	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC1	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC2	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC4	group	hsa04110	group
+ORC1, HSORC1, ORC1L, PARC1	gr	ORC5	group	hsa04110	group
+ORC6	gr	ORC6, ORC6L	group	hsa04110	group
+ORC3	gr	ORC6, ORC6L	group	hsa04110	group
+ORC2	gr	ORC6, ORC6L	group	hsa04110	group
+ORC4	gr	ORC6, ORC6L	group	hsa04110	group
+ORC5	gr	ORC6, ORC6L	group	hsa04110	group
+ORC6	gr	ORC3	group	hsa04110	group
+ORC6	gr	ORC1	group	hsa04110	group
+ORC6	gr	ORC2	group	hsa04110	group
+ORC6	gr	ORC4	group	hsa04110	group
+ORC6	gr	ORC5	group	hsa04110	group
+ORC3	gr	ORC3	group	hsa04110	group
+ORC3	gr	ORC1	group	hsa04110	group
+ORC3	gr	ORC2	group	hsa04110	group
+ORC3	gr	ORC4	group	hsa04110	group
+ORC3	gr	ORC5	group	hsa04110	group
+ORC2	gr	ORC3	group	hsa04110	group
+ORC2	gr	ORC1	group	hsa04110	group
+ORC2	gr	ORC2	group	hsa04110	group
+ORC2	gr	ORC4	group	hsa04110	group
+ORC2	gr	ORC5	group	hsa04110	group
+ORC4	gr	ORC3	group	hsa04110	group
+ORC4	gr	ORC1	group	hsa04110	group
+ORC4	gr	ORC2	group	hsa04110	group
+ORC4	gr	ORC4	group	hsa04110	group
+ORC4	gr	ORC5	group	hsa04110	group
+ORC5	gr	ORC3	group	hsa04110	group
+ORC5	gr	ORC1	group	hsa04110	group
+ORC5	gr	ORC2	group	hsa04110	group
+ORC5	gr	ORC4	group	hsa04110	group
+ORC5	gr	ORC5	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM2	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM3	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM4	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM5	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM4	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM5	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM6	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM7	gr	MCM6, MCG40308, Mis5, P105MCM	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM2	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM3	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM4	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM6	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM4	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM5	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM6	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM7	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM2	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM3	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM5	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM6	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM4	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM5	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM6	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM7	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM2	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM4	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM5	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM6	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM4	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM5	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM6	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM7	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM3	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM4	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM5	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM6	group	hsa04110	group
+MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM4	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM5	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM6	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM2	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM3	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM4	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM6	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM3	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM4	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM5	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM7	gr	MCM5, CDC46, MGORS8, P1-CDC46	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM2	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM3	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM5	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM6	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM3	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM4	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM5	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM7	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM2	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM4	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM5	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM6	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM3	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM4	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM5	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM7	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM3	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM4	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM5	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM6	group	hsa04110	group
+MCM6, MCG40308, Mis5, P105MCM	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM3	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM4	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM5	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM2	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM3	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM5	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM6	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM3	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM4	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM6	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM7	gr	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM2	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM4	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM5	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM6	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM3	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM4	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM6	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM7	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM2	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM3	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM4	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM5	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM6	group	hsa04110	group
+MCM5, CDC46, MGORS8, P1-CDC46	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM3	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM4	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM6	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM2	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM4	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM5	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM6	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM3	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM5	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM6	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM7	gr	MCM3, HCC5, P1-MCM3, P1h, RLFB	group	hsa04110	group
+MCM2	gr	MCM2	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM2	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM2	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM2	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM2	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM3	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM4	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM5	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM6	group	hsa04110	group
+MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM3	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM5	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM6	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM3	gr	MCM3	group	hsa04110	group
+MCM3	gr	MCM4	group	hsa04110	group
+MCM3	gr	MCM5	group	hsa04110	group
+MCM3	gr	MCM6	group	hsa04110	group
+MCM3	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM3	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM4	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM5	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM6	group	hsa04110	group
+MCM3, HCC5, P1-MCM3, P1h, RLFB	gr	MCM7	group	hsa04110	group
+MCM2	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM4	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM5	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM6	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM7	gr	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	group	hsa04110	group
+MCM2	gr	MCM3	group	hsa04110	group
+MCM2	gr	MCM4	group	hsa04110	group
+MCM2	gr	MCM5	group	hsa04110	group
+MCM2	gr	MCM6	group	hsa04110	group
+MCM2	gr	MCM7	group	hsa04110	group
+MCM4	gr	MCM3	group	hsa04110	group
+MCM4	gr	MCM4	group	hsa04110	group
+MCM4	gr	MCM5	group	hsa04110	group
+MCM4	gr	MCM6	group	hsa04110	group
+MCM4	gr	MCM7	group	hsa04110	group
+MCM5	gr	MCM3	group	hsa04110	group
+MCM5	gr	MCM4	group	hsa04110	group
+MCM5	gr	MCM5	group	hsa04110	group
+MCM5	gr	MCM6	group	hsa04110	group
+MCM5	gr	MCM7	group	hsa04110	group
+MCM6	gr	MCM3	group	hsa04110	group
+MCM6	gr	MCM4	group	hsa04110	group
+MCM6	gr	MCM5	group	hsa04110	group
+MCM6	gr	MCM6	group	hsa04110	group
+MCM6	gr	MCM7	group	hsa04110	group
+MCM7	gr	MCM3	group	hsa04110	group
+MCM7	gr	MCM4	group	hsa04110	group
+MCM7	gr	MCM5	group	hsa04110	group
+MCM7	gr	MCM6	group	hsa04110	group
+MCM7	gr	MCM7	group	hsa04110	group
+DBF4, ASK, CHIF, DBF4A, ZDBF1	gr	CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	group	hsa04110	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNB3	group	hsa04110	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNB1	group	hsa04110	group
+CDK1, CDC2, CDC28A, P34CDC2	gr	CCNB2	group	hsa04110	group
+CDK4, CMM3, PSK-J3	gr	CCND1, BCL1, D11S287E, PRAD1, U21B31	group	hsa04110	group
+CDK4, CMM3, PSK-J3	gr	CCND2	group	hsa04110	group
+CDK4, CMM3, PSK-J3	gr	CCND3	group	hsa04110	group
+CDK6	gr	CCND1, BCL1, D11S287E, PRAD1, U21B31	group	hsa04110	group
+CDK6	gr	CCND2	group	hsa04110	group
+CDK6	gr	CCND3	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	CUL1	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	RBX1	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	CUL1	group	hsa04110	group
+SKP2, FBL1, FBXL1, FLB1, p45	gr	RBX1	group	hsa04110	group
+ANAPC10, APC10, DOC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+CDC26	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC13	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC2	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC4	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC5	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC7	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC11	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+ANAPC1	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+CDC23	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+CDC16	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+CDC27	gr	CDC20, CDC20A, bA276H193, p55CDC	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC10, APC10, DOC1	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	CDC26	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC13	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC2	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC4	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC5	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC7	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC11	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	ANAPC1	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	CDC23	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	CDC16	group	hsa04110	group
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr	CDC27	group	hsa04110	group
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	gr	MAD2L2, FANCV, MAD2B, POLZ2, REV7	group	hsa04110	group
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	gr	MAD2L1	group	hsa04110	group
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	gr	BUB3, BUB3L, hBUB3	group	hsa04110	group
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	gr	BUB3, BUB3L, hBUB3	group	hsa04110	group
+MAD2L1	gr	BUB3, BUB3L, hBUB3	group	hsa04110	group
+SMC1B, SMC1BETA, SMC1L2	gr	SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	group	hsa04110	group
+SMC1A	gr	SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	group	hsa04110	group
+SMC1B, SMC1BETA, SMC1L2	gr	STAG1, MRD47, SA1, SCC3A	group	hsa04110	group
+SMC1B, SMC1BETA, SMC1L2	gr	STAG2	group	hsa04110	group
+SMC1A	gr	STAG1, MRD47, SA1, SCC3A	group	hsa04110	group
+SMC1A	gr	STAG2	group	hsa04110	group
+SMC1B, SMC1BETA, SMC1L2	gr	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	group	hsa04110	group
+SMC1A	gr	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	group	hsa04110	group
+SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	gr	STAG1, MRD47, SA1, SCC3A	group	hsa04110	group
+SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	gr	STAG2	group	hsa04110	group
+SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	gr	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	group	hsa04110	group
+STAG1, MRD47, SA1, SCC3A	gr	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	group	hsa04110	group
+STAG2	gr	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	group	hsa04110	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F4, E2F-4	group	hsa04110	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F5	group	hsa04110	group
+TFDP2	gr	E2F4, E2F-4	group	hsa04110	group
+TFDP2	gr	E2F5	group	hsa04110	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F1, E2F-1, RBAP1, RBBP3, RBP3	group	hsa04110	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F2	group	hsa04110	group
+TFDP1, DILC, DP1, DRTF1, Dp-1	gr	E2F3	group	hsa04110	group
+TFDP2	gr	E2F1, E2F-1, RBAP1, RBBP3, RBP3	group	hsa04110	group
+TFDP2	gr	E2F2	group	hsa04110	group
+TFDP2	gr	E2F3	group	hsa04110	group
+RBL1, CP107, PRB1, p107	gr	E2F4, E2F-4	group	hsa04110	group
+RBL1, CP107, PRB1, p107	gr	E2F5	group	hsa04110	group
+RBL1, CP107, PRB1, p107	gr	TFDP1, DILC, DP1, DRTF1, Dp-1	group	hsa04110	group
+RBL1, CP107, PRB1, p107	gr	TFDP2	group	hsa04110	group
+E2F4, E2F-4	gr	TFDP1, DILC, DP1, DRTF1, Dp-1	group	hsa04110	group
+E2F4, E2F-4	gr	TFDP2	group	hsa04110	group
+E2F5	gr	TFDP1, DILC, DP1, DRTF1, Dp-1	group	hsa04110	group
+E2F5	gr	TFDP2	group	hsa04110	group
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04110	expression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04110	expression
+SMAD3	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	gr-g	hsa04110	expression
+GSK3B	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04110	inhibition
+GSK3B	pp	CCND2	g-g	hsa04110	inhibition
+GSK3B	pp	CCND3	g-g	hsa04110	inhibition
+TP53, BCC7, LFS1, P53, TRP53	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa04110	expression
+TP53, BCC7, LFS1, P53, TRP53	pd	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa04110	expression
+TP53, BCC7, LFS1, P53, TRP53	pd	GADD45A	g-g	hsa04110	expression
+TP53, BCC7, LFS1, P53, TRP53	pd	GADD45B	g-g	hsa04110	expression
+TP53, BCC7, LFS1, P53, TRP53	pd	SFN, YWHAS	g-g	hsa04110	expression
+GADD45G, CR6, DDIT2, GADD45gamma, GRP17	pp	PCNA, ATLD2	g-g	hsa04110	activation
+GADD45A	pp	PCNA, ATLD2	g-g	hsa04110	activation
+GADD45B	pp	PCNA, ATLD2	g-g	hsa04110	activation
+MDM2, ACTFS, HDMX, hdm2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa04110	inhibition
+MDM2, ACTFS, HDMX, hdm2	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	inhibition
+CREBBP, CBP, KAT3A, RSTS, RSTS1	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+EP300	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+PRKDC, DNA-PKC, DNA-PKcs, DNAPK, DNAPKc, DNPK1, HYRC, HYRC1, IMD26, XRCC7, p350	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+CHEK1, CHK1	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+CHEK2	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+CHEK1, CHK1	pp	CDC25A, CDC25A2	g-g	hsa04110	inhibition
+CHEK2	pp	CDC25A, CDC25A2	g-g	hsa04110	inhibition
+CDC25A, CDC25A2	pp	CDK4, CMM3, PSK-J3	g-g	hsa04110	activation
+CDC25A, CDC25A2	pp	CDK6	g-g	hsa04110	activation
+CDC25A, CDC25A2	pp	CDK2, CDKN2, p33(CDK2)	g-g	hsa04110	activation
+CDC25A, CDC25A2	pp	CDK2, CDKN2, p33(CDK2)	g-g	hsa04110	activation
+CDC25A, CDC25A2	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	activation
+CHEK1, CHK1	pp	CDC25B	g-g	hsa04110	inhibition
+CHEK1, CHK1	pp	CDC25C	g-g	hsa04110	inhibition
+CHEK2	pp	CDC25B	g-g	hsa04110	inhibition
+CHEK2	pp	CDC25C	g-g	hsa04110	inhibition
+PTTG2	pp	ESPL1, ESP1, SEPA	g-g	hsa04110	inhibition
+PTTG1	pp	ESPL1, ESP1, SEPA	g-g	hsa04110	inhibition
+YWHAQ, 14-3-3, 1C5, HS1	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAQ, 14-3-3, 1C5, HS1	pp	CDC25C	g-g	hsa04110	binding/association
+YWHAB	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAE	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAG	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAH	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAZ	pp	CDC25B	g-g	hsa04110	binding/association
+YWHAB	pp	CDC25C	g-g	hsa04110	binding/association
+YWHAE	pp	CDC25C	g-g	hsa04110	binding/association
+YWHAG	pp	CDC25C	g-g	hsa04110	binding/association
+YWHAH	pp	CDC25C	g-g	hsa04110	binding/association
+YWHAZ	pp	CDC25C	g-g	hsa04110	binding/association
+CDK2, CDKN2, p33(CDK2)	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	CDKN1C	gr-g	hsa04110	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+CCNE1, CCNE, pCCNE1	pp	CDKN1C	gr-g	hsa04110	inhibition
+CCNE2	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+CCNE2	pp	CDKN1C	gr-g	hsa04110	inhibition
+CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-g	hsa04110	activation
+CCNH, CAK, CycH, p34, p37	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-g	hsa04110	activation
+CDK2, CDKN2, p33(CDK2)	pp	CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	gr-g	hsa04110	inhibition
+CCNA2, CCN1, CCNA	pp	CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	gr-g	hsa04110	inhibition
+CCNA1	pp	CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	gr-g	hsa04110	inhibition
+CDK7, CAK, CAK1, CDKN7, HCAK, MO15, STK1, p39MO15	pp	CDK2, CDKN2, p33(CDK2)	gr-g	hsa04110	activation
+CCNH, CAK, CycH, p34, p37	pp	CDK2, CDKN2, p33(CDK2)	gr-g	hsa04110	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	activation
+CCNA2, CCN1, CCNA	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	activation
+CCNA1	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	activation
+WEE2, OOMD5, WEE1B	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+WEE1	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+PKMYT1, MYT1, PPP1R126	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+WEE2, OOMD5, WEE1B	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+WEE1	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+PKMYT1, MYT1, PPP1R126	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	inhibition
+PLK1, PLK, STPK13	pp	CDC25B	g-g	hsa04110	activation
+PLK1, PLK, STPK13	pp	CDC25C	g-g	hsa04110	activation
+PLK1, PLK, STPK13	pp	PKMYT1, MYT1, PPP1R126	g-g	hsa04110	inhibition
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3, LAT, LATHEO, ORC3L	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4, ORC4L, ORC4P	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2, ORC2L	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1, HSORC1, ORC1L, PARC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC6, ORC6L	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC3	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC1	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC2	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC4	g-gr	hsa04110	binding/association
+CDC6, CDC18L, HsCDC18, HsCDC6, MGORS5	pp	ORC5	g-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3, LAT, LATHEO, ORC3L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5, ORC5L, ORC5P, ORC5T, PPP1R117	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4, ORC4L, ORC4P	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2, ORC2L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1, HSORC1, ORC1L, PARC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC6, ORC6L	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC3	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC1	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC2	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC4	pp	MCM7	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM3	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM4	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM5	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM6	gr-gr	hsa04110	binding/association
+ORC5	pp	MCM7	gr-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6, MCG40308, Mis5, P105MCM	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM2	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5, CDC46, MGORS8, P1-CDC46	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM2	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM2	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM2	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM3	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM4	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM5	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM6	g-gr	hsa04110	binding/association
+CDC45, CDC45L, CDC45L2, MGORS7, PORC-PI-1	pp	MCM7	g-gr	hsa04110	binding/association
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM2	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM2	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM2	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM2	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM3	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM4	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM5	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM6	gr-gr	hsa04110	activation
+DBF4, ASK, CHIF, DBF4A, ZDBF1	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7, CDC47, MCM2, P11-MCM3, P1CDC47, P85MCM, PNAS146, PPP1R104	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6, MCG40308, Mis5, P105MCM	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM2	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5, CDC46, MGORS8, P1-CDC46	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM2	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4, CDC21, CDC54, IMD54, NKCD, NKGCD, P1-CDC21, hCdc21	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM2	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3, HCC5, P1-MCM3, P1h, RLFB	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM2	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM2, BM28, CCNL1, CDCL1, D3S3194, DFNA70, MITOTIN, cdc19	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM3	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM4	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM5	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM6	gr-gr	hsa04110	activation
+CDC7, CDC7L1, HsCDC7, Hsk1, huCDC7	pp	MCM7	gr-gr	hsa04110	activation
+CDK1, CDC2, CDC28A, P34CDC2	pp	PLK1, PLK, STPK13	gr-g	hsa04110	activation
+CCNB3	pp	PLK1, PLK, STPK13	gr-g	hsa04110	activation
+CCNB1	pp	PLK1, PLK, STPK13	gr-g	hsa04110	activation
+CCNB2	pp	PLK1, PLK, STPK13	gr-g	hsa04110	activation
+CDC25B	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	activation
+CDC25C	pp	CDK1, CDC2, CDC28A, P34CDC2	g-g	hsa04110	activation
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	binding/association
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CDK6	g-gr	hsa04110	binding/association
+CDKN1C	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	binding/association
+CDKN1C	pp	CDK6	g-gr	hsa04110	binding/association
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	binding/association
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCND2	g-gr	hsa04110	binding/association
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCND3	g-gr	hsa04110	binding/association
+CDKN1C	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	binding/association
+CDKN1C	pp	CCND2	g-gr	hsa04110	binding/association
+CDKN1C	pp	CCND3	g-gr	hsa04110	binding/association
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CDK2, CDKN2, p33(CDK2)	g-gr	hsa04110	inhibition
+CDKN1C	pp	CDK2, CDKN2, p33(CDK2)	g-gr	hsa04110	inhibition
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCNA2, CCN1, CCNA	g-gr	hsa04110	inhibition
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCNA1	g-gr	hsa04110	inhibition
+CDKN1C	pp	CCNA2, CCN1, CCNA	g-gr	hsa04110	inhibition
+CDKN1C	pp	CCNA1	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CDK6	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCND2	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCND3	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CDK2, CDKN2, p33(CDK2)	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCNE1, CCNE, pCCNE1	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCNE2	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CDK2, CDKN2, p33(CDK2)	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCNA2, CCN1, CCNA	g-gr	hsa04110	inhibition
+CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	pp	CCNA1	g-gr	hsa04110	inhibition
+PCNA, ATLD2	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+PCNA, ATLD2	pp	CDK6	g-gr	hsa04110	inhibition
+PCNA, ATLD2	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+PCNA, ATLD2	pp	CCND2	g-gr	hsa04110	inhibition
+PCNA, ATLD2	pp	CCND3	g-gr	hsa04110	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CDK6	g-gr	hsa04110	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CCND2	g-gr	hsa04110	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CCND3	g-gr	hsa04110	inhibition
+SFN, YWHAS	pp	CCNB3	g-g	hsa04110	inhibition
+SFN, YWHAS	pp	CCNB1	g-g	hsa04110	inhibition
+SFN, YWHAS	pp	CCNB2	g-g	hsa04110	inhibition
+GADD45G, CR6, DDIT2, GADD45gamma, GRP17	pp	CCNB3	g-g	hsa04110	inhibition
+GADD45G, CR6, DDIT2, GADD45gamma, GRP17	pp	CCNB1	g-g	hsa04110	inhibition
+GADD45G, CR6, DDIT2, GADD45gamma, GRP17	pp	CCNB2	g-g	hsa04110	inhibition
+GADD45A	pp	CCNB3	g-g	hsa04110	inhibition
+GADD45B	pp	CCNB3	g-g	hsa04110	inhibition
+GADD45A	pp	CCNB1	g-g	hsa04110	inhibition
+GADD45A	pp	CCNB2	g-g	hsa04110	inhibition
+GADD45B	pp	CCNB1	g-g	hsa04110	inhibition
+GADD45B	pp	CCNB2	g-g	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CDK2, CDKN2, p33(CDK2)	gr-gr	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CCNE1, CCNE, pCCNE1	gr-gr	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CCNE2	gr-gr	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CDK2, CDKN2, p33(CDK2)	gr-gr	hsa04110	inhibition
+CUL1	pp	CDK2, CDKN2, p33(CDK2)	gr-gr	hsa04110	inhibition
+RBX1	pp	CDK2, CDKN2, p33(CDK2)	gr-gr	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CCNE1, CCNE, pCCNE1	gr-gr	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CCNE2	gr-gr	hsa04110	inhibition
+CUL1	pp	CCNE1, CCNE, pCCNE1	gr-gr	hsa04110	inhibition
+RBX1	pp	CCNE1, CCNE, pCCNE1	gr-gr	hsa04110	inhibition
+CUL1	pp	CCNE2	gr-gr	hsa04110	inhibition
+RBX1	pp	CCNE2	gr-gr	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CDKN1C	gr-g	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CDKN1C	gr-g	hsa04110	inhibition
+CUL1	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+RBX1	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	gr-g	hsa04110	inhibition
+CUL1	pp	CDKN1C	gr-g	hsa04110	inhibition
+RBX1	pp	CDKN1C	gr-g	hsa04110	inhibition
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	inhibition
+SKP1, EMC19, OCP-II, OCP2, SKP1A, TCEB1L, p19A	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	inhibition
+CUL1	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	inhibition
+RBX1	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	PTTG1	gr-g	hsa04110	inhibition
+CDC26	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC13	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC2	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC4	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC5	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC7	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC11	pp	PTTG2	gr-g	hsa04110	inhibition
+ANAPC1	pp	PTTG2	gr-g	hsa04110	inhibition
+CDC23	pp	PTTG2	gr-g	hsa04110	inhibition
+CDC16	pp	PTTG2	gr-g	hsa04110	inhibition
+CDC27	pp	PTTG2	gr-g	hsa04110	inhibition
+CDC26	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC13	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC2	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC4	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC5	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC7	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC11	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC1	pp	PTTG1	gr-g	hsa04110	inhibition
+CDC23	pp	PTTG1	gr-g	hsa04110	inhibition
+CDC16	pp	PTTG1	gr-g	hsa04110	inhibition
+CDC27	pp	PTTG1	gr-g	hsa04110	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG2	gr-g	hsa04110	inhibition
+CDC20, CDC20A, bA276H193, p55CDC	pp	PTTG1	gr-g	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+CDC26	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC13	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC2	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC4	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC5	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC7	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC11	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC1	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+CDC23	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+CDC16	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+CDC27	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC10, APC10, DOC1	pp	CDC27	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+CDC26	pp	CDC26	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC13	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC2	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC4	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC5	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC7	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC11	gr-gr	hsa04110	activation
+CDC26	pp	ANAPC1	gr-gr	hsa04110	activation
+CDC26	pp	CDC23	gr-gr	hsa04110	activation
+CDC26	pp	CDC16	gr-gr	hsa04110	activation
+CDC26	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC13	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC13	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC13	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC13	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC13	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC2	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC2	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC2	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC2	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC2	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC4	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC4	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC4	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC4	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC4	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC5	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC5	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC5	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC5	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC5	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC7	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC7	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC7	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC7	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC7	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC11	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC11	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC11	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC11	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC11	pp	CDC27	gr-gr	hsa04110	activation
+ANAPC1	pp	CDC26	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC13	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC2	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC4	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC5	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC7	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC11	gr-gr	hsa04110	activation
+ANAPC1	pp	ANAPC1	gr-gr	hsa04110	activation
+ANAPC1	pp	CDC23	gr-gr	hsa04110	activation
+ANAPC1	pp	CDC16	gr-gr	hsa04110	activation
+ANAPC1	pp	CDC27	gr-gr	hsa04110	activation
+CDC23	pp	CDC26	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC13	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC2	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC4	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC5	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC7	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC11	gr-gr	hsa04110	activation
+CDC23	pp	ANAPC1	gr-gr	hsa04110	activation
+CDC23	pp	CDC23	gr-gr	hsa04110	activation
+CDC23	pp	CDC16	gr-gr	hsa04110	activation
+CDC23	pp	CDC27	gr-gr	hsa04110	activation
+CDC16	pp	CDC26	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC13	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC2	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC4	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC5	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC7	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC11	gr-gr	hsa04110	activation
+CDC16	pp	ANAPC1	gr-gr	hsa04110	activation
+CDC16	pp	CDC23	gr-gr	hsa04110	activation
+CDC16	pp	CDC16	gr-gr	hsa04110	activation
+CDC16	pp	CDC27	gr-gr	hsa04110	activation
+CDC27	pp	CDC26	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC13	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC2	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC4	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC5	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC7	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC11	gr-gr	hsa04110	activation
+CDC27	pp	ANAPC1	gr-gr	hsa04110	activation
+CDC27	pp	CDC23	gr-gr	hsa04110	activation
+CDC27	pp	CDC16	gr-gr	hsa04110	activation
+CDC27	pp	CDC27	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC10, APC10, DOC1	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	CDC26	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC13	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC2	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC4	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC5	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC7	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC11	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	ANAPC1	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	CDC23	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	CDC16	gr-gr	hsa04110	activation
+CDC20, CDC20A, bA276H193, p55CDC	pp	CDC27	gr-gr	hsa04110	activation
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	pp	CCNB3	gr-gr	hsa04110	inhibition
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	pp	CCNB1	gr-gr	hsa04110	inhibition
+FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+CDC26	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC13	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC2	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC4	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC5	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC7	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC11	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC1	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+CDC23	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+CDC16	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+CDC27	pp	CDK1, CDC2, CDC28A, P34CDC2	gr-gr	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC10, APC10, DOC1	pp	CCNB2	gr-gr	hsa04110	inhibition
+CDC26	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC13	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC2	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC4	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC5	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC7	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC11	pp	CCNB3	gr-gr	hsa04110	inhibition
+ANAPC1	pp	CCNB3	gr-gr	hsa04110	inhibition
+CDC23	pp	CCNB3	gr-gr	hsa04110	inhibition
+CDC16	pp	CCNB3	gr-gr	hsa04110	inhibition
+CDC27	pp	CCNB3	gr-gr	hsa04110	inhibition
+CDC26	pp	CCNB1	gr-gr	hsa04110	inhibition
+CDC26	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC13	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC13	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC2	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC2	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC4	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC4	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC5	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC5	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC7	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC7	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC11	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC11	pp	CCNB2	gr-gr	hsa04110	inhibition
+ANAPC1	pp	CCNB1	gr-gr	hsa04110	inhibition
+ANAPC1	pp	CCNB2	gr-gr	hsa04110	inhibition
+CDC23	pp	CCNB1	gr-gr	hsa04110	inhibition
+CDC23	pp	CCNB2	gr-gr	hsa04110	inhibition
+CDC16	pp	CCNB1	gr-gr	hsa04110	inhibition
+CDC16	pp	CCNB2	gr-gr	hsa04110	inhibition
+CDC27	pp	CCNB1	gr-gr	hsa04110	inhibition
+CDC27	pp	CCNB2	gr-gr	hsa04110	inhibition
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	g-gr	hsa04110	activation
+CDC14A	pp	FZR1, CDC20C, CDH1, FZR, FZR2, HCDH, HCDH1	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC10, APC10, DOC1	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	CDC26	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC13	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC2	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC4	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC5	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC7	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC11	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	ANAPC1	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	CDC23	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	CDC16	g-gr	hsa04110	activation
+CDC14B, CDC14B3, Cdc14B1, Cdc14B2, hCDC14B	pp	CDC27	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC10, APC10, DOC1	g-gr	hsa04110	activation
+CDC14A	pp	CDC26	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC13	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC2	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC4	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC5	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC7	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC11	g-gr	hsa04110	activation
+CDC14A	pp	ANAPC1	g-gr	hsa04110	activation
+CDC14A	pp	CDC23	g-gr	hsa04110	activation
+CDC14A	pp	CDC16	g-gr	hsa04110	activation
+CDC14A	pp	CDC27	g-gr	hsa04110	activation
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	MDM2, ACTFS, HDMX, hdm2	g-g	hsa04110	inhibition
+ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+ATR	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04110	activation
+ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	pp	CHEK1, CHK1	g-g	hsa04110	activation
+ATM, AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1	pp	CHEK2	g-g	hsa04110	activation
+ATR	pp	CHEK1, CHK1	g-g	hsa04110	activation
+ATR	pp	CHEK2	g-g	hsa04110	activation
+TTK, CT96, ESK, MPH1, MPS1, MPS1L1, PYT	pp	MAD1L1, MAD1, PIG9, TP53I9, TXBP181	g-g	hsa04110	activation
+MAD1L1, MAD1, PIG9, TP53I9, TXBP181	pp	MAD2L2, FANCV, MAD2B, POLZ2, REV7	g-g	hsa04110	activation
+MAD1L1, MAD1, PIG9, TP53I9, TXBP181	pp	MAD2L1	g-g	hsa04110	activation
+BUB1, BUB1A, BUB1L, hBUB1	pp	BUB3, BUB3L, hBUB3	g-g	hsa04110	binding/association
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC10, APC10, DOC1	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	CDC26	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC13	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC2	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC4	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC5	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC7	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC11	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	ANAPC1	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	CDC23	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	CDC16	gr-g	hsa04110	inhibition
+BUB1B, BUB1beta, BUBR1, Bub1A, MAD3L, MVA1, SSK1, hBUBR1	pp	CDC27	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC10, APC10, DOC1	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC26	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC13	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC2	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC4	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC5	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC7	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC11	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	ANAPC1	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC23	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC16	gr-g	hsa04110	inhibition
+MAD2L2, FANCV, MAD2B, POLZ2, REV7	pp	CDC27	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC10, APC10, DOC1	gr-g	hsa04110	inhibition
+MAD2L1	pp	CDC26	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC13	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC2	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC4	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC5	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC7	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC11	gr-g	hsa04110	inhibition
+MAD2L1	pp	ANAPC1	gr-g	hsa04110	inhibition
+MAD2L1	pp	CDC23	gr-g	hsa04110	inhibition
+MAD2L1	pp	CDC16	gr-g	hsa04110	inhibition
+MAD2L1	pp	CDC27	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC10, APC10, DOC1	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	CDC26	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC13	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC2	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC4	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC5	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC7	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC11	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	ANAPC1	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	CDC23	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	CDC16	gr-g	hsa04110	inhibition
+BUB3, BUB3L, hBUB3	pp	CDC27	gr-g	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	SMC1B, SMC1BETA, SMC1L2	g-gr	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	SMC1A	g-gr	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	SMC3, BAM, BMH, CDLS3, CSPG6, HCAP, SMC3L1	g-gr	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	STAG1, MRD47, SA1, SCC3A	g-gr	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	STAG2	g-gr	hsa04110	inhibition
+ESPL1, ESP1, SEPA	pp	RAD21, CDLS4, HR21, HRAD21, MCD1, NXP1, SCC1, hHR21	g-gr	hsa04110	inhibition
+CDK4, CMM3, PSK-J3	pp	RBL1, CP107, PRB1, p107	gr-g	hsa04110	inhibition
+CDK6	pp	RBL1, CP107, PRB1, p107	gr-g	hsa04110	inhibition
+CCND1, BCL1, D11S287E, PRAD1, U21B31	pp	RBL1, CP107, PRB1, p107	gr-g	hsa04110	inhibition
+CCND2	pp	RBL1, CP107, PRB1, p107	gr-g	hsa04110	inhibition
+CCND3	pp	RBL1, CP107, PRB1, p107	gr-g	hsa04110	inhibition
+CDK4, CMM3, PSK-J3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CDK6	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCND1, BCL1, D11S287E, PRAD1, U21B31	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCND2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCND3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCNE1, CCNE, pCCNE1	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCNE2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCNA2, CCN1, CCNA	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CCNA1	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	E2F1, E2F-1, RBAP1, RBBP3, RBP3	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	E2F2	gr-g	hsa04110	inhibition
+CDK2, CDKN2, p33(CDK2)	pp	E2F3	gr-g	hsa04110	inhibition
+CCNA2, CCN1, CCNA	pp	E2F1, E2F-1, RBAP1, RBBP3, RBP3	gr-g	hsa04110	inhibition
+CCNA2, CCN1, CCNA	pp	E2F2	gr-g	hsa04110	inhibition
+CCNA2, CCN1, CCNA	pp	E2F3	gr-g	hsa04110	inhibition
+CCNA1	pp	E2F1, E2F-1, RBAP1, RBBP3, RBP3	gr-g	hsa04110	inhibition
+CCNA1	pp	E2F2	gr-g	hsa04110	inhibition
+CCNA1	pp	E2F3	gr-g	hsa04110	inhibition
+RBL1, CP107, PRB1, p107	pp	TFDP1, DILC, DP1, DRTF1, Dp-1	g-gr	hsa04110	dissociation
+RBL1, CP107, PRB1, p107	pp	TFDP2	g-gr	hsa04110	dissociation
+RBL1, CP107, PRB1, p107	pp	E2F4, E2F-4	g-gr	hsa04110	dissociation
+RBL1, CP107, PRB1, p107	pp	E2F5	g-gr	hsa04110	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	TFDP1, DILC, DP1, DRTF1, Dp-1	g-gr	hsa04110	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	TFDP2	g-gr	hsa04110	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F1, E2F-1, RBAP1, RBBP3, RBP3	g-gr	hsa04110	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F2	g-gr	hsa04110	dissociation
+RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	pp	E2F3	g-gr	hsa04110	dissociation
+TFDP1, DILC, DP1, DRTF1, Dp-1	pd	CCNE1, CCNE, pCCNE1	gr-g	hsa04110	expression
+TFDP1, DILC, DP1, DRTF1, Dp-1	pd	CCNE2	gr-g	hsa04110	expression
+TFDP2	pd	CCNE1, CCNE, pCCNE1	gr-g	hsa04110	expression
+TFDP2	pd	CCNE2	gr-g	hsa04110	expression
+E2F1, E2F-1, RBAP1, RBBP3, RBP3	pd	CCNE1, CCNE, pCCNE1	gr-g	hsa04110	expression
+E2F1, E2F-1, RBAP1, RBBP3, RBP3	pd	CCNE2	gr-g	hsa04110	expression
+E2F2	pd	CCNE1, CCNE, pCCNE1	gr-g	hsa04110	expression
+E2F3	pd	CCNE1, CCNE, pCCNE1	gr-g	hsa04110	expression
+E2F2	pd	CCNE2	gr-g	hsa04110	expression
+E2F3	pd	CCNE2	gr-g	hsa04110	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+SMAD3	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+RBL1, CP107, PRB1, p107	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+E2F4, E2F-4	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+E2F5	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+TFDP1, DILC, DP1, DRTF1, Dp-1	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+TFDP2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	gr-g	hsa04110	repression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pp	ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67	g-g	hsa04110	inhibition
+ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa04110	expression
+SMAD4, DPC4, JIP, MADH4, MYHRS	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	expression
+SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	expression
+SMAD3	pd	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	gr-g	hsa04110	expression
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04110	activation
+TGFB1, CED, DPD1, LAP, TGFB, TGFbeta	pp	SMAD3	g-g	hsa04110	activation
+TGFB2	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04110	activation
+TGFB3	pp	SMAD2, JV18, JV18-1, MADH2, MADR2, hMAD-2, hSMAD2	g-g	hsa04110	activation
+TGFB2	pp	SMAD3	g-g	hsa04110	activation
+TGFB3	pp	SMAD3	g-g	hsa04110	activation
+ABL1, ABL, CHDSKM, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa04110	binding/association
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa04110	binding/association
+HDAC2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa04110	binding/association
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CDK6	g-gr	hsa04110	inhibition
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CCND2	g-gr	hsa04110	inhibition
+CDKN2A, ARF, CDK4I, CDKN2, CMM2, INK4, INK4A, MLM, MTS-1, MTS1, P14, P14ARF, P16, P16-INK4A, P16INK4, P16INK4A, P19, P19ARF, TP16	pp	CCND3	g-gr	hsa04110	inhibition
+CDKN2C, INK4C, p18, p18-INK4C	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+CDKN2C, INK4C, p18, p18-INK4C	pp	CDK6	g-gr	hsa04110	inhibition
+CDKN2C, INK4C, p18, p18-INK4C	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+CDKN2C, INK4C, p18, p18-INK4C	pp	CCND2	g-gr	hsa04110	inhibition
+CDKN2C, INK4C, p18, p18-INK4C	pp	CCND3	g-gr	hsa04110	inhibition
+CDKN2D, INK4D, p19, p19-INK4D	pp	CDK4, CMM3, PSK-J3	g-gr	hsa04110	inhibition
+CDKN2D, INK4D, p19, p19-INK4D	pp	CDK6	g-gr	hsa04110	inhibition
+CDKN2D, INK4D, p19, p19-INK4D	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa04110	inhibition
+CDKN2D, INK4D, p19, p19-INK4D	pp	CCND2	g-gr	hsa04110	inhibition
+CDKN2D, INK4D, p19, p19-INK4D	pp	CCND3	g-gr	hsa04110	inhibition

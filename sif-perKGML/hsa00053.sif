@@ -1,0 +1,145 @@
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B11	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2A1	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B28	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A10	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A8	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A7	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A6	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A5	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A9	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A4	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A1	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT1A3	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2A2	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B4	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B7	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B10	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B15	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2B17	g-g	hsa00053	compound
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	ec	UGT2A3	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B11	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2A1	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B28	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A10	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A8	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A7	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A6	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A5	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A9	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A4	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A1	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT1A3	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2A2	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B4	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B7	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B10	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B15	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2B17	g-g	hsa00053	compound
+MIOX, ALDRL6	ec	UGT2A3	g-g	hsa00053	compound
+C00137	rt	MIOX, ALDRL6	irreversible	hsa00053	se
+MIOX, ALDRL6	rt	C00191	irreversible	hsa00053	ep
+C00029	rt	UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	irreversible	hsa00053	se
+UGDH, GDH, UDP-GlcDH, UDPGDH, UGD	rt	C00167	irreversible	hsa00053	ep
+C01040	rt	RGN, GNL, HEL-S-41, RC, SMP30	reversible	hsa00053	se
+RGN, GNL, HEL-S-41, RC, SMP30	rt	C01040	reversible	hsa00053	ep
+RGN, GNL, HEL-S-41, RC, SMP30	rt	C00800	reversible	hsa00053	ep
+C00800	rt	RGN, GNL, HEL-S-41, RC, SMP30	reversible	hsa00053	se
+C02670	rt	ALDH2, ALDH-E2, ALDHI, ALDM	reversible	hsa00053	se
+C02670	rt	ALDH1B1	reversible	hsa00053	se
+C02670	rt	ALDH9A1	reversible	hsa00053	se
+C02670	rt	ALDH3A2	reversible	hsa00053	se
+C02670	rt	ALDH7A1	reversible	hsa00053	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C02670	reversible	hsa00053	ep
+ALDH1B1	rt	C02670	reversible	hsa00053	ep
+ALDH9A1	rt	C02670	reversible	hsa00053	ep
+ALDH3A2	rt	C02670	reversible	hsa00053	ep
+ALDH7A1	rt	C02670	reversible	hsa00053	ep
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C00818	reversible	hsa00053	ep
+ALDH1B1	rt	C00818	reversible	hsa00053	ep
+ALDH9A1	rt	C00818	reversible	hsa00053	ep
+ALDH3A2	rt	C00818	reversible	hsa00053	ep
+ALDH7A1	rt	C00818	reversible	hsa00053	ep
+C00818	rt	ALDH2, ALDH-E2, ALDHI, ALDM	reversible	hsa00053	se
+C00818	rt	ALDH1B1	reversible	hsa00053	se
+C00818	rt	ALDH9A1	reversible	hsa00053	se
+C00818	rt	ALDH3A2	reversible	hsa00053	se
+C00818	rt	ALDH7A1	reversible	hsa00053	se
+C00167	rt	UGT2B11	irreversible	hsa00053	se
+C00167	rt	UGT2A1	irreversible	hsa00053	se
+C00167	rt	UGT2B28	irreversible	hsa00053	se
+C00167	rt	UGT1A10	irreversible	hsa00053	se
+C00167	rt	UGT1A8	irreversible	hsa00053	se
+C00167	rt	UGT1A7	irreversible	hsa00053	se
+C00167	rt	UGT1A6	irreversible	hsa00053	se
+C00167	rt	UGT1A5	irreversible	hsa00053	se
+C00167	rt	UGT1A9	irreversible	hsa00053	se
+C00167	rt	UGT1A4	irreversible	hsa00053	se
+C00167	rt	UGT1A1	irreversible	hsa00053	se
+C00167	rt	UGT1A3	irreversible	hsa00053	se
+C00167	rt	UGT2A2	irreversible	hsa00053	se
+C00167	rt	UGT2B4	irreversible	hsa00053	se
+C00167	rt	UGT2B7	irreversible	hsa00053	se
+C00167	rt	UGT2B10	irreversible	hsa00053	se
+C00167	rt	UGT2B15	irreversible	hsa00053	se
+C00167	rt	UGT2B17	irreversible	hsa00053	se
+C00167	rt	UGT2A3	irreversible	hsa00053	se
+UGT2B11	rt	C00191	irreversible	hsa00053	ep
+UGT2A1	rt	C00191	irreversible	hsa00053	ep
+UGT2B28	rt	C00191	irreversible	hsa00053	ep
+UGT1A10	rt	C00191	irreversible	hsa00053	ep
+UGT1A8	rt	C00191	irreversible	hsa00053	ep
+UGT1A7	rt	C00191	irreversible	hsa00053	ep
+UGT1A6	rt	C00191	irreversible	hsa00053	ep
+UGT1A5	rt	C00191	irreversible	hsa00053	ep
+UGT1A9	rt	C00191	irreversible	hsa00053	ep
+UGT1A4	rt	C00191	irreversible	hsa00053	ep
+UGT1A1	rt	C00191	irreversible	hsa00053	ep
+UGT1A3	rt	C00191	irreversible	hsa00053	ep
+UGT2A2	rt	C00191	irreversible	hsa00053	ep
+UGT2B4	rt	C00191	irreversible	hsa00053	ep
+UGT2B7	rt	C00191	irreversible	hsa00053	ep
+UGT2B10	rt	C00191	irreversible	hsa00053	ep
+UGT2B15	rt	C00191	irreversible	hsa00053	ep
+UGT2B17	rt	C00191	irreversible	hsa00053	ep
+UGT2A3	rt	C00191	irreversible	hsa00053	ep
+C05385				hsa00053	
+C01825				hsa00053	
+C15930				hsa00053	
+C15926				hsa00053	
+C15923				hsa00053	
+C15925				hsa00053	
+C02280				hsa00053	
+C00096				hsa00053	
+C00333				hsa00053	
+C01115				hsa00053	
+C15924				hsa00053	
+C03921				hsa00053	
+C01146				hsa00053	
+C00022				hsa00053	
+C00679				hsa00053	
+C00879				hsa00053	
+C00433				hsa00053	
+C00026				hsa00053	
+C00259				hsa00053	
+C00684				hsa00053	
+C00545				hsa00053	
+C01114				hsa00053	
+C20889				hsa00053	
+C20896				hsa00053	
+C01620				hsa00053	
+C03064				hsa00053	
+C16186				hsa00053	
+C14899				hsa00053	
+C05422				hsa00053	
+C01041				hsa00053	
+C04575				hsa00053	
+C05411				hsa00053	
+C05412				hsa00053	
+C00618				hsa00053	
+C00072				hsa00053	
+C00231				hsa00053	
+C01101				hsa00053	
+C03291				hsa00053	
+C03289				hsa00053	
+C21955				hsa00053	
+C00558				hsa00053	

@@ -1,0 +1,85 @@
+THTPA, THTP, THTPASE	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK7, AK_7, SPGF27	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK8	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK1	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK2	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK4	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+AK5	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+390877	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	THTPA, THTP, THTPASE	g-g	hsa00730	compound
+ALPI, IAP	ec	TPK1, HTPK1, PP20, THMD5	g-g	hsa00730	compound
+ALPL	ec	TPK1, HTPK1, PP20, THMD5	g-g	hsa00730	compound
+ALPP	ec	TPK1, HTPK1, PP20, THMD5	g-g	hsa00730	compound
+ALPG	ec	TPK1, HTPK1, PP20, THMD5	g-g	hsa00730	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	TPK1, HTPK1, PP20, THMD5	g-g	hsa00730	compound
+ALPI, IAP	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+ALPL	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+ALPP	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+ALPG	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+ACP1, HAAP, LMW-PTP, LMWPTP	ec	NTPCR, C1orf57, HCR-NTPase	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK7, AK_7, SPGF27	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK8	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK1	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK2	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK4	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	AK5	g-g	hsa00730	compound
+TPK1, HTPK1, PP20, THMD5	ec	390877	g-g	hsa00730	compound
+C15811	rt	NFS1, HUSSY-08, IscS, NIFS	irreversible	hsa00730	se
+C00097	rt	NFS1, HUSSY-08, IscS, NIFS	irreversible	hsa00730	se
+NFS1, HUSSY-08, IscS, NIFS	rt	C15812	irreversible	hsa00730	ep
+C00378	rt	TPK1, HTPK1, PP20, THMD5	irreversible	hsa00730	se
+TPK1, HTPK1, PP20, THMD5	rt	C00068	irreversible	hsa00730	ep
+C03028	rt	THTPA, THTP, THTPASE	irreversible	hsa00730	se
+THTPA, THTP, THTPASE	rt	C00068	irreversible	hsa00730	ep
+C00068	rt	AK7, AK_7, SPGF27	irreversible	hsa00730	se
+C00068	rt	AK8	irreversible	hsa00730	se
+C00068	rt	AK1	irreversible	hsa00730	se
+C00068	rt	AK2	irreversible	hsa00730	se
+C00068	rt	AK4	irreversible	hsa00730	se
+C00068	rt	AK5	irreversible	hsa00730	se
+C00068	rt	390877	irreversible	hsa00730	se
+AK7, AK_7, SPGF27	rt	C03028	irreversible	hsa00730	ep
+AK8	rt	C03028	irreversible	hsa00730	ep
+AK1	rt	C03028	irreversible	hsa00730	ep
+AK2	rt	C03028	irreversible	hsa00730	ep
+AK4	rt	C03028	irreversible	hsa00730	ep
+AK5	rt	C03028	irreversible	hsa00730	ep
+390877	rt	C03028	irreversible	hsa00730	ep
+C00068	rt	NTPCR, C1orf57, HCR-NTPase	irreversible	hsa00730	se
+NTPCR, C1orf57, HCR-NTPase	rt	C01081	irreversible	hsa00730	ep
+C01081	rt	ALPI, IAP	irreversible	hsa00730	se
+C01081	rt	ALPL	irreversible	hsa00730	se
+C01081	rt	ALPP	irreversible	hsa00730	se
+C01081	rt	ALPG	irreversible	hsa00730	se
+ALPI, IAP	rt	C00378	irreversible	hsa00730	ep
+ALPL	rt	C00378	irreversible	hsa00730	ep
+ALPP	rt	C00378	irreversible	hsa00730	ep
+ALPG	rt	C00378	irreversible	hsa00730	ep
+C01081	rt	ACP1, HAAP, LMW-PTP, LMWPTP	irreversible	hsa00730	se
+ACP1, HAAP, LMW-PTP, LMWPTP	rt	C00378	irreversible	hsa00730	ep
+C00082				hsa00730	
+C15809				hsa00730	
+C11437				hsa00730	
+C15814				hsa00730	
+C15813				hsa00730	
+C15810				hsa00730	
+C03373				hsa00730	
+C01279				hsa00730	
+C04556				hsa00730	
+C04752				hsa00730	
+C00118				hsa00730	
+C04327				hsa00730	
+C02892				hsa00730	
+C05856				hsa00730	
+C04294				hsa00730	
+C00037				hsa00730	
+C00003				hsa00730	
+C00018				hsa00730	
+C20246				hsa00730	
+C00037				hsa00730	
+C20247				hsa00730	
+C00022				hsa00730	
+C20784				hsa00730	
+C19872				hsa00730	
+C20267				hsa00730	

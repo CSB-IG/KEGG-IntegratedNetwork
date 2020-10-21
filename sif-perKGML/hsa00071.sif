@@ -1,0 +1,1056 @@
+ACAT1, ACAT, MAT, T2, THIL	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADH	g-g	hsa00071	compound
+ACAT2	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAT2	ec	HADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	EHHADH	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	GCDH, ACAD5, GCD	g-g	hsa00071	compound
+EHHADH	ec	GCDH, ACAD5, GCD	g-g	hsa00071	compound
+HADHA	ec	GCDH, ACAD5, GCD	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	GCDH, ACAD5, GCD	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	GCDH, ACAD5, GCD	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADH	g-g	hsa00071	compound
+ACAT2	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAT2	ec	HADH	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	EHHADH	g-g	hsa00071	compound
+ACAT2	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAT2	ec	EHHADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADS, ACAD3, SCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADS, ACAD3, SCAD	g-g	hsa00071	compound
+HADHA	ec	ACADS, ACAD3, SCAD	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	CPT2, CPT1, CPTASE, IIAE4	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	CPT2, CPT1, CPTASE, IIAE4	g-g	hsa00071	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	g-g	hsa00071	compound
+ALDH2, ALDH-E2, ALDHI, ALDM	ec	CYP4A22	g-g	hsa00071	compound
+ALDH1B1	ec	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	g-g	hsa00071	compound
+ALDH9A1	ec	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	g-g	hsa00071	compound
+ALDH3A2	ec	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	g-g	hsa00071	compound
+ALDH7A1	ec	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	g-g	hsa00071	compound
+ALDH1B1	ec	CYP4A22	g-g	hsa00071	compound
+ALDH9A1	ec	CYP4A22	g-g	hsa00071	compound
+ALDH3A2	ec	CYP4A22	g-g	hsa00071	compound
+ALDH7A1	ec	CYP4A22	g-g	hsa00071	compound
+ADH1A, ADH1	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH1A, ADH1	ec	ALDH1B1	g-g	hsa00071	compound
+ADH1A, ADH1	ec	ALDH9A1	g-g	hsa00071	compound
+ADH1A, ADH1	ec	ALDH3A2	g-g	hsa00071	compound
+ADH1A, ADH1	ec	ALDH7A1	g-g	hsa00071	compound
+ADH1B	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH1C	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH4	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH5	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH6	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH7	ec	ALDH2, ALDH-E2, ALDHI, ALDM	g-g	hsa00071	compound
+ADH1B	ec	ALDH1B1	g-g	hsa00071	compound
+ADH1B	ec	ALDH9A1	g-g	hsa00071	compound
+ADH1B	ec	ALDH3A2	g-g	hsa00071	compound
+ADH1B	ec	ALDH7A1	g-g	hsa00071	compound
+ADH1C	ec	ALDH1B1	g-g	hsa00071	compound
+ADH1C	ec	ALDH9A1	g-g	hsa00071	compound
+ADH1C	ec	ALDH3A2	g-g	hsa00071	compound
+ADH1C	ec	ALDH7A1	g-g	hsa00071	compound
+ADH4	ec	ALDH1B1	g-g	hsa00071	compound
+ADH4	ec	ALDH9A1	g-g	hsa00071	compound
+ADH4	ec	ALDH3A2	g-g	hsa00071	compound
+ADH4	ec	ALDH7A1	g-g	hsa00071	compound
+ADH5	ec	ALDH1B1	g-g	hsa00071	compound
+ADH5	ec	ALDH9A1	g-g	hsa00071	compound
+ADH5	ec	ALDH3A2	g-g	hsa00071	compound
+ADH5	ec	ALDH7A1	g-g	hsa00071	compound
+ADH6	ec	ALDH1B1	g-g	hsa00071	compound
+ADH6	ec	ALDH9A1	g-g	hsa00071	compound
+ADH6	ec	ALDH3A2	g-g	hsa00071	compound
+ADH6	ec	ALDH7A1	g-g	hsa00071	compound
+ADH7	ec	ALDH1B1	g-g	hsa00071	compound
+ADH7	ec	ALDH9A1	g-g	hsa00071	compound
+ADH7	ec	ALDH3A2	g-g	hsa00071	compound
+ADH7	ec	ALDH7A1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAT2	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAT1, ACAT, MAT, T2, THIL	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAT2	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	HADHB	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADS, ACAD3, SCAD	ec	HADHB	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	HADHB	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	HADHB	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	HADHB	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADH	g-g	hsa00071	compound
+EHHADH	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHA	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+EHHADH	ec	HADH	g-g	hsa00071	compound
+HADHA	ec	HADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADL, ACAD4, LCAD	ec	HADHB	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	ACAA1	g-g	hsa00071	compound
+ACADM, ACAD1, MCAD, MCADH	ec	HADHB	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH	g-g	hsa00071	compound
+ACAA1	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHB	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ACAA1	ec	EHHADH	g-g	hsa00071	compound
+HADHB	ec	EHHADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	EHHADH	g-g	hsa00071	compound
+EHHADH	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+HADHA	ec	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	g-g	hsa00071	compound
+EHHADH	ec	EHHADH	g-g	hsa00071	compound
+HADHA	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	EHHADH	g-g	hsa00071	compound
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	ec	HADHA	g-g	hsa00071	compound
+HADH	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+HADH	ec	EHHADH	g-g	hsa00071	compound
+HADH	ec	HADHA	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+EHHADH	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+HADHA	ec	ACADM, ACAD1, MCAD, MCADH	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+HADHA	ec	ACADL, ACAD4, LCAD	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+GCDH, ACAD5, GCD	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+GCDH, ACAD5, GCD	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+HADHA	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+GCDH, ACAD5, GCD	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAT2	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAA1	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+HADHB	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACOX3	g-g	hsa00071	compound
+ACAT2	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAT2	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+HADHA	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAA1	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+HADHB	ec	ACADSB, 2-MEBCAD, ACAD7, SBCAD	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	ACOX3	g-g	hsa00071	compound
+ACAA1	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHB	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ACAA1	ec	ACOX3	g-g	hsa00071	compound
+HADHB	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACOX3	g-g	hsa00071	compound
+EHHADH	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+HADHA	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+EHHADH	ec	ACOX3	g-g	hsa00071	compound
+HADHA	ec	ACOX3	g-g	hsa00071	compound
+CPT2, CPT1, CPTASE, IIAE4	ec	ACOX1, ACOX, PALMCOX, SCOX	g-g	hsa00071	compound
+CPT2, CPT1, CPTASE, IIAE4	ec	ACOX3	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	ACAA1	g-g	hsa00071	compound
+ACAT1, ACAT, MAT, T2, THIL	ec	HADHB	g-g	hsa00071	compound
+ACAT2	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACAT2	ec	ACAA1	g-g	hsa00071	compound
+ACAT2	ec	HADHB	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	ECHS1, ECHS1D, SCEH	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	EHHADH	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	HADHA	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	CPT2, CPT1, CPTASE, IIAE4	g-g	hsa00071	compound
+ECHS1, ECHS1D, SCEH	ec	ACADVL, ACAD6, LCACD, VLCAD	g-g	hsa00071	compound
+EHHADH	ec	ACADVL, ACAD6, LCACD, VLCAD	g-g	hsa00071	compound
+HADHA	ec	ACADVL, ACAD6, LCACD, VLCAD	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	ACAA2, DSAEC	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	ACAA1	g-g	hsa00071	compound
+ACADVL, ACAD6, LCACD, VLCAD	ec	HADHB	g-g	hsa00071	compound
+CPT2, CPT1, CPTASE, IIAE4	ec	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	g-g	hsa00071	compound
+CPT2, CPT1, CPTASE, IIAE4	ec	CPT1A	g-g	hsa00071	compound
+CPT2, CPT1, CPTASE, IIAE4	ec	CPT1B	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSL3	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSL4	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSBG1	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSL6	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSL5	g-g	hsa00071	compound
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	ec	ACSBG2	g-g	hsa00071	compound
+CPT1A	ec	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	g-g	hsa00071	compound
+CPT1B	ec	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	g-g	hsa00071	compound
+CPT1A	ec	ACSL3	g-g	hsa00071	compound
+CPT1A	ec	ACSL4	g-g	hsa00071	compound
+CPT1A	ec	ACSBG1	g-g	hsa00071	compound
+CPT1A	ec	ACSL6	g-g	hsa00071	compound
+CPT1A	ec	ACSL5	g-g	hsa00071	compound
+CPT1A	ec	ACSBG2	g-g	hsa00071	compound
+CPT1B	ec	ACSL3	g-g	hsa00071	compound
+CPT1B	ec	ACSL4	g-g	hsa00071	compound
+CPT1B	ec	ACSBG1	g-g	hsa00071	compound
+CPT1B	ec	ACSL6	g-g	hsa00071	compound
+CPT1B	ec	ACSL5	g-g	hsa00071	compound
+CPT1B	ec	ACSBG2	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA2, DSAEC	ec	HADH	g-g	hsa00071	compound
+ACAA1	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+HADHB	ec	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	g-g	hsa00071	compound
+ACAA1	ec	HADH	g-g	hsa00071	compound
+HADHB	ec	HADH	g-g	hsa00071	compound
+C05270	rt	ACADSB, 2-MEBCAD, ACAD7, SBCAD	irreversible	hsa00071	se
+ACADSB, 2-MEBCAD, ACAD7, SBCAD	rt	C05271	irreversible	hsa00071	ep
+C00136	rt	ACADSB, 2-MEBCAD, ACAD7, SBCAD	irreversible	hsa00071	se
+ACADSB, 2-MEBCAD, ACAD7, SBCAD	rt	C00877	irreversible	hsa00071	ep
+C00024	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C00024	rt	ACAT2	reversible	hsa00071	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	reversible	hsa00071	ep
+ACAT2	rt	C00024	reversible	hsa00071	ep
+ACAT1, ACAT, MAT, T2, THIL	rt	C00332	reversible	hsa00071	ep
+ACAT2	rt	C00332	reversible	hsa00071	ep
+C00332	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C00332	rt	ACAT2	reversible	hsa00071	se
+C00136	rt	ACADS, ACAD3, SCAD	irreversible	hsa00071	se
+ACADS, ACAD3, SCAD	rt	C00877	irreversible	hsa00071	ep
+C01144	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C01144	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C01144	reversible	hsa00071	ep
+HADH	rt	C01144	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C00332	reversible	hsa00071	ep
+HADH	rt	C00332	reversible	hsa00071	ep
+C00332	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C00332	rt	HADH	reversible	hsa00071	se
+C01144	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C01144	rt	EHHADH	reversible	hsa00071	se
+C01144	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C01144	reversible	hsa00071	ep
+EHHADH	rt	C01144	reversible	hsa00071	ep
+HADHA	rt	C01144	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C00877	reversible	hsa00071	ep
+EHHADH	rt	C00877	reversible	hsa00071	ep
+HADHA	rt	C00877	reversible	hsa00071	ep
+C00877	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C00877	rt	EHHADH	reversible	hsa00071	se
+C00877	rt	HADHA	reversible	hsa00071	se
+C00136	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C00877	irreversible	hsa00071	ep
+C05280	rt	ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A103	reversible	hsa00071	se
+C05280	rt	ECI1	reversible	hsa00071	se
+C05280	rt	EHHADH	reversible	hsa00071	se
+ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A103	rt	C05280	reversible	hsa00071	ep
+ECI1	rt	C05280	reversible	hsa00071	ep
+EHHADH	rt	C05280	reversible	hsa00071	ep
+ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A103	rt	C05279	reversible	hsa00071	ep
+ECI1	rt	C05279	reversible	hsa00071	ep
+EHHADH	rt	C05279	reversible	hsa00071	ep
+C05279	rt	ECI2, ACBD2, DRS-1, DRS1, HCA88, PECI, dJ1013A103	reversible	hsa00071	se
+C05279	rt	ECI1	reversible	hsa00071	se
+C05279	rt	EHHADH	reversible	hsa00071	se
+C00024	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C00024	rt	ACAT2	reversible	hsa00071	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00024	reversible	hsa00071	ep
+ACAT2	rt	C00024	reversible	hsa00071	ep
+C00136	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C00136	rt	ACAT2	reversible	hsa00071	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00136	reversible	hsa00071	ep
+ACAT2	rt	C00136	reversible	hsa00071	ep
+ACAT1, ACAT, MAT, T2, THIL	rt	C05269	reversible	hsa00071	ep
+ACAT2	rt	C05269	reversible	hsa00071	ep
+C05269	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C05269	rt	ACAT2	reversible	hsa00071	se
+ACAT1, ACAT, MAT, T2, THIL	rt	C00010	reversible	hsa00071	ep
+ACAT2	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAT1, ACAT, MAT, T2, THIL	reversible	hsa00071	se
+C00010	rt	ACAT2	reversible	hsa00071	se
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C00136	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00136	rt	ACAA1	reversible	hsa00071	se
+C00136	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00136	reversible	hsa00071	ep
+ACAA1	rt	C00136	reversible	hsa00071	ep
+HADHB	rt	C00136	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C05269	reversible	hsa00071	ep
+ACAA1	rt	C05269	reversible	hsa00071	ep
+HADHB	rt	C05269	reversible	hsa00071	ep
+C05269	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05269	rt	ACAA1	reversible	hsa00071	se
+C05269	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+C05268	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05268	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05268	reversible	hsa00071	ep
+HADH	rt	C05268	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05269	reversible	hsa00071	ep
+HADH	rt	C05269	reversible	hsa00071	ep
+C05269	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05269	rt	HADH	reversible	hsa00071	se
+C05268	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05268	rt	EHHADH	reversible	hsa00071	se
+C05268	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05268	reversible	hsa00071	ep
+EHHADH	rt	C05268	reversible	hsa00071	ep
+HADHA	rt	C05268	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C05271	reversible	hsa00071	ep
+EHHADH	rt	C05271	reversible	hsa00071	ep
+HADHA	rt	C05271	reversible	hsa00071	ep
+C05271	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05271	rt	EHHADH	reversible	hsa00071	se
+C05271	rt	HADHA	reversible	hsa00071	se
+C05270	rt	ACADS, ACAD3, SCAD	irreversible	hsa00071	se
+ACADS, ACAD3, SCAD	rt	C05271	irreversible	hsa00071	ep
+C05270	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C05271	irreversible	hsa00071	ep
+C05268	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05268	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05268	reversible	hsa00071	ep
+EHHADH	rt	C05268	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05269	reversible	hsa00071	ep
+EHHADH	rt	C05269	reversible	hsa00071	ep
+C05269	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05269	rt	EHHADH	reversible	hsa00071	se
+C05270	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C05271	irreversible	hsa00071	ep
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C05270	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05270	rt	ACAA1	reversible	hsa00071	se
+C05270	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C05270	reversible	hsa00071	ep
+ACAA1	rt	C05270	reversible	hsa00071	ep
+HADHB	rt	C05270	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C05267	reversible	hsa00071	ep
+ACAA1	rt	C05267	reversible	hsa00071	ep
+HADHB	rt	C05267	reversible	hsa00071	ep
+C05267	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05267	rt	ACAA1	reversible	hsa00071	se
+C05267	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+C05266	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05266	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05266	reversible	hsa00071	ep
+HADH	rt	C05266	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05267	reversible	hsa00071	ep
+HADH	rt	C05267	reversible	hsa00071	ep
+C05267	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05267	rt	HADH	reversible	hsa00071	se
+C05266	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05266	rt	EHHADH	reversible	hsa00071	se
+C05266	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05266	reversible	hsa00071	ep
+EHHADH	rt	C05266	reversible	hsa00071	ep
+HADHA	rt	C05266	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C05276	reversible	hsa00071	ep
+EHHADH	rt	C05276	reversible	hsa00071	ep
+HADHA	rt	C05276	reversible	hsa00071	ep
+C05276	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05276	rt	EHHADH	reversible	hsa00071	se
+C05276	rt	HADHA	reversible	hsa00071	se
+C01944	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C05276	irreversible	hsa00071	ep
+C05266	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05266	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05266	reversible	hsa00071	ep
+EHHADH	rt	C05266	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05267	reversible	hsa00071	ep
+EHHADH	rt	C05267	reversible	hsa00071	ep
+C05267	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05267	rt	EHHADH	reversible	hsa00071	se
+C01944	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C05276	irreversible	hsa00071	ep
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C01944	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C01944	rt	ACAA1	reversible	hsa00071	se
+C01944	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C01944	reversible	hsa00071	ep
+ACAA1	rt	C01944	reversible	hsa00071	ep
+HADHB	rt	C01944	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C05265	reversible	hsa00071	ep
+ACAA1	rt	C05265	reversible	hsa00071	ep
+HADHB	rt	C05265	reversible	hsa00071	ep
+C05265	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05265	rt	ACAA1	reversible	hsa00071	se
+C05265	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+C05264	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05264	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05264	reversible	hsa00071	ep
+HADH	rt	C05264	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05265	reversible	hsa00071	ep
+HADH	rt	C05265	reversible	hsa00071	ep
+C05265	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05265	rt	HADH	reversible	hsa00071	se
+C05264	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05264	rt	EHHADH	reversible	hsa00071	se
+C05264	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05264	reversible	hsa00071	ep
+EHHADH	rt	C05264	reversible	hsa00071	ep
+HADHA	rt	C05264	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C05275	reversible	hsa00071	ep
+EHHADH	rt	C05275	reversible	hsa00071	ep
+HADHA	rt	C05275	reversible	hsa00071	ep
+C05275	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05275	rt	EHHADH	reversible	hsa00071	se
+C05275	rt	HADHA	reversible	hsa00071	se
+C05274	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C05275	irreversible	hsa00071	ep
+C05274	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C05275	irreversible	hsa00071	ep
+C05264	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05264	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05264	reversible	hsa00071	ep
+EHHADH	rt	C05264	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05265	reversible	hsa00071	ep
+EHHADH	rt	C05265	reversible	hsa00071	ep
+C05265	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05265	rt	EHHADH	reversible	hsa00071	se
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C05274	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05274	rt	ACAA1	reversible	hsa00071	se
+C05274	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C05274	reversible	hsa00071	ep
+ACAA1	rt	C05274	reversible	hsa00071	ep
+HADHB	rt	C05274	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C05263	reversible	hsa00071	ep
+ACAA1	rt	C05263	reversible	hsa00071	ep
+HADHB	rt	C05263	reversible	hsa00071	ep
+C05263	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05263	rt	ACAA1	reversible	hsa00071	se
+C05263	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+C05262	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05262	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05262	reversible	hsa00071	ep
+HADH	rt	C05262	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05263	reversible	hsa00071	ep
+HADH	rt	C05263	reversible	hsa00071	ep
+C05263	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05263	rt	HADH	reversible	hsa00071	se
+C05262	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05262	rt	EHHADH	reversible	hsa00071	se
+C05262	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05262	reversible	hsa00071	ep
+EHHADH	rt	C05262	reversible	hsa00071	ep
+HADHA	rt	C05262	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C03221	reversible	hsa00071	ep
+EHHADH	rt	C03221	reversible	hsa00071	ep
+HADHA	rt	C03221	reversible	hsa00071	ep
+C03221	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C03221	rt	EHHADH	reversible	hsa00071	se
+C03221	rt	HADHA	reversible	hsa00071	se
+C01832	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C03221	irreversible	hsa00071	ep
+C00226	rt	ADH1A, ADH1	reversible	hsa00071	se
+C00226	rt	ADH1B	reversible	hsa00071	se
+C00226	rt	ADH1C	reversible	hsa00071	se
+C00226	rt	ADH4	reversible	hsa00071	se
+C00226	rt	ADH5	reversible	hsa00071	se
+C00226	rt	ADH6	reversible	hsa00071	se
+C00226	rt	ADH7	reversible	hsa00071	se
+ADH1A, ADH1	rt	C00226	reversible	hsa00071	ep
+ADH1B	rt	C00226	reversible	hsa00071	ep
+ADH1C	rt	C00226	reversible	hsa00071	ep
+ADH4	rt	C00226	reversible	hsa00071	ep
+ADH5	rt	C00226	reversible	hsa00071	ep
+ADH6	rt	C00226	reversible	hsa00071	ep
+ADH7	rt	C00226	reversible	hsa00071	ep
+ADH1A, ADH1	rt	C00071	reversible	hsa00071	ep
+ADH1B	rt	C00071	reversible	hsa00071	ep
+ADH1C	rt	C00071	reversible	hsa00071	ep
+ADH4	rt	C00071	reversible	hsa00071	ep
+ADH5	rt	C00071	reversible	hsa00071	ep
+ADH6	rt	C00071	reversible	hsa00071	ep
+ADH7	rt	C00071	reversible	hsa00071	ep
+C00071	rt	ADH1A, ADH1	reversible	hsa00071	se
+C00071	rt	ADH1B	reversible	hsa00071	se
+C00071	rt	ADH1C	reversible	hsa00071	se
+C00071	rt	ADH4	reversible	hsa00071	se
+C00071	rt	ADH5	reversible	hsa00071	se
+C00071	rt	ADH6	reversible	hsa00071	se
+C00071	rt	ADH7	reversible	hsa00071	se
+C00527	rt	GCDH, ACAD5, GCD	irreversible	hsa00071	se
+GCDH, ACAD5, GCD	rt	C00877	irreversible	hsa00071	ep
+C05262	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05262	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05262	reversible	hsa00071	ep
+EHHADH	rt	C05262	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05263	reversible	hsa00071	ep
+EHHADH	rt	C05263	reversible	hsa00071	ep
+C05263	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05263	rt	EHHADH	reversible	hsa00071	se
+C01832	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C03221	irreversible	hsa00071	ep
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C01832	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C01832	rt	ACAA1	reversible	hsa00071	se
+C01832	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C01832	reversible	hsa00071	ep
+ACAA1	rt	C01832	reversible	hsa00071	ep
+HADHB	rt	C01832	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C05261	reversible	hsa00071	ep
+ACAA1	rt	C05261	reversible	hsa00071	ep
+HADHB	rt	C05261	reversible	hsa00071	ep
+C05261	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05261	rt	ACAA1	reversible	hsa00071	se
+C05261	rt	HADHB	reversible	hsa00071	se
+C05260	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05260	rt	EHHADH	reversible	hsa00071	se
+C05260	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05260	reversible	hsa00071	ep
+EHHADH	rt	C05260	reversible	hsa00071	ep
+HADHA	rt	C05260	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C05273	reversible	hsa00071	ep
+EHHADH	rt	C05273	reversible	hsa00071	ep
+HADHA	rt	C05273	reversible	hsa00071	ep
+C05273	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05273	rt	EHHADH	reversible	hsa00071	se
+C05273	rt	HADHA	reversible	hsa00071	se
+C02593	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C05273	irreversible	hsa00071	ep
+C05260	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05260	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05260	reversible	hsa00071	ep
+HADH	rt	C05260	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05261	reversible	hsa00071	ep
+HADH	rt	C05261	reversible	hsa00071	ep
+C05261	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05261	rt	HADH	reversible	hsa00071	se
+C00071	rt	ALDH2, ALDH-E2, ALDHI, ALDM	reversible	hsa00071	se
+C00071	rt	ALDH1B1	reversible	hsa00071	se
+C00071	rt	ALDH9A1	reversible	hsa00071	se
+C00071	rt	ALDH3A2	reversible	hsa00071	se
+C00071	rt	ALDH7A1	reversible	hsa00071	se
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C00071	reversible	hsa00071	ep
+ALDH1B1	rt	C00071	reversible	hsa00071	ep
+ALDH9A1	rt	C00071	reversible	hsa00071	ep
+ALDH3A2	rt	C00071	reversible	hsa00071	ep
+ALDH7A1	rt	C00071	reversible	hsa00071	ep
+ALDH2, ALDH-E2, ALDHI, ALDM	rt	C00162	reversible	hsa00071	ep
+ALDH1B1	rt	C00162	reversible	hsa00071	ep
+ALDH9A1	rt	C00162	reversible	hsa00071	ep
+ALDH3A2	rt	C00162	reversible	hsa00071	ep
+ALDH7A1	rt	C00162	reversible	hsa00071	ep
+C00162	rt	ALDH2, ALDH-E2, ALDHI, ALDM	reversible	hsa00071	se
+C00162	rt	ALDH1B1	reversible	hsa00071	se
+C00162	rt	ALDH9A1	reversible	hsa00071	se
+C00162	rt	ALDH3A2	reversible	hsa00071	se
+C00162	rt	ALDH7A1	reversible	hsa00071	se
+C05260	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05260	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05260	reversible	hsa00071	ep
+EHHADH	rt	C05260	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05261	reversible	hsa00071	ep
+EHHADH	rt	C05261	reversible	hsa00071	ep
+C05261	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05261	rt	EHHADH	reversible	hsa00071	se
+C02593	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C05273	irreversible	hsa00071	ep
+C00162	rt	CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	irreversible	hsa00071	se
+C00162	rt	CYP4A22	irreversible	hsa00071	se
+CYP4A11, CP4Y, CYP4A2, CYP4AII, CYPIVA11	rt	C03547	irreversible	hsa00071	ep
+CYP4A22	rt	C03547	irreversible	hsa00071	ep
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+C02593	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C02593	rt	ACAA1	reversible	hsa00071	se
+C02593	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C02593	reversible	hsa00071	ep
+ACAA1	rt	C02593	reversible	hsa00071	ep
+HADHB	rt	C02593	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C05259	reversible	hsa00071	ep
+ACAA1	rt	C05259	reversible	hsa00071	ep
+HADHB	rt	C05259	reversible	hsa00071	ep
+C05259	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C05259	rt	ACAA1	reversible	hsa00071	se
+C05259	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00010	reversible	hsa00071	ep
+ACAA1	rt	C00010	reversible	hsa00071	ep
+HADHB	rt	C00010	reversible	hsa00071	ep
+C00010	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00010	rt	ACAA1	reversible	hsa00071	se
+C00010	rt	HADHB	reversible	hsa00071	se
+C05258	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05258	rt	HADH	reversible	hsa00071	se
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05258	reversible	hsa00071	ep
+HADH	rt	C05258	reversible	hsa00071	ep
+EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	rt	C05259	reversible	hsa00071	ep
+HADH	rt	C05259	reversible	hsa00071	ep
+C05259	rt	EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE	reversible	hsa00071	se
+C05259	rt	HADH	reversible	hsa00071	se
+C05258	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05258	rt	EHHADH	reversible	hsa00071	se
+C05258	rt	HADHA	reversible	hsa00071	se
+ECHS1, ECHS1D, SCEH	rt	C05258	reversible	hsa00071	ep
+EHHADH	rt	C05258	reversible	hsa00071	ep
+HADHA	rt	C05258	reversible	hsa00071	ep
+ECHS1, ECHS1D, SCEH	rt	C05272	reversible	hsa00071	ep
+EHHADH	rt	C05272	reversible	hsa00071	ep
+HADHA	rt	C05272	reversible	hsa00071	ep
+C05272	rt	ECHS1, ECHS1D, SCEH	reversible	hsa00071	se
+C05272	rt	EHHADH	reversible	hsa00071	se
+C05272	rt	HADHA	reversible	hsa00071	se
+C00154	rt	ACADM, ACAD1, MCAD, MCADH	irreversible	hsa00071	se
+ACADM, ACAD1, MCAD, MCADH	rt	C05272	irreversible	hsa00071	ep
+C00249	rt	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	reversible	hsa00071	se
+C00249	rt	ACSL3	reversible	hsa00071	se
+C00249	rt	ACSL4	reversible	hsa00071	se
+C00249	rt	ACSBG1	reversible	hsa00071	se
+C00249	rt	ACSL6	reversible	hsa00071	se
+C00249	rt	ACSL5	reversible	hsa00071	se
+C00249	rt	ACSBG2	reversible	hsa00071	se
+ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	rt	C00249	reversible	hsa00071	ep
+ACSL3	rt	C00249	reversible	hsa00071	ep
+ACSL4	rt	C00249	reversible	hsa00071	ep
+ACSBG1	rt	C00249	reversible	hsa00071	ep
+ACSL6	rt	C00249	reversible	hsa00071	ep
+ACSL5	rt	C00249	reversible	hsa00071	ep
+ACSBG2	rt	C00249	reversible	hsa00071	ep
+ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	rt	C00154	reversible	hsa00071	ep
+ACSL3	rt	C00154	reversible	hsa00071	ep
+ACSL4	rt	C00154	reversible	hsa00071	ep
+ACSBG1	rt	C00154	reversible	hsa00071	ep
+ACSL6	rt	C00154	reversible	hsa00071	ep
+ACSL5	rt	C00154	reversible	hsa00071	ep
+ACSBG2	rt	C00154	reversible	hsa00071	ep
+C00154	rt	ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2	reversible	hsa00071	se
+C00154	rt	ACSL3	reversible	hsa00071	se
+C00154	rt	ACSL4	reversible	hsa00071	se
+C00154	rt	ACSBG1	reversible	hsa00071	se
+C00154	rt	ACSL6	reversible	hsa00071	se
+C00154	rt	ACSL5	reversible	hsa00071	se
+C00154	rt	ACSBG2	reversible	hsa00071	se
+C05258	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05258	rt	EHHADH	reversible	hsa00071	se
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05258	reversible	hsa00071	ep
+EHHADH	rt	C05258	reversible	hsa00071	ep
+HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	rt	C05259	reversible	hsa00071	ep
+EHHADH	rt	C05259	reversible	hsa00071	ep
+C05259	rt	HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA	reversible	hsa00071	se
+C05259	rt	EHHADH	reversible	hsa00071	se
+C00154	rt	ACADL, ACAD4, LCAD	irreversible	hsa00071	se
+ACADL, ACAD4, LCAD	rt	C05272	irreversible	hsa00071	ep
+C02990	rt	CPT2, CPT1, CPTASE, IIAE4	irreversible	hsa00071	se
+CPT2, CPT1, CPTASE, IIAE4	rt	C00154	irreversible	hsa00071	ep
+C00136	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C00136	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C00877	irreversible	hsa00071	ep
+ACOX3	rt	C00877	irreversible	hsa00071	ep
+C05270	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C05270	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C05271	irreversible	hsa00071	ep
+ACOX3	rt	C05271	irreversible	hsa00071	ep
+C01944	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C01944	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C05276	irreversible	hsa00071	ep
+ACOX3	rt	C05276	irreversible	hsa00071	ep
+C05274	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C05274	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C05275	irreversible	hsa00071	ep
+ACOX3	rt	C05275	irreversible	hsa00071	ep
+C01832	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C01832	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C03221	irreversible	hsa00071	ep
+ACOX3	rt	C03221	irreversible	hsa00071	ep
+C02593	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C02593	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C05273	irreversible	hsa00071	ep
+ACOX3	rt	C05273	irreversible	hsa00071	ep
+C00154	rt	ACOX1, ACOX, PALMCOX, SCOX	irreversible	hsa00071	se
+C00154	rt	ACOX3	irreversible	hsa00071	se
+ACOX1, ACOX, PALMCOX, SCOX	rt	C05272	irreversible	hsa00071	ep
+ACOX3	rt	C05272	irreversible	hsa00071	ep
+C00154	rt	ACADVL, ACAD6, LCACD, VLCAD	irreversible	hsa00071	se
+ACADVL, ACAD6, LCACD, VLCAD	rt	C05272	irreversible	hsa00071	ep
+C02593	rt	ACADVL, ACAD6, LCACD, VLCAD	irreversible	hsa00071	se
+ACADVL, ACAD6, LCACD, VLCAD	rt	C05273	irreversible	hsa00071	ep
+C00154	rt	CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	irreversible	hsa00071	se
+C00154	rt	CPT1A	irreversible	hsa00071	se
+C00154	rt	CPT1B	irreversible	hsa00071	se
+CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73	rt	C02990	irreversible	hsa00071	ep
+CPT1A	rt	C02990	irreversible	hsa00071	ep
+CPT1B	rt	C02990	irreversible	hsa00071	ep
+C00024	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00024	rt	ACAA1	reversible	hsa00071	se
+C00024	rt	HADHB	reversible	hsa00071	se
+ACAA2, DSAEC	rt	C00024	reversible	hsa00071	ep
+ACAA1	rt	C00024	reversible	hsa00071	ep
+HADHB	rt	C00024	reversible	hsa00071	ep
+ACAA2, DSAEC	rt	C00332	reversible	hsa00071	ep
+ACAA1	rt	C00332	reversible	hsa00071	ep
+HADHB	rt	C00332	reversible	hsa00071	ep
+C00332	rt	ACAA2, DSAEC	reversible	hsa00071	se
+C00332	rt	ACAA1	reversible	hsa00071	se
+C00332	rt	HADHB	reversible	hsa00071	se
+C00638				hsa00071	
+C03561				hsa00071	
+C00229				hsa00071	
+C20683				hsa00071	
+C01371				hsa00071	
+C00340				hsa00071	
+C00435				hsa00071	
+C05102				hsa00071	
+C00517				hsa00071	
+C00823				hsa00071	
+C00489				hsa00071	

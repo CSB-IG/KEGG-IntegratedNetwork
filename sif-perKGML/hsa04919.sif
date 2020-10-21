@@ -1,0 +1,611 @@
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	gr	ITGAV, CD51, MSK8, VNRA, VTNR	group	hsa04919	group
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	gr	ITGAV, CD51, MSK8, VNRA, VTNR	group	hsa04919	group
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	gr	SIN3A, WITKOS	group	hsa04919	group
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	gr	HDAC1, GON-10, HD1, RPD3, RPD3L1	group	hsa04919	group
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	gr	HDAC2	group	hsa04919	group
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	gr	HDAC3	group	hsa04919	group
+SIN3A, WITKOS	gr	HDAC1, GON-10, HD1, RPD3, RPD3L1	group	hsa04919	group
+SIN3A, WITKOS	gr	HDAC2	group	hsa04919	group
+SIN3A, WITKOS	gr	HDAC3	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRA, NR2B1	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRB	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRG	group	hsa04919	group
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	gr	NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	group	hsa04919	group
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	gr	NCOA3	group	hsa04919	group
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	gr	NCOA1	group	hsa04919	group
+KAT2B	gr	NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	group	hsa04919	group
+KAT2B	gr	NCOA3	group	hsa04919	group
+KAT2B	gr	NCOA1	group	hsa04919	group
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	gr	CREBBP, CBP, KAT3A, RSTS	group	hsa04919	group
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	gr	EP300	group	hsa04919	group
+KAT2B	gr	CREBBP, CBP, KAT3A, RSTS	group	hsa04919	group
+KAT2B	gr	EP300	group	hsa04919	group
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	gr	CREBBP, CBP, KAT3A, RSTS	group	hsa04919	group
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	gr	EP300	group	hsa04919	group
+NCOA3	gr	CREBBP, CBP, KAT3A, RSTS	group	hsa04919	group
+NCOA1	gr	CREBBP, CBP, KAT3A, RSTS	group	hsa04919	group
+NCOA3	gr	EP300	group	hsa04919	group
+NCOA1	gr	EP300	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRA, NR2B1	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRB	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRG	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED12L	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED13L	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED4	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED30	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED14	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED17	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED27	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED24	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED12	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED13	gr	MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED12L	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED13L	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED4	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED30	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED14	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED17	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED27	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED24	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED12	group	hsa04919	group
+MED16, DRIP92, THRAP5, TRAP95	gr	MED13	group	hsa04919	group
+MED12L	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED13L	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED4	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED30	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED14	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED17	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED27	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED24	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED12	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED13	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED12L	gr	MED12L	group	hsa04919	group
+MED12L	gr	MED13L	group	hsa04919	group
+MED12L	gr	MED4	group	hsa04919	group
+MED12L	gr	MED30	group	hsa04919	group
+MED12L	gr	MED14	group	hsa04919	group
+MED12L	gr	MED17	group	hsa04919	group
+MED12L	gr	MED27	group	hsa04919	group
+MED12L	gr	MED24	group	hsa04919	group
+MED12L	gr	MED12	group	hsa04919	group
+MED12L	gr	MED13	group	hsa04919	group
+MED13L	gr	MED12L	group	hsa04919	group
+MED13L	gr	MED13L	group	hsa04919	group
+MED13L	gr	MED4	group	hsa04919	group
+MED13L	gr	MED30	group	hsa04919	group
+MED13L	gr	MED14	group	hsa04919	group
+MED13L	gr	MED17	group	hsa04919	group
+MED13L	gr	MED27	group	hsa04919	group
+MED13L	gr	MED24	group	hsa04919	group
+MED13L	gr	MED12	group	hsa04919	group
+MED13L	gr	MED13	group	hsa04919	group
+MED4	gr	MED12L	group	hsa04919	group
+MED4	gr	MED13L	group	hsa04919	group
+MED4	gr	MED4	group	hsa04919	group
+MED4	gr	MED30	group	hsa04919	group
+MED4	gr	MED14	group	hsa04919	group
+MED4	gr	MED17	group	hsa04919	group
+MED4	gr	MED27	group	hsa04919	group
+MED4	gr	MED24	group	hsa04919	group
+MED4	gr	MED12	group	hsa04919	group
+MED4	gr	MED13	group	hsa04919	group
+MED30	gr	MED12L	group	hsa04919	group
+MED30	gr	MED13L	group	hsa04919	group
+MED30	gr	MED4	group	hsa04919	group
+MED30	gr	MED30	group	hsa04919	group
+MED30	gr	MED14	group	hsa04919	group
+MED30	gr	MED17	group	hsa04919	group
+MED30	gr	MED27	group	hsa04919	group
+MED30	gr	MED24	group	hsa04919	group
+MED30	gr	MED12	group	hsa04919	group
+MED30	gr	MED13	group	hsa04919	group
+MED14	gr	MED12L	group	hsa04919	group
+MED14	gr	MED13L	group	hsa04919	group
+MED14	gr	MED4	group	hsa04919	group
+MED14	gr	MED30	group	hsa04919	group
+MED14	gr	MED14	group	hsa04919	group
+MED14	gr	MED17	group	hsa04919	group
+MED14	gr	MED27	group	hsa04919	group
+MED14	gr	MED24	group	hsa04919	group
+MED14	gr	MED12	group	hsa04919	group
+MED14	gr	MED13	group	hsa04919	group
+MED17	gr	MED12L	group	hsa04919	group
+MED17	gr	MED13L	group	hsa04919	group
+MED17	gr	MED4	group	hsa04919	group
+MED17	gr	MED30	group	hsa04919	group
+MED17	gr	MED14	group	hsa04919	group
+MED17	gr	MED17	group	hsa04919	group
+MED17	gr	MED27	group	hsa04919	group
+MED17	gr	MED24	group	hsa04919	group
+MED17	gr	MED12	group	hsa04919	group
+MED17	gr	MED13	group	hsa04919	group
+MED27	gr	MED12L	group	hsa04919	group
+MED27	gr	MED13L	group	hsa04919	group
+MED27	gr	MED4	group	hsa04919	group
+MED27	gr	MED30	group	hsa04919	group
+MED27	gr	MED14	group	hsa04919	group
+MED27	gr	MED17	group	hsa04919	group
+MED27	gr	MED27	group	hsa04919	group
+MED27	gr	MED24	group	hsa04919	group
+MED27	gr	MED12	group	hsa04919	group
+MED27	gr	MED13	group	hsa04919	group
+MED24	gr	MED12L	group	hsa04919	group
+MED24	gr	MED13L	group	hsa04919	group
+MED24	gr	MED4	group	hsa04919	group
+MED24	gr	MED30	group	hsa04919	group
+MED24	gr	MED14	group	hsa04919	group
+MED24	gr	MED17	group	hsa04919	group
+MED24	gr	MED27	group	hsa04919	group
+MED24	gr	MED24	group	hsa04919	group
+MED24	gr	MED12	group	hsa04919	group
+MED24	gr	MED13	group	hsa04919	group
+MED12	gr	MED12L	group	hsa04919	group
+MED12	gr	MED13L	group	hsa04919	group
+MED12	gr	MED4	group	hsa04919	group
+MED12	gr	MED30	group	hsa04919	group
+MED12	gr	MED14	group	hsa04919	group
+MED12	gr	MED17	group	hsa04919	group
+MED12	gr	MED27	group	hsa04919	group
+MED12	gr	MED24	group	hsa04919	group
+MED12	gr	MED12	group	hsa04919	group
+MED12	gr	MED13	group	hsa04919	group
+MED13	gr	MED12L	group	hsa04919	group
+MED13	gr	MED13L	group	hsa04919	group
+MED13	gr	MED4	group	hsa04919	group
+MED13	gr	MED30	group	hsa04919	group
+MED13	gr	MED14	group	hsa04919	group
+MED13	gr	MED17	group	hsa04919	group
+MED13	gr	MED27	group	hsa04919	group
+MED13	gr	MED24	group	hsa04919	group
+MED13	gr	MED12	group	hsa04919	group
+MED13	gr	MED13	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED16, DRIP92, THRAP5, TRAP95	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED12L	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED13L	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED4	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED30	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED14	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED17	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED27	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED24	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED12	group	hsa04919	group
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	gr	MED13	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRA, NR2B1	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRB	group	hsa04919	group
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr	RXRG	group	hsa04919	group
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCD3, PLC-delta-3	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCB1	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCE1	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCB2	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCB3	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCB4	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCD1	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCG1	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCG2	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCD4	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	PLCZ1	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCD3, PLC-delta-3	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCB1	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCE1	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCB2	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCB3	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCB4	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCD1	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCG1	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCG2	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCD4	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	PLCZ1	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	KRAS	gr-g	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	NRAS	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	KRAS	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	NRAS	gr-g	hsa04919	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04919	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	MAPK3	g-g	hsa04919	activation
+PRKACB	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04919	activation
+PRKACG	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04919	activation
+PRKACB	pp	MAPK3	g-g	hsa04919	activation
+PRKACG	pp	MAPK3	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1B4	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1A1	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1A2	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1A3	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1A4	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1B1	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1B2	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	ATP1B3	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	FXYD2	g-g	hsa04919	activation
+PIK3CB	pp	ATP1B4	g-g	hsa04919	activation
+PIK3CD	pp	ATP1B4	g-g	hsa04919	activation
+PIK3R1	pp	ATP1B4	g-g	hsa04919	activation
+PIK3R2	pp	ATP1B4	g-g	hsa04919	activation
+PIK3R3	pp	ATP1B4	g-g	hsa04919	activation
+PIK3CB	pp	ATP1A1	g-g	hsa04919	activation
+PIK3CB	pp	ATP1A2	g-g	hsa04919	activation
+PIK3CB	pp	ATP1A3	g-g	hsa04919	activation
+PIK3CB	pp	ATP1A4	g-g	hsa04919	activation
+PIK3CB	pp	ATP1B1	g-g	hsa04919	activation
+PIK3CB	pp	ATP1B2	g-g	hsa04919	activation
+PIK3CB	pp	ATP1B3	g-g	hsa04919	activation
+PIK3CB	pp	FXYD2	g-g	hsa04919	activation
+PIK3CD	pp	ATP1A1	g-g	hsa04919	activation
+PIK3CD	pp	ATP1A2	g-g	hsa04919	activation
+PIK3CD	pp	ATP1A3	g-g	hsa04919	activation
+PIK3CD	pp	ATP1A4	g-g	hsa04919	activation
+PIK3CD	pp	ATP1B1	g-g	hsa04919	activation
+PIK3CD	pp	ATP1B2	g-g	hsa04919	activation
+PIK3CD	pp	ATP1B3	g-g	hsa04919	activation
+PIK3CD	pp	FXYD2	g-g	hsa04919	activation
+PIK3R1	pp	ATP1A1	g-g	hsa04919	activation
+PIK3R1	pp	ATP1A2	g-g	hsa04919	activation
+PIK3R1	pp	ATP1A3	g-g	hsa04919	activation
+PIK3R1	pp	ATP1A4	g-g	hsa04919	activation
+PIK3R1	pp	ATP1B1	g-g	hsa04919	activation
+PIK3R1	pp	ATP1B2	g-g	hsa04919	activation
+PIK3R1	pp	ATP1B3	g-g	hsa04919	activation
+PIK3R1	pp	FXYD2	g-g	hsa04919	activation
+PIK3R2	pp	ATP1A1	g-g	hsa04919	activation
+PIK3R2	pp	ATP1A2	g-g	hsa04919	activation
+PIK3R2	pp	ATP1A3	g-g	hsa04919	activation
+PIK3R2	pp	ATP1A4	g-g	hsa04919	activation
+PIK3R2	pp	ATP1B1	g-g	hsa04919	activation
+PIK3R2	pp	ATP1B2	g-g	hsa04919	activation
+PIK3R2	pp	ATP1B3	g-g	hsa04919	activation
+PIK3R2	pp	FXYD2	g-g	hsa04919	activation
+PIK3R3	pp	ATP1A1	g-g	hsa04919	activation
+PIK3R3	pp	ATP1A2	g-g	hsa04919	activation
+PIK3R3	pp	ATP1A3	g-g	hsa04919	activation
+PIK3R3	pp	ATP1A4	g-g	hsa04919	activation
+PIK3R3	pp	ATP1B1	g-g	hsa04919	activation
+PIK3R3	pp	ATP1B2	g-g	hsa04919	activation
+PIK3R3	pp	ATP1B3	g-g	hsa04919	activation
+PIK3R3	pp	FXYD2	g-g	hsa04919	activation
+C02465	pc	ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	c-gr	hsa04919	activation
+C02465	pc	ITGAV, CD51, MSK8, VNRA, VTNR	c-gr	hsa04919	activation
+C01829	pc	ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	c-gr	hsa04919	activation
+C01829	pc	ITGAV, CD51, MSK8, VNRA, VTNR	c-gr	hsa04919	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04919	activation
+C00575	pc	PRKACB	c-g	hsa04919	activation
+C00575	pc	PRKACG	c-g	hsa04919	activation
+PRKACA, PKACA, PPNAD4	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04919	activation
+PRKACA, PKACA, PPNAD4	pp	MAP2K2	g-g	hsa04919	activation
+PRKACB	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04919	activation
+PRKACG	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04919	activation
+PRKACB	pp	MAP2K2	g-g	hsa04919	activation
+PRKACG	pp	MAP2K2	g-g	hsa04919	activation
+HRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, RASH1, p21ras	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04919	activation
+KRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04919	activation
+NRAS	pp	RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	g-g	hsa04919	activation
+PLCD3, PLC-delta-3	pc	C01245	g-c	hsa04919	activation
+PLCB1	pc	C01245	g-c	hsa04919	activation
+PLCE1	pc	C01245	g-c	hsa04919	activation
+PLCB2	pc	C01245	g-c	hsa04919	activation
+PLCB3	pc	C01245	g-c	hsa04919	activation
+PLCB4	pc	C01245	g-c	hsa04919	activation
+PLCD1	pc	C01245	g-c	hsa04919	activation
+PLCG1	pc	C01245	g-c	hsa04919	activation
+PLCG2	pc	C01245	g-c	hsa04919	activation
+PLCD4	pc	C01245	g-c	hsa04919	activation
+PLCZ1	pc	C01245	g-c	hsa04919	activation
+PLCD3, PLC-delta-3	pc	C00165	g-c	hsa04919	activation
+PLCB1	pc	C00165	g-c	hsa04919	activation
+PLCE1	pc	C00165	g-c	hsa04919	activation
+PLCB2	pc	C00165	g-c	hsa04919	activation
+PLCB3	pc	C00165	g-c	hsa04919	activation
+PLCB4	pc	C00165	g-c	hsa04919	activation
+PLCD1	pc	C00165	g-c	hsa04919	activation
+PLCG1	pc	C00165	g-c	hsa04919	activation
+PLCG2	pc	C00165	g-c	hsa04919	activation
+PLCD4	pc	C00165	g-c	hsa04919	activation
+PLCZ1	pc	C00165	g-c	hsa04919	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04919	activation
+C00165	pc	PRKACB	c-g	hsa04919	activation
+C00165	pc	PRKACG	c-g	hsa04919	activation
+C00076	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04919	activation
+C00076	pc	PRKACB	c-g	hsa04919	activation
+C00076	pc	PRKACG	c-g	hsa04919	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	g-g	hsa04919	activation
+RAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf	pp	MAP2K2	g-g	hsa04919	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04919	activation
+MAP2K1, CFC3, MAPKK1, MEK1, MKK1, PRKMK1	pp	MAPK3	g-g	hsa04919	activation
+MAP2K2	pp	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04919	activation
+MAP2K2	pp	MAPK3	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04919	activation
+MAPK3	pp	STAT1, CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04919	activation
+MAPK3	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	g-g	hsa04919	activation
+MAPK3	pp	ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	g-g	hsa04919	activation
+MAPK3	pp	THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	g-g	hsa04919	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pp	SLC9A1, APNH, LIKNS, NHE-1, NHE1, PPP1R143	g-g	hsa04919	activation
+PRKACB	pp	SLC9A1, APNH, LIKNS, NHE-1, NHE1, PPP1R143	g-g	hsa04919	activation
+PRKACG	pp	SLC9A1, APNH, LIKNS, NHE-1, NHE1, PPP1R143	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1B4	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1A1	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1A2	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1A3	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1A4	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1B1	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1B2	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	ATP1B3	g-g	hsa04919	activation
+MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	pp	FXYD2	g-g	hsa04919	activation
+MAPK3	pp	ATP1B4	g-g	hsa04919	activation
+MAPK3	pp	ATP1A1	g-g	hsa04919	activation
+MAPK3	pp	ATP1A2	g-g	hsa04919	activation
+MAPK3	pp	ATP1A3	g-g	hsa04919	activation
+MAPK3	pp	ATP1A4	g-g	hsa04919	activation
+MAPK3	pp	ATP1B1	g-g	hsa04919	activation
+MAPK3	pp	ATP1B2	g-g	hsa04919	activation
+MAPK3	pp	ATP1B3	g-g	hsa04919	activation
+MAPK3	pp	FXYD2	g-g	hsa04919	activation
+C02465	pc	ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	c-gr	hsa04919	activation
+C02465	pc	ITGAV, CD51, MSK8, VNRA, VTNR	c-gr	hsa04919	activation
+ITGB3, BDPLT16, BDPLT2, CD61, GP3A, GPIIIa, GT	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	gr-g	hsa04919	activation
+ITGAV, CD51, MSK8, VNRA, VTNR	pp	SRC, ASV, SRC1, THC6, c-SRC, p60-Src	gr-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3CB	g-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3CD	g-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3R1	g-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3R2	g-g	hsa04919	activation
+SRC, ASV, SRC1, THC6, c-SRC, p60-Src	pp	PIK3R3	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3CB	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3CD	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3R1	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3R2	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pp	PIK3R3	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pc	C05981	g-c	hsa04919	activation
+PIK3CB	pc	C05981	g-c	hsa04919	activation
+PIK3CD	pc	C05981	g-c	hsa04919	activation
+PIK3R1	pc	C05981	g-c	hsa04919	activation
+PIK3R2	pc	C05981	g-c	hsa04919	activation
+PIK3R3	pc	C05981	g-c	hsa04919	activation
+C05981	pc	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	c-g	hsa04919	activation
+C05981	pc	AKT1	c-g	hsa04919	activation
+C05981	pc	AKT2	c-g	hsa04919	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa04919	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT1	g-g	hsa04919	activation
+PDPK1, PDK1, PDPK2, PDPK2P, PRO0461	pp	AKT2	g-g	hsa04919	activation
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+PIK3CB	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+PIK3CD	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+PIK3R1	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+PIK3R2	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+PIK3R3	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	g-g	hsa04919	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	MDM2, ACTFS, HDMX, hdm2	g-g	hsa04919	activation
+AKT1	pp	MDM2, ACTFS, HDMX, hdm2	g-g	hsa04919	activation
+AKT2	pp	MDM2, ACTFS, HDMX, hdm2	g-g	hsa04919	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	TBC1D4, AS160, NIDDM5	g-g	hsa04919	activation
+AKT1	pp	TBC1D4, AS160, NIDDM5	g-g	hsa04919	activation
+AKT2	pp	TBC1D4, AS160, NIDDM5	g-g	hsa04919	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	PFKFB2, PFK-2/FBPase-2	g-g	hsa04919	activation
+AKT1	pp	PFKFB2, PFK-2/FBPase-2	g-g	hsa04919	activation
+AKT2	pp	PFKFB2, PFK-2/FBPase-2	g-g	hsa04919	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	GSK3B	g-g	hsa04919	inhibition
+AKT1	pp	GSK3B	g-g	hsa04919	inhibition
+AKT2	pp	GSK3B	g-g	hsa04919	inhibition
+GSK3B	pp	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04919	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	TSC2, LAM, PPP1R160, TSC4	g-g	hsa04919	inhibition
+AKT1	pp	TSC2, LAM, PPP1R160, TSC4	g-g	hsa04919	inhibition
+AKT2	pp	TSC2, LAM, PPP1R160, TSC4	g-g	hsa04919	inhibition
+MDM2, ACTFS, HDMX, hdm2	pp	TP53, BCC7, LFS1, P53, TRP53	g-g	hsa04919	inhibition
+TSC2, LAM, PPP1R160, TSC4	pp	RHEB, RHEB2	g-g	hsa04919	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	BAD, BBC2, BCL2L8	g-g	hsa04919	inhibition
+AKT1	pp	BAD, BBC2, BCL2L8	g-g	hsa04919	inhibition
+AKT2	pp	BAD, BBC2, BCL2L8	g-g	hsa04919	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	FOXO1, FKH1, FKHR, FOXO1A	g-g	hsa04919	inhibition
+AKT1	pp	FOXO1, FKH1, FKHR, FOXO1A	g-g	hsa04919	inhibition
+AKT2	pp	FOXO1, FKH1, FKHR, FOXO1A	g-g	hsa04919	inhibition
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa04919	inhibition
+AKT1	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa04919	inhibition
+AKT2	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa04919	inhibition
+RHEB, RHEB2	pp	MTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	g-g	hsa04919	activation
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	GATA4, ASD2, TACHD, TOF, VSD1	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	RCAN1, ADAPT78, CSP1, DSC1, DSCR1, MCIP1, RCN1	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	MYC, MRTL, MYCC, bHLHe39, c-Myc	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	MYH7	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	ATP2A2, ATP2B, DAR, DD, SERCA2	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	ATP2A1	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	ATP2A3	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	PLN, CMD1P, CMH18, PLB	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	WNT4, SERKAL, WNT-4	g-g	hsa04919	expression
+THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	pd	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	MYH6, ASD3, CMD1EE, CMH14, MYHC, MYHCA, SSS3, alpha-MHC	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	MYH7	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	ATP2A2, ATP2B, DAR, DD, SERCA2	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	ATP2A1	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	ATP2A3	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	PLN, CMD1P, CMH18, PLB	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	WNT4, SERKAL, WNT-4	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	CTNNB1, CTNNB, MRD19, armadillo	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	NOTCH1, AOS5, AOVD1, TAN1, hN1	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	NOTCH2	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	NOTCH3	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	NOTCH4	g-g	hsa04919	expression
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pd	BMP4, BMP2B, BMP2B1, MCOPS6, OFC11, ZYME	g-g	hsa04919	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	SLC2A1, CSE, DYT17, DYT18, DYT9, EIG12, GLUT, GLUT-1, GLUT1, GLUT1DS, HTLVR, PED, SDCHCN	g-g	hsa04919	expression
+HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	pd	PFKP, ATP-PFK, PFK-C, PFK-P, PFKF	g-g	hsa04919	expression
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3CB	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3CD	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3R1	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3R2	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3R3	pd	RCAN2, CSP2, DSCR1L1, MCIP2, RCN2, ZAKI-4, ZAKI4	g-g	hsa04919	expression
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+PIK3CB	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+PIK3CD	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+PIK3R1	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+PIK3R2	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+PIK3R3	pd	HIF1A, HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78	g-g	hsa04919	expression
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	pp	RXRB	gr-gr	hsa04919	binding/association
+NCOR1, N-CoR, N-CoR1, PPP1R109, TRAC1, hN-CoR	pp	RXRG	gr-gr	hsa04919	binding/association
+SIN3A, WITKOS	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+SIN3A, WITKOS	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+SIN3A, WITKOS	pp	RXRB	gr-gr	hsa04919	binding/association
+SIN3A, WITKOS	pp	RXRG	gr-gr	hsa04919	binding/association
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+HDAC2	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+HDAC3	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RXRB	gr-gr	hsa04919	binding/association
+HDAC1, GON-10, HD1, RPD3, RPD3L1	pp	RXRG	gr-gr	hsa04919	binding/association
+HDAC2	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+HDAC3	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+HDAC2	pp	RXRB	gr-gr	hsa04919	binding/association
+HDAC2	pp	RXRG	gr-gr	hsa04919	binding/association
+HDAC3	pp	RXRB	gr-gr	hsa04919	binding/association
+HDAC3	pp	RXRG	gr-gr	hsa04919	binding/association
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+KAT2B	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	pp	RXRB	gr-gr	hsa04919	binding/association
+KAT2A, GCN5, GCN5L2, PCAF-b, hGCN5	pp	RXRG	gr-gr	hsa04919	binding/association
+KAT2B	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+KAT2B	pp	RXRB	gr-gr	hsa04919	binding/association
+KAT2B	pp	RXRG	gr-gr	hsa04919	binding/association
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+NCOA3	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+NCOA1	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	pp	RXRB	gr-gr	hsa04919	binding/association
+NCOA2, GRIP1, KAT13C, NCoA-2, SRC2, TIF2, bHLHe75	pp	RXRG	gr-gr	hsa04919	binding/association
+NCOA3	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+NCOA1	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+NCOA3	pp	RXRB	gr-gr	hsa04919	binding/association
+NCOA3	pp	RXRG	gr-gr	hsa04919	binding/association
+NCOA1	pp	RXRB	gr-gr	hsa04919	binding/association
+NCOA1	pp	RXRG	gr-gr	hsa04919	binding/association
+CREBBP, CBP, KAT3A, RSTS	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+EP300	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+CREBBP, CBP, KAT3A, RSTS	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+CREBBP, CBP, KAT3A, RSTS	pp	RXRB	gr-gr	hsa04919	binding/association
+CREBBP, CBP, KAT3A, RSTS	pp	RXRG	gr-gr	hsa04919	binding/association
+EP300	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+EP300	pp	RXRB	gr-gr	hsa04919	binding/association
+EP300	pp	RXRG	gr-gr	hsa04919	binding/association
+C02465	pc	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	c-g	hsa04919	binding/association
+C02465	pc	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	c-g	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED12L	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED13L	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED4	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED30	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED14	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED17	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED27	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED24	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED12	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED13	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRB	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRG	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED4	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED30	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED14	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED17	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED27	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED24	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED12	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED13	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRB	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRG	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRB	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRG	gr-gr	hsa04919	binding/association
+MED4	pp	RXRB	gr-gr	hsa04919	binding/association
+MED4	pp	RXRG	gr-gr	hsa04919	binding/association
+MED30	pp	RXRB	gr-gr	hsa04919	binding/association
+MED30	pp	RXRG	gr-gr	hsa04919	binding/association
+MED14	pp	RXRB	gr-gr	hsa04919	binding/association
+MED14	pp	RXRG	gr-gr	hsa04919	binding/association
+MED17	pp	RXRB	gr-gr	hsa04919	binding/association
+MED17	pp	RXRG	gr-gr	hsa04919	binding/association
+MED27	pp	RXRB	gr-gr	hsa04919	binding/association
+MED27	pp	RXRG	gr-gr	hsa04919	binding/association
+MED24	pp	RXRB	gr-gr	hsa04919	binding/association
+MED24	pp	RXRG	gr-gr	hsa04919	binding/association
+MED12	pp	RXRB	gr-gr	hsa04919	binding/association
+MED12	pp	RXRG	gr-gr	hsa04919	binding/association
+MED13	pp	RXRB	gr-gr	hsa04919	binding/association
+MED13	pp	RXRG	gr-gr	hsa04919	binding/association
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	pp	RXRB	gr-gr	hsa04919	binding/association
+MED1, CRSP1, CRSP200, DRIP205, DRIP230, PBP, PPARBP, PPARGBP, RB18A, TRAP220, TRIP2	pp	RXRG	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED12L	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED13L	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED4	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED30	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED14	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED17	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED27	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED24	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED12	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED13	pp	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRB	gr-gr	hsa04919	binding/association
+MED16, DRIP92, THRAP5, TRAP95	pp	RXRG	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED4	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED30	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED14	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED17	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED27	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED24	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED12	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED13	pp	RXRA, NR2B1	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRB	gr-gr	hsa04919	binding/association
+MED12L	pp	RXRG	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRB	gr-gr	hsa04919	binding/association
+MED13L	pp	RXRG	gr-gr	hsa04919	binding/association
+MED4	pp	RXRB	gr-gr	hsa04919	binding/association
+MED4	pp	RXRG	gr-gr	hsa04919	binding/association
+MED30	pp	RXRB	gr-gr	hsa04919	binding/association
+MED30	pp	RXRG	gr-gr	hsa04919	binding/association
+MED14	pp	RXRB	gr-gr	hsa04919	binding/association
+MED14	pp	RXRG	gr-gr	hsa04919	binding/association
+MED17	pp	RXRB	gr-gr	hsa04919	binding/association
+MED17	pp	RXRG	gr-gr	hsa04919	binding/association
+MED27	pp	RXRB	gr-gr	hsa04919	binding/association
+MED27	pp	RXRG	gr-gr	hsa04919	binding/association
+MED24	pp	RXRB	gr-gr	hsa04919	binding/association
+MED24	pp	RXRG	gr-gr	hsa04919	binding/association
+MED12	pp	RXRB	gr-gr	hsa04919	binding/association
+MED12	pp	RXRG	gr-gr	hsa04919	binding/association
+MED13	pp	RXRB	gr-gr	hsa04919	binding/association
+MED13	pp	RXRG	gr-gr	hsa04919	binding/association
+C02465	pc	THRB, C-ERBA-2, C-ERBA-BETA, ERBA2, GRTH, NR1A2, PRTH, THR1, THRB1, THRB2	c-g	hsa04919	binding/association
+C02465	pc	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	c-g	hsa04919	binding/association
+C01829	pc	THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	c-g	hsa04919	binding/association
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pp	ACTB, BRWS1, PS1TP5BP1	g-g	hsa04919	activation
+THRA, AR7, CHNG6, EAR7, ERB-T-1, ERBA, ERBA1, NR1A1, THRA1, THRA2, c-ERBA-1	pp	ACTG1	g-g	hsa04919	activation
+C07639				hsa04919	
+DIO1, 5DI, TXDI1				hsa04919	
+DIO2				hsa04919	
+C07639				hsa04919	
+DIO3, 5DIII, D3, DIOIII, TXDI3				hsa04919	
+DIO3, 5DIII, D3, DIOIII, TXDI3				hsa04919	
+DIO2, 5DII, D2, DIOII, SelY, TXDI2				hsa04919	
+DIO1				hsa04919	
+SLC16A10, MCT10, PRO0813, TAT1				hsa04919	
+SLC16A2				hsa04919	
+SLC16A10, MCT10, PRO0813, TAT1				hsa04919	
+SLC16A2				hsa04919	
+SLCO1C1, OATP-F, OATP1, OATP14, OATP1C1, OATPF, OATPRP5, SLC21A14				hsa04919	
+SLCO1C1, OATP-F, OATP1, OATP14, OATP1C1, OATPF, OATPRP5, SLC21A14				hsa04919	
+C01330				hsa04919	
+C00080				hsa04919	
+C01330				hsa04919	
+C00238				hsa04919	

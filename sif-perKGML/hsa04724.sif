@@ -1,0 +1,904 @@
+C00025	pc	GRM5, GPRC1E, MGLUR5, PPP1R86, mGlu5	c-g	hsa04724	activation
+C00025	pc	GRM1	c-g	hsa04724	activation
+C00025	pc	GRM3, GLUR3, GPRC1C, MGLUR3, mGlu3	c-g	hsa04724	activation
+C00025	pc	GRM2	c-g	hsa04724	activation
+C00025	pc	GRM4, GPRC1D, MGLUR4, mGlu4	c-g	hsa04724	activation
+C00025	pc	GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	c-g	hsa04724	activation
+C00025	pc	GRM3	c-g	hsa04724	activation
+C00025	pc	GRIK1, EAA3, EEA3, GLR5, GLUR5, GluK1, gluR-5	c-g	hsa04724	activation
+C00025	pc	GRIK2	c-g	hsa04724	activation
+C00025	pc	GRIK3	c-g	hsa04724	activation
+C00025	pc	GRIK4	c-g	hsa04724	activation
+C00025	pc	GRIK5	c-g	hsa04724	activation
+C00025	pc	GRIA1, GLUH1, GLUR1, GLURA, GluA1, HBGR1	c-g	hsa04724	activation
+C00025	pc	GRIA2	c-g	hsa04724	activation
+C00025	pc	GRIA3	c-g	hsa04724	activation
+C00025	pc	GRIA4	c-g	hsa04724	activation
+C00025	pc	GRIN3A, GluN3A, NMDAR-L, NR3A	c-g	hsa04724	activation
+C00025	pc	GRIN3B	c-g	hsa04724	activation
+C00025	pc	GRIN1	c-g	hsa04724	activation
+C00025	pc	GRIN2A	c-g	hsa04724	activation
+C00025	pc	GRIN2B	c-g	hsa04724	activation
+C00025	pc	GRIN2C	c-g	hsa04724	activation
+C00025	pc	GRIN2D	c-g	hsa04724	activation
+C00025	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	c-g	hsa04724	activation
+C00025	pc	GRM5	c-g	hsa04724	activation
+C00025	pc	GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	c-g	hsa04724	activation
+C00025	pc	GRM3	c-g	hsa04724	activation
+C00025	pc	GRM4, GPRC1D, MGLUR4, mGlu4	c-g	hsa04724	activation
+C00025	pc	GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	c-g	hsa04724	activation
+C00025	pc	GRM7	c-g	hsa04724	activation
+C00025	pc	GRM8	c-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAO1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG4	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG5	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG7	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG10	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG11	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNGT1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNGT2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG13	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG12	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB4	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG8	g-g	hsa04724	activation
+GRM3	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM3	pc	GNAI1	g-g	hsa04724	activation
+GRM3	pc	GNAI2	g-g	hsa04724	activation
+GRM3	pc	GNAI3	g-g	hsa04724	activation
+GRM3	pc	GNAO1	g-g	hsa04724	activation
+GRM3	pc	GNB1	g-g	hsa04724	activation
+GRM3	pc	GNB2	g-g	hsa04724	activation
+GRM3	pc	GNB3	g-g	hsa04724	activation
+GRM3	pc	GNG3	g-g	hsa04724	activation
+GRM3	pc	GNG4	g-g	hsa04724	activation
+GRM3	pc	GNG5	g-g	hsa04724	activation
+GRM3	pc	GNG7	g-g	hsa04724	activation
+GRM3	pc	GNG10	g-g	hsa04724	activation
+GRM3	pc	GNG11	g-g	hsa04724	activation
+GRM3	pc	GNGT1	g-g	hsa04724	activation
+GRM3	pc	GNGT2	g-g	hsa04724	activation
+GRM3	pc	GNG13	g-g	hsa04724	activation
+GRM3	pc	GNG2	g-g	hsa04724	activation
+GRM3	pc	GNG12	g-g	hsa04724	activation
+GRM3	pc	GNB4	g-g	hsa04724	activation
+GRM3	pc	GNG8	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAO1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG4	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG5	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG7	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG10	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG11	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNGT1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNGT2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG13	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG12	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB4	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG8	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNAI1	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNAI2	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNAI3	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNAO1	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNB1	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNB2	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNB3	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG3	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG4	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG5	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG7	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG10	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG11	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNGT1	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNGT2	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG13	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG2	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG12	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNB4	g-g	hsa04724	activation
+GRM7, GLUR7, GPRC1G, MGLU7, MGLUR7, PPP1R87	pc	GNG8	g-g	hsa04724	activation
+GRM6	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM8	pc	GNB5, GB5	g-g	hsa04724	activation
+GRM6	pc	GNAI1	g-g	hsa04724	activation
+GRM6	pc	GNAI2	g-g	hsa04724	activation
+GRM6	pc	GNAI3	g-g	hsa04724	activation
+GRM6	pc	GNAO1	g-g	hsa04724	activation
+GRM6	pc	GNB1	g-g	hsa04724	activation
+GRM6	pc	GNB2	g-g	hsa04724	activation
+GRM6	pc	GNB3	g-g	hsa04724	activation
+GRM6	pc	GNG3	g-g	hsa04724	activation
+GRM6	pc	GNG4	g-g	hsa04724	activation
+GRM6	pc	GNG5	g-g	hsa04724	activation
+GRM6	pc	GNG7	g-g	hsa04724	activation
+GRM6	pc	GNG10	g-g	hsa04724	activation
+GRM6	pc	GNG11	g-g	hsa04724	activation
+GRM6	pc	GNGT1	g-g	hsa04724	activation
+GRM6	pc	GNGT2	g-g	hsa04724	activation
+GRM6	pc	GNG13	g-g	hsa04724	activation
+GRM6	pc	GNG2	g-g	hsa04724	activation
+GRM6	pc	GNG12	g-g	hsa04724	activation
+GRM6	pc	GNB4	g-g	hsa04724	activation
+GRM6	pc	GNG8	g-g	hsa04724	activation
+GRM8	pc	GNAI1	g-g	hsa04724	activation
+GRM8	pc	GNAI2	g-g	hsa04724	activation
+GRM8	pc	GNAI3	g-g	hsa04724	activation
+GRM8	pc	GNAO1	g-g	hsa04724	activation
+GRM8	pc	GNB1	g-g	hsa04724	activation
+GRM8	pc	GNB2	g-g	hsa04724	activation
+GRM8	pc	GNB3	g-g	hsa04724	activation
+GRM8	pc	GNG3	g-g	hsa04724	activation
+GRM8	pc	GNG4	g-g	hsa04724	activation
+GRM8	pc	GNG5	g-g	hsa04724	activation
+GRM8	pc	GNG7	g-g	hsa04724	activation
+GRM8	pc	GNG10	g-g	hsa04724	activation
+GRM8	pc	GNG11	g-g	hsa04724	activation
+GRM8	pc	GNGT1	g-g	hsa04724	activation
+GRM8	pc	GNGT2	g-g	hsa04724	activation
+GRM8	pc	GNG13	g-g	hsa04724	activation
+GRM8	pc	GNG2	g-g	hsa04724	activation
+GRM8	pc	GNG12	g-g	hsa04724	activation
+GRM8	pc	GNB4	g-g	hsa04724	activation
+GRM8	pc	GNG8	g-g	hsa04724	activation
+GNB5, GB5	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNAI1	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNAI2	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNAI3	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNAO1	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNB1	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNB2	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNB3	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG3	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG4	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG5	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG7	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG10	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG11	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNGT1	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNGT2	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG13	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG2	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG12	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNB4	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+GNG8	pc	KCNJ3, GIRK1, KGA, KIR31	g-g	hsa04724	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa04724	activation
+ADCY2	pc	C00575	g-c	hsa04724	activation
+ADCY3	pc	C00575	g-c	hsa04724	activation
+ADCY5	pc	C00575	g-c	hsa04724	activation
+ADCY6	pc	C00575	g-c	hsa04724	activation
+ADCY7	pc	C00575	g-c	hsa04724	activation
+ADCY8	pc	C00575	g-c	hsa04724	activation
+ADCY9	pc	C00575	g-c	hsa04724	activation
+ADCY4	pc	C00575	g-c	hsa04724	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04724	activation
+C00575	pc	PRKACB	c-g	hsa04724	activation
+C00575	pc	PRKACG	c-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GRK2, ADRBK1, BARK1, BETA-ARK1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	ADRBK2	g-g	hsa04724	activation
+GRM3	pc	GRK2, ADRBK1, BARK1, BETA-ARK1	g-g	hsa04724	activation
+GRM3	pc	ADRBK2	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN3A, GluN3A, NMDAR-L, NR3A	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN3B	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN1	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN2A	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN2B	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN2C	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GRIN2D	g-g	hsa04724	activation
+GRM5	pc	GRIN3A, GluN3A, NMDAR-L, NR3A	g-g	hsa04724	activation
+GRM5	pc	GRIN3B	g-g	hsa04724	activation
+GRM5	pc	GRIN1	g-g	hsa04724	activation
+GRM5	pc	GRIN2A	g-g	hsa04724	activation
+GRM5	pc	GRIN2B	g-g	hsa04724	activation
+GRM5	pc	GRIN2C	g-g	hsa04724	activation
+GRM5	pc	GRIN2D	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	TRPC1, HTRP-1, TRP1	g-g	hsa04724	activation
+GRM5	pc	TRPC1, HTRP-1, TRP1	g-g	hsa04724	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	activation
+PPP3CA, CALN, CALNA, CALNA1, CCN1, CNA1, PPP2B	pc	GRM5	g-g	hsa04724	activation
+PPP3CB	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	activation
+PPP3CC	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	activation
+PPP3R1	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	activation
+PPP3R2	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	activation
+PPP3CB	pc	GRM5	g-g	hsa04724	activation
+PPP3CC	pc	GRM5	g-g	hsa04724	activation
+PPP3R1	pc	GRM5	g-g	hsa04724	activation
+PPP3R2	pc	GRM5	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04724	activation
+GRM5	pc	GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	g-g	hsa04724	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04724	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB2	g-g	hsa04724	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB3	g-g	hsa04724	activation
+GNAQ, CMC1, G-ALPHA-q, GAQ, SWS	pc	PLCB4	g-g	hsa04724	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04724	activation
+PLCB2	pc	C01245	g-c	hsa04724	activation
+PLCB3	pc	C01245	g-c	hsa04724	activation
+PLCB4	pc	C01245	g-c	hsa04724	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04724	activation
+C01245	pc	ITPR2	c-g	hsa04724	activation
+C01245	pc	ITPR3	c-g	hsa04724	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04724	activation
+PLCB2	pc	C00165	g-c	hsa04724	activation
+PLCB3	pc	C00165	g-c	hsa04724	activation
+PLCB4	pc	C00165	g-c	hsa04724	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04724	activation
+C00165	pc	PRKACB	c-g	hsa04724	activation
+C00165	pc	PRKACG	c-g	hsa04724	activation
+C00076	pc	PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	c-g	hsa04724	activation
+C00076	pc	PRKACB	c-g	hsa04724	activation
+C00076	pc	PRKACG	c-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4E	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4F	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4D	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4A	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLA2G4C	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	JMJD7-PLA2G4B	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4B, HsT16992, cPLA2-beta	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4E	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4F	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4D	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4A	g-g	hsa04724	activation
+PRKACB	pc	PLA2G4C	g-g	hsa04724	activation
+PRKACB	pc	JMJD7-PLA2G4B	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4E	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4F	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4D	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4A	g-g	hsa04724	activation
+PRKACG	pc	PLA2G4C	g-g	hsa04724	activation
+PRKACG	pc	JMJD7-PLA2G4B	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLD1	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	PLD2	g-g	hsa04724	activation
+PRKACB	pc	PLD1	g-g	hsa04724	activation
+PRKACG	pc	PLD1	g-g	hsa04724	activation
+PRKACB	pc	PLD2	g-g	hsa04724	activation
+PRKACG	pc	PLD2	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04724	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PRKACA	pc	MAPK3	g-g	hsa04724	activation
+PRKACB	pc	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04724	activation
+PRKACG	pc	MAPK1, ERK, ERK-2, ERK2, ERT1, MAPK2, P42MAPK, PRKM1, PRKM2, p38, p40, p41, p41mapk, p42-MAPK	g-g	hsa04724	activation
+PRKACB	pc	MAPK3	g-g	hsa04724	activation
+PRKACG	pc	MAPK3	g-g	hsa04724	activation
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04724	activation
+GRM5	pc	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY2	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY3	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY5	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY6	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY7	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY8	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY9	g-g	hsa04724	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, POH, SCG6, SgVI	pc	ADCY4	g-g	hsa04724	activation
+ADCY1, AC1, DFNB44	pc	C00064	g-c	hsa04724	activation
+ADCY2	pc	C00064	g-c	hsa04724	activation
+ADCY3	pc	C00064	g-c	hsa04724	activation
+ADCY5	pc	C00064	g-c	hsa04724	activation
+ADCY6	pc	C00064	g-c	hsa04724	activation
+ADCY7	pc	C00064	g-c	hsa04724	activation
+ADCY8	pc	C00064	g-c	hsa04724	activation
+ADCY9	pc	C00064	g-c	hsa04724	activation
+ADCY4	pc	C00064	g-c	hsa04724	activation
+C00064	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04724	activation
+C00064	pc	PRKACB	c-g	hsa04724	activation
+C00064	pc	PRKACG	c-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB5	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAI3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNAO1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG3	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG4	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG5	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG7	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG10	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG11	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNGT1	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNGT2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG13	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG2	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG12	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNB4	g-g	hsa04724	activation
+GRM2, GLUR2, GPRC1B, MGLUR2, mGlu2	pc	GNG8	g-g	hsa04724	activation
+GRM3	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM3	pc	GNB5	g-g	hsa04724	activation
+GRM3	pc	GNAI2	g-g	hsa04724	activation
+GRM3	pc	GNAI3	g-g	hsa04724	activation
+GRM3	pc	GNAO1	g-g	hsa04724	activation
+GRM3	pc	GNB1	g-g	hsa04724	activation
+GRM3	pc	GNB2	g-g	hsa04724	activation
+GRM3	pc	GNB3	g-g	hsa04724	activation
+GRM3	pc	GNG3	g-g	hsa04724	activation
+GRM3	pc	GNG4	g-g	hsa04724	activation
+GRM3	pc	GNG5	g-g	hsa04724	activation
+GRM3	pc	GNG7	g-g	hsa04724	activation
+GRM3	pc	GNG10	g-g	hsa04724	activation
+GRM3	pc	GNG11	g-g	hsa04724	activation
+GRM3	pc	GNGT1	g-g	hsa04724	activation
+GRM3	pc	GNGT2	g-g	hsa04724	activation
+GRM3	pc	GNG13	g-g	hsa04724	activation
+GRM3	pc	GNG2	g-g	hsa04724	activation
+GRM3	pc	GNG12	g-g	hsa04724	activation
+GRM3	pc	GNB4	g-g	hsa04724	activation
+GRM3	pc	GNG8	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB5	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAI3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNAO1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG3	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG4	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG5	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG7	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG10	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG11	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNGT1	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNGT2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG13	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG2	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG12	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNB4	g-g	hsa04724	activation
+GRM4, GPRC1D, MGLUR4, mGlu4	pc	GNG8	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNB5	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNAI2	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNAI3	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNAO1	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNB1	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNB2	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNB3	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG3	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG4	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG5	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG7	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG10	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG11	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNGT1	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNGT2	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG13	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG2	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG12	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNB4	g-g	hsa04724	activation
+GRM6, CSNB1B, GPRC1F, MGLUR6, mGlu6	pc	GNG8	g-g	hsa04724	activation
+GRM7	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM8	pc	GNAI1, Gi	g-g	hsa04724	activation
+GRM7	pc	GNB5	g-g	hsa04724	activation
+GRM7	pc	GNAI2	g-g	hsa04724	activation
+GRM7	pc	GNAI3	g-g	hsa04724	activation
+GRM7	pc	GNAO1	g-g	hsa04724	activation
+GRM7	pc	GNB1	g-g	hsa04724	activation
+GRM7	pc	GNB2	g-g	hsa04724	activation
+GRM7	pc	GNB3	g-g	hsa04724	activation
+GRM7	pc	GNG3	g-g	hsa04724	activation
+GRM7	pc	GNG4	g-g	hsa04724	activation
+GRM7	pc	GNG5	g-g	hsa04724	activation
+GRM7	pc	GNG7	g-g	hsa04724	activation
+GRM7	pc	GNG10	g-g	hsa04724	activation
+GRM7	pc	GNG11	g-g	hsa04724	activation
+GRM7	pc	GNGT1	g-g	hsa04724	activation
+GRM7	pc	GNGT2	g-g	hsa04724	activation
+GRM7	pc	GNG13	g-g	hsa04724	activation
+GRM7	pc	GNG2	g-g	hsa04724	activation
+GRM7	pc	GNG12	g-g	hsa04724	activation
+GRM7	pc	GNB4	g-g	hsa04724	activation
+GRM7	pc	GNG8	g-g	hsa04724	activation
+GRM8	pc	GNB5	g-g	hsa04724	activation
+GRM8	pc	GNAI2	g-g	hsa04724	activation
+GRM8	pc	GNAI3	g-g	hsa04724	activation
+GRM8	pc	GNAO1	g-g	hsa04724	activation
+GRM8	pc	GNB1	g-g	hsa04724	activation
+GRM8	pc	GNB2	g-g	hsa04724	activation
+GRM8	pc	GNB3	g-g	hsa04724	activation
+GRM8	pc	GNG3	g-g	hsa04724	activation
+GRM8	pc	GNG4	g-g	hsa04724	activation
+GRM8	pc	GNG5	g-g	hsa04724	activation
+GRM8	pc	GNG7	g-g	hsa04724	activation
+GRM8	pc	GNG10	g-g	hsa04724	activation
+GRM8	pc	GNG11	g-g	hsa04724	activation
+GRM8	pc	GNGT1	g-g	hsa04724	activation
+GRM8	pc	GNGT2	g-g	hsa04724	activation
+GRM8	pc	GNG13	g-g	hsa04724	activation
+GRM8	pc	GNG2	g-g	hsa04724	activation
+GRM8	pc	GNG12	g-g	hsa04724	activation
+GRM8	pc	GNB4	g-g	hsa04724	activation
+GRM8	pc	GNG8	g-g	hsa04724	activation
+GNB5, GB5	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY2	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY3	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY5	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY6	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY7	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY8	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY9	g-g	hsa04724	inhibition
+GNB5, GB5	pc	ADCY4	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG4	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG5	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG7	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG10	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG11	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG13	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG12	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB4	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG8	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI1	pc	ADCY4	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY4	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY4	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY2	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY3	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY5	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY6	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY7	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY8	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY9	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY4	g-g	hsa04724	inhibition
+GNB1	pc	ADCY2	g-g	hsa04724	inhibition
+GNB1	pc	ADCY3	g-g	hsa04724	inhibition
+GNB1	pc	ADCY5	g-g	hsa04724	inhibition
+GNB1	pc	ADCY6	g-g	hsa04724	inhibition
+GNB1	pc	ADCY7	g-g	hsa04724	inhibition
+GNB1	pc	ADCY8	g-g	hsa04724	inhibition
+GNB1	pc	ADCY9	g-g	hsa04724	inhibition
+GNB1	pc	ADCY4	g-g	hsa04724	inhibition
+GNB2	pc	ADCY2	g-g	hsa04724	inhibition
+GNB2	pc	ADCY3	g-g	hsa04724	inhibition
+GNB2	pc	ADCY5	g-g	hsa04724	inhibition
+GNB2	pc	ADCY6	g-g	hsa04724	inhibition
+GNB2	pc	ADCY7	g-g	hsa04724	inhibition
+GNB2	pc	ADCY8	g-g	hsa04724	inhibition
+GNB2	pc	ADCY9	g-g	hsa04724	inhibition
+GNB2	pc	ADCY4	g-g	hsa04724	inhibition
+GNB3	pc	ADCY2	g-g	hsa04724	inhibition
+GNB3	pc	ADCY3	g-g	hsa04724	inhibition
+GNB3	pc	ADCY5	g-g	hsa04724	inhibition
+GNB3	pc	ADCY6	g-g	hsa04724	inhibition
+GNB3	pc	ADCY7	g-g	hsa04724	inhibition
+GNB3	pc	ADCY8	g-g	hsa04724	inhibition
+GNB3	pc	ADCY9	g-g	hsa04724	inhibition
+GNB3	pc	ADCY4	g-g	hsa04724	inhibition
+GNG3	pc	ADCY2	g-g	hsa04724	inhibition
+GNG3	pc	ADCY3	g-g	hsa04724	inhibition
+GNG3	pc	ADCY5	g-g	hsa04724	inhibition
+GNG3	pc	ADCY6	g-g	hsa04724	inhibition
+GNG3	pc	ADCY7	g-g	hsa04724	inhibition
+GNG3	pc	ADCY8	g-g	hsa04724	inhibition
+GNG3	pc	ADCY9	g-g	hsa04724	inhibition
+GNG3	pc	ADCY4	g-g	hsa04724	inhibition
+GNG4	pc	ADCY2	g-g	hsa04724	inhibition
+GNG4	pc	ADCY3	g-g	hsa04724	inhibition
+GNG4	pc	ADCY5	g-g	hsa04724	inhibition
+GNG4	pc	ADCY6	g-g	hsa04724	inhibition
+GNG4	pc	ADCY7	g-g	hsa04724	inhibition
+GNG4	pc	ADCY8	g-g	hsa04724	inhibition
+GNG4	pc	ADCY9	g-g	hsa04724	inhibition
+GNG4	pc	ADCY4	g-g	hsa04724	inhibition
+GNG5	pc	ADCY2	g-g	hsa04724	inhibition
+GNG5	pc	ADCY3	g-g	hsa04724	inhibition
+GNG5	pc	ADCY5	g-g	hsa04724	inhibition
+GNG5	pc	ADCY6	g-g	hsa04724	inhibition
+GNG5	pc	ADCY7	g-g	hsa04724	inhibition
+GNG5	pc	ADCY8	g-g	hsa04724	inhibition
+GNG5	pc	ADCY9	g-g	hsa04724	inhibition
+GNG5	pc	ADCY4	g-g	hsa04724	inhibition
+GNG7	pc	ADCY2	g-g	hsa04724	inhibition
+GNG7	pc	ADCY3	g-g	hsa04724	inhibition
+GNG7	pc	ADCY5	g-g	hsa04724	inhibition
+GNG7	pc	ADCY6	g-g	hsa04724	inhibition
+GNG7	pc	ADCY7	g-g	hsa04724	inhibition
+GNG7	pc	ADCY8	g-g	hsa04724	inhibition
+GNG7	pc	ADCY9	g-g	hsa04724	inhibition
+GNG7	pc	ADCY4	g-g	hsa04724	inhibition
+GNG10	pc	ADCY2	g-g	hsa04724	inhibition
+GNG10	pc	ADCY3	g-g	hsa04724	inhibition
+GNG10	pc	ADCY5	g-g	hsa04724	inhibition
+GNG10	pc	ADCY6	g-g	hsa04724	inhibition
+GNG10	pc	ADCY7	g-g	hsa04724	inhibition
+GNG10	pc	ADCY8	g-g	hsa04724	inhibition
+GNG10	pc	ADCY9	g-g	hsa04724	inhibition
+GNG10	pc	ADCY4	g-g	hsa04724	inhibition
+GNG11	pc	ADCY2	g-g	hsa04724	inhibition
+GNG11	pc	ADCY3	g-g	hsa04724	inhibition
+GNG11	pc	ADCY5	g-g	hsa04724	inhibition
+GNG11	pc	ADCY6	g-g	hsa04724	inhibition
+GNG11	pc	ADCY7	g-g	hsa04724	inhibition
+GNG11	pc	ADCY8	g-g	hsa04724	inhibition
+GNG11	pc	ADCY9	g-g	hsa04724	inhibition
+GNG11	pc	ADCY4	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY2	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY3	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY5	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY6	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY7	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY8	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY9	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY4	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY2	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY3	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY5	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY6	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY7	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY8	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY9	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY4	g-g	hsa04724	inhibition
+GNG13	pc	ADCY2	g-g	hsa04724	inhibition
+GNG13	pc	ADCY3	g-g	hsa04724	inhibition
+GNG13	pc	ADCY5	g-g	hsa04724	inhibition
+GNG13	pc	ADCY6	g-g	hsa04724	inhibition
+GNG13	pc	ADCY7	g-g	hsa04724	inhibition
+GNG13	pc	ADCY8	g-g	hsa04724	inhibition
+GNG13	pc	ADCY9	g-g	hsa04724	inhibition
+GNG13	pc	ADCY4	g-g	hsa04724	inhibition
+GNG2	pc	ADCY2	g-g	hsa04724	inhibition
+GNG2	pc	ADCY3	g-g	hsa04724	inhibition
+GNG2	pc	ADCY5	g-g	hsa04724	inhibition
+GNG2	pc	ADCY6	g-g	hsa04724	inhibition
+GNG2	pc	ADCY7	g-g	hsa04724	inhibition
+GNG2	pc	ADCY8	g-g	hsa04724	inhibition
+GNG2	pc	ADCY9	g-g	hsa04724	inhibition
+GNG2	pc	ADCY4	g-g	hsa04724	inhibition
+GNG12	pc	ADCY2	g-g	hsa04724	inhibition
+GNG12	pc	ADCY3	g-g	hsa04724	inhibition
+GNG12	pc	ADCY5	g-g	hsa04724	inhibition
+GNG12	pc	ADCY6	g-g	hsa04724	inhibition
+GNG12	pc	ADCY7	g-g	hsa04724	inhibition
+GNG12	pc	ADCY8	g-g	hsa04724	inhibition
+GNG12	pc	ADCY9	g-g	hsa04724	inhibition
+GNG12	pc	ADCY4	g-g	hsa04724	inhibition
+GNB4	pc	ADCY2	g-g	hsa04724	inhibition
+GNB4	pc	ADCY3	g-g	hsa04724	inhibition
+GNB4	pc	ADCY5	g-g	hsa04724	inhibition
+GNB4	pc	ADCY6	g-g	hsa04724	inhibition
+GNB4	pc	ADCY7	g-g	hsa04724	inhibition
+GNB4	pc	ADCY8	g-g	hsa04724	inhibition
+GNB4	pc	ADCY9	g-g	hsa04724	inhibition
+GNB4	pc	ADCY4	g-g	hsa04724	inhibition
+GNG8	pc	ADCY2	g-g	hsa04724	inhibition
+GNG8	pc	ADCY3	g-g	hsa04724	inhibition
+GNG8	pc	ADCY5	g-g	hsa04724	inhibition
+GNG8	pc	ADCY6	g-g	hsa04724	inhibition
+GNG8	pc	ADCY7	g-g	hsa04724	inhibition
+GNG8	pc	ADCY8	g-g	hsa04724	inhibition
+GNG8	pc	ADCY9	g-g	hsa04724	inhibition
+GNG8	pc	ADCY4	g-g	hsa04724	inhibition
+GNB5, GB5	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNAI1	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNAI2	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNAI3	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNAO1	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNB1	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNB2	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNB3	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG3	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG4	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG5	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG7	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG10	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG11	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNGT1	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNGT2	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG13	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG2	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG12	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNB4	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNG8	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+KCNJ3, GIRK1, KGA, KIR31	pc	CACNA1A, APCA, BI, CACNL1A4, CAV21, EA2, FHM, HPCA, MHP, MHP1, SCA6	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI1, Gi	pc	ADCY4	g-g	hsa04724	inhibition
+GNB5	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG3	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG4	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG5	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG7	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG10	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG11	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG13	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG2	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG12	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB4	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNG8	pc	ADCY1, AC1, DFNB44	g-g	hsa04724	inhibition
+GNB5	pc	ADCY2	g-g	hsa04724	inhibition
+GNB5	pc	ADCY3	g-g	hsa04724	inhibition
+GNB5	pc	ADCY5	g-g	hsa04724	inhibition
+GNB5	pc	ADCY6	g-g	hsa04724	inhibition
+GNB5	pc	ADCY7	g-g	hsa04724	inhibition
+GNB5	pc	ADCY8	g-g	hsa04724	inhibition
+GNB5	pc	ADCY9	g-g	hsa04724	inhibition
+GNB5	pc	ADCY4	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI2	pc	ADCY4	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY2	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY3	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY5	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY6	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY7	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY8	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY9	g-g	hsa04724	inhibition
+GNAI3	pc	ADCY4	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY2	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY3	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY5	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY6	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY7	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY8	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY9	g-g	hsa04724	inhibition
+GNAO1	pc	ADCY4	g-g	hsa04724	inhibition
+GNB1	pc	ADCY2	g-g	hsa04724	inhibition
+GNB1	pc	ADCY3	g-g	hsa04724	inhibition
+GNB1	pc	ADCY5	g-g	hsa04724	inhibition
+GNB1	pc	ADCY6	g-g	hsa04724	inhibition
+GNB1	pc	ADCY7	g-g	hsa04724	inhibition
+GNB1	pc	ADCY8	g-g	hsa04724	inhibition
+GNB1	pc	ADCY9	g-g	hsa04724	inhibition
+GNB1	pc	ADCY4	g-g	hsa04724	inhibition
+GNB2	pc	ADCY2	g-g	hsa04724	inhibition
+GNB2	pc	ADCY3	g-g	hsa04724	inhibition
+GNB2	pc	ADCY5	g-g	hsa04724	inhibition
+GNB2	pc	ADCY6	g-g	hsa04724	inhibition
+GNB2	pc	ADCY7	g-g	hsa04724	inhibition
+GNB2	pc	ADCY8	g-g	hsa04724	inhibition
+GNB2	pc	ADCY9	g-g	hsa04724	inhibition
+GNB2	pc	ADCY4	g-g	hsa04724	inhibition
+GNB3	pc	ADCY2	g-g	hsa04724	inhibition
+GNB3	pc	ADCY3	g-g	hsa04724	inhibition
+GNB3	pc	ADCY5	g-g	hsa04724	inhibition
+GNB3	pc	ADCY6	g-g	hsa04724	inhibition
+GNB3	pc	ADCY7	g-g	hsa04724	inhibition
+GNB3	pc	ADCY8	g-g	hsa04724	inhibition
+GNB3	pc	ADCY9	g-g	hsa04724	inhibition
+GNB3	pc	ADCY4	g-g	hsa04724	inhibition
+GNG3	pc	ADCY2	g-g	hsa04724	inhibition
+GNG3	pc	ADCY3	g-g	hsa04724	inhibition
+GNG3	pc	ADCY5	g-g	hsa04724	inhibition
+GNG3	pc	ADCY6	g-g	hsa04724	inhibition
+GNG3	pc	ADCY7	g-g	hsa04724	inhibition
+GNG3	pc	ADCY8	g-g	hsa04724	inhibition
+GNG3	pc	ADCY9	g-g	hsa04724	inhibition
+GNG3	pc	ADCY4	g-g	hsa04724	inhibition
+GNG4	pc	ADCY2	g-g	hsa04724	inhibition
+GNG4	pc	ADCY3	g-g	hsa04724	inhibition
+GNG4	pc	ADCY5	g-g	hsa04724	inhibition
+GNG4	pc	ADCY6	g-g	hsa04724	inhibition
+GNG4	pc	ADCY7	g-g	hsa04724	inhibition
+GNG4	pc	ADCY8	g-g	hsa04724	inhibition
+GNG4	pc	ADCY9	g-g	hsa04724	inhibition
+GNG4	pc	ADCY4	g-g	hsa04724	inhibition
+GNG5	pc	ADCY2	g-g	hsa04724	inhibition
+GNG5	pc	ADCY3	g-g	hsa04724	inhibition
+GNG5	pc	ADCY5	g-g	hsa04724	inhibition
+GNG5	pc	ADCY6	g-g	hsa04724	inhibition
+GNG5	pc	ADCY7	g-g	hsa04724	inhibition
+GNG5	pc	ADCY8	g-g	hsa04724	inhibition
+GNG5	pc	ADCY9	g-g	hsa04724	inhibition
+GNG5	pc	ADCY4	g-g	hsa04724	inhibition
+GNG7	pc	ADCY2	g-g	hsa04724	inhibition
+GNG7	pc	ADCY3	g-g	hsa04724	inhibition
+GNG7	pc	ADCY5	g-g	hsa04724	inhibition
+GNG7	pc	ADCY6	g-g	hsa04724	inhibition
+GNG7	pc	ADCY7	g-g	hsa04724	inhibition
+GNG7	pc	ADCY8	g-g	hsa04724	inhibition
+GNG7	pc	ADCY9	g-g	hsa04724	inhibition
+GNG7	pc	ADCY4	g-g	hsa04724	inhibition
+GNG10	pc	ADCY2	g-g	hsa04724	inhibition
+GNG10	pc	ADCY3	g-g	hsa04724	inhibition
+GNG10	pc	ADCY5	g-g	hsa04724	inhibition
+GNG10	pc	ADCY6	g-g	hsa04724	inhibition
+GNG10	pc	ADCY7	g-g	hsa04724	inhibition
+GNG10	pc	ADCY8	g-g	hsa04724	inhibition
+GNG10	pc	ADCY9	g-g	hsa04724	inhibition
+GNG10	pc	ADCY4	g-g	hsa04724	inhibition
+GNG11	pc	ADCY2	g-g	hsa04724	inhibition
+GNG11	pc	ADCY3	g-g	hsa04724	inhibition
+GNG11	pc	ADCY5	g-g	hsa04724	inhibition
+GNG11	pc	ADCY6	g-g	hsa04724	inhibition
+GNG11	pc	ADCY7	g-g	hsa04724	inhibition
+GNG11	pc	ADCY8	g-g	hsa04724	inhibition
+GNG11	pc	ADCY9	g-g	hsa04724	inhibition
+GNG11	pc	ADCY4	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY2	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY3	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY5	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY6	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY7	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY8	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY9	g-g	hsa04724	inhibition
+GNGT1	pc	ADCY4	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY2	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY3	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY5	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY6	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY7	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY8	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY9	g-g	hsa04724	inhibition
+GNGT2	pc	ADCY4	g-g	hsa04724	inhibition
+GNG13	pc	ADCY2	g-g	hsa04724	inhibition
+GNG13	pc	ADCY3	g-g	hsa04724	inhibition
+GNG13	pc	ADCY5	g-g	hsa04724	inhibition
+GNG13	pc	ADCY6	g-g	hsa04724	inhibition
+GNG13	pc	ADCY7	g-g	hsa04724	inhibition
+GNG13	pc	ADCY8	g-g	hsa04724	inhibition
+GNG13	pc	ADCY9	g-g	hsa04724	inhibition
+GNG13	pc	ADCY4	g-g	hsa04724	inhibition
+GNG2	pc	ADCY2	g-g	hsa04724	inhibition
+GNG2	pc	ADCY3	g-g	hsa04724	inhibition
+GNG2	pc	ADCY5	g-g	hsa04724	inhibition
+GNG2	pc	ADCY6	g-g	hsa04724	inhibition
+GNG2	pc	ADCY7	g-g	hsa04724	inhibition
+GNG2	pc	ADCY8	g-g	hsa04724	inhibition
+GNG2	pc	ADCY9	g-g	hsa04724	inhibition
+GNG2	pc	ADCY4	g-g	hsa04724	inhibition
+GNG12	pc	ADCY2	g-g	hsa04724	inhibition
+GNG12	pc	ADCY3	g-g	hsa04724	inhibition
+GNG12	pc	ADCY5	g-g	hsa04724	inhibition
+GNG12	pc	ADCY6	g-g	hsa04724	inhibition
+GNG12	pc	ADCY7	g-g	hsa04724	inhibition
+GNG12	pc	ADCY8	g-g	hsa04724	inhibition
+GNG12	pc	ADCY9	g-g	hsa04724	inhibition
+GNG12	pc	ADCY4	g-g	hsa04724	inhibition
+GNB4	pc	ADCY2	g-g	hsa04724	inhibition
+GNB4	pc	ADCY3	g-g	hsa04724	inhibition
+GNB4	pc	ADCY5	g-g	hsa04724	inhibition
+GNB4	pc	ADCY6	g-g	hsa04724	inhibition
+GNB4	pc	ADCY7	g-g	hsa04724	inhibition
+GNB4	pc	ADCY8	g-g	hsa04724	inhibition
+GNB4	pc	ADCY9	g-g	hsa04724	inhibition
+GNB4	pc	ADCY4	g-g	hsa04724	inhibition
+GNG8	pc	ADCY2	g-g	hsa04724	inhibition
+GNG8	pc	ADCY3	g-g	hsa04724	inhibition
+GNG8	pc	ADCY5	g-g	hsa04724	inhibition
+GNG8	pc	ADCY6	g-g	hsa04724	inhibition
+GNG8	pc	ADCY7	g-g	hsa04724	inhibition
+GNG8	pc	ADCY8	g-g	hsa04724	inhibition
+GNG8	pc	ADCY9	g-g	hsa04724	inhibition
+GNG8	pc	ADCY4	g-g	hsa04724	inhibition
+GRIN3A, GluN3A, NMDAR-L, NR3A	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN3B	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN1	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN2A	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN2B	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN2C	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+GRIN2D	pc	DLG4, PSD95, SAP-90, SAP90	g-g	hsa04724	binding/association
+DLG4, PSD95, SAP-90, SAP90	pc	DLGAP1, DAP-1, DAP-1-ALPHA, DAP-1-BETA, DAP1, DLGAP1A, DLGAP1B, GKAP, SAPAP1	g-g	hsa04724	binding/association
+DLGAP1, DAP-1, DAP-1-ALPHA, DAP-1-BETA, DAP1, DLGAP1A, DLGAP1B, GKAP, SAPAP1	pc	SHANK2, AUTS17, CORTBP1, CTTNBP1, ProSAP1, SHANK, SPANK-3	g-g	hsa04724	binding/association
+DLGAP1, DAP-1, DAP-1-ALPHA, DAP-1-BETA, DAP1, DLGAP1A, DLGAP1B, GKAP, SAPAP1	pc	SHANK1	g-g	hsa04724	binding/association
+DLGAP1, DAP-1, DAP-1-ALPHA, DAP-1-BETA, DAP1, DLGAP1A, DLGAP1B, GKAP, SAPAP1	pc	SHANK3	g-g	hsa04724	binding/association
+SHANK2, AUTS17, CORTBP1, CTTNBP1, ProSAP1, SHANK, SPANK-3	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+SHANK2, AUTS17, CORTBP1, CTTNBP1, ProSAP1, SHANK, SPANK-3	pc	HOMER2	g-g	hsa04724	binding/association
+SHANK2, AUTS17, CORTBP1, CTTNBP1, ProSAP1, SHANK, SPANK-3	pc	HOMER1	g-g	hsa04724	binding/association
+SHANK1	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+SHANK3	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+SHANK1	pc	HOMER2	g-g	hsa04724	binding/association
+SHANK1	pc	HOMER1	g-g	hsa04724	binding/association
+SHANK3	pc	HOMER2	g-g	hsa04724	binding/association
+SHANK3	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	GRM5	g-g	hsa04724	binding/association
+HOMER2	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	binding/association
+HOMER1	pc	GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	g-g	hsa04724	binding/association
+HOMER2	pc	GRM5	g-g	hsa04724	binding/association
+HOMER1	pc	GRM5	g-g	hsa04724	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	HOMER2	g-g	hsa04724	binding/association
+GRM1, GPRC1A, MGLU1, MGLUR1, PPP1R85, SCAR13	pc	HOMER1	g-g	hsa04724	binding/association
+GRM5	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+GRM5	pc	HOMER2	g-g	hsa04724	binding/association
+GRM5	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER3, HOMER-3, VESL3	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER2	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER2	g-g	hsa04724	binding/association
+HOMER1	pc	HOMER1	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	ITPR2	g-g	hsa04724	binding/association
+HOMER3, HOMER-3, VESL3	pc	ITPR3	g-g	hsa04724	binding/association
+HOMER2	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04724	binding/association
+HOMER1	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	g-g	hsa04724	binding/association
+HOMER2	pc	ITPR2	g-g	hsa04724	binding/association
+HOMER2	pc	ITPR3	g-g	hsa04724	binding/association
+HOMER1	pc	ITPR2	g-g	hsa04724	binding/association
+HOMER1	pc	ITPR3	g-g	hsa04724	binding/association
+SLC1A1, DCBXA, EAAC1, EAAT3, SCZD18				hsa04724	
+SLC1A6				hsa04724	
+CACNA1C, CACH2, CACN2, CACNL1A1, CCHL1A1, CaV12, LQT8, TS				hsa04724	
+CACNA1D				hsa04724	
+SLC1A2, EAAT2, GLT-1, HBGT				hsa04724	
+SLC1A3				hsa04724	
+SLC38A3, G17, NAT1, SN1, SNAT3				hsa04724	
+SLC38A2, ATA2, PRO1068, SAT2, SNAT2				hsa04724	
+SLC38A1				hsa04724	
+SLC17A8, DFNA25, VGLUT3				hsa04724	
+SLC17A7				hsa04724	
+SLC17A6				hsa04724	
+C01330				hsa04724	
+C01330				hsa04724	
+GLS2, GA, GLS, LGA, hLGA				hsa04724	
+GLS				hsa04724	
+GLUL, GLNS, GS, PIG43, PIG59				hsa04724	
+SLC1A2, EAAT2, GLT-1, HBGT				hsa04724	
+SLC1A3				hsa04724	
+C00238				hsa04724	

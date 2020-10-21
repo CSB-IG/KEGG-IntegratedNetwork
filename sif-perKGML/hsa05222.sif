@@ -1,0 +1,254 @@
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA6, CD49f, ITGA6B, VLA-6	group	hsa05222	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA2	group	hsa05222	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA2B	group	hsa05222	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGA3	group	hsa05222	group
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	gr	ITGAV	group	hsa05222	group
+CCND1, BCL1, D11S287E, PRAD1, U21B31	gr	CDK4, CMM3, PSK-J3	group	hsa05222	group
+CCND1, BCL1, D11S287E, PRAD1, U21B31	gr	CDK6	group	hsa05222	group
+CCNE1, CCNE, pCCNE1	gr	CDK2, CDKN2, p33(CDK2)	group	hsa05222	group
+CCNE2	gr	CDK2, CDKN2, p33(CDK2)	group	hsa05222	group
+MAX, bHLHd4	gr	MYC, MRTL, MYCC, bHLHe39, c-Myc	group	hsa05222	group
+RXRA, NR2B1	gr	RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2	group	hsa05222	group
+RXRB	gr	RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2	group	hsa05222	group
+RXRG	gr	RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2	group	hsa05222	group
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT1	g-g	hsa05222	compound
+PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	pp	AKT2	g-g	hsa05222	compound
+PIK3CB	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3CD	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3R1	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3R2	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3R3	pp	AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	g-g	hsa05222	compound
+PIK3CB	pp	AKT1	g-g	hsa05222	compound
+PIK3CB	pp	AKT2	g-g	hsa05222	compound
+PIK3CD	pp	AKT1	g-g	hsa05222	compound
+PIK3CD	pp	AKT2	g-g	hsa05222	compound
+PIK3R1	pp	AKT1	g-g	hsa05222	compound
+PIK3R1	pp	AKT2	g-g	hsa05222	compound
+PIK3R2	pp	AKT1	g-g	hsa05222	compound
+PIK3R2	pp	AKT2	g-g	hsa05222	compound
+PIK3R3	pp	AKT1	g-g	hsa05222	compound
+PIK3R3	pp	AKT2	g-g	hsa05222	compound
+CKS1B, CKS1, PNAS-16, PNAS-18, ckshs1	pp	SKP2, FBL1, FBXL1, FLB1, p45	g-g	hsa05222	activation
+CKS2	pp	SKP2, FBL1, FBXL1, FLB1, p45	g-g	hsa05222	activation
+LAMC3, OCCM	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A1	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A2	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A3	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A4	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A5	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+COL4A6	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMB4	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+FN1	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMA1	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMA2	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMA3	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMA4	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMA5	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMB1	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMB2	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMB3	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMC1	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMC2	pp	ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	g-gr	hsa05222	activation
+LAMC3, OCCM	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMC3, OCCM	pp	ITGA2	g-gr	hsa05222	activation
+LAMC3, OCCM	pp	ITGA2B	g-gr	hsa05222	activation
+LAMC3, OCCM	pp	ITGA3	g-gr	hsa05222	activation
+LAMC3, OCCM	pp	ITGAV	g-gr	hsa05222	activation
+COL4A1	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A2	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A3	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A4	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A5	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A6	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMB4	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+FN1	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMA1	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMA2	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMA3	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMA4	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMA5	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMB1	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMB2	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMB3	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMC1	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+LAMC2	pp	ITGA6, CD49f, ITGA6B, VLA-6	g-gr	hsa05222	activation
+COL4A1	pp	ITGA2	g-gr	hsa05222	activation
+COL4A1	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A1	pp	ITGA3	g-gr	hsa05222	activation
+COL4A1	pp	ITGAV	g-gr	hsa05222	activation
+COL4A2	pp	ITGA2	g-gr	hsa05222	activation
+COL4A2	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A2	pp	ITGA3	g-gr	hsa05222	activation
+COL4A2	pp	ITGAV	g-gr	hsa05222	activation
+COL4A3	pp	ITGA2	g-gr	hsa05222	activation
+COL4A3	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A3	pp	ITGA3	g-gr	hsa05222	activation
+COL4A3	pp	ITGAV	g-gr	hsa05222	activation
+COL4A4	pp	ITGA2	g-gr	hsa05222	activation
+COL4A4	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A4	pp	ITGA3	g-gr	hsa05222	activation
+COL4A4	pp	ITGAV	g-gr	hsa05222	activation
+COL4A5	pp	ITGA2	g-gr	hsa05222	activation
+COL4A5	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A5	pp	ITGA3	g-gr	hsa05222	activation
+COL4A5	pp	ITGAV	g-gr	hsa05222	activation
+COL4A6	pp	ITGA2	g-gr	hsa05222	activation
+COL4A6	pp	ITGA2B	g-gr	hsa05222	activation
+COL4A6	pp	ITGA3	g-gr	hsa05222	activation
+COL4A6	pp	ITGAV	g-gr	hsa05222	activation
+LAMB4	pp	ITGA2	g-gr	hsa05222	activation
+LAMB4	pp	ITGA2B	g-gr	hsa05222	activation
+LAMB4	pp	ITGA3	g-gr	hsa05222	activation
+LAMB4	pp	ITGAV	g-gr	hsa05222	activation
+FN1	pp	ITGA2	g-gr	hsa05222	activation
+FN1	pp	ITGA2B	g-gr	hsa05222	activation
+FN1	pp	ITGA3	g-gr	hsa05222	activation
+FN1	pp	ITGAV	g-gr	hsa05222	activation
+LAMA1	pp	ITGA2	g-gr	hsa05222	activation
+LAMA1	pp	ITGA2B	g-gr	hsa05222	activation
+LAMA1	pp	ITGA3	g-gr	hsa05222	activation
+LAMA1	pp	ITGAV	g-gr	hsa05222	activation
+LAMA2	pp	ITGA2	g-gr	hsa05222	activation
+LAMA2	pp	ITGA2B	g-gr	hsa05222	activation
+LAMA2	pp	ITGA3	g-gr	hsa05222	activation
+LAMA2	pp	ITGAV	g-gr	hsa05222	activation
+LAMA3	pp	ITGA2	g-gr	hsa05222	activation
+LAMA3	pp	ITGA2B	g-gr	hsa05222	activation
+LAMA3	pp	ITGA3	g-gr	hsa05222	activation
+LAMA3	pp	ITGAV	g-gr	hsa05222	activation
+LAMA4	pp	ITGA2	g-gr	hsa05222	activation
+LAMA4	pp	ITGA2B	g-gr	hsa05222	activation
+LAMA4	pp	ITGA3	g-gr	hsa05222	activation
+LAMA4	pp	ITGAV	g-gr	hsa05222	activation
+LAMA5	pp	ITGA2	g-gr	hsa05222	activation
+LAMA5	pp	ITGA2B	g-gr	hsa05222	activation
+LAMA5	pp	ITGA3	g-gr	hsa05222	activation
+LAMA5	pp	ITGAV	g-gr	hsa05222	activation
+LAMB1	pp	ITGA2	g-gr	hsa05222	activation
+LAMB1	pp	ITGA2B	g-gr	hsa05222	activation
+LAMB1	pp	ITGA3	g-gr	hsa05222	activation
+LAMB1	pp	ITGAV	g-gr	hsa05222	activation
+LAMB2	pp	ITGA2	g-gr	hsa05222	activation
+LAMB2	pp	ITGA2B	g-gr	hsa05222	activation
+LAMB2	pp	ITGA3	g-gr	hsa05222	activation
+LAMB2	pp	ITGAV	g-gr	hsa05222	activation
+LAMB3	pp	ITGA2	g-gr	hsa05222	activation
+LAMB3	pp	ITGA2B	g-gr	hsa05222	activation
+LAMB3	pp	ITGA3	g-gr	hsa05222	activation
+LAMB3	pp	ITGAV	g-gr	hsa05222	activation
+LAMC1	pp	ITGA2	g-gr	hsa05222	activation
+LAMC1	pp	ITGA2B	g-gr	hsa05222	activation
+LAMC1	pp	ITGA3	g-gr	hsa05222	activation
+LAMC1	pp	ITGAV	g-gr	hsa05222	activation
+LAMC2	pp	ITGA2	g-gr	hsa05222	activation
+LAMC2	pp	ITGA2B	g-gr	hsa05222	activation
+LAMC2	pp	ITGA3	g-gr	hsa05222	activation
+LAMC2	pp	ITGAV	g-gr	hsa05222	activation
+ITGB1, CD29, FNRB, GPIIA, MDF2, MSK12, VLA-BETA, VLAB	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+ITGA6, CD49f, ITGA6B, VLA-6	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+ITGA2	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+ITGA2B	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+ITGA3	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+ITGAV	pp	PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	gr-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3CA, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha	g-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3CB	g-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3CD	g-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3R1	g-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3R2	g-g	hsa05222	activation
+PTK2, FADK, FAK, FAK1, FRNK, PPP1R71, p125FAK, pp125FAK	pp	PIK3R3	g-g	hsa05222	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05222	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	IKBKB	g-g	hsa05222	activation
+AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2	pp	IKBKG	g-g	hsa05222	activation
+AKT1	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05222	activation
+AKT2	pp	CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	g-g	hsa05222	activation
+AKT1	pp	IKBKB	g-g	hsa05222	activation
+AKT1	pp	IKBKG	g-g	hsa05222	activation
+AKT2	pp	IKBKB	g-g	hsa05222	activation
+AKT2	pp	IKBKG	g-g	hsa05222	activation
+CHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa05222	activation
+IKBKB	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa05222	activation
+IKBKG	pp	NFKBIA, IKBA, MAD-3, NFKBI	g-g	hsa05222	activation
+CCND1, BCL1, D11S287E, PRAD1, U21B31	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+CDK4, CMM3, PSK-J3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+CDK6	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+CCNE1, CCNE, pCCNE1	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+CCNE2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+CDK2, CDKN2, p33(CDK2)	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	gr-g	hsa05222	activation
+ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67	pd	CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	g-g	hsa05222	expression
+MAX, bHLHd4	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-gr	hsa05222	expression
+MAX, bHLHd4	pd	CDK4, CMM3, PSK-J3	gr-gr	hsa05222	expression
+MAX, bHLHd4	pd	CDK6	gr-gr	hsa05222	expression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	gr-gr	hsa05222	expression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pd	CDK4, CMM3, PSK-J3	gr-gr	hsa05222	expression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pd	CDK6	gr-gr	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa05222	expression
+RELA	pd	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	BIRC8, ILP-2, ILP2, hILP2	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	BIRC2	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	BIRC3	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	XIAP	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	BIRC7	g-g	hsa05222	expression
+RELA	pd	BIRC8, ILP-2, ILP2, hILP2	g-g	hsa05222	expression
+RELA	pd	BIRC2	g-g	hsa05222	expression
+RELA	pd	BIRC3	g-g	hsa05222	expression
+RELA	pd	XIAP	g-g	hsa05222	expression
+RELA	pd	BIRC7	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05222	expression
+RELA	pd	BCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF1, EBI6, MGC:10353	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF2	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF3	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF5	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF6	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	TRAF4	g-g	hsa05222	expression
+RELA	pd	TRAF1, EBI6, MGC:10353	g-g	hsa05222	expression
+RELA	pd	TRAF2	g-g	hsa05222	expression
+RELA	pd	TRAF3	g-g	hsa05222	expression
+RELA	pd	TRAF5	g-g	hsa05222	expression
+RELA	pd	TRAF6	g-g	hsa05222	expression
+RELA	pd	TRAF4	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2	g-g	hsa05222	expression
+RELA	pd	PTGS2, COX-2, COX2, GRIPGHS, PGG/HS, PGHS-2, PHS-2, hCox-2	g-g	hsa05222	expression
+NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	g-g	hsa05222	expression
+RELA	pd	NOS2, HEP-NOS, INOS, NOS, NOS2A	g-g	hsa05222	expression
+SKP2, FBL1, FBXL1, FLB1, p45	pp	CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	g-g	hsa05222	inhibition
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCNE1, CCNE, pCCNE1	g-gr	hsa05222	inhibition
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CCNE2	g-gr	hsa05222	inhibition
+CDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1	pp	CDK2, CDKN2, p33(CDK2)	g-gr	hsa05222	inhibition
+E2F1, E2F-1, RBAP1, RBBP3, RBP3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa05222	dissociation
+E2F2	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa05222	dissociation
+E2F3	pp	RB1, OSRC, PPP1R130, RB, p105-Rb, pRb, pp110	g-g	hsa05222	dissociation
+NFKBIA, IKBA, MAD-3, NFKBI	pp	NFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	g-g	hsa05222	dissociation
+NFKBIA, IKBA, MAD-3, NFKBI	pp	RELA	g-g	hsa05222	dissociation
+MAX, bHLHd4	pd	CKS1B, CKS1, PNAS-16, PNAS-18, ckshs1	gr-g	hsa05222	expression
+MAX, bHLHd4	pd	CKS2	gr-g	hsa05222	expression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pd	CKS1B, CKS1, PNAS-16, PNAS-18, ckshs1	gr-g	hsa05222	expression
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pd	CKS2	gr-g	hsa05222	expression
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CCND1, BCL1, D11S287E, PRAD1, U21B31	g-gr	hsa05222	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CDK4, CMM3, PSK-J3	g-gr	hsa05222	inhibition
+CDKN2B, CDK4I, INK4B, MTS2, P15, TP15, p15INK4b	pp	CDK6	g-gr	hsa05222	inhibition
+C00777	pc	RXRA, NR2B1	c-gr	hsa05222	missing interaction
+C00777	pc	RXRB	c-gr	hsa05222	missing interaction
+C00777	pc	RXRG	c-gr	hsa05222	missing interaction
+C15493	pc	RXRA, NR2B1	c-gr	hsa05222	missing interaction
+C15493	pc	RXRB	c-gr	hsa05222	missing interaction
+C15493	pc	RXRG	c-gr	hsa05222	missing interaction
+C00777	pc	RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2	c-gr	hsa05222	missing interaction
+C15493	pc	RARB, HAP, MCOPS12, NR1B2, RARbeta1, RRB2	c-gr	hsa05222	missing interaction
+CYCS, CYC, HCS, THC4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05222	missing interaction
+APAF1, APAF-1, CED4	pp	CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	g-g	hsa05222	missing interaction
+PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1	pc	C05981	g-c	hsa05222	missing interaction
+MAX, bHLHd4	pp	ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67	gr-g	hsa05222	inhibition
+MYC, MRTL, MYCC, bHLHe39, c-Myc	pp	ZBTB17, MIZ-1, ZNF151, ZNF60, pHZ-67	gr-g	hsa05222	inhibition
+BCL2, Bcl-2, PPP1R50	pp	BAX, BCL2L4	g-g	hsa05222	inhibition
+CASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56	pp	CASP3, CPP32, CPP32B, SCA-1	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	CDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45G, CR6, DDIT2, GADD45gamma, GRP17	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45A	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	GADD45B	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	BAX, BCL2L4	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	BAK1, BAK, BAK-LIKE, BCL2L7, CDN1	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	DDB2, DDBB, UV-DDB2, XPE	g-g	hsa05222	missing interaction
+TP53, BCC7, LFS1, P53, TRP53	pp	POLK, DINB1, DINP, POLQ	g-g	hsa05222	missing interaction
+FHIT, AP3Aase, FRA3B				hsa05222	

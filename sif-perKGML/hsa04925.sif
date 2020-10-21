@@ -1,0 +1,375 @@
+CREB3, LUMAN, LZIP, sLZIP	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB1	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+ATF2	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+ATF6B	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB3L4	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+ATF4	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB3L2	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB3L3	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB3L1	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+CREB5	gr	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	group	hsa04925	group
+AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	pp	GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	g-g	hsa04925	activation
+AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	pp	GNAQ	g-g	hsa04925	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04925	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB2	g-g	hsa04925	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB3	g-g	hsa04925	activation
+GNA11, FBH, FBH2, FHH2, GNA-11, HHC2, HYPOC2	pp	PLCB4	g-g	hsa04925	activation
+GNAQ	pp	PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	g-g	hsa04925	activation
+GNAQ	pp	PLCB2	g-g	hsa04925	activation
+GNAQ	pp	PLCB3	g-g	hsa04925	activation
+GNAQ	pp	PLCB4	g-g	hsa04925	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C01245	g-c	hsa04925	activation
+PLCB2	pc	C01245	g-c	hsa04925	activation
+PLCB3	pc	C01245	g-c	hsa04925	activation
+PLCB4	pc	C01245	g-c	hsa04925	activation
+C01245	pc	ITPR1, ACV, CLA4, INSP3R1, IP3R, IP3R1, PPP1R94, SCA15, SCA16, SCA29	c-g	hsa04925	activation
+C01245	pc	ITPR2	c-g	hsa04925	activation
+C01245	pc	ITPR3	c-g	hsa04925	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pc	C00165	g-c	hsa04925	activation
+PLCB2	pc	C00165	g-c	hsa04925	activation
+PLCB3	pc	C00165	g-c	hsa04925	activation
+PLCB4	pc	C00165	g-c	hsa04925	activation
+C00165	pc	PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	c-g	hsa04925	activation
+C00165	pc	PRKACB	c-g	hsa04925	activation
+C00165	pc	PRKACG	c-g	hsa04925	activation
+PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	pp	PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	g-g	hsa04925	phosphorylation
+PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	pp	PRKD2	g-g	hsa04925	phosphorylation
+PRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA	pp	PRKD1	g-g	hsa04925	phosphorylation
+PRKACB	pp	PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	g-g	hsa04925	phosphorylation
+PRKACG	pp	PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	g-g	hsa04925	phosphorylation
+PRKACB	pp	PRKD2	g-g	hsa04925	phosphorylation
+PRKACB	pp	PRKD1	g-g	hsa04925	phosphorylation
+PRKACG	pp	PRKD2	g-g	hsa04925	phosphorylation
+PRKACG	pp	PRKD1	g-g	hsa04925	phosphorylation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB1	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	ATF2	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	ATF6B	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB3L4	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	ATF4	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB3L2	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB3L3	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB3L1	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	CREB5	g-gr	hsa04925	activation
+PRKD2	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKD1	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKD2	pp	CREB1	g-gr	hsa04925	activation
+PRKD2	pp	ATF2	g-gr	hsa04925	activation
+PRKD2	pp	ATF6B	g-gr	hsa04925	activation
+PRKD2	pp	CREB3L4	g-gr	hsa04925	activation
+PRKD2	pp	ATF4	g-gr	hsa04925	activation
+PRKD2	pp	CREB3L2	g-gr	hsa04925	activation
+PRKD2	pp	CREB3L3	g-gr	hsa04925	activation
+PRKD2	pp	CREB3L1	g-gr	hsa04925	activation
+PRKD2	pp	CREB5	g-gr	hsa04925	activation
+PRKD1	pp	CREB1	g-gr	hsa04925	activation
+PRKD1	pp	ATF2	g-gr	hsa04925	activation
+PRKD1	pp	ATF6B	g-gr	hsa04925	activation
+PRKD1	pp	CREB3L4	g-gr	hsa04925	activation
+PRKD1	pp	ATF4	g-gr	hsa04925	activation
+PRKD1	pp	CREB3L2	g-gr	hsa04925	activation
+PRKD1	pp	CREB3L3	g-gr	hsa04925	activation
+PRKD1	pp	CREB3L1	g-gr	hsa04925	activation
+PRKD1	pp	CREB5	g-gr	hsa04925	activation
+PRKD3, EPK2, PKC-NU, PKD3, PRKCN, nPKC-NU	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PRKD2	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PRKD1	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB1	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	ATF2	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	ATF6B	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	ATF4	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	CREB5	g-gr	hsa04925	activation
+CAMK1G	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK4	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK2A	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK2B	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK2D	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK2G	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK1	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+CAMK1G	pp	CREB1	g-gr	hsa04925	activation
+CAMK1G	pp	ATF2	g-gr	hsa04925	activation
+CAMK1G	pp	ATF6B	g-gr	hsa04925	activation
+CAMK1G	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK1G	pp	ATF4	g-gr	hsa04925	activation
+CAMK1G	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK1G	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK1G	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK1G	pp	CREB5	g-gr	hsa04925	activation
+CAMK4	pp	CREB1	g-gr	hsa04925	activation
+CAMK4	pp	ATF2	g-gr	hsa04925	activation
+CAMK4	pp	ATF6B	g-gr	hsa04925	activation
+CAMK4	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK4	pp	ATF4	g-gr	hsa04925	activation
+CAMK4	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK4	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK4	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK4	pp	CREB5	g-gr	hsa04925	activation
+CAMK2A	pp	CREB1	g-gr	hsa04925	activation
+CAMK2A	pp	ATF2	g-gr	hsa04925	activation
+CAMK2A	pp	ATF6B	g-gr	hsa04925	activation
+CAMK2A	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK2A	pp	ATF4	g-gr	hsa04925	activation
+CAMK2A	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK2A	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK2A	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK2A	pp	CREB5	g-gr	hsa04925	activation
+CAMK2B	pp	CREB1	g-gr	hsa04925	activation
+CAMK2B	pp	ATF2	g-gr	hsa04925	activation
+CAMK2B	pp	ATF6B	g-gr	hsa04925	activation
+CAMK2B	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK2B	pp	ATF4	g-gr	hsa04925	activation
+CAMK2B	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK2B	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK2B	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK2B	pp	CREB5	g-gr	hsa04925	activation
+CAMK2D	pp	CREB1	g-gr	hsa04925	activation
+CAMK2D	pp	ATF2	g-gr	hsa04925	activation
+CAMK2D	pp	ATF6B	g-gr	hsa04925	activation
+CAMK2D	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK2D	pp	ATF4	g-gr	hsa04925	activation
+CAMK2D	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK2D	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK2D	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK2D	pp	CREB5	g-gr	hsa04925	activation
+CAMK2G	pp	CREB1	g-gr	hsa04925	activation
+CAMK2G	pp	ATF2	g-gr	hsa04925	activation
+CAMK2G	pp	ATF6B	g-gr	hsa04925	activation
+CAMK2G	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK2G	pp	ATF4	g-gr	hsa04925	activation
+CAMK2G	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK2G	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK2G	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK2G	pp	CREB5	g-gr	hsa04925	activation
+CAMK1	pp	CREB1	g-gr	hsa04925	activation
+CAMK1	pp	ATF2	g-gr	hsa04925	activation
+CAMK1	pp	ATF6B	g-gr	hsa04925	activation
+CAMK1	pp	CREB3L4	g-gr	hsa04925	activation
+CAMK1	pp	ATF4	g-gr	hsa04925	activation
+CAMK1	pp	CREB3L2	g-gr	hsa04925	activation
+CAMK1	pp	CREB3L3	g-gr	hsa04925	activation
+CAMK1	pp	CREB3L1	g-gr	hsa04925	activation
+CAMK1	pp	CREB5	g-gr	hsa04925	activation
+CAMK1D, CKLiK, CaM-K1, CaMKID	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK1G	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK4	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK2A	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK2B	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK2D	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK2G	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+CAMK1	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB1	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	ATF2	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	ATF6B	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L4	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	ATF4	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L2	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L3	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB3L1	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	CREB5	g-gr	hsa04925	activation
+PRKACB	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKACG	pp	CREB3, LUMAN, LZIP, sLZIP	g-gr	hsa04925	activation
+PRKACB	pp	CREB1	g-gr	hsa04925	activation
+PRKACB	pp	ATF2	g-gr	hsa04925	activation
+PRKACB	pp	ATF6B	g-gr	hsa04925	activation
+PRKACB	pp	CREB3L4	g-gr	hsa04925	activation
+PRKACB	pp	ATF4	g-gr	hsa04925	activation
+PRKACB	pp	CREB3L2	g-gr	hsa04925	activation
+PRKACB	pp	CREB3L3	g-gr	hsa04925	activation
+PRKACB	pp	CREB3L1	g-gr	hsa04925	activation
+PRKACB	pp	CREB5	g-gr	hsa04925	activation
+PRKACG	pp	CREB1	g-gr	hsa04925	activation
+PRKACG	pp	ATF2	g-gr	hsa04925	activation
+PRKACG	pp	ATF6B	g-gr	hsa04925	activation
+PRKACG	pp	CREB3L4	g-gr	hsa04925	activation
+PRKACG	pp	ATF4	g-gr	hsa04925	activation
+PRKACG	pp	CREB3L2	g-gr	hsa04925	activation
+PRKACG	pp	CREB3L3	g-gr	hsa04925	activation
+PRKACG	pp	CREB3L1	g-gr	hsa04925	activation
+PRKACG	pp	CREB5	g-gr	hsa04925	activation
+PRKACA, PKACA, PPNAD4	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PRKACB	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PRKACG	pp	ATF1, EWS-ATF1, FUS/ATF-1, TREB36	g-gr	hsa04925	activation
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	KCNK3, K2p31, OAT1, PPH4, TASK, TASK-1, TBAK1	g-g	hsa04925	inhibition
+PLCB1, EIEE12, PI-PLC, PLC-154, PLC-I, PLC-beta-1, PLC154, PLCB1A, PLCB1B	pp	KCNK9	g-g	hsa04925	inhibition
+PLCB2	pp	KCNK3, K2p31, OAT1, PPH4, TASK, TASK-1, TBAK1	g-g	hsa04925	inhibition
+PLCB3	pp	KCNK3, K2p31, OAT1, PPH4, TASK, TASK-1, TBAK1	g-g	hsa04925	inhibition
+PLCB4	pp	KCNK3, K2p31, OAT1, PPH4, TASK, TASK-1, TBAK1	g-g	hsa04925	inhibition
+PLCB2	pp	KCNK9	g-g	hsa04925	inhibition
+PLCB3	pp	KCNK9	g-g	hsa04925	inhibition
+PLCB4	pp	KCNK9	g-g	hsa04925	inhibition
+C00076	pc	CALML6, CAGLP	c-g	hsa04925	activation
+C00076	pc	CALML5	c-g	hsa04925	activation
+C00076	pc	CALM1	c-g	hsa04925	activation
+C00076	pc	CALM2	c-g	hsa04925	activation
+C00076	pc	CALM3	c-g	hsa04925	activation
+C00076	pc	CALML3	c-g	hsa04925	activation
+C00076	pc	CALML4	c-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK1G	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK4	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK2A	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK2B	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK2D	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK2G	g-g	hsa04925	activation
+CALML6, CAGLP	pp	CAMK1	g-g	hsa04925	activation
+CALML5	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALM1	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALM2	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALM3	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALML3	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALML4	pp	CAMK1D, CKLiK, CaM-K1, CaMKID	g-g	hsa04925	activation
+CALML5	pp	CAMK1G	g-g	hsa04925	activation
+CALML5	pp	CAMK4	g-g	hsa04925	activation
+CALML5	pp	CAMK2A	g-g	hsa04925	activation
+CALML5	pp	CAMK2B	g-g	hsa04925	activation
+CALML5	pp	CAMK2D	g-g	hsa04925	activation
+CALML5	pp	CAMK2G	g-g	hsa04925	activation
+CALML5	pp	CAMK1	g-g	hsa04925	activation
+CALM1	pp	CAMK1G	g-g	hsa04925	activation
+CALM1	pp	CAMK4	g-g	hsa04925	activation
+CALM1	pp	CAMK2A	g-g	hsa04925	activation
+CALM1	pp	CAMK2B	g-g	hsa04925	activation
+CALM1	pp	CAMK2D	g-g	hsa04925	activation
+CALM1	pp	CAMK2G	g-g	hsa04925	activation
+CALM1	pp	CAMK1	g-g	hsa04925	activation
+CALM2	pp	CAMK1G	g-g	hsa04925	activation
+CALM2	pp	CAMK4	g-g	hsa04925	activation
+CALM2	pp	CAMK2A	g-g	hsa04925	activation
+CALM2	pp	CAMK2B	g-g	hsa04925	activation
+CALM2	pp	CAMK2D	g-g	hsa04925	activation
+CALM2	pp	CAMK2G	g-g	hsa04925	activation
+CALM2	pp	CAMK1	g-g	hsa04925	activation
+CALM3	pp	CAMK1G	g-g	hsa04925	activation
+CALM3	pp	CAMK4	g-g	hsa04925	activation
+CALM3	pp	CAMK2A	g-g	hsa04925	activation
+CALM3	pp	CAMK2B	g-g	hsa04925	activation
+CALM3	pp	CAMK2D	g-g	hsa04925	activation
+CALM3	pp	CAMK2G	g-g	hsa04925	activation
+CALM3	pp	CAMK1	g-g	hsa04925	activation
+CALML3	pp	CAMK1G	g-g	hsa04925	activation
+CALML3	pp	CAMK4	g-g	hsa04925	activation
+CALML3	pp	CAMK2A	g-g	hsa04925	activation
+CALML3	pp	CAMK2B	g-g	hsa04925	activation
+CALML3	pp	CAMK2D	g-g	hsa04925	activation
+CALML3	pp	CAMK2G	g-g	hsa04925	activation
+CALML3	pp	CAMK1	g-g	hsa04925	activation
+CALML4	pp	CAMK1G	g-g	hsa04925	activation
+CALML4	pp	CAMK4	g-g	hsa04925	activation
+CALML4	pp	CAMK2A	g-g	hsa04925	activation
+CALML4	pp	CAMK2B	g-g	hsa04925	activation
+CALML4	pp	CAMK2D	g-g	hsa04925	activation
+CALML4	pp	CAMK2G	g-g	hsa04925	activation
+CALML4	pp	CAMK1	g-g	hsa04925	activation
+MC2R, ACTHR	pp	GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY1, AC1, DFNB44	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY2	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY3	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY5	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY6	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY7	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY8	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY9	g-g	hsa04925	activation
+GNAS, AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI	pp	ADCY4	g-g	hsa04925	activation
+ADCY1, AC1, DFNB44	pc	C00575	g-c	hsa04925	activation
+ADCY2	pc	C00575	g-c	hsa04925	activation
+ADCY3	pc	C00575	g-c	hsa04925	activation
+ADCY5	pc	C00575	g-c	hsa04925	activation
+ADCY6	pc	C00575	g-c	hsa04925	activation
+ADCY7	pc	C00575	g-c	hsa04925	activation
+ADCY8	pc	C00575	g-c	hsa04925	activation
+ADCY9	pc	C00575	g-c	hsa04925	activation
+ADCY4	pc	C00575	g-c	hsa04925	activation
+C00575	pc	PRKACA, PKACA, PPNAD4	c-g	hsa04925	activation
+C00575	pc	PRKACB	c-g	hsa04925	activation
+C00575	pc	PRKACG	c-g	hsa04925	activation
+NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA	pc	C00942	g-c	hsa04925	activation
+C00942	pc	PDE2A, CGS-PDE, PDE2A1, PED2A4, cGSPDE	c-g	hsa04925	activation
+CREB3, LUMAN, LZIP, sLZIP	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB1	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+ATF2	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+ATF6B	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB3L4	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+ATF4	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB3L2	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB3L3	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB3L1	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB5	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+CREB3, LUMAN, LZIP, sLZIP	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB1	pd	STAR, STARD1	g-g	hsa04925	expression
+ATF2	pd	STAR, STARD1	g-g	hsa04925	expression
+ATF6B	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB3L4	pd	STAR, STARD1	g-g	hsa04925	expression
+ATF4	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB3L2	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB3L3	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB3L1	pd	STAR, STARD1	g-g	hsa04925	expression
+CREB5	pd	STAR, STARD1	g-g	hsa04925	expression
+NR4A2, HZF-3, NOT, NURR1, RNR1, TINUR	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+NR4A2, HZF-3, NOT, NURR1, RNR1, TINUR	pd	STAR, STARD1	g-g	hsa04925	expression
+NR4A1, GFRP1, HMR, N10, NAK-1, NGFIB, NP10, NUR77, TR3	pd	CYP11B2, ALDOS, CPN2, CYP11B, CYP11BL, CYPXIB2, P-450C18, P450C18, P450aldo	g-g	hsa04925	expression
+NR4A1, GFRP1, HMR, N10, NAK-1, NGFIB, NP10, NUR77, TR3	pd	STAR, STARD1	g-g	hsa04925	expression
+C00076	pc	CALML6, CAGLP	c-g	hsa04925	activation
+C00076	pc	CALML5	c-g	hsa04925	activation
+C00076	pc	CALM1	c-g	hsa04925	activation
+C00076	pc	CALM2	c-g	hsa04925	activation
+C00076	pc	CALM3	c-g	hsa04925	activation
+C00076	pc	CALML3	c-g	hsa04925	activation
+C00076	pc	CALML4	c-g	hsa04925	activation
+POMC, ACTH, CLIP, LPH, MSH, NPP, OBAIRH, POC	pp	MC2R, ACTHR	g-g	hsa04925	NA
+AGT, ANHU, SERPINA8, hFLT1	pp	AGTR1, AG2S, AGTR1B, AT1, AT1AR, AT1B, AT1BR, AT1R, AT2R1, HAT1R	g-g	hsa04925	activation
+NPPA, ANF, ANP, ATFB6, ATRST2, CDD, CDD-ANF, CDP, PND	pp	NPR1, ANPRA, ANPa, GUC2A, GUCY2A, NPRA	g-g	hsa04925	activation
+C00238				hsa04925	
+CACNA1C, CACH2, CACN2, CACNL1A1, CCHL1A1, CaV12, LQT8, TS				hsa04925	
+CACNA1D				hsa04925	
+CACNA1F				hsa04925	
+CACNA1S				hsa04925	
+CACNA1I, Cav33, ca(v)33				hsa04925	
+CACNA1H				hsa04925	
+CACNA1G				hsa04925	
+C00020				hsa04925	
+HSD3B1, 3BETAHSD, HSD3B, HSDB3, HSDB3A, SDR11E1				hsa04925	
+HSD3B2				hsa04925	
+C00187				hsa04925	
+C01953				hsa04925	
+C00410				hsa04925	
+C03205				hsa04925	
+C01780				hsa04925	
+ORAI1, CRACM1, IMD9, ORAT1, TAM2, TMEM142A				hsa04925	
+C00004				hsa04925	
+C00003				hsa04925	
+C00005				hsa04925	
+C00006				hsa04925	
+C00219				hsa04925	
+C14777				hsa04925	
+C14822				hsa04925	
+DAGLB, DAGLBETA, KCCR13L				hsa04925	
+DAGLA				hsa04925	
+LDLR, FH, FHC, LDLCQ2				hsa04925	
+SCARB1, CD36L1, CLA-1, CLA1, HDLQTL6, SR-BI, SRB1				hsa04925	
+LIPE, AOMS4, FPLD6, HSL, LHS				hsa04925	
+CYP11A1, CYP11A, CYPXIA1, P450SCC				hsa04925	
+CYP21A2, CA21H, CAH1, CPS1, CYP21, CYP21B, P450c21B				hsa04925	
+C01124				hsa04925	
+C02140				hsa04925	
+KCNJ5, CIR, GIRK4, KATP1, KIR34, LQT13				hsa04925	
+ATP1B4				hsa04925	
+ATP1A1				hsa04925	
+ATP1A2				hsa04925	
+ATP1A3				hsa04925	
+ATP1A4				hsa04925	
+ATP1B1				hsa04925	
+ATP1B2				hsa04925	
+ATP1B3				hsa04925	
+ATP2B1, PMCA1, PMCA1kb				hsa04925	
+ATP2B2				hsa04925	
+ATP2B3				hsa04925	
+ATP2B4				hsa04925	
+C00238				hsa04925	
+C00238				hsa04925	
+C01330				hsa04925	

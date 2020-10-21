@@ -1,0 +1,84 @@
+PHOSPHO2	ec	AOX1, AO, AOH1	g-g	hsa00750	compound
+PDXP	ec	AOX1, AO, AOH1	g-g	hsa00750	compound
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	ec	AOX1, AO, AOH1	g-g	hsa00750	compound
+AOX1, AO, AOH1	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+AOX1, AO, AOH1	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PHOSPHO2	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXP	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PHOSPHO2	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXP	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PHOSPHO2	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXP	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PHOSPHO2	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXP	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PHOSPHO2	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXP	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PHOSPHO2	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXP	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PHOSPHO2	g-g	hsa00750	compound
+PNPO, HEL-S-302, PDXPO	ec	PDXP	g-g	hsa00750	compound
+PHOSPHO2	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXP	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	ec	PNPO, HEL-S-302, PDXPO	g-g	hsa00750	compound
+C06055	rt	PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	reversible	hsa00750	se
+PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	rt	C06055	reversible	hsa00750	ep
+PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	rt	C06054	reversible	hsa00750	ep
+C06054	rt	PSAT1, EPIP, NLS2, PSA, PSAT, PSATD	reversible	hsa00750	se
+C00627	rt	PNPO, HEL-S-302, PDXPO	irreversible	hsa00750	se
+PNPO, HEL-S-302, PDXPO	rt	C00018	irreversible	hsa00750	ep
+C00647	rt	PNPO, HEL-S-302, PDXPO	irreversible	hsa00750	se
+PNPO, HEL-S-302, PDXPO	rt	C00018	irreversible	hsa00750	ep
+C00627	rt	PHOSPHO2	irreversible	hsa00750	se
+C00627	rt	PDXP	irreversible	hsa00750	se
+PHOSPHO2	rt	C00314	irreversible	hsa00750	ep
+PDXP	rt	C00314	irreversible	hsa00750	ep
+C00314	rt	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	irreversible	hsa00750	se
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	rt	C00627	irreversible	hsa00750	ep
+C00018	rt	PHOSPHO2	irreversible	hsa00750	se
+C00018	rt	PDXP	irreversible	hsa00750	se
+PHOSPHO2	rt	C00250	irreversible	hsa00750	ep
+PDXP	rt	C00250	irreversible	hsa00750	ep
+C00250	rt	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	irreversible	hsa00750	se
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	rt	C00018	irreversible	hsa00750	ep
+C00647	rt	PHOSPHO2	irreversible	hsa00750	se
+C00647	rt	PDXP	irreversible	hsa00750	se
+PHOSPHO2	rt	C00534	irreversible	hsa00750	ep
+PDXP	rt	C00534	irreversible	hsa00750	ep
+C00534	rt	PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	irreversible	hsa00750	se
+PDXK, C21orf124, C21orf97, HEL-S-1a, PKH, PNK, PRED79	rt	C00647	irreversible	hsa00750	ep
+C00250	rt	AOX1, AO, AOH1	irreversible	hsa00750	se
+AOX1, AO, AOH1	rt	C00847	irreversible	hsa00750	ep
+C00534	rt	PNPO, HEL-S-302, PDXPO	reversible	hsa00750	se
+PNPO, HEL-S-302, PDXPO	rt	C00534	reversible	hsa00750	ep
+PNPO, HEL-S-302, PDXPO	rt	C00250	reversible	hsa00750	ep
+C00250	rt	PNPO, HEL-S-302, PDXPO	reversible	hsa00750	se
+C00314	rt	PNPO, HEL-S-302, PDXPO	reversible	hsa00750	se
+PNPO, HEL-S-302, PDXPO	rt	C00314	reversible	hsa00750	ep
+PNPO, HEL-S-302, PDXPO	rt	C00250	reversible	hsa00750	ep
+C00250	rt	PNPO, HEL-S-302, PDXPO	reversible	hsa00750	se
+C00118				hsa00750	
+C00199				hsa00750	
+C07335				hsa00750	
+C00232				hsa00750	
+C01215				hsa00750	
+C01270				hsa00750	
+C04604				hsa00750	
+C06050				hsa00750	
+C00971				hsa00750	
+C00266				hsa00750	
+C04773				hsa00750	
+C04690				hsa00750	
+C03393				hsa00750	
+C00279				hsa00750	
+C06051				hsa00750	
+C06052				hsa00750	
+C04106				hsa00750	
+C11638				hsa00750	
+C06056				hsa00750	
